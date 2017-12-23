@@ -615,8 +615,8 @@
         "to": "Кому",
         "asset_currently_collecting": "начисляемые годовые на %(asset)s: %(interest)s%%.",
         "beware_of_spam_and_phishing_links": "Остерегайтесь спама и фишинговых ссылок в примечаниях. Не открывайте ссылки от пользователей, которым вы не доверяете. Не предоставляйте свои личные ключи третьим сторонам.",
-        "autocomplete_previous_transfers": "previous transfers",
-        "autocomplete_user_following": "following"
+        "autocomplete_previous_transfers": "предыдущие переводы",
+        "autocomplete_user_following": "подписки"
     },
     "userwallet_jsx": {
         "conversion_complete_tip": "Будет завершено",

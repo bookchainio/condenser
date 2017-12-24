@@ -162,7 +162,7 @@
         "account_name_should_start_with_a_letter": "El nombre de usuario debería empezar con una letra.",
         "account_name_should_be_shorter": "El nombre de usuario debería ser más corto.",
         "account_name_should_be_longer": "El nombre de usuario debería ser más largo.",
-        "account_name_should_have_only_letters_digits_or_dashes": "El nombre de usuario debería tener sólo letras, dígitos o guiones.",
+        "account_name_should_have_only_letters_digits_or_dashes": "El nombre de usuario debería tener sólo letras, dígitos, puntos o guiones.",
         "cannot_increase_reward_of_post_within_the_last_minute_before_payout": "No se puede aumentar la recompensa de la publicación dentro del último minuto antes del pago.",
         "vote_currently_exists_user_must_be_indicate_a_to_reject_witness": "Este voto ya existe, el usuario tiene que quitar el voto al witness",
         "only_one_APP_NAME_account_allowed_per_ip_address_every_10_minutes": "Sólo una cuenta Steem permitida por dirección IP cada 10 minutos",
@@ -238,7 +238,7 @@
         "app_center": "Centro de Aplicaciones Steemit",
         "api_docs": "Documentos API de Steemit",
         "bluepaper": "Steem Bluepaper",
-        "smt_whitepaper": "Libro blanco de SMT",
+        "smt_whitepaper": "SMT Whitepaper (Libro Blanco)",
         "whitepaper": "Libro blanco de Steem",
         "intro_tagline": "El dinero habla.",
         "intro_paragraph": "Tu voz tiene valor. Únete a la comunidad que te paga por publicar y votar contenido de alta calidad"
@@ -464,7 +464,7 @@
         "estimated_value": "El valor estimado está basado en el valor medio de 1%(LIQUID_TOKEN)s en US dollars.",
         "non_transferable": "%(VESTING_TOKEN)s es intransferible y requiere 3 meses (13 pagos) para convertir de vuelta a %(LIQUID_TOKEN)s.",
         "converted_VESTING_TOKEN_can_be_sent_to_yourself_but_can_not_transfer_again": "Los %(VESTING_TOKEN)s convertidos pueden ser enviados a ti mismo o a otras personas pero no pueden ser transferidos de nuevo sin convertirlos de vuelta a %(LIQUID_TOKEN)s.",
-        "part_of_your_steem_power_is_currently_delegated": "Part of %(user_name)s's STEEM POWER is currently delegated. Delegation is donated for influence or to help new users perform actions on steemit. Your delegation amount can fluctuate."
+        "part_of_your_steem_power_is_currently_delegated": "Parte del STEEM POWER de %(user_name)s te ha sido delegado. La delegación es influencia donada que ayuda a los nuevos usuarios a interactuar en Steemit. La cantidad de tu delegación puede fluctuar."
     },
     "promote_post_jsx": {
         "promote_post": "Promociona el Post",
@@ -615,8 +615,8 @@
         "to": "Para",
         "asset_currently_collecting": "%(asset)s recolectando actualmente %(interest)s%% APR.",
         "beware_of_spam_and_phishing_links": "Tenga cuidado con enlaces de spam y suplantación de identidad en los memos. No abra enlaces de usuarios en quienes no confíe. No proporcione claves privadas a páginas web de terceros.",
-        "autocomplete_previous_transfers": "previous transfers",
-        "autocomplete_user_following": "following"
+        "autocomplete_previous_transfers": "transferencias anteriores",
+        "autocomplete_user_following": "siguiendo"
     },
     "userwallet_jsx": {
         "conversion_complete_tip": "Se completará el",

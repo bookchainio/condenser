@@ -50,12 +50,12 @@
         "newer": "新的",
         "next": "下一個",
         "no": "否",
-        "ok": "Ok",
-        "older": "Older",
-        "or": "or",
-        "order_placed": "Order placed",
-        "password": "Password",
-        "payouts": "Payouts",
+        "ok": "好",
+        "older": "較舊的",
+        "or": "或者",
+        "order_placed": "下單成功",
+        "password": "密碼",
+        "payouts": "賞金",
         "permissions": "Permissions",
         "phishy_message": "Link expanded to plain text; beware of a potential phishing attempt",
         "post": "Post",
@@ -441,29 +441,29 @@
         "public_something_key": "公眾%(key)s個密碼",
         "private_something_key": "私人%(key)s個密碼",
         "posting_key_is_required_it_should_be_different": "發布密鑰用於發表文章以及投票。它應該不同於活動密鑰以及所有者密鑰。",
-        "the_active_key_is_used_to_make_transfers_and_place_orders": "The active key is used to make transfers and place orders in the internal market.",
-        "the_owner_key_is_required_to_change_other_keys": "The owner key is the master key for the account and is required to change the other keys.",
-        "the_private_key_or_password_should_be_kept_offline": "The private key or password for the owner key should be kept offline as much as possible.",
-        "the_memo_key_is_used_to_create_and_read_memos": "The memo key is used to create and read memos."
+        "the_active_key_is_used_to_make_transfers_and_place_orders": "活動密鑰用於在內部市場進行轉帳和下單。",
+        "the_owner_key_is_required_to_change_other_keys": "所有者密鑰是帳戶的主密鑰，用來更改其它密鑰。",
+        "the_private_key_or_password_should_be_kept_offline": "所有者密鑰的私鑰或密碼應盡可能保持離線。",
+        "the_memo_key_is_used_to_create_and_read_memos": "備註鍵用於創建和讀取備註。"
     },
     "suggestpassword_jsx": {
-        "APP_NAME_cannot_recover_passwords_keep_this_page_in_a_secure_location": "%(APP_NAME)s cannot recover passwords. Keep this page in a secure location, such as a fireproof safe or safety deposit box.",
-        "APP_NAME_password_backup": "%(APP_NAME)s Password Backup",
-        "APP_NAME_password_backup_required": "%(APP_NAME)s Password Backup (required)",
-        "after_printing_write_down_your_user_name": "After printing, write down your user name"
+        "APP_NAME_cannot_recover_passwords_keep_this_page_in_a_secure_location": "%(APP_NAME)s無法恢復密碼。將此頁面保存到安全的位置，例如防火保險箱。",
+        "APP_NAME_password_backup": "%(APP_NAME)s密碼備份",
+        "APP_NAME_password_backup_required": "%(APP_NAME)s密碼備份(必需)",
+        "after_printing_write_down_your_user_name": "打印後，寫下你的用戶名"
     },
     "converttosteem_jsx": {
-        "your_existing_DEBT_TOKEN_are_liquid_and_transferable": "Your existing %(DEBT_TOKEN)s are liquid and transferable. Instead you may wish to trade %(DEBT_TOKEN)s directly in this site under %(link)s or transfer to an external market.",
-        "this_is_a_price_feed_conversion": "This is a price feed conversion. The 3.5 day delay is necessary to prevent abuse from gaming the price feed average",
-        "convert_to_LIQUID_TOKEN": "Convert to %(LIQUID_TOKEN)s",
-        "DEBT_TOKEN_will_be_unavailable": "This action will take place 3.5 days from now and can not be canceled. These %(DEBT_TOKEN)s will immediately become unavailable"
+        "your_existing_DEBT_TOKEN_are_liquid_and_transferable": "您現有的%(DEBT_TOKEN)s是可轉移的。相反您可能希望直接在%(link)s的站點交易%(DEBT_TOKEN)s或轉移到外部市場。",
+        "this_is_a_price_feed_conversion": "這是一個系統幣價的轉換。為了防止濫用系統幣價，你的轉換需要等3.5天",
+        "convert_to_LIQUID_TOKEN": "轉換為%(LIQUID_TOKEN)s",
+        "DEBT_TOKEN_will_be_unavailable": "這一動作將在3.5天內完成，不能取消。這些%(DEBT_TOKEN)s將立即變得不可用"
     },
     "tips_js": {
-        "liquid_token": "Tradeable tokens that may be transferred anywhere at anytime.<br/>%(LIQUID_TOKEN)s can be converted to %(VESTING_TOKEN)s in a process called powering up.",
-        "influence_token": "Influence tokens which give you more control over post payouts and allow you to earn on curation rewards.",
-        "estimated_value": "The estimated value is based on an average value of %(LIQUID_TOKEN)s in US dollars.",
-        "non_transferable": "%(VESTING_TOKEN)s is non-transferable and requires 3 months (13 payments) to convert back to %(LIQUID_TOKEN)s.",
-        "converted_VESTING_TOKEN_can_be_sent_to_yourself_but_can_not_transfer_again": "Converted %(VESTING_TOKEN)s can be sent to yourself or someone else but can not transfer again without converting back to %(LIQUID_TOKEN)s.",
+        "liquid_token": "可交易的令牌可以在任何時候傳輸到任何地方。 %(LIQUID_TOKEN)s)可以被轉換成%(VESTING_TOKEN)s在一個被稱為增加能量的過程中。",
+        "influence_token": "幣的影響力，可以讓您對文章的賞金有更大的控制權，讓您獲得審查獎勵。",
+        "estimated_value": "估算值是%(LIQUID_TOKEN)s換算成美金的價值。",
+        "non_transferable": "%(VESTING_TOKEN)s是不可轉讓的，需要3個月(13週)才能轉換回%(LIQUID_TOKEN)s",
+        "converted_VESTING_TOKEN_can_be_sent_to_yourself_but_can_not_transfer_again": "%(VESTING_TOKEN)s可以轉給您自己或其他人，但是要再轉一次，就需要轉換回%(LIQUID_TOKEN)s。",
         "part_of_your_steem_power_is_currently_delegated": "Part of %(user_name)s's STEEM POWER is currently delegated. Delegation is donated for influence or to help new users perform actions on steemit. Your delegation amount can fluctuate."
     },
     "promote_post_jsx": {

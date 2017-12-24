@@ -1,7 +1,7 @@
 {
     "g": {
-        "age": "age",
-        "amount": "Amount",
+        "age": "年齡",
+        "amount": "數量",
         "and": "and",
         "are_you_sure": "Are you sure?",
         "ask": "Ask",

@@ -380,7 +380,7 @@
         "comments_were_hidden_due_to_low_ratings": "由于留言评级较低而被隐藏了"
     },
     "voting_jsx": {
-        "flagging_post_can_remove_rewards_the_flag_should_be_used_for_the_following": "差评该帖子可以消除奖励，使此帖子不可见。差评的一些常见原因",
+        "flagging_post_can_remove_rewards_the_flag_should_be_used_for_the_following": "被踩的帖子可以减少奖励并降低其可见性。一些常见的原因都可能会被踩的",
         "disagreement_on_rewards": "不同意此帖子所获得的奖励",
         "fraud_or_plagiarism": "欺诈或剽窃",
         "hate_speech_or_internet_trolling": "仇恨言论或互联网钓鱼",

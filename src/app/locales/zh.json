@@ -223,7 +223,7 @@
         "buy_LIQUID_TOKEN": "購買 %(LIQUID_TOKEN)s",
         "sell_LIQUID_TOKEN": "出售 %(LIQUID_TOKEN)s",
         "currency_market": "匯率市場",
-        "stolen_account_recovery": "Stolen Accounts Recovery",
+        "stolen_account_recovery": "被盜帳戶恢復",
         "change_account_password": "Change Account Password",
         "witnesses": "Witnesses",
         "vote_for_witnesses": "Vote for Witnesses",

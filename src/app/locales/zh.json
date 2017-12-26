@@ -349,7 +349,7 @@
         "read_the_quick_start_guide": "阅读快速入门指南",
         "browse_the_faq": "浏览常见问题",
         "followers": "粉丝",
-        "this_is_users_reputations_score_it_is_based_on_history_of_votes": "这是%(name)s的声誉分。声誉得分是基于账户历史上所得到的投票数, 它用于来隐藏低质量的内容。",
+        "this_is_users_reputations_score_it_is_based_on_history_of_votes": "这是%(name)s的声誉分。\n\n声誉得分是基于账户历史上所得到的投票数, 它用于来隐藏低质量的内容。",
         "follower_count": {
             "zero": "没有粉丝",
             "one": "1个粉丝",
@@ -357,7 +357,7 @@
         },
         "followed_count": {
             "zero": "没有关注任何人",
-            "one": "1个关注",
+            "one": "1 个人在关注你",
             "other": "%(count)s个关注"
         },
         "post_count": {
@@ -367,7 +367,7 @@
         }
     },
     "authorrewards_jsx": {
-        "estimated_author_rewards_last_week": "估计作者上周获得的奖励",
+        "estimated_author_rewards_last_week": "作者上周估计的奖励",
         "author_rewards_history": "作者获得奖励历史"
     },
     "curationrewards_jsx": {

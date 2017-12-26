@@ -128,7 +128,7 @@
         "do_you_need_to": "您需要",
         "account_name": "账号名字",
         "recover_your_account": "恢复您的账号",
-        "reset_usernames_password": "重设%(username)s的密码",
+        "reset_usernames_password": "重置%(username)s 的密码",
         "this_will_update_usernames_authtype_key": "确定更改%(username)s%(authType)s的密钥",
         "passwords_do_not_match": "密码不匹配",
         "you_need_private_password_or_key_not_a_public_key": "您需要私钥或密码(不能用公钥)",

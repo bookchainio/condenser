@@ -213,16 +213,16 @@
         "post_key_warning": {
             "confirm": "您即將發布STEEM私鑰或主密碼。您可能會失去對關聯賬戶和所有資金的控制權。",
             "warning": "包括Steemit Inc. 員工在內的合法用戶不會要求您提供私鑰或主密碼。",
-            "checkbox": "I understand"
+            "checkbox": "我知道了"
         }
     },
     "navigation": {
-        "about": "About",
-        "explore": "Explore",
-        "APP_NAME_whitepaper": "%(APP_NAME)s Whitepaper",
-        "buy_LIQUID_TOKEN": "Buy %(LIQUID_TOKEN)s",
-        "sell_LIQUID_TOKEN": "Sell %(LIQUID_TOKEN)s",
-        "currency_market": "Currency Market",
+        "about": "關於",
+        "explore": "探索",
+        "APP_NAME_whitepaper": "%(APP_NAME)s 白皮書",
+        "buy_LIQUID_TOKEN": "購買 %(LIQUID_TOKEN)s",
+        "sell_LIQUID_TOKEN": "出售 %(LIQUID_TOKEN)s",
+        "currency_market": "匯率市場",
         "stolen_account_recovery": "Stolen Accounts Recovery",
         "change_account_password": "Change Account Password",
         "witnesses": "Witnesses",

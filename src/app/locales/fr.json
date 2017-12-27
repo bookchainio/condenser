@@ -431,7 +431,7 @@
         },
         "vote_count": {
             "zero": "Pas de vote",
-            "one": "1 vote",
+            "one": "1 voix",
             "other": "%(count)svotes"
         }
     },
@@ -615,7 +615,7 @@
         "to": "À",
         "asset_currently_collecting": "%(asset)s collectant actuellement %(interest)s %% de TAEG.",
         "beware_of_spam_and_phishing_links": "Attention aux liens de spam et d'hameçonnage dans les mémos de transfert. N'ouvrez pas les liens provenant d'utilisateurs en lesquels vous n'avez pas confiance. Ne fournissez pas votre clé privée à tout site web tiers.",
-        "autocomplete_previous_transfers": "previous transfers",
+        "autocomplete_previous_transfers": "précédents transferts",
         "autocomplete_user_following": "following"
     },
     "userwallet_jsx": {

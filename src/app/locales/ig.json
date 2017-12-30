@@ -193,16 +193,16 @@
         "next_3_strings_together": {
             "show_more": "Zikwuem ndi ozo",
             "show_less": "Zim ntakiri",
-            "value_posts": "low value posts"
+            "value_posts": "ederede na-enweghi otutu uru"
         },
-        "read_only_mode": "Due to server maintenance we are running in read only mode. We are sorry for the inconvenience.",
-        "tags_and_topics": "Tags",
-        "show_more_topics": "View all tags",
-        "basic": "Basic",
-        "advanced": "Advanced",
+        "read_only_mode": "N'ihi nsogbu igwe server nwere anyi no onodu igosi nani. Biko owutara anyi ihe onodu a puru ifu gi.",
+        "tags_and_topics": "Ndi ogbasara",
+        "show_more_topics": "Gosi ndi nile ogbasara",
+        "basic": "Nke nta",
+        "advanced": "Onye odoro anya",
         "views": {
-            "zero": "No Views",
-            "one": "%(count)s View",
+            "zero": "Onweghi ndi lere ya anya",
+            "one": "lere",
             "other": "%(count)s Views"
         },
         "responses": {
@@ -264,11 +264,11 @@
         "default_50_50": "Default (50%% / 50%%)",
         "decline_payout": "Decline Payout",
         "check_this_to_auto_upvote_your_post": "Check this to auto-upvote your post",
-        "markdown_styling_guide": "Markdown Styling Guide",
-        "or_by": "or by",
-        "title": "Title",
-        "update_post": "Update Post",
-        "markdown_not_supported": "Markdown is not supported here"
+        "markdown_styling_guide": "Ntuzi aka usoro Markdown",
+        "or_by": "ma obu",
+        "title": "Isi okwu",
+        "update_post": "Mezie ederedaa",
+        "markdown_not_supported": "Akwadoghi markdown na-ebeaa"
     },
     "category_selector_jsx": {
         "tag_your_story": "Tag (up to 5 tags), the first tag is your main category.",

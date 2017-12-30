@@ -180,19 +180,19 @@
         "curation_rewards": "Ugwo iso tunye na ya",
         "sorry_your_reddit_account_doesnt_have_enough_karma": "Ya ewutala gi, aha ejimara gi enweghi onu Reddit Karma ga-eme ka isonye na-akwunyi ugwo obula. Biko tinye akara email gi ka inweta onodu na ndi na-echere",
         "register_with_facebook": "Jiri Facebook gi debanye",
-        "or_click_the_button_below_to_register_with_facebook": "Or click the button below to register with Facebook",
-        "server_returned_error": "server returned error",
-        "APP_NAME_support": "%(APP_NAME)s Support",
-        "please_email_questions_to": "Please email your questions to",
+        "or_click_the_button_below_to_register_with_facebook": "Ma obu pia na-okpuru ebe a ka ejiri Facebook debanye gi",
+        "server_returned_error": "igwe ozi zighachiri ozi na-adighi nma",
+        "APP_NAME_support": "Enyemaka",
+        "please_email_questions_to": "Biko ziga ajuju na",
         "next_7_strings_single_block": {
-            "authors_get_paid_when_people_like_you_upvote_their_post": "Authors get paid when people like you upvote their post",
-            "if_you_enjoyed_what_you_read_earn_amount": "If you enjoyed what you read here, create your account today and start earning FREE STEEM!",
-            "free_steem": "FREE STEEM!",
-            "sign_up_earn_steem": "Sign up now to earn "
+            "authors_get_paid_when_people_like_you_upvote_their_post": "Ana-akwu ndi dere ihe ederede ugwo na oburu na ndi di ka gi tunyere ha",
+            "if_you_enjoyed_what_you_read_earn_amount": "Oburu na ihe iguru ebea masiri gi, mepee nke gi taa ka ine-erita STEEM EFU!",
+            "free_steem": "STEEM EFU!",
+            "sign_up_earn_steem": "Debanye aha ugbaa ka inweta "
         },
         "next_3_strings_together": {
-            "show_more": "Show more",
-            "show_less": "Show fewer",
+            "show_more": "Zikwuem ndi ozo",
+            "show_less": "Zim ntakiri",
             "value_posts": "low value posts"
         },
         "read_only_mode": "Due to server maintenance we are running in read only mode. We are sorry for the inconvenience.",

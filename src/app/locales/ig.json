@@ -203,12 +203,12 @@
         "views": {
             "zero": "Onweghi ndi lere ya anya",
             "one": "lere",
-            "other": "%(count)s Views"
+            "other": "ndi hurula ya"
         },
         "responses": {
-            "zero": "No Responses",
-            "one": "%(count)s Response",
-            "other": "%(count)s Responses"
+            "zero": "O nwenyi okwu",
+            "one": "Nzaghachi",
+            "other": "Nzaghachi"
         },
         "post_key_warning": {
             "confirm": "You are about to publish a STEEM private key or master password. You will probably lose control of the associated account and all its funds.",

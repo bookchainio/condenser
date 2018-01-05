@@ -346,9 +346,9 @@
         "looks_like_you_havent_posted_anything_yet": "Zdá se, že jste ještě nic nepublikovali.",
         "create_a_post": "Vytvořit článek",
         "explore_trending_articles": "Prozkoumat populární články",
-        "read_the_quick_start_guide": "Read The Quick Start Guide",
-        "browse_the_faq": "Browse The FAQ",
-        "followers": "Followers",
+        "read_the_quick_start_guide": "Přečíst průvodce pro nováčky",
+        "browse_the_faq": "Prohlédnout často kladené otázky",
+        "followers": "Sledující",
         "this_is_users_reputations_score_it_is_based_on_history_of_votes": "This is %(name)s's reputation score.\n\nThe reputation score is based on the history of votes received by the account, and is used to hide low quality content.",
         "follower_count": {
             "zero": "No followers",

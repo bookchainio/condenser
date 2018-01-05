@@ -599,7 +599,7 @@
         "profile_website": "Strona www"
     },
     "transfer_jsx": {
-        "amount_is_in_form": "Podana liczba musi być w formacie 99999.999",
+        "amount_is_in_form": "Podana kwota musi być w formacie 99999.999",
         "insufficient_funds": "Niewystarczające fundusze",
         "use_only_3_digits_of_precison": "Używaj tylko 3 cyfr po przecinku",
         "send_to_account": "Wyślij na konto",

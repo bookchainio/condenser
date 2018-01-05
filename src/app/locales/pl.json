@@ -240,7 +240,7 @@
         "bluepaper": "Steem Bluepaper",
         "smt_whitepaper": "SMT Whitepaper",
         "whitepaper": "Steem Whitepaper",
-        "intro_tagline": "Pieniądze przemawiają",
+        "intro_tagline": "Pasja się opłaca",
         "intro_paragraph": "Twój głos ma znaczenie. Dołącz do społeczności, która płaci ci za tworzenie i wspieranie postów wysokiej jakości."
     },
     "main_menu": {
@@ -537,9 +537,9 @@
         "the_latest_versions_of": "Ostatnie wersje ",
         "are_well_tested_and_known_to_work_with": "zostały przetestowane i pracują z %(APP_URL)s.",
         "due_to_server_maintenance": "Z powodu prac na serwerach, aktualnie można tylko przeglądać treści. Przepraszamy za niedogodności.",
-        "login_to_vote": "Zaloguj się aby zagłosować",
-        "login_to_post": "Zaloguj się aby napisać",
-        "login_to_comment": "Zaloguj się aby skomentować",
+        "login_to_vote": "Zaloguj się, aby zagłosować",
+        "login_to_post": "Zaloguj się, aby napisać",
+        "login_to_comment": "Zaloguj się, aby skomentować",
         "posting": "Postowanie",
         "active_or_owner": "Aktywny lub właściciela",
         "this_password_is_bound_to_your_account_owner_key": "To hasło jest przypisane do klucza właściciela, i nie może być użyte do logowania na tej stronie.",
@@ -593,13 +593,13 @@
         "update": "Aktualizuj",
         "profile_image_url": "URL zdjęcia profilowego",
         "cover_image_url": "URL tła profilowego",
-        "profile_name": "Nazwa",
-        "profile_about": "O mnie",
+        "profile_name": "Wyświetlana nazwa",
+        "profile_about": "Opis",
         "profile_location": "Lokalizacja",
         "profile_website": "Strona www"
     },
     "transfer_jsx": {
-        "amount_is_in_form": "Ilość podawana jest w formacie 99999.999",
+        "amount_is_in_form": "Podana liczba musi być w formacie 99999.999",
         "insufficient_funds": "Niewystarczające fundusze",
         "use_only_3_digits_of_precison": "Używaj tylko 3 cyfr po przecinku",
         "send_to_account": "Wyślij na konto",
@@ -641,7 +641,7 @@
         "power_down": "Zmniejsz moc",
         "amount": "Ilość",
         "already_power_down": "Aktualnie zmniejszasz moc %(AMOUNT)s %(LIQUID_TICKER)s (%(WITHDRAWN)s %(LIQUID_TICKER)s już wypłacono). Pamiętaj, że jeśli zmienisz ilość zmniejszanej mocy, to licznik dla następnej wypłaty zostanie wyzerowany.",
-        "delegating": "You are delegating %(AMOUNT)s %(LIQUID_TICKER)s. That amount is locked up and not available to power down until the delegation is removed and a full reward period has passed.",
+        "delegating": "Delegujesz %(AMOUNT)s %(LIQUID_TICKER)s. Kwota ta, jest zablokowana i nie jest dostępna do zmniejszenia mocy, dopóki delegacja się nie zakończy i upłynie pełen okres wypłacania nagród.",
         "per_week": "To jest ~%(AMOUNT)s %(LIQUID_TICKER)s na tydzień.",
         "warning": "Leaving less than %(AMOUNT)s %(VESTING_TOKEN)s in your account is not recommended and can leave your account in a unusable state.",
         "error": "Nie można zmniejszyć mocy (ERROR: %(MESSAGE)s)"

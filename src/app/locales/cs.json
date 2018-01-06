@@ -643,14 +643,14 @@
         "already_power_down": "V této chvíli snižujete Steem Power o %(AMOUNT)s %(LIQUID_TICKER)s (%(WITHDRAWN)s%(LIQUID_TICKER)s již bylo převedeno). Vezměte na vědomí, že při změně vybírané částky se naplánované výběry resetují.",
         "delegating": "Právě delegujete %(AMOUNT)s %(LIQUID_TICKER)s. Tato částka je zablokována a není dostupná pro výběr, dokud není delegování ukončeno, a dokud neproběhne jedno celé období odměn.",
         "per_week": "To je %(AMOUNT)s %(LIQUID_TICKER)s týdně.",
-        "warning": "Leaving less than %(AMOUNT)s %(VESTING_TOKEN)s in your account is not recommended and can leave your account in a unusable state.",
-        "error": "Unable to power down (ERROR: %(MESSAGE)s)"
+        "warning": "Nedoporučujeme ponechat na účtu zůstatek nižší než %(AMOUNT)s %(VESTING_TOKEN)s, jinak se účet může stát nepoužitelným.",
+        "error": "Není možné zahájit výběr Steem Power (ERROR: %(MESSAGE)s)"
     },
     "checkloginowner_jsx": {
-        "your_password_permissions_were_reduced": "Your password permissions were reduced",
-        "if_you_did_not_make_this_change": "If you did not make this change please",
-        "ownership_changed_on": "Ownership Changed On ",
-        "deadline_for_recovery_is": "Deadline for recovery is",
-        "i_understand_dont_show_again": "I understand, don't show me again"
+        "your_password_permissions_were_reduced": "Přístupy vašeho hesla byly omezeny",
+        "if_you_did_not_make_this_change": "Pokud jste tuto změny neudělali vy, prosím",
+        "ownership_changed_on": "Vlastnictví bylo změněno ",
+        "deadline_for_recovery_is": "Poslední termín pro obnovu je",
+        "i_understand_dont_show_again": "Ano, rozumím. Znovu nezobrazovat"
     }
 }

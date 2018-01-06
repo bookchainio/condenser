@@ -276,11 +276,11 @@
         "maximum_tag_length_is_24_characters": "Aha ndi ogbasara agaghi akari mkpure edemede 24",
         "use_limited_amount_of_categories": "Biko were nani udidi",
         "use_only_lowercase_letters": "Were nani akara edemede nta",
-        "use_one_dash": "Use only one dash",
-        "use_spaces_to_separate_tags": "Use spaces to separate tags",
-        "use_only_allowed_characters": "Use only lowercase letters, digits and one dash",
-        "must_start_with_a_letter": "Must start with a letter",
-        "must_end_with_a_letter_or_number": "Must end with a letter or number"
+        "use_one_dash": "Were nani otu dashi",
+        "use_spaces_to_separate_tags": "Tinye ohere na-etiti tags",
+        "use_only_allowed_characters": "Were nani akara edemede nta, onu ogugu na otu dashi",
+        "must_start_with_a_letter": "Ighanyi iji akara edemede nta ebido",
+        "must_end_with_a_letter_or_number": "Ighanyi ikwusi site na-akara edemede nta ma-obu onu ogugu"
     },
     "postfull_jsx": {
         "this_post_is_not_available_due_to_a_copyright_claim": "This post is not available due to a copyright claim.",

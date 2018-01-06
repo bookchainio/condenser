@@ -206,9 +206,9 @@
             "other": "%(count)s zobrazení"
         },
         "responses": {
-            "zero": "No Responses",
-            "one": "%(count)s Response",
-            "other": "%(count)s Responses"
+            "zero": "Žádné odpovědi",
+            "one": "%(count)s Odpověď",
+            "other": "%(count)s Odpovědí"
         },
         "post_key_warning": {
             "confirm": "You are about to publish a STEEM private key or master password. You will probably lose control of the associated account and all its funds.",

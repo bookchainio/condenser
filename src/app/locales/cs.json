@@ -393,40 +393,40 @@
         "past_payouts_author": " - autorská %(value)s $",
         "past_payouts_curators": " - kurátorská %(value)s $",
         "we_will_reset_curation_rewards_for_this_post": "toto vynuluje vaši kurátorskou odměnu za tento příspěvek",
-        "removing_your_vote": "Removing your vote",
-        "changing_to_an_upvote": "Changing to an Up-Vote",
-        "changing_to_a_downvote": "Changing to a Down-Vote",
-        "confirm_flag": "Confirm Flag",
-        "and_more": "and %(count)s more",
+        "removing_your_vote": "Odebírání vašeho hlasu",
+        "changing_to_an_upvote": "Změna na hlas",
+        "changing_to_a_downvote": "Změna na záporný hlas",
+        "confirm_flag": "Potvrdit nahlášení",
+        "and_more": "a %(count)s dalších",
         "votes_plural": {
-            "one": "%(count)s vote",
-            "other": "%(count)s votes"
+            "one": "%(count)s hlas",
+            "other": "%(count)s hlasů"
         }
     },
     "witnesses_jsx": {
-        "witness_thread": "witness thread",
-        "top_witnesses": "Witness Voting",
+        "witness_thread": "svědecké vlákno",
+        "top_witnesses": "Volba svědků",
         "you_have_votes_remaining": {
-            "zero": "You have no votes remaining",
-            "one": "You have 1 vote remaining",
-            "other": "You have %(count)s votes remaining"
+            "zero": "Nemáte žádný další hlas",
+            "one": "Máte ještě 1 hlas",
+            "other": "Máte ještě %(count)s hlasů"
         },
-        "you_can_vote_for_maximum_of_witnesses": "You can vote for a maximum of 30 witnesses",
-        "witness": "Witness",
-        "information": "Information",
-        "if_you_want_to_vote_outside_of_top_enter_account_name": "If you would like to vote for a witness outside of the top 50, enter the account name below to cast a vote",
-        "set_witness_proxy": "You can also choose a proxy that will vote for witnesses for you. This will reset your current witness selection.",
-        "witness_set": "You have set a voting proxy. If you would like to re-enable manual voting, please clear your proxy.",
-        "witness_proxy_current": "Your current proxy is",
-        "witness_proxy_set": "Set proxy",
-        "witness_proxy_clear": "Clear proxy",
-        "proxy_update_error": "Your proxy was not updated"
+        "you_can_vote_for_maximum_of_witnesses": "Můžete volit až 30 svědků",
+        "witness": "Svědek",
+        "information": "Informace",
+        "if_you_want_to_vote_outside_of_top_enter_account_name": "Chcete-li volit svědka, který není mezi top 50, zadejte jeho jméno do pole níže",
+        "set_witness_proxy": "Můžete si také zvolit zástupce, který za vás bude svědky volit. To zruší vaši stávající volbu svědků.",
+        "witness_set": "Nastavili jste si hlasovací prostřednictvím zástupce. Chcete-li znovu povolit manuální hlasování, smažte prosím vašeho zástupce.",
+        "witness_proxy_current": "Váš aktuální zástupce je",
+        "witness_proxy_set": "Nastavit zástupce",
+        "witness_proxy_clear": "Smazat zástupce",
+        "proxy_update_error": "Váš zástupce nebyl aktualizován"
     },
     "votesandcomments_jsx": {
-        "no_responses_yet_click_to_respond": "No responses yet. Click to respond.",
+        "no_responses_yet_click_to_respond": "Zatím tu nejsou žádné odpovědi. Klikněte pro zadání odpovědi.",
         "response_count_tooltip": {
-            "zero": "no responses. Click to respond.",
-            "one": "1 response. Click to respond.",
+            "zero": "žádné odpovědi. Klikněte pro zadání odpovědi.",
+            "one": "1 odpověď. Klikněte pro zadání odpovědi.",
             "other": "%(count)s responses. Click to respond."
         },
         "vote_count": {

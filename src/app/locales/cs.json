@@ -427,10 +427,10 @@
         "response_count_tooltip": {
             "zero": "žádné odpovědi. Klikněte pro zadání odpovědi.",
             "one": "1 odpověď. Klikněte pro zadání odpovědi.",
-            "other": "%(count)s responses. Click to respond."
+            "other": "%(count)s odpovědí. Klikněte pro zadání odpovědi."
         },
         "vote_count": {
-            "zero": "no votes",
+            "zero": "žádné hlasy",
             "one": "1 hlas",
             "other": "%(count)s hlasů"
         }
@@ -502,11 +502,11 @@
         "from_savings": "z úspor",
         "cancel_transfer_from_savings": "Zrušit převod z úspor",
         "stop_power_down": "Zastavit oslabení",
-        "start_power_down_of": "Start power down of",
-        "receive_interest_of": "Receive interest of"
+        "start_power_down_of": "Začít snižovat Steem Power o",
+        "receive_interest_of": "Získat úrok ve výši"
     },
     "savingswithdrawhistory_jsx": {
-        "cancel_this_withdraw_request": "Cancel this withdraw request?",
+        "cancel_this_withdraw_request": "Zrušit tento požadavek na výběr?",
         "pending_savings_withdrawals": "Probíhající výběry ze spořícího účtu",
         "withdraw": "Vybrat %(amount)s",
         "to": "komu %(to)s",
@@ -621,21 +621,21 @@
     "userwallet_jsx": {
         "conversion_complete_tip": "Bude dokončeno",
         "in_conversion": "%(amount)s v převodu",
-        "transfer_to_savings": "Transfer to Savings",
-        "power_up": "Power Up",
-        "power_down": "Power Down",
-        "market": "Market",
-        "convert_to_LIQUID_TOKEN": "Convert to %(LIQUID_TOKEN)s",
-        "withdraw_LIQUID_TOKEN": "Withdraw %(LIQUID_TOKEN)s",
-        "withdraw_DEBT_TOKENS": "Withdraw %(DEBT_TOKENS)s",
-        "tokens_worth_about_1_of_LIQUID_TICKER": "Tokens worth about $1.00 of %(LIQUID_TICKER)s, currently collecting %(sbdInterest)s%% APR.",
-        "savings": "SAVINGS",
-        "estimated_account_value": "Estimated Account Value",
-        "next_power_down_is_scheduled_to_happen": "The next power down is scheduled to happen",
-        "transfers_are_temporary_disabled": "Transfers are temporary disabled.",
-        "history": "HISTORY",
-        "redeem_rewards": "Redeem Rewards (Transfer to Balance)",
-        "buy_steem_or_steem_power": "Buy STEEM or STEEM POWER"
+        "transfer_to_savings": "Převést na spořící účet",
+        "power_up": "Zvýšit Steem Power",
+        "power_down": "Snížit Steem Power",
+        "market": "Směnárna",
+        "convert_to_LIQUID_TOKEN": "Převést na %(LIQUID_TOKEN)s",
+        "withdraw_LIQUID_TOKEN": "Vybrat %(LIQUID_TOKEN)s",
+        "withdraw_DEBT_TOKENS": "Vybrat %(DEBT_TOKENS)s",
+        "tokens_worth_about_1_of_LIQUID_TICKER": "Vklady v hodnotě přibližně 1 $ v %(LIQUID_TICKER)s aktuálně přináší roční úrok ve výši %(sbdInterest)s %%.",
+        "savings": "ÚSPORY",
+        "estimated_account_value": "Odhadovaná hodnota účtu",
+        "next_power_down_is_scheduled_to_happen": "Další snížení Steem Power se odehraje",
+        "transfers_are_temporary_disabled": "Převody jsou dočasně zakázány.",
+        "history": "HISTORIE",
+        "redeem_rewards": "Vyzvednout odměny (připsat na konto)",
+        "buy_steem_or_steem_power": "Koupit STEEM nebo STEEM POWER"
     },
     "powerdown_jsx": {
         "power_down": "Power Down",

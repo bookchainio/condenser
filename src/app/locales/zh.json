@@ -616,7 +616,7 @@
         "asset_currently_collecting": "%(asset)s目前收集%(interest)s%%利息",
         "beware_of_spam_and_phishing_links": "注意转转账备忘录中的垃圾邮件和钓鱼链接。不要打开来自不信任的用户的链接。不要向任何第三方网站提供您的私钥。",
         "autocomplete_previous_transfers": "previous transfers",
-        "autocomplete_user_following": "following"
+        "autocomplete_user_following": "正在关注"
     },
     "userwallet_jsx": {
         "conversion_complete_tip": "将完成在",

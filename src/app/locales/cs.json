@@ -483,15 +483,15 @@
     },
     "postsummary_jsx": {
         "resteemed": "resteemed",
-        "resteemed_by": "Resteemed by",
-        "reveal_it": "Reveal this post",
-        "adjust_your": "adjust your",
-        "display_preferences": "display preferences",
-        "create_an_account": "create an account",
-        "to_save_your_preferences": "to save your preferences"
+        "resteemed_by": "Resteemed podle",
+        "reveal_it": "Odhalit tento příspěvek",
+        "adjust_your": "upravte váš",
+        "display_preferences": "předvolby zobrazení",
+        "create_an_account": "vytvořit účet",
+        "to_save_your_preferences": "chcete-li uložit předvolby"
     },
     "posts_index": {
-        "empty_feed_1": "Looks like you haven't followed anything yet",
+        "empty_feed_1": "Zdá se, že jste ještě nic nenásledovali",
         "empty_feed_2": "If you recently added new users to follow, your personalized feed will populate once new content is available",
         "empty_feed_3": "Explore Trending Articles",
         "empty_feed_4": "Read The Quick Start Guide",

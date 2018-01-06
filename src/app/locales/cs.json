@@ -163,7 +163,7 @@
         "account_name_should_be_shorter": "Název účtu by měl být kratší.",
         "account_name_should_be_longer": "Název účtu by měl být delší.",
         "account_name_should_have_only_letters_digits_or_dashes": "Název účtu by měl mít pouze písmena, číslice, tečky nebo pomlčky.",
-        "cannot_increase_reward_of_post_within_the_last_minute_before_payout": "Cannot increase reward of post within the last minute before payout",
+        "cannot_increase_reward_of_post_within_the_last_minute_before_payout": "Nelze zvýšit odměnu post v poslední chvíli před výplatou",
         "vote_currently_exists_user_must_be_indicate_a_to_reject_witness": "vote currently exists, user must be indicate a desire to reject witness",
         "only_one_APP_NAME_account_allowed_per_ip_address_every_10_minutes": "Only one Steem account allowed per IP address every 10 minutes",
         "resteem_this_post": "Resteem This Post",

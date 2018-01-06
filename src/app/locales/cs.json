@@ -492,16 +492,16 @@
     },
     "posts_index": {
         "empty_feed_1": "Zdá se, že jste ještě nic nenásledovali",
-        "empty_feed_2": "If you recently added new users to follow, your personalized feed will populate once new content is available",
-        "empty_feed_3": "Explore Trending Articles",
-        "empty_feed_4": "Read The Quick Start Guide",
-        "empty_feed_5": "Browse The FAQ"
+        "empty_feed_2": "Pokud jste nedávno přidali nové uživatele k následování, zobrazí se jeho příspěvky ve vašem osobním zdroji, jakmile bude k dispozici nový obsah",
+        "empty_feed_3": "Prozkoumat populární články",
+        "empty_feed_4": "Přečtěte si Průvodce rychlým startem",
+        "empty_feed_5": "Prohlédnout často kladené otázky"
     },
     "transferhistoryrow_jsx": {
-        "to_savings": "to savings",
-        "from_savings": "from savings",
-        "cancel_transfer_from_savings": "Cancel transfer from savings",
-        "stop_power_down": "Stop power down",
+        "to_savings": "k úsporám",
+        "from_savings": "z úspor",
+        "cancel_transfer_from_savings": "Zrušit převod z úspor",
+        "stop_power_down": "Zastavit oslabení",
         "start_power_down_of": "Start power down of",
         "receive_interest_of": "Receive interest of"
     },
@@ -560,21 +560,21 @@
         "to_comment_and_reward_others": " to comment and reward others.",
         "signup_button": "Sign up now to earn ",
         "signup_button_emphasis": "FREE STEEM!",
-        "sign_up_get_steem": "Sign up. Get STEEM",
-        "returning_users": "Returning Users: ",
-        "join_our": "Join our"
+        "sign_up_get_steem": "Registrace. Získejte STEEM",
+        "returning_users": "Vracející se uživatelé: ",
+        "join_our": "Připojte se k naší"
     },
     "chainvalidation_js": {
-        "account_name_should": "Account name should ",
-        "not_be_empty": "not be empty.",
-        "be_longer": "be longer.",
-        "be_shorter": "be shorter.",
-        "each_account_segment_should": "Each account segment should ",
-        "start_with_a_letter": "start with a letter.",
-        "have_only_letters_digits_or_dashes": "have only letters, digits, or dashes.",
-        "have_only_one_dash_in_a_row": "have only one dash in a row.",
-        "end_with_a_letter_or_digit": "end with a letter or digit.",
-        "verified_exchange_no_memo": "You must include a memo for your exchange transfer."
+        "account_name_should": "Název účtu by měl ",
+        "not_be_empty": "nemůže být prázdné.",
+        "be_longer": "být delší.",
+        "be_shorter": "být kratší.",
+        "each_account_segment_should": "Každý segment účtu by měl ",
+        "start_with_a_letter": "musí začínat písmenem.",
+        "have_only_letters_digits_or_dashes": "mají pouze písmena, číslice nebo pomlčky.",
+        "have_only_one_dash_in_a_row": "mají jen jednu pomlčku v řadě.",
+        "end_with_a_letter_or_digit": "končí písmenem nebo číslicí.",
+        "verified_exchange_no_memo": "Musíte přidat poznámku k výměně."
     },
     "settings_jsx": {
         "invalid_url": "Invalid URL",

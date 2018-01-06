@@ -288,9 +288,9 @@
         "share_on_twitter": "Ziga na Twitter",
         "share_on_linkedin": "Ziga na Linkedin",
         "recent_password": "Ihe ngbaghe di kariri nso",
-        "in_week_convert_DEBT_TOKEN_to_LIQUID_TOKEN": "In 3.5 days, convert %(amount)s %(DEBT_TOKEN)s into %(LIQUID_TOKEN)s",
-        "view_the_full_context": "View the full context",
-        "view_the_direct_parent": "View the direct parent",
+        "in_week_convert_DEBT_TOKEN_to_LIQUID_TOKEN": "N'ime ubochi ato na ano, gbanwoo %(amount)s %(DEBT_TOKENS)s gafee %(LIQUID_TOKEN)s",
+        "view_the_full_context": "Zim ihe nile edeputara",
+        "view_the_direct_parent": "Zim isi ebe osi",
         "you_are_viewing_a_single_comments_thread_from": "You are viewing a single comment's thread from"
     },
     "market_jsx": {

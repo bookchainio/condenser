@@ -294,7 +294,7 @@
         "you_are_viewing_a_single_comments_thread_from": "Przeglądasz wątek pojedynczego komentarza"
     },
     "market_jsx": {
-        "action": "Action",
+        "action": "Akcja",
         "date_created": "Data utworzenia",
         "last_price": "Ostatnia cena",
         "24h_volume": "Wolumen 24h",
@@ -315,7 +315,7 @@
         "order_cancelled": "Zamówienie %(order_id)s anulowane.",
         "higher": "Wyższe",
         "lower": "Niższe",
-        "total_DEBT_TOKEN_SHORT_CURRENCY_SIGN": "Total %(DEBT_TOKEN_SHORT)s (%(CURRENCY_SIGN)s)"
+        "total_DEBT_TOKEN_SHORT_CURRENCY_SIGN": "W sumie %(DEBT_TOKEN_SHORT)s (%(CURRENCY_SIGN)s)"
     },
     "recoveraccountstep1_jsx": {
         "begin_recovery": "Zacznij odzyskiwanie",
@@ -616,7 +616,7 @@
         "asset_currently_collecting": "%(asset)s aktualnie zbierający %(interest)s%% APR.",
         "beware_of_spam_and_phishing_links": "Uważaj na spam i próby phisingu w memo transferowych. Nie otwieraj linków od użytkowników, którym nie ufasz. Nie udostępniaj kluczy prywatnych podmiotom trzecim.",
         "autocomplete_previous_transfers": "poprzednie transfery",
-        "autocomplete_user_following": "following"
+        "autocomplete_user_following": "obserwowani"
     },
     "userwallet_jsx": {
         "conversion_complete_tip": "Zakończy się",
@@ -643,7 +643,7 @@
         "already_power_down": "Aktualnie zmniejszasz moc %(AMOUNT)s %(LIQUID_TICKER)s (%(WITHDRAWN)s %(LIQUID_TICKER)s już wypłacono). Pamiętaj, że jeśli zmienisz ilość zmniejszanej mocy, to licznik dla następnej wypłaty zostanie wyzerowany.",
         "delegating": "Delegujesz %(AMOUNT)s %(LIQUID_TICKER)s. Kwota ta, jest zablokowana i nie jest dostępna do zmniejszenia mocy, dopóki delegacja się nie zakończy i upłynie pełen okres wypłacania nagród.",
         "per_week": "To jest ~%(AMOUNT)s %(LIQUID_TICKER)s na tydzień.",
-        "warning": "Leaving less than %(AMOUNT)s %(VESTING_TOKEN)s in your account is not recommended and can leave your account in a unusable state.",
+        "warning": "Pozostawiając mniej niż %(AMOUNT)s %(VESTING_TOKEN)s na koncie, nie jest zalecane i może sprawić że twoje konto nie będzie działać.",
         "error": "Nie można zmniejszyć mocy (ERROR: %(MESSAGE)s)"
     },
     "checkloginowner_jsx": {

@@ -156,7 +156,7 @@
         "password_must_be_characters_or_more": "Password must be %(amount)s characters or more",
         "need_password_or_key": "You need a private password or key (not a public key)",
         "login_to_see_memo": "login to see memo",
-        "new_password": "New Password",
+        "new_password": "Nova pasvorto",
         "incorrect_password": "Incorrect password",
         "username_does_not_exist": "Username does not exist",
         "account_name_should_start_with_a_letter": "Account name should start with a letter.",
@@ -187,7 +187,7 @@
         "next_7_strings_single_block": {
             "authors_get_paid_when_people_like_you_upvote_their_post": "Authors get paid when people like you upvote their post",
             "if_you_enjoyed_what_you_read_earn_amount": "If you enjoyed what you read here, create your account today and start earning FREE STEEM!",
-            "free_steem": "FREE STEEM!",
+            "free_steem": "AKIRI STEEM SENPAGE!",
             "sign_up_earn_steem": "Sign up now to earn "
         },
         "next_3_strings_together": {
@@ -196,7 +196,7 @@
             "value_posts": "low value posts"
         },
         "read_only_mode": "Due to server maintenance we are running in read only mode. We are sorry for the inconvenience.",
-        "tags_and_topics": "Tags",
+        "tags_and_topics": "Etikedoj",
         "show_more_topics": "View all tags",
         "basic": "Basic",
         "advanced": "Advanced",
@@ -213,12 +213,12 @@
         "post_key_warning": {
             "confirm": "You are about to publish a STEEM private key or master password. You will probably lose control of the associated account and all its funds.",
             "warning": "Legitimate users, including employees of Steemit Inc., will never ask you for a private key or master password.",
-            "checkbox": "I understand"
+            "checkbox": "Mi komprenas"
         }
     },
     "navigation": {
         "about": "Pri",
-        "explore": "Explore",
+        "explore": "Esplori",
         "APP_NAME_whitepaper": "%(APP_NAME)s Whitepaper",
         "buy_LIQUID_TOKEN": "Buy %(LIQUID_TOKEN)s",
         "sell_LIQUID_TOKEN": "Sell %(LIQUID_TOKEN)s",
@@ -245,7 +245,7 @@
     },
     "main_menu": {
         "hot": "ravaj",
-        "trending": "trending"
+        "trending": "aktualaj"
     },
     "reply_editor": {
         "shorten_title": "Shorten title",
@@ -255,7 +255,7 @@
         "are_you_sure_you_want_to_clear_this_form": "Are you sure you want to clear this form?",
         "uploading": "Uploading",
         "draft_saved": "Draft saved.",
-        "editor": "Editor",
+        "editor": "Redaktanto",
         "insert_images_by_dragging_dropping": "Insert images by dragging & dropping, ",
         "pasting_from_the_clipboard": "pasting from the clipboard, ",
         "selecting_them": "selecting them",
@@ -265,9 +265,9 @@
         "decline_payout": "Decline Payout",
         "check_this_to_auto_upvote_your_post": "Check this to auto-upvote your post",
         "markdown_styling_guide": "Markdown Styling Guide",
-        "or_by": "or by",
-        "title": "Title",
-        "update_post": "Update Post",
+        "or_by": "aŭ per",
+        "title": "Titolo",
+        "update_post": "Ĝisdatigi afiŝon",
         "markdown_not_supported": "Markdown is not supported here"
     },
     "category_selector_jsx": {
@@ -284,9 +284,9 @@
     },
     "postfull_jsx": {
         "this_post_is_not_available_due_to_a_copyright_claim": "This post is not available due to a copyright claim.",
-        "share_on_facebook": "Share on Facebook",
-        "share_on_twitter": "Share on Twitter",
-        "share_on_linkedin": "Share on Linkedin",
+        "share_on_facebook": "Disvastigi per Facebook",
+        "share_on_twitter": "Disvastigi per Twitter",
+        "share_on_linkedin": "Disvastigi per LinkedIn",
         "recent_password": "Recent Password",
         "in_week_convert_DEBT_TOKEN_to_LIQUID_TOKEN": "In 3.5 days, convert %(amount)s %(DEBT_TOKEN)s into %(LIQUID_TOKEN)s",
         "view_the_full_context": "View the full context",
@@ -338,7 +338,7 @@
         "account_recovery_request_not_confirmed": "Account recovery request is not confirmed yet, please get back later, thank you for your patience."
     },
     "user_profile": {
-        "unknown_account": "Unknown Account",
+        "unknown_account": "Nekonata Konto",
         "user_hasnt_made_any_posts_yet": "Looks like %(name)s hasn't made any posts yet!",
         "user_hasnt_started_bloggin_yet": "Looks like %(name)s hasn't started blogging yet!",
         "user_hasnt_followed_anything_yet": "Looks like %(name)s might not be following anyone yet! If %(name)s recently added new users to follow, their personalized feed will populate once new content is available.",
@@ -348,12 +348,12 @@
         "explore_trending_articles": "Explore Trending Articles",
         "read_the_quick_start_guide": "Read The Quick Start Guide",
         "browse_the_faq": "Browse The FAQ",
-        "followers": "Followers",
+        "followers": "Abonantoj",
         "this_is_users_reputations_score_it_is_based_on_history_of_votes": "This is %(name)s's reputation score.\n\nThe reputation score is based on the history of votes received by the account, and is used to hide low quality content.",
         "follower_count": {
             "zero": "No followers",
-            "one": "1 follower",
-            "other": "%(count)s followers"
+            "one": "1 abonanto",
+            "other": "%(count)s abonantoj"
         },
         "followed_count": {
             "zero": "Not following anybody",
@@ -362,8 +362,8 @@
         },
         "post_count": {
             "zero": "No posts",
-            "one": "1 post",
-            "other": "%(count)s posts"
+            "one": "1 afiŝo",
+            "other": "%(count)s afiŝoj"
         }
     },
     "authorrewards_jsx": {
@@ -577,8 +577,8 @@
         "verified_exchange_no_memo": "You must include a memo for your exchange transfer."
     },
     "settings_jsx": {
-        "invalid_url": "Invalid URL",
-        "name_is_too_long": "Name is too long",
+        "invalid_url": "Malvalida ligilo",
+        "name_is_too_long": "Nomo estas tro longa",
         "name_must_not_begin_with": "Name must not begin with @",
         "about_is_too_long": "About is too long",
         "location_is_too_long": "Location is too long",
@@ -594,9 +594,9 @@
         "profile_image_url": "Profile picture url",
         "cover_image_url": "Cover image url",
         "profile_name": "Display Name",
-        "profile_about": "About",
-        "profile_location": "Location",
-        "profile_website": "Website"
+        "profile_about": "Pri",
+        "profile_location": "Loko",
+        "profile_website": "Retejo"
     },
     "transfer_jsx": {
         "amount_is_in_form": "Amount is in the form 99999.999",
@@ -611,8 +611,8 @@
         "move_funds_to_another_account": "Move funds to another %(APP_NAME)s account.",
         "protect_funds_by_requiring_a_3_day_withdraw_waiting_period": "Protect funds by requiring a 3 day withdraw waiting period.",
         "withdraw_funds_after_the_required_3_day_waiting_period": "Withdraw funds after the required 3 day waiting period.",
-        "from": "From",
-        "to": "To",
+        "from": "De",
+        "to": "Al",
         "asset_currently_collecting": "%(asset)s currently collecting %(interest)s%% APR.",
         "beware_of_spam_and_phishing_links": "Beware of spam and phishing links in transfer memos. Do not open links from users you do not trust. Do not provide your private keys to any third party websites.",
         "autocomplete_previous_transfers": "previous transfers",
@@ -650,7 +650,7 @@
         "your_password_permissions_were_reduced": "Your password permissions were reduced",
         "if_you_did_not_make_this_change": "If you did not make this change please",
         "ownership_changed_on": "Ownership Changed On ",
-        "deadline_for_recovery_is": "Deadline for recovery is",
-        "i_understand_dont_show_again": "I understand, don't show me again"
+        "deadline_for_recovery_is": "Limdato por restarigo estas",
+        "i_understand_dont_show_again": "Mi komprenas. Ne montri estontece"
     }
 }

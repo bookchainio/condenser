@@ -57,7 +57,7 @@
         "password": "Pasvorto",
         "payouts": "Pagadoj",
         "permissions": "Permesoj",
-        "phishy_message": "Link expanded to plain text; beware of a potential phishing attempt",
+        "phishy_message": "Ligilo estas etendita al plata teksto. Atentu pri ebla trompado",
         "post": "Afiŝo",
         "post_as": "Afiŝi kiel",
         "posts": "Afiŝoj",
@@ -127,9 +127,9 @@
         "this_is_wrong_password": "Estas neĝusta pasvorto",
         "do_you_need_to": "Ĉu vi devas",
         "account_name": "Salutnomo",
-        "recover_your_account": "recover your account",
-        "reset_usernames_password": "Reset %(username)s's Password",
-        "this_will_update_usernames_authtype_key": "This will update %(username)s %(authType)s key",
+        "recover_your_account": "restarigi vian konton",
+        "reset_usernames_password": "Restarigi pasvorton de %(username)s",
+        "this_will_update_usernames_authtype_key": "Ĉi tiu estos ĝisdatigi %(authType)s ŝlosilon de %(username)s",
         "passwords_do_not_match": "Passwords do not match",
         "you_need_private_password_or_key_not_a_public_key": "You need a private password or key (not a public key)",
         "the_rules_of_APP_NAME": {
@@ -150,8 +150,8 @@
         "re_enter_generate_password": "Re-enter Generated Password",
         "understand_that_APP_NAME_cannot_recover_password": "I understand that %(APP_NAME)s cannot recover lost passwords",
         "i_saved_password": "I have securely saved my generated password",
-        "update_password": "Update Password",
-        "confirm_password": "Confirm Password",
+        "update_password": "Ĝisdatigi Pasvorton",
+        "confirm_password": "Konfirmi Pasvorton",
         "account_updated": "Account Updated",
         "password_must_be_characters_or_more": "Password must be %(amount)s characters or more",
         "need_password_or_key": "You need a private password or key (not a public key)",
@@ -201,7 +201,7 @@
         "basic": "Basic",
         "advanced": "Advanced",
         "views": {
-            "zero": "No Views",
+            "zero": "Sen Vidoj",
             "one": "%(count)s View",
             "other": "%(count)s Views"
         },
@@ -217,7 +217,7 @@
         }
     },
     "navigation": {
-        "about": "About",
+        "about": "Pri",
         "explore": "Explore",
         "APP_NAME_whitepaper": "%(APP_NAME)s Whitepaper",
         "buy_LIQUID_TOKEN": "Buy %(LIQUID_TOKEN)s",
@@ -231,8 +231,8 @@
         "terms_of_service": "Terms of Service",
         "sign_up": "Join",
         "learn_more": "Learn More",
-        "welcome": "Welcome",
-        "faq": "FAQ",
+        "welcome": "Bonvenon",
+        "faq": "Oftaj Demandoj",
         "shop": "The Steemit Shop",
         "chat": "Steemit Chat",
         "app_center": "Steemit App Center",
@@ -244,7 +244,7 @@
         "intro_paragraph": "Your voice is worth something. Join the community that pays you to post and curate high quality content."
     },
     "main_menu": {
-        "hot": "hot",
+        "hot": "ravaj",
         "trending": "trending"
     },
     "reply_editor": {

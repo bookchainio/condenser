@@ -198,8 +198,8 @@
         "read_only_mode": "Due to server maintenance we are running in read only mode. We are sorry for the inconvenience.",
         "tags_and_topics": "Etikedoj",
         "show_more_topics": "Vidi ĉiujn etikedojn",
-        "basic": "Basic",
-        "advanced": "Advanced",
+        "basic": "Baza",
+        "advanced": "Altnivela",
         "views": {
             "zero": "Sen Vidoj",
             "one": "%(count)s Rigardo",
@@ -224,7 +224,7 @@
         "sell_LIQUID_TOKEN": "Sell %(LIQUID_TOKEN)s",
         "currency_market": "Currency Market",
         "stolen_account_recovery": "Stolen Accounts Recovery",
-        "change_account_password": "Change Account Password",
+        "change_account_password": "Ŝanĝi Pasvorton de Konto",
         "witnesses": "Atestantoj",
         "vote_for_witnesses": "Voĉdoni por Atestantoj",
         "privacy_policy": "Regularo pri Privateco",
@@ -233,7 +233,7 @@
         "learn_more": "Lerni pli",
         "welcome": "Bonvenon",
         "faq": "Oftaj Demandoj",
-        "shop": "The Steemit Shop",
+        "shop": "La Steemit-Butiko",
         "chat": "Steemit-Babilado",
         "app_center": "Steemit App Center",
         "api_docs": "Steemit API Docs",
@@ -241,7 +241,7 @@
         "smt_whitepaper": "Blank-raporto pri SMT",
         "whitepaper": "Blank-raporto pri Steem",
         "intro_tagline": "Mono diras",
-        "intro_paragraph": "Your voice is worth something. Join the community that pays you to post and curate high quality content."
+        "intro_paragraph": "Via voĉo valoras iom. Aliĝu la komunumon kiu pagas vin por afiŝi kaj prizorgi altnivelan enhavon."
     },
     "main_menu": {
         "hot": "ravaj",
@@ -249,9 +249,9 @@
     },
     "reply_editor": {
         "shorten_title": "Mallongigu titolon",
-        "exceeds_maximum_length": "Exceeds maximum length (%(maxKb)sKB)",
-        "including_the_category": " (including the category '%(rootCategory)s')",
-        "use_limited_amount_of_tags": "You have %(tagsLength)s tags total%(includingCategory)s. Please use only 5 in your post and category line.",
+        "exceeds_maximum_length": "Preterpasis maksimuma longo (%(maxKb)sKB)",
+        "including_the_category": " (inkluzivante la kategorion '%(rootCategory)s')",
+        "use_limited_amount_of_tags": "Vi havas %(tagsLength)s etikedojn en sumo %(includingCategory)s. Bonvolu uzi nur 5 en via afiŝo kaj kategoria linio.",
         "are_you_sure_you_want_to_clear_this_form": "Ĉu vi certas, ke vi volas nuligi ĉi tiun paĝon?",
         "uploading": "Alŝutante",
         "draft_saved": "Malneto saviĝis.",
@@ -262,13 +262,13 @@
         "image_upload": "Alŝuto de bildo",
         "power_up_100": "Ŝaltita 100%%",
         "default_50_50": "Defaŭlto (50%% / 50%%)",
-        "decline_payout": "Decline Payout",
-        "check_this_to_auto_upvote_your_post": "Check this to auto-upvote your post",
+        "decline_payout": "Refuzi Elpagon",
+        "check_this_to_auto_upvote_your_post": "Marki por aŭtomate porvoĉdoni vian afiŝon",
         "markdown_styling_guide": "Stilgvido de Marklingvo",
         "or_by": "aŭ per",
         "title": "Titolo",
         "update_post": "Ĝisdatigi afiŝon",
-        "markdown_not_supported": "Markdown is not supported here"
+        "markdown_not_supported": "Marklingvo ne estas subtenata ĉi tie"
     },
     "category_selector_jsx": {
         "tag_your_story": "Tag (up to 5 tags), the first tag is your main category.",
@@ -276,8 +276,8 @@
         "maximum_tag_length_is_24_characters": "Maximum tag length is 24 characters",
         "use_limited_amount_of_categories": "Please use only %(amount)s categories",
         "use_only_lowercase_letters": "Uzu nur minusklajn literojn",
-        "use_one_dash": "Use only one dash",
-        "use_spaces_to_separate_tags": "Use spaces to separate tags",
+        "use_one_dash": "Uzu nur unu strekon",
+        "use_spaces_to_separate_tags": "Uzu spacetoj por apartigi etikedojn",
         "use_only_allowed_characters": "Use only lowercase letters, digits and one dash",
         "must_start_with_a_letter": "Nepre komenciĝas kun litero",
         "must_end_with_a_letter_or_number": "Nepre finiĝas kun litero aŭ cifero"
@@ -313,14 +313,14 @@
         "price_warning_below": "This price is well below the current market price of %(marketPrice)s, are you sure?",
         "order_cancel_confirm": "Cancel order %(order_id)s from %(user)s?",
         "order_cancelled": "Order %(order_id)s cancelled.",
-        "higher": "Higher",
-        "lower": "Lower",
+        "higher": "Pli Alta",
+        "lower": "Pli Malalta",
         "total_DEBT_TOKEN_SHORT_CURRENCY_SIGN": "Total %(DEBT_TOKEN_SHORT)s (%(CURRENCY_SIGN)s)"
     },
     "recoveraccountstep1_jsx": {
         "begin_recovery": "Begin Recovery",
         "not_valid": "Malvalida",
-        "account_name_is_not_found": "Account name is not found",
+        "account_name_is_not_found": "Salutnomo ne estas trovita",
         "unable_to_recover_account_not_change_ownership_recently": "We are unable to recover this account, it has not changed ownership recently.",
         "password_not_used_in_last_days": "This password was not used on this account in the last 30 days.",
         "request_already_submitted_contact_support": "Your request has been already submitted and we are working on it. Please contact %(SUPPORT_EMAIL)s for the status of your request.",

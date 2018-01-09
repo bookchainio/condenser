@@ -136,10 +136,10 @@
             "one": "La unua regulo de %(APP_NAME)s estas: Ne perdu vian pasvorton.",
             "second": "La dua regulo de %(APP_NAME)s estas: Ne perdu vian pasvorton.",
             "third": "La tria regulo de %(APP_NAME)s estas: Ni ne povas restarigi vian pasvorton.",
-            "fourth": "The fourth rule: If you can remember the password, it's not secure.",
-            "fifth": "The fifth rule: Use only randomly-generated passwords.",
-            "sixth": "The sixth rule: Do not tell anyone your password.",
-            "seventh": "The seventh rule: Always back up your password."
+            "fourth": "La kvara regulo: Se vi povas memori vian pasvorton, ĝi ne estas sekura.",
+            "fifth": "La kvina regulo: Nur uzu hazarde faritajn pasvortojn.",
+            "sixth": "La sesa regulo: Diri vian pasvorton al neniu ajn.",
+            "seventh": "La sepa regulo: Nepre fari savkopion de via pasvorto."
         },
         "recover_password": "Restarigi Konton",
         "current_password": "Aktuala pasvorto",

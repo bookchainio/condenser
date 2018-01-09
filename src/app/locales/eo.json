@@ -191,8 +191,8 @@
             "sign_up_earn_steem": "Sign up now to earn "
         },
         "next_3_strings_together": {
-            "show_more": "Show more",
-            "show_less": "Show fewer",
+            "show_more": "Montri pli",
+            "show_less": "Montri malpli",
             "value_posts": "low value posts"
         },
         "read_only_mode": "Due to server maintenance we are running in read only mode. We are sorry for the inconvenience.",
@@ -206,7 +206,7 @@
             "other": "%(count)s Rigardoj"
         },
         "responses": {
-            "zero": "No Responses",
+            "zero": "Sen Respondoj",
             "one": "%(count)s Respondo",
             "other": "%(count)s Respondoj"
         },

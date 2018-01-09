@@ -86,7 +86,7 @@
         "reveal_comment": "Montri Komenton",
         "request": "peti",
         "required": "Nepre",
-        "rewards": "Rekompencoj",
+        "rewards": "Kompencoj",
         "save": "Konservi",
         "saved": "Konservita",
         "search": "Serĉi",
@@ -176,8 +176,8 @@
         "login_to_show": "Ensaluti por montri",
         "not_valid_email": "Malvalida retpoŝto",
         "thank_you_for_being_an_early_visitor_to_APP_NAME": "Thank you for being an early visitor to %(APP_NAME)s. We will get back to you at the earliest possible opportunity.",
-        "author_rewards": "Rekompenco por afiŝanto",
-        "curation_rewards": "Rekompencoj por zorgado",
+        "author_rewards": "Kompenco por afiŝanto",
+        "curation_rewards": "Kompencoj por zorgado",
         "sorry_your_reddit_account_doesnt_have_enough_karma": "Bedaŭrinde, via Reddit-konto ne havas sufiĉan Reddit-Karmon, por kvalifiki senpagan konton. Bonvolu aldoni vian retpoŝt-adreson por rezervi pozicio en la atendlisto",
         "register_with_facebook": "Registriĝi per Facebook",
         "or_click_the_button_below_to_register_with_facebook": "Aŭ klaku la suban butonon por registriĝi per Facebook",
@@ -367,12 +367,12 @@
         }
     },
     "authorrewards_jsx": {
-        "estimated_author_rewards_last_week": "Taksata iom da rekompenco por afiŝanto lastasemajne",
-        "author_rewards_history": "Historio de Rekompenco por Afiŝanto"
+        "estimated_author_rewards_last_week": "Taksata iom da kompenco por afiŝanto lastasemajne",
+        "author_rewards_history": "Historio de Kompenco por Afiŝanto"
     },
     "curationrewards_jsx": {
-        "estimated_curation_rewards_last_week": "Taksata iom da rekompenco por zorgado lastasemajne",
-        "curation_rewards_history": "Historio de Rekompenco por Zorgado"
+        "estimated_curation_rewards_last_week": "Taksata iom da Kompenso por zorgado lastasemajne",
+        "curation_rewards_history": "Historio de Kompenso por Zorgado"
     },
     "post_jsx": {
         "now_showing_comments_with_low_ratings": "Nun montrante komentojn kun malalta estimo",
@@ -381,7 +381,7 @@
     },
     "voting_jsx": {
         "flagging_post_can_remove_rewards_the_flag_should_be_used_for_the_following": "Flagging a post can remove rewards and make this material less visible. Some common reasons to flag",
-        "disagreement_on_rewards": "Disagreement on rewards",
+        "disagreement_on_rewards": "Malkonsento pri kompensoj",
         "fraud_or_plagiarism": "Fraŭdo aŭ Plagiato",
         "hate_speech_or_internet_trolling": "Malama Diskurso aŭ Interreta Trolado",
         "intentional_miss_categorized_content_or_spam": "Intentional miss-categorized content or Spam",
@@ -525,8 +525,8 @@
         "stolen_account_recovery": "Stolen Account Recovery",
         "people_following": "People following",
         "people_followed_by": "People followed by",
-        "curation_rewards_by": "Rekompencoj por zorgado de",
-        "author_rewards_by": "Rekompenco por afiŝanto de",
+        "curation_rewards_by": "Kompensoj por zorgado de",
+        "author_rewards_by": "Kompenso por afiŝanto de",
         "replies_to": "Respondoj al",
         "comments_by": "Komentoj de"
     },

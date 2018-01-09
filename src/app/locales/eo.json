@@ -145,15 +145,15 @@
         "current_password": "Aktuala pasvorto",
         "generated_password": "Kreita Pasvorto",
         "backup_password_by_storing_it": "Back it up by storing in your password manager or a text file",
-        "enter_account_show_password": "Enter a valid account name to show the password",
+        "enter_account_show_password": "Entajpu validan salutnomo por montri la pasvorton",
         "click_to_generate_password": "Klaku por fari pasvorton",
         "re_enter_generate_password": "Retajpu Faritan Pasvorton",
         "understand_that_APP_NAME_cannot_recover_password": "Mi komprenas, ke %(APP_NAME)s ne povas restaŭri perditajn pasvortojn",
-        "i_saved_password": "I have securely saved my generated password",
+        "i_saved_password": "Mi sekure savis mian faritan pasvorton",
         "update_password": "Ĝisdatigi Pasvorton",
         "confirm_password": "Konfirmi Pasvorton",
         "account_updated": "Konto Ĝisdatigita",
-        "password_must_be_characters_or_more": "Password must be %(amount)s characters or more",
+        "password_must_be_characters_or_more": "Pasvorto estu %(amount)s signoj aŭ pli",
         "need_password_or_key": "Vi bezonas privatan pasvorton aŭ ŝlosilon (ne publikan ŝlosilon)",
         "login_to_see_memo": "ensaluti por vidi noton",
         "new_password": "Nova pasvorto",
@@ -163,11 +163,11 @@
         "account_name_should_be_shorter": "Salutnomo estu pli mallonga.",
         "account_name_should_be_longer": "Salutnomo estu pli longa.",
         "account_name_should_have_only_letters_digits_or_dashes": "Salutnomo havu nur literojn, ciferojn, punktojn, aŭ strekojn.",
-        "cannot_increase_reward_of_post_within_the_last_minute_before_payout": "Cannot increase reward of post within the last minute before payout",
+        "cannot_increase_reward_of_post_within_the_last_minute_before_payout": "Ne eblas pligrandigi rekompenson de afiŝo en la lasta minuto antaŭ pagado",
         "vote_currently_exists_user_must_be_indicate_a_to_reject_witness": "vote currently exists, user must be indicate a desire to reject witness",
         "only_one_APP_NAME_account_allowed_per_ip_address_every_10_minutes": "Only one Steem account allowed per IP address every 10 minutes",
         "resteem_this_post": "Reafiŝis Ĉi Tiun Afiŝon",
-        "reblog": "Resteem",
+        "reblog": "Reafiŝi",
         "write_your_story": "Verki vian rakonton",
         "remember_voting_and_posting_key": "Remember voting & posting key",
         "auto_login_question_mark": "Aŭtomate Ensaluti?",
@@ -346,7 +346,7 @@
         "looks_like_you_havent_posted_anything_yet": "Verŝajne vi ankoraŭ ne afiŝas ion ajn.",
         "create_a_post": "Krei afiŝon",
         "explore_trending_articles": "Esplori Popularajn Artikolojn",
-        "read_the_quick_start_guide": "Read The Quick Start Guide",
+        "read_the_quick_start_guide": "Legu la Rapidkomencan Gvidilon",
         "browse_the_faq": "Tralegi La Oftajn Demandojn",
         "followers": "Abonantoj",
         "this_is_users_reputations_score_it_is_based_on_history_of_votes": "Jen la reputacio de %(name)s.\n\nReputacio estas bazita de la historio de voĉdonoj donitaj al la konto, kaj estas uzata por kaŝi malaltkvalitan enhavon.",
@@ -375,9 +375,9 @@
         "curation_rewards_history": "Historio de Rekompenco por Zorgado"
     },
     "post_jsx": {
-        "now_showing_comments_with_low_ratings": "Now showing comments with low ratings",
-        "sort_order": "Sort Order",
-        "comments_were_hidden_due_to_low_ratings": "Comments were hidden due to low ratings"
+        "now_showing_comments_with_low_ratings": "Nun montrante komentojn kun malalta estimo",
+        "sort_order": "Ordiga Ordo",
+        "comments_were_hidden_due_to_low_ratings": "Komentoj estis kaŝitaj pro malalta estimo"
     },
     "voting_jsx": {
         "flagging_post_can_remove_rewards_the_flag_should_be_used_for_the_following": "Flagging a post can remove rewards and make this material less visible. Some common reasons to flag",
@@ -470,7 +470,7 @@
         "promote_post": "Pligradigi Afiŝon",
         "spend_your_DEBT_TOKEN_to_advertise_this_post": "Spend your %(DEBT_TOKEN)s's to advertise this post in the promoted content section",
         "you_successfully_promoted_this_post": "You successfully promoted this post",
-        "this_post_was_hidden_due_to_low_ratings": "This post was hidden due to low ratings"
+        "this_post_was_hidden_due_to_low_ratings": "Ĉi tiu afiŝo estis kaŝita pro malalta estimo"
     },
     "about_jsx": {
         "about_app": "About %(APP_NAME)s",
@@ -479,7 +479,7 @@
         "resources": "Rimedoj"
     },
     "markdownviewer_jsx": {
-        "images_were_hidden_due_to_low_ratings": "Bildoj estis kaŝitaj pro malalta rangado."
+        "images_were_hidden_due_to_low_ratings": "Bildoj estis kaŝitaj pro malalta estimo."
     },
     "postsummary_jsx": {
         "resteemed": "reafiŝis",

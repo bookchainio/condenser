@@ -262,7 +262,7 @@
         "image_upload": "Alŝuto de bildo",
         "power_up_100": "Ŝaltita 100%%",
         "default_50_50": "Defaŭlto (50%% / 50%%)",
-        "decline_payout": "Refuzi Elpagon",
+        "decline_payout": "Malakcepti Pagon",
         "check_this_to_auto_upvote_your_post": "Marki por aŭtomate porvoĉdoni vian afiŝon",
         "markdown_styling_guide": "Stilgvido de Marklingvo",
         "or_by": "aŭ per",
@@ -356,12 +356,12 @@
             "other": "%(count)s abonantoj"
         },
         "followed_count": {
-            "zero": "Not following anybody",
-            "one": "1 following",
-            "other": "%(count)s following"
+            "zero": "Ne abonas iun ajn",
+            "one": "1 abonas",
+            "other": "abonas %(count)s"
         },
         "post_count": {
-            "zero": "No posts",
+            "zero": "Sen afiŝoj",
             "one": "1 afiŝo",
             "other": "%(count)s afiŝoj"
         }
@@ -382,11 +382,11 @@
     "voting_jsx": {
         "flagging_post_can_remove_rewards_the_flag_should_be_used_for_the_following": "Flagging a post can remove rewards and make this material less visible. Some common reasons to flag",
         "disagreement_on_rewards": "Disagreement on rewards",
-        "fraud_or_plagiarism": "Fraud or Plagiarism",
+        "fraud_or_plagiarism": "Fraŭdo aŭ Plagiato",
         "hate_speech_or_internet_trolling": "Hate Speech or Internet Trolling",
         "intentional_miss_categorized_content_or_spam": "Intentional miss-categorized content or Spam",
         "pending_payout": "Pending Payout $%(value)s",
-        "payout_declined": "Payout Declined",
+        "payout_declined": "Pago malakceptita",
         "max_accepted_payout": "Max Accepted Payout $%(value)s",
         "promotion_cost": "Promotion Cost $%(value)s",
         "past_payouts": "Past Payouts $%(value)s",

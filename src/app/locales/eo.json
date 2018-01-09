@@ -166,7 +166,7 @@
         "cannot_increase_reward_of_post_within_the_last_minute_before_payout": "Cannot increase reward of post within the last minute before payout",
         "vote_currently_exists_user_must_be_indicate_a_to_reject_witness": "vote currently exists, user must be indicate a desire to reject witness",
         "only_one_APP_NAME_account_allowed_per_ip_address_every_10_minutes": "Only one Steem account allowed per IP address every 10 minutes",
-        "resteem_this_post": "Resteem This Post",
+        "resteem_this_post": "Reafiŝis Ĉi Tiun Afiŝon",
         "reblog": "Resteem",
         "write_your_story": "Verki vian rakonton",
         "remember_voting_and_posting_key": "Remember voting & posting key",
@@ -371,8 +371,8 @@
         "author_rewards_history": "Historio de Rekompenco por Afiŝanto"
     },
     "curationrewards_jsx": {
-        "estimated_curation_rewards_last_week": "Estimated curation rewards last week",
-        "curation_rewards_history": "Curation Rewards History"
+        "estimated_curation_rewards_last_week": "Taksata iom da rekompenco por zorgado lastasemajne",
+        "curation_rewards_history": "Historio de Rekompenco por Zorgado"
     },
     "post_jsx": {
         "now_showing_comments_with_low_ratings": "Now showing comments with low ratings",
@@ -383,19 +383,19 @@
         "flagging_post_can_remove_rewards_the_flag_should_be_used_for_the_following": "Flagging a post can remove rewards and make this material less visible. Some common reasons to flag",
         "disagreement_on_rewards": "Disagreement on rewards",
         "fraud_or_plagiarism": "Fraŭdo aŭ Plagiato",
-        "hate_speech_or_internet_trolling": "Hate Speech or Internet Trolling",
+        "hate_speech_or_internet_trolling": "Malama Diskurso aŭ Interreta Trolado",
         "intentional_miss_categorized_content_or_spam": "Intentional miss-categorized content or Spam",
         "pending_payout": "Pending Payout $%(value)s",
         "payout_declined": "Pago malakceptita",
         "max_accepted_payout": "Max Accepted Payout $%(value)s",
         "promotion_cost": "Promotion Cost $%(value)s",
-        "past_payouts": "Past Payouts $%(value)s",
+        "past_payouts": "Estintecaj Pagadoj $%(value)s",
         "past_payouts_author": " - Afiŝanto $%(value)s",
-        "past_payouts_curators": " - Curators $%(value)s",
+        "past_payouts_curators": " - Zorgantoj $%(value)s",
         "we_will_reset_curation_rewards_for_this_post": "will reset your curation rewards for this post",
         "removing_your_vote": "Forigante vian voĉdonon",
-        "changing_to_an_upvote": "Changing to an Up-Vote",
-        "changing_to_a_downvote": "Changing to a Down-Vote",
+        "changing_to_an_upvote": "Ŝanĝante al Porvoĉdono",
+        "changing_to_a_downvote": "Ŝanĝante al Kontraŭvoĉdono",
         "confirm_flag": "Konfirmi Flagon",
         "and_more": "kaj %(count)s pli",
         "votes_plural": {
@@ -467,7 +467,7 @@
         "part_of_your_steem_power_is_currently_delegated": "Part of %(user_name)s's STEEM POWER is currently delegated. Delegation is donated for influence or to help new users perform actions on steemit. Your delegation amount can fluctuate."
     },
     "promote_post_jsx": {
-        "promote_post": "Promote Post",
+        "promote_post": "Pligradigi Afiŝon",
         "spend_your_DEBT_TOKEN_to_advertise_this_post": "Spend your %(DEBT_TOKEN)s's to advertise this post in the promoted content section",
         "you_successfully_promoted_this_post": "You successfully promoted this post",
         "this_post_was_hidden_due_to_low_ratings": "This post was hidden due to low ratings"
@@ -482,8 +482,8 @@
         "images_were_hidden_due_to_low_ratings": "Bildoj estis kaŝitaj pro malalta rangado."
     },
     "postsummary_jsx": {
-        "resteemed": "resteemed",
-        "resteemed_by": "Resteemed by",
+        "resteemed": "reafiŝis",
+        "resteemed_by": "Reafiŝis de",
         "reveal_it": "Reveal this post",
         "adjust_your": "adjust your",
         "display_preferences": "vidigaj agordoj",
@@ -525,7 +525,7 @@
         "stolen_account_recovery": "Stolen Account Recovery",
         "people_following": "People following",
         "people_followed_by": "People followed by",
-        "curation_rewards_by": "Curation rewards by",
+        "curation_rewards_by": "Rekompencoj por zorgado de",
         "author_rewards_by": "Rekompenco por afiŝanto de",
         "replies_to": "Respondoj al",
         "comments_by": "Komentoj de"
@@ -648,7 +648,7 @@
     },
     "checkloginowner_jsx": {
         "your_password_permissions_were_reduced": "Your password permissions were reduced",
-        "if_you_did_not_make_this_change": "If you did not make this change please",
+        "if_you_did_not_make_this_change": "Se vi ne faris ĉi tiun ŝanĝon, bonvolu",
         "ownership_changed_on": "Ownership Changed On ",
         "deadline_for_recovery_is": "Limdato por restarigo estas",
         "i_understand_dont_show_again": "Mi komprenas. Ne montri estontece"

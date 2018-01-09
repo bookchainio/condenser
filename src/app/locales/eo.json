@@ -531,8 +531,8 @@
         "comments_by": "Komentoj de"
     },
     "loginform_jsx": {
-        "you_need_a_private_password_or_key": "You need a private password or key (not a public key)",
-        "cryptography_test_failed": "Cryptography test failed",
+        "you_need_a_private_password_or_key": "Vi bezonas privatan pasvorton aŭ ŝlosilon (ne publikan ŝlosilon)",
+        "cryptography_test_failed": "Kriptografia testo malsukcesis",
         "unable_to_log_you_in": "We will be unable to log you in with this browser.",
         "the_latest_versions_of": "The latest versions of ",
         "are_well_tested_and_known_to_work_with": "are well tested and known to work with %(APP_URL)s.",
@@ -540,8 +540,8 @@
         "login_to_vote": "Elsaluti por Voĉdoni",
         "login_to_post": "Elsaluti por Afiŝi",
         "login_to_comment": "Elsaluti por Komenti",
-        "posting": "Posting",
-        "active_or_owner": "Active or Owner",
+        "posting": "Afiŝante",
+        "active_or_owner": "Aktiva aŭ Propranto",
         "this_password_is_bound_to_your_account_owner_key": "This password is bound to your account's owner key and can not be used to login to this site.",
         "however_you_can_use_it_to": "However, you can use it to ",
         "update_your_password": "ĝisdatigi vian pasvorto",
@@ -560,9 +560,9 @@
         "to_comment_and_reward_others": " to comment and reward others.",
         "signup_button": "Sign up now to earn ",
         "signup_button_emphasis": "AKIRI STEEM SENPAGE!",
-        "sign_up_get_steem": "Sign up. Get STEEM",
-        "returning_users": "Returning Users: ",
-        "join_our": "Join our"
+        "sign_up_get_steem": "Registriĝu. Akiri STEEM-on",
+        "returning_users": "Revenantaj Uzantoj: ",
+        "join_our": "Aliĝu al nia"
     },
     "chainvalidation_js": {
         "account_name_should": "Salutnomo ",

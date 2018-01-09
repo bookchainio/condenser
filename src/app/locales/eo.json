@@ -176,7 +176,7 @@
         "login_to_show": "Ensaluti por montri",
         "not_valid_email": "Malvalida retpoŝto",
         "thank_you_for_being_an_early_visitor_to_APP_NAME": "Thank you for being an early visitor to %(APP_NAME)s. We will get back to you at the earliest possible opportunity.",
-        "author_rewards": "Rekompenco por verkanto",
+        "author_rewards": "Rekompenco por afiŝanto",
         "curation_rewards": "Rekompencoj por zorgado",
         "sorry_your_reddit_account_doesnt_have_enough_karma": "Bedaŭrinde, via Reddit-konto ne havas sufiĉan Reddit-Karmon, por kvalifiki senpagan konton. Bonvolu aldoni vian retpoŝt-adreson por rezervi pozicio en la atendlisto",
         "register_with_facebook": "Registriĝi per Facebook",
@@ -349,7 +349,7 @@
         "read_the_quick_start_guide": "Read The Quick Start Guide",
         "browse_the_faq": "Tralegi La Oftajn Demandojn",
         "followers": "Abonantoj",
-        "this_is_users_reputations_score_it_is_based_on_history_of_votes": "This is %(name)s's reputation score.\n\nThe reputation score is based on the history of votes received by the account, and is used to hide low quality content.",
+        "this_is_users_reputations_score_it_is_based_on_history_of_votes": "Jen la reputacio de %(name)s.\n\nReputacio estas bazita de la historio de voĉdonoj donitaj al la konto, kaj estas uzata por kaŝi malaltkvalitan enhavon.",
         "follower_count": {
             "zero": "Sen abonantoj",
             "one": "1 abonanto",
@@ -367,8 +367,8 @@
         }
     },
     "authorrewards_jsx": {
-        "estimated_author_rewards_last_week": "Estimated author rewards last week",
-        "author_rewards_history": "Author Rewards History"
+        "estimated_author_rewards_last_week": "Taksata iom da rekompenco por afiŝanto lastasemajne",
+        "author_rewards_history": "Historio de Rekompenco por Afiŝanto"
     },
     "curationrewards_jsx": {
         "estimated_curation_rewards_last_week": "Estimated curation rewards last week",
@@ -390,7 +390,7 @@
         "max_accepted_payout": "Max Accepted Payout $%(value)s",
         "promotion_cost": "Promotion Cost $%(value)s",
         "past_payouts": "Past Payouts $%(value)s",
-        "past_payouts_author": " - Author $%(value)s",
+        "past_payouts_author": " - Afiŝanto $%(value)s",
         "past_payouts_curators": " - Curators $%(value)s",
         "we_will_reset_curation_rewards_for_this_post": "will reset your curation rewards for this post",
         "removing_your_vote": "Removing your vote",
@@ -526,7 +526,7 @@
         "people_following": "People following",
         "people_followed_by": "People followed by",
         "curation_rewards_by": "Curation rewards by",
-        "author_rewards_by": "Rekompenco por afiŝinto de",
+        "author_rewards_by": "Rekompenco por afiŝanto de",
         "replies_to": "Respondoj al",
         "comments_by": "Komentoj de"
     },

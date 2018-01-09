@@ -178,7 +178,7 @@
         "thank_you_for_being_an_early_visitor_to_APP_NAME": "Thank you for being an early visitor to %(APP_NAME)s. We will get back to you at the earliest possible opportunity.",
         "author_rewards": "Rekompenco por verkanto",
         "curation_rewards": "Rekompencoj por zorgado",
-        "sorry_your_reddit_account_doesnt_have_enough_karma": "Sorry, your Reddit account doesn't have enough Reddit Karma to qualify for a free sign up. Please add your email for a place on the waiting list",
+        "sorry_your_reddit_account_doesnt_have_enough_karma": "Bedaŭrinde, via Reddit-konto ne havas sufiĉan Reddit-Karmon, por kvalifiki senpagan konton. Bonvolu aldoni vian retpoŝt-adreson por rezervi pozicio en la atendlisto",
         "register_with_facebook": "Registriĝi per Facebook",
         "or_click_the_button_below_to_register_with_facebook": "Aŭ klaku la suban butonon por registriĝi per Facebook",
         "server_returned_error": "servilo respondis kun eraro",
@@ -240,7 +240,7 @@
         "bluepaper": "Steem Bluepaper",
         "smt_whitepaper": "SMT Whitepaper",
         "whitepaper": "Steem Whitepaper",
-        "intro_tagline": "Money talks",
+        "intro_tagline": "Mono diras",
         "intro_paragraph": "Your voice is worth something. Join the community that pays you to post and curate high quality content."
     },
     "main_menu": {
@@ -254,13 +254,13 @@
         "use_limited_amount_of_tags": "You have %(tagsLength)s tags total%(includingCategory)s. Please use only 5 in your post and category line.",
         "are_you_sure_you_want_to_clear_this_form": "Are you sure you want to clear this form?",
         "uploading": "Uploading",
-        "draft_saved": "Draft saved.",
+        "draft_saved": "Malneto saviĝis.",
         "editor": "Redaktanto",
         "insert_images_by_dragging_dropping": "Insert images by dragging & dropping, ",
         "pasting_from_the_clipboard": "pasting from the clipboard, ",
         "selecting_them": "selecting them",
-        "image_upload": "Image upload",
-        "power_up_100": "Power Up 100%%",
+        "image_upload": "Alŝuto de bildo",
+        "power_up_100": "Ŝaltita 100%%",
         "default_50_50": "Default (50%% / 50%%)",
         "decline_payout": "Decline Payout",
         "check_this_to_auto_upvote_your_post": "Check this to auto-upvote your post",
@@ -279,8 +279,8 @@
         "use_one_dash": "Use only one dash",
         "use_spaces_to_separate_tags": "Use spaces to separate tags",
         "use_only_allowed_characters": "Use only lowercase letters, digits and one dash",
-        "must_start_with_a_letter": "Must start with a letter",
-        "must_end_with_a_letter_or_number": "Must end with a letter or number"
+        "must_start_with_a_letter": "Nepre komenciĝas kun litero",
+        "must_end_with_a_letter_or_number": "Nepre finiĝas kun litero aŭ cifero"
     },
     "postfull_jsx": {
         "this_post_is_not_available_due_to_a_copyright_claim": "This post is not available due to a copyright claim.",

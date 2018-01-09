@@ -133,9 +133,9 @@
         "passwords_do_not_match": "Pasvortoj malsamas",
         "you_need_private_password_or_key_not_a_public_key": "Vi bezonas privatan pasvorton aŭ ŝlosilon (ne publikan ŝlosilon)",
         "the_rules_of_APP_NAME": {
-            "one": "The first rule of %(APP_NAME)s is: Do not lose your password.",
-            "second": "The second rule of %(APP_NAME)s is: Do not lose your password.",
-            "third": "The third rule of %(APP_NAME)s is: We cannot recover your password.",
+            "one": "La unua regulo de %(APP_NAME)s estas: Ne perdu vian pasvorton.",
+            "second": "La dua regulo de %(APP_NAME)s estas: Ne perdu vian pasvorton.",
+            "third": "La tria regulo de %(APP_NAME)s estas: Ni ne povas restarigi vian pasvorton.",
             "fourth": "The fourth rule: If you can remember the password, it's not secure.",
             "fifth": "The fifth rule: Use only randomly-generated passwords.",
             "sixth": "The sixth rule: Do not tell anyone your password.",

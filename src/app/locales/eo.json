@@ -207,8 +207,8 @@
         },
         "responses": {
             "zero": "No Responses",
-            "one": "%(count)s Response",
-            "other": "%(count)s Responses"
+            "one": "%(count)s Respondo",
+            "other": "%(count)s Respondoj"
         },
         "post_key_warning": {
             "confirm": "You are about to publish a STEEM private key or master password. You will probably lose control of the associated account and all its funds.",
@@ -237,9 +237,9 @@
         "chat": "Steemit Chat",
         "app_center": "Steemit App Center",
         "api_docs": "Steemit API Docs",
-        "bluepaper": "Steem Bluepaper",
-        "smt_whitepaper": "SMT Whitepaper",
-        "whitepaper": "Steem Whitepaper",
+        "bluepaper": "Blu-raporto pri Steem",
+        "smt_whitepaper": "Blank-raporto pri SMT",
+        "whitepaper": "Blank-raporto pri Steem",
         "intro_tagline": "Mono diras",
         "intro_paragraph": "Your voice is worth something. Join the community that pays you to post and curate high quality content."
     },
@@ -248,12 +248,12 @@
         "trending": "aktualaj"
     },
     "reply_editor": {
-        "shorten_title": "Shorten title",
+        "shorten_title": "Mallongigu titolon",
         "exceeds_maximum_length": "Exceeds maximum length (%(maxKb)sKB)",
         "including_the_category": " (including the category '%(rootCategory)s')",
         "use_limited_amount_of_tags": "You have %(tagsLength)s tags total%(includingCategory)s. Please use only 5 in your post and category line.",
-        "are_you_sure_you_want_to_clear_this_form": "Are you sure you want to clear this form?",
-        "uploading": "Uploading",
+        "are_you_sure_you_want_to_clear_this_form": "Ĉu vi certas, ke vi volas nuligi ĉi tiun paĝon?",
+        "uploading": "Alŝutante",
         "draft_saved": "Malneto saviĝis.",
         "editor": "Redaktanto",
         "insert_images_by_dragging_dropping": "Insert images by dragging & dropping, ",
@@ -294,8 +294,8 @@
         "you_are_viewing_a_single_comments_thread_from": "You are viewing a single comment's thread from"
     },
     "market_jsx": {
-        "action": "Action",
-        "date_created": "Date Created",
+        "action": "Ago",
+        "date_created": "Dato Kreita",
         "last_price": "Last price",
         "24h_volume": "24h volume",
         "spread": "Spread",
@@ -396,15 +396,15 @@
         "removing_your_vote": "Removing your vote",
         "changing_to_an_upvote": "Changing to an Up-Vote",
         "changing_to_a_downvote": "Changing to a Down-Vote",
-        "confirm_flag": "Confirm Flag",
+        "confirm_flag": "Konfirmi Flagon",
         "and_more": "and %(count)s more",
         "votes_plural": {
-            "one": "%(count)s vote",
-            "other": "%(count)s votes"
+            "one": "%(count)s voĉdono",
+            "other": "%(count)s voĉdonoj"
         }
     },
     "witnesses_jsx": {
-        "witness_thread": "witness thread",
+        "witness_thread": "fadeno de atestanto",
         "top_witnesses": "Witness Voting",
         "you_have_votes_remaining": {
             "zero": "You have no votes remaining",
@@ -412,8 +412,8 @@
             "other": "You have %(count)s votes remaining"
         },
         "you_can_vote_for_maximum_of_witnesses": "You can vote for a maximum of 30 witnesses",
-        "witness": "Witness",
-        "information": "Information",
+        "witness": "Atestanto",
+        "information": "Informo",
         "if_you_want_to_vote_outside_of_top_enter_account_name": "If you would like to vote for a witness outside of the top 50, enter the account name below to cast a vote",
         "set_witness_proxy": "You can also choose a proxy that will vote for witnesses for you. This will reset your current witness selection.",
         "witness_set": "You have set a voting proxy. If you would like to re-enable manual voting, please clear your proxy.",
@@ -436,8 +436,8 @@
         }
     },
     "userkeys_jsx": {
-        "public": "Public",
-        "private": "Private",
+        "public": "Publika",
+        "private": "Privata",
         "public_something_key": "Public %(key)s Key",
         "private_something_key": "Private %(key)s Key",
         "posting_key_is_required_it_should_be_different": "The posting key is used for posting and voting. It should be different from the active and owner keys.",
@@ -537,14 +537,14 @@
         "the_latest_versions_of": "The latest versions of ",
         "are_well_tested_and_known_to_work_with": "are well tested and known to work with %(APP_URL)s.",
         "due_to_server_maintenance": "Due to server maintenance we are running in read only mode. We are sorry for the inconvenience.",
-        "login_to_vote": "Login to Vote",
-        "login_to_post": "Login to Post",
-        "login_to_comment": "Login to Comment",
+        "login_to_vote": "Elsaluti por Voĉdoni",
+        "login_to_post": "Elsaluti por Afiŝi",
+        "login_to_comment": "Elsaluti por Komenti",
         "posting": "Posting",
         "active_or_owner": "Active or Owner",
         "this_password_is_bound_to_your_account_owner_key": "This password is bound to your account's owner key and can not be used to login to this site.",
         "however_you_can_use_it_to": "However, you can use it to ",
-        "update_your_password": "update your password",
+        "update_your_password": "ĝisdatigi vian pasvorto",
         "to_obtain_a_more_secure_set_of_keys": "to obtain a more secure set of keys.",
         "this_password_is_bound_to_your_account_active_key": "This password is bound to your account's active key and can not be used to login to this page.",
         "you_may_use_this_active_key_on_other_more": "You may use this active key on other more secure pages like the Wallet or Market pages.",
@@ -552,7 +552,7 @@
         "you_account_has_been_successfully_recovered": "You account has been successfully recovered!",
         "password_update_succes": "The password for %(accountName)s was successfully updated",
         "password_info": "This password or private key was entered incorrectly.  There is probably a handwriting or data-entry error.  Hint: A password or private key generated by Steemit will never contain 0 (zero), O (capital o), I (capital i) and l (lower case L) characters.",
-        "enter_your_username": "Enter your username",
+        "enter_your_username": "Entajpi vian salutnomon",
         "password_or_wif": "Password or WIF",
         "this_operation_requires_your_key_or_master_password": "This operation requires your %(authType)s key or Master password.",
         "keep_me_logged_in": "Keep me logged in",

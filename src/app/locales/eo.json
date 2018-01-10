@@ -322,7 +322,7 @@
         "not_valid": "Malvalida",
         "account_name_is_not_found": "Salutnomo ne estas trovita",
         "unable_to_recover_account_not_change_ownership_recently": "We are unable to recover this account, it has not changed ownership recently.",
-        "password_not_used_in_last_days": "This password was not used on this account in the last 30 days.",
+        "password_not_used_in_last_days": "Ĉi tiu pasvorto ne estis uzata en ĉi tiu konto dum la lastaj 30 tagoj.",
         "request_already_submitted_contact_support": "Your request has been already submitted and we are working on it. Please contact %(SUPPORT_EMAIL)s for the status of your request.",
         "recover_account_intro": "From time to time, a Steemian's owner key may be compromised. Stolen Account Recovery gives the rightful account owner 30 days to recover their account from the moment the thief changed their owner key. Stolen Account Recovery can only be used on %(APP_URL)s if the account owner had previously listed '%(APP_NAME)s' as their account trustee and complied with %(APP_NAME)s's Terms of Service.",
         "login_with_facebook_or_reddit_media_to_verify_identity": "Please login with Facebook or Reddit to verify your identity",
@@ -333,7 +333,7 @@
         "recovering_account": "Restaŭrante Konton",
         "recover_account": "Restaŭri Konton",
         "checking_account_owner": "Kontrolante propranton de konto",
-        "sending_recovery_request": "Sending recovery request",
+        "sending_recovery_request": "Sendante peton por restaŭro",
         "cant_confirm_account_ownership": "We can't confirm account ownership. Check your password",
         "account_recovery_request_not_confirmed": "Account recovery request is not confirmed yet, please get back later, thank you for your patience."
     },
@@ -485,7 +485,7 @@
         "resteemed": "reafiŝis",
         "resteemed_by": "Reafiŝis de",
         "reveal_it": "Montri ĉi tiun afiŝon",
-        "adjust_your": "adjust your",
+        "adjust_your": "agordi vian",
         "display_preferences": "vidigaj agordoj",
         "create_an_account": "krei konton",
         "to_save_your_preferences": "savi viajn agordojn"
@@ -494,7 +494,7 @@
         "empty_feed_1": "Looks like you haven't followed anything yet",
         "empty_feed_2": "If you recently added new users to follow, your personalized feed will populate once new content is available",
         "empty_feed_3": "Explore Trending Articles",
-        "empty_feed_4": "Read The Quick Start Guide",
+        "empty_feed_4": "Legu la Rapidkomencan Gvidilon",
         "empty_feed_5": "Tralegi La Oftajn Demandojn"
     },
     "transferhistoryrow_jsx": {

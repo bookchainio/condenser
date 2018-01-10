@@ -271,7 +271,7 @@
         "markdown_not_supported": "Marklingvo ne estas subtenata ĉi tie"
     },
     "category_selector_jsx": {
-        "tag_your_story": "Tag (up to 5 tags), the first tag is your main category.",
+        "tag_your_story": "Etikedi (ĝis 5 etikedojn). La unua etikedo estas via ĉefa kategorio.",
         "select_a_tag": "Elektu etikedon",
         "maximum_tag_length_is_24_characters": "Maksimuma longo de etikedo estas 24 signoj",
         "use_limited_amount_of_categories": "Bonvolu uzi nur %(amount)s kategoriojn",
@@ -283,7 +283,7 @@
         "must_end_with_a_letter_or_number": "Nepre finiĝas kun litero aŭ cifero"
     },
     "postfull_jsx": {
-        "this_post_is_not_available_due_to_a_copyright_claim": "This post is not available due to a copyright claim.",
+        "this_post_is_not_available_due_to_a_copyright_claim": "Ĉi tiu afiŝo ne disponas, pro kopirajta pretendo.",
         "share_on_facebook": "Disvastigi per Facebook",
         "share_on_twitter": "Disvastigi per Twitter",
         "share_on_linkedin": "Disvastigi per LinkedIn",
@@ -385,7 +385,7 @@
         "fraud_or_plagiarism": "Fraŭdo aŭ Plagiato",
         "hate_speech_or_internet_trolling": "Malama Diskurso aŭ Interreta Trolado",
         "intentional_miss_categorized_content_or_spam": "Intentional miss-categorized content or Spam",
-        "pending_payout": "Pending Payout $%(value)s",
+        "pending_payout": "Atendante Pagon $%(value)s",
         "payout_declined": "Pago malakceptita",
         "max_accepted_payout": "Max Accepted Payout $%(value)s",
         "promotion_cost": "Promotion Cost $%(value)s",

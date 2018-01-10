@@ -417,7 +417,7 @@
         "if_you_want_to_vote_outside_of_top_enter_account_name": "If you would like to vote for a witness outside of the top 50, enter the account name below to cast a vote",
         "set_witness_proxy": "You can also choose a proxy that will vote for witnesses for you. This will reset your current witness selection.",
         "witness_set": "You have set a voting proxy. If you would like to re-enable manual voting, please clear your proxy.",
-        "witness_proxy_current": "Your current proxy is",
+        "witness_proxy_current": "Via aktuala prokurilo estas",
         "witness_proxy_set": "Agordi prokurilon",
         "witness_proxy_clear": "Nuligi prokurilon",
         "proxy_update_error": "Via prokurilo ne estis ĝisdatigita"
@@ -448,8 +448,8 @@
     },
     "suggestpassword_jsx": {
         "APP_NAME_cannot_recover_passwords_keep_this_page_in_a_secure_location": "%(APP_NAME)s cannot recover passwords. Keep this page in a secure location, such as a fireproof safe or safety deposit box.",
-        "APP_NAME_password_backup": "%(APP_NAME)s Password Backup",
-        "APP_NAME_password_backup_required": "%(APP_NAME)s Password Backup (required)",
+        "APP_NAME_password_backup": "Savkopio de Pasvorto ĉe %(APP_NAME)s",
+        "APP_NAME_password_backup_required": "Savkopio de Pasvorto ĉe %(APP_NAME)s (nepra)",
         "after_printing_write_down_your_user_name": "After printing, write down your user name"
     },
     "converttosteem_jsx": {

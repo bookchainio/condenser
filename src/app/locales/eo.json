@@ -223,7 +223,7 @@
         "buy_LIQUID_TOKEN": "Aĉeti %(LIQUID_TOKEN)s",
         "sell_LIQUID_TOKEN": "Vendi %(LIQUID_TOKEN)s",
         "currency_market": "Borso",
-        "stolen_account_recovery": "Stolen Accounts Recovery",
+        "stolen_account_recovery": "Restaŭro de Ŝtelitaj Kontoj",
         "change_account_password": "Ŝanĝi Pasvorton de Konto",
         "witnesses": "Atestantoj",
         "vote_for_witnesses": "Voĉdoni por Atestantoj",
@@ -332,7 +332,7 @@
         "thanks_for_submitting_request_for_account_recovery": "Thanks for submitting your request for Account Recovery using %(APP_NAME)s's blockchain-based multi factor authentication. We will respond to you as quickly as possible, however, please expect there may be some delay in response due to high volume of emails. Please be prepared to verify your identity.",
         "recovering_account": "Restaŭrante Konton",
         "recover_account": "Restaŭri Konton",
-        "checking_account_owner": "Checking account owner",
+        "checking_account_owner": "Kontrolante propranton de konto",
         "sending_recovery_request": "Sending recovery request",
         "cant_confirm_account_ownership": "We can't confirm account ownership. Check your password",
         "account_recovery_request_not_confirmed": "Account recovery request is not confirmed yet, please get back later, thank you for your patience."

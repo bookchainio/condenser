@@ -186,7 +186,7 @@
         "please_email_questions_to": "Please email your questions to",
         "next_7_strings_single_block": {
             "authors_get_paid_when_people_like_you_upvote_their_post": "Afiŝantoj estos pagataj kiam legantoj kiel vi porvoĉdoni ties afiŝon",
-            "if_you_enjoyed_what_you_read_earn_amount": "If you enjoyed what you read here, create your account today and start earning FREE STEEM!",
+            "if_you_enjoyed_what_you_read_earn_amount": "Se vi ŝatas tiun kiun vi legas hodiaŭ, creu vian konton hodiaŭ kaj komencu enspezi SENPAGAN STEEM!",
             "free_steem": "AKIRI STEEM SENPAGE!",
             "sign_up_earn_steem": "Registriĝu nun por enspezi "
         },
@@ -235,7 +235,7 @@
         "faq": "Oftaj Demandoj",
         "shop": "La Steemit-Butiko",
         "chat": "Steemit-Babilado",
-        "app_center": "Steemit App Center",
+        "app_center": "Aplikaĵujo de Steemit",
         "api_docs": "API-dokumentoj de Steemit",
         "bluepaper": "Blu-raporto pri Steem",
         "smt_whitepaper": "Blank-raporto pri SMT",
@@ -318,7 +318,7 @@
         "total_DEBT_TOKEN_SHORT_CURRENCY_SIGN": "Total %(DEBT_TOKEN_SHORT)s (%(CURRENCY_SIGN)s)"
     },
     "recoveraccountstep1_jsx": {
-        "begin_recovery": "Begin Recovery",
+        "begin_recovery": "Komenci Restaŭron",
         "not_valid": "Malvalida",
         "account_name_is_not_found": "Salutnomo ne estas trovita",
         "unable_to_recover_account_not_change_ownership_recently": "We are unable to recover this account, it has not changed ownership recently.",
@@ -558,7 +558,7 @@
         "keep_me_logged_in": "Memori mian ensalutitan statuson",
         "amazing_community": "vigla komunumo",
         "to_comment_and_reward_others": " to comment and reward others.",
-        "signup_button": "Sign up now to earn ",
+        "signup_button": "Registriĝu nun por enspezi ",
         "signup_button_emphasis": "AKIRI STEEM SENPAGE!",
         "sign_up_get_steem": "Registriĝu. Akiri STEEM-on",
         "returning_users": "Revenantaj Uzantoj: ",

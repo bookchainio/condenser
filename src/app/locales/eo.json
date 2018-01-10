@@ -183,7 +183,7 @@
         "or_click_the_button_below_to_register_with_facebook": "Aŭ klaku la suban butonon por registriĝi per Facebook",
         "server_returned_error": "servilo respondis kun eraro",
         "APP_NAME_support": "Subteno por %(APP_NAME)s",
-        "please_email_questions_to": "Please email your questions to",
+        "please_email_questions_to": "Bonvolu retpoŝti viajn demandojn al",
         "next_7_strings_single_block": {
             "authors_get_paid_when_people_like_you_upvote_their_post": "Afiŝantoj estos pagataj kiam legantoj kiel vi porvoĉdoni ties afiŝon",
             "if_you_enjoyed_what_you_read_earn_amount": "Se vi ŝatas tiun kiun vi legas hodiaŭ, creu vian konton hodiaŭ kaj komencu enspezi SENPAGAN STEEM!",
@@ -315,7 +315,7 @@
         "order_cancelled": "Oferto %(order_id)s forigita.",
         "higher": "Pli Alta",
         "lower": "Pli Malalta",
-        "total_DEBT_TOKEN_SHORT_CURRENCY_SIGN": "Total %(DEBT_TOKEN_SHORT)s (%(CURRENCY_SIGN)s)"
+        "total_DEBT_TOKEN_SHORT_CURRENCY_SIGN": "Sumo %(DEBT_TOKEN_SHORT)s (%(CURRENCY_SIGN)s)"
     },
     "recoveraccountstep1_jsx": {
         "begin_recovery": "Komenci Restaŭron",
@@ -342,7 +342,7 @@
         "user_hasnt_made_any_posts_yet": "Looks like %(name)s hasn't made any posts yet!",
         "user_hasnt_started_bloggin_yet": "Looks like %(name)s hasn't started blogging yet!",
         "user_hasnt_followed_anything_yet": "Looks like %(name)s might not be following anyone yet! If %(name)s recently added new users to follow, their personalized feed will populate once new content is available.",
-        "user_hasnt_had_any_replies_yet": "%(name)s hasn't had any replies yet",
+        "user_hasnt_had_any_replies_yet": "%(name)s ankoraŭ ne havas iujn respondojn",
         "looks_like_you_havent_posted_anything_yet": "Verŝajne vi ankoraŭ ne afiŝas ion ajn.",
         "create_a_post": "Krei afiŝon",
         "explore_trending_articles": "Esplori Popularajn Artikolojn",
@@ -523,8 +523,8 @@
         "change_account_password": "Ŝanĝi Pasvorton de Konto",
         "create_account": "Krei Konton",
         "stolen_account_recovery": "Stolen Account Recovery",
-        "people_following": "People following",
-        "people_followed_by": "People followed by",
+        "people_following": "Sekvantoj",
+        "people_followed_by": "Sekvatoj de",
         "curation_rewards_by": "Kompensoj por zorgado de",
         "author_rewards_by": "Kompenso por afiŝanto de",
         "replies_to": "Respondoj al",
@@ -583,8 +583,8 @@
         "about_is_too_long": "Pri-Teksto estas tro longa",
         "location_is_too_long": "Loko estas tro longa",
         "website_url_is_too_long": "URL-o de Retejo estas tro longa",
-        "public_profile_settings": "Public Profile Settings",
-        "private_post_display_settings": "Private Post Display Settings",
+        "public_profile_settings": "Agordoj pri Publika Profilo",
+        "private_post_display_settings": "Agordoj pri la Montrado de Privataj Afiŝoj",
         "not_safe_for_work_nsfw_content": "Enhavo ne estas konvena por laborejo (NSFW)",
         "always_hide": "Ĉiam kaŝi",
         "always_warn": "Ĉiam atenti",

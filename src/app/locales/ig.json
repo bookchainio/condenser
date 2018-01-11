@@ -346,24 +346,24 @@
         "looks_like_you_havent_posted_anything_yet": "Odika izipubeghi post obula.",
         "create_a_post": "Deputa ederede",
         "explore_trending_articles": "Legharia anya na okwu akpu na-onu",
-        "read_the_quick_start_guide": "Read The Quick Start Guide",
-        "browse_the_faq": "Browse The FAQ",
-        "followers": "Followers",
-        "this_is_users_reputations_score_it_is_based_on_history_of_votes": "This is %(name)s's reputation score.\n\nThe reputation score is based on the history of votes received by the account, and is used to hide low quality content.",
+        "read_the_quick_start_guide": "Guo okwu ntizi aka nke nmalite",
+        "browse_the_faq": "Lee ihe FAQ",
+        "followers": "Ndi Ne-som",
+        "this_is_users_reputations_score_it_is_based_on_history_of_votes": "Nka a bu %(name)s's akara ogugu ugwu.\nAkara ugwu gbadoro ukwu na vote inatarala na account gi, anaejikwa ya ezo okwu ndi nabaghi uru.",
         "follower_count": {
-            "zero": "No followers",
-            "one": "1 follower",
-            "other": "%(count)s followers"
+            "zero": "Enweghi ndi enyi",
+            "one": "otu onye enyi",
+            "other": "Ndi enyi"
         },
         "followed_count": {
-            "zero": "Not following anybody",
-            "one": "1 following",
-            "other": "%(count)s following"
+            "zero": "Onweghi onye obula o na esonyere",
+            "one": "otu onye enyi",
+            "other": "Ndi enyi"
         },
         "post_count": {
-            "zero": "No posts",
-            "one": "1 post",
-            "other": "%(count)s posts"
+            "zero": "Onweghi ozi",
+            "one": "Otu ozi",
+            "other": "Ozi"
         }
     },
     "authorrewards_jsx": {

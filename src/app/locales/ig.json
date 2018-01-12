@@ -377,12 +377,12 @@
     "post_jsx": {
         "now_showing_comments_with_low_ratings": "Ugbaa o ga egosi okwu ndi na-abaghi na uru",
         "sort_order": "Etu osi egosi",
-        "comments_were_hidden_due_to_low_ratings": "Comments were hidden due to low ratings"
+        "comments_were_hidden_due_to_low_ratings": "Ezoro ederede n'ihi onwenyi etu osiri di"
     },
     "voting_jsx": {
-        "flagging_post_can_remove_rewards_the_flag_should_be_used_for_the_following": "Flagging a post can remove rewards and make this material less visible. Some common reasons to flag",
-        "disagreement_on_rewards": "Disagreement on rewards",
-        "fraud_or_plagiarism": "Fraud or Plagiarism",
+        "flagging_post_can_remove_rewards_the_flag_should_be_used_for_the_following": "Itinye flag ga-eme ka onu ego ya di nta. Ufodu ihe puru ime itinye flag",
+        "disagreement_on_rewards": "Okwu na uka n'ihi onu ego ya",
+        "fraud_or_plagiarism": "Aghogho na izu oshi oru onye ozo",
         "hate_speech_or_internet_trolling": "Hate Speech or Internet Trolling",
         "intentional_miss_categorized_content_or_spam": "Intentional miss-categorized content or Spam",
         "pending_payout": "Pending Payout $%(value)s",

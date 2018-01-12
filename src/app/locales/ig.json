@@ -397,23 +397,23 @@
         "changing_to_an_upvote": "Ngbanwo ka oburuzie ntunyere",
         "changing_to_a_downvote": "Ngbanwo ka oburuzie nkwuto",
         "confirm_flag": "Ikwuru na-ezie na ichonyi",
-        "and_more": "and %(count)s more",
+        "and_more": "na %(count)s ndi ozo",
         "votes_plural": {
-            "one": "%(count)s vote",
-            "other": "%(count)s votes"
+            "one": "tunye",
+            "other": "tunye"
         }
     },
     "witnesses_jsx": {
-        "witness_thread": "witness thread",
-        "top_witnesses": "Witness Voting",
+        "witness_thread": "gbasara ndi nnochi anya",
+        "top_witnesses": "Itunyere ndi nnochi anya",
         "you_have_votes_remaining": {
-            "zero": "You have no votes remaining",
-            "one": "You have 1 vote remaining",
-            "other": "You have %(count)s votes remaining"
+            "zero": "Inwenyi ihe ntunye foduru",
+            "one": "Inwere otu ntunye foduru",
+            "other": "Inwere ntunye foduru"
         },
-        "you_can_vote_for_maximum_of_witnesses": "You can vote for a maximum of 30 witnesses",
-        "witness": "Witness",
-        "information": "Information",
+        "you_can_vote_for_maximum_of_witnesses": "Inwere ohere ntunyere 30 nye ndi nnochi anya",
+        "witness": "Onye nnochi anya",
+        "information": "Ozi",
         "if_you_want_to_vote_outside_of_top_enter_account_name": "If you would like to vote for a witness outside of the top 50, enter the account name below to cast a vote",
         "set_witness_proxy": "You can also choose a proxy that will vote for witnesses for you. This will reset your current witness selection.",
         "witness_set": "You have set a voting proxy. If you would like to re-enable manual voting, please clear your proxy.",

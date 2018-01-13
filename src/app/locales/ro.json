@@ -1,7 +1,7 @@
 {
     "g": {
-        "age": "age",
-        "amount": "Amount",
+        "age": "vărsta",
+        "amount": "Suma",
         "and": "and",
         "are_you_sure": "Are you sure?",
         "ask": "Ask",

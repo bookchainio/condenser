@@ -232,23 +232,23 @@
         "sign_up": "Alătură-te",
         "learn_more": "Află mai multe",
         "welcome": "Bine ai venit",
-        "faq": "FAQ",
-        "shop": "The Steemit Shop",
-        "chat": "Steemit Chat",
-        "app_center": "Steemit App Center",
-        "api_docs": "Steemit API Docs",
+        "faq": "Întrebări frecvente",
+        "shop": "Magazinul Steemit",
+        "chat": "Chat Steemit",
+        "app_center": "Centrul Alplicații Steemit",
+        "api_docs": "Documente API Steemit",
         "bluepaper": "Steem Bluepaper",
         "smt_whitepaper": "SMT Whitepaper",
         "whitepaper": "Steem Whitepaper",
         "intro_tagline": "Money talks",
-        "intro_paragraph": "Your voice is worth something. Join the community that pays you to post and curate high quality content."
+        "intro_paragraph": "Vocea ta înseamnă ceva. Alătură-te comunității care te plătește să publici și să susții conținut de calitate înaltă."
     },
     "main_menu": {
-        "hot": "hot",
-        "trending": "trending"
+        "hot": "fierbinte",
+        "trending": "popular"
     },
     "reply_editor": {
-        "shorten_title": "Shorten title",
+        "shorten_title": "Scurtează titlul",
         "exceeds_maximum_length": "Exceeds maximum length (%(maxKb)sKB)",
         "including_the_category": " (including the category '%(rootCategory)s')",
         "use_limited_amount_of_tags": "You have %(tagsLength)s tags total%(includingCategory)s. Please use only 5 in your post and category line.",

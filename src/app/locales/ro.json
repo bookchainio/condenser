@@ -376,12 +376,12 @@
     },
     "post_jsx": {
         "now_showing_comments_with_low_ratings": "Now showing comments with low ratings",
-        "sort_order": "Sort Order",
-        "comments_were_hidden_due_to_low_ratings": "Comments were hidden due to low ratings"
+        "sort_order": "Sortare Comandă",
+        "comments_were_hidden_due_to_low_ratings": "Comentariile au fost ascunse din cauza ratingurilor scăzute"
     },
     "voting_jsx": {
-        "flagging_post_can_remove_rewards_the_flag_should_be_used_for_the_following": "Flagging a post can remove rewards and make this material less visible. Some common reasons to flag",
-        "disagreement_on_rewards": "Disagreement on rewards",
+        "flagging_post_can_remove_rewards_the_flag_should_be_used_for_the_following": "Marcarea unui articol poate duce la pierderea recompenselor și poate face materialul mai puțin vizibil. Câteva motive frecvente pentru marcare",
+        "disagreement_on_rewards": "Dezacord pentru recompense",
         "fraud_or_plagiarism": "Fraud or Plagiarism",
         "hate_speech_or_internet_trolling": "Hate Speech or Internet Trolling",
         "intentional_miss_categorized_content_or_spam": "Intentional miss-categorized content or Spam",

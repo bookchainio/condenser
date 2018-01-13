@@ -382,7 +382,7 @@
     "voting_jsx": {
         "flagging_post_can_remove_rewards_the_flag_should_be_used_for_the_following": "Marcarea unui articol poate duce la pierderea recompenselor și poate face materialul mai puțin vizibil. Câteva motive frecvente pentru marcare",
         "disagreement_on_rewards": "Dezacord pentru recompense",
-        "fraud_or_plagiarism": "Fraud or Plagiarism",
+        "fraud_or_plagiarism": "Fraudă sau Plagiat",
         "hate_speech_or_internet_trolling": "Hate Speech or Internet Trolling",
         "intentional_miss_categorized_content_or_spam": "Intentional miss-categorized content or Spam",
         "pending_payout": "Pending Payout $%(value)s",
@@ -430,21 +430,21 @@
             "other": "%(count)s responses. Click to respond."
         },
         "vote_count": {
-            "zero": "no votes",
-            "one": "1 vote",
-            "other": "%(count)s votes"
+            "zero": "nici un vot",
+            "one": "1 vot",
+            "other": "%(count)s voturi"
         }
     },
     "userkeys_jsx": {
         "public": "Public",
-        "private": "Private",
-        "public_something_key": "Public %(key)s Key",
-        "private_something_key": "Private %(key)s Key",
-        "posting_key_is_required_it_should_be_different": "The posting key is used for posting and voting. It should be different from the active and owner keys.",
-        "the_active_key_is_used_to_make_transfers_and_place_orders": "The active key is used to make transfers and place orders in the internal market.",
-        "the_owner_key_is_required_to_change_other_keys": "The owner key is the master key for the account and is required to change the other keys.",
-        "the_private_key_or_password_should_be_kept_offline": "The private key or password for the owner key should be kept offline as much as possible.",
-        "the_memo_key_is_used_to_create_and_read_memos": "The memo key is used to create and read memos."
+        "private": "Privat",
+        "public_something_key": "Cheie %(key)s publică",
+        "private_something_key": "Cheie %(key)s privată",
+        "posting_key_is_required_it_should_be_different": "Cheia de publicare este folosită pentru a publica și vota. Ar trebui să fie diferită față de cheia activă și față de cheia proprietarului.",
+        "the_active_key_is_used_to_make_transfers_and_place_orders": "Cheia activă este folosită pentru a face transferuri și a plasa comenzi pe piața internă.",
+        "the_owner_key_is_required_to_change_other_keys": "Cheia proprietatului este cheia principală a contului și este necesară pentru a le schimba pe celelalte.",
+        "the_private_key_or_password_should_be_kept_offline": "Cheia privată sau parola pentru cheia proprietarului ar trebuie să fie ținută offline, cât mai mult posibil.",
+        "the_memo_key_is_used_to_create_and_read_memos": "Cheia memo este folosită pentru a citi notele."
     },
     "suggestpassword_jsx": {
         "APP_NAME_cannot_recover_passwords_keep_this_page_in_a_secure_location": "%(APP_NAME)s cannot recover passwords. Keep this page in a secure location, such as a fireproof safe or safety deposit box.",

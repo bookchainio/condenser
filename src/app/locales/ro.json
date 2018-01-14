@@ -193,16 +193,16 @@
         "next_3_strings_together": {
             "show_more": "Arată mai mult",
             "show_less": "Arată mai puțin",
-            "value_posts": "low value posts"
+            "value_posts": "articole de calitate slabă"
         },
         "read_only_mode": "Due to server maintenance we are running in read only mode. We are sorry for the inconvenience.",
-        "tags_and_topics": "Tags",
-        "show_more_topics": "View all tags",
-        "basic": "Basic",
-        "advanced": "Advanced",
+        "tags_and_topics": "Etighete",
+        "show_more_topics": "Vezi toate etichetele",
+        "basic": "De bază",
+        "advanced": "Avansat",
         "views": {
-            "zero": "No Views",
-            "one": "%(count)s View",
+            "zero": "Nici o vizualizare",
+            "one": "%(count)s Vizualizări",
             "other": "Vizualizări %(count)s"
         },
         "responses": {
@@ -305,14 +305,14 @@
         "highest_bid": "Highest bid",
         "buy_orders": "Buy Orders",
         "sell_orders": "Sell Orders",
-        "trade_history": "Trade History",
-        "open_orders": "Open Orders",
-        "sell_amount_for_atleast": "Sell %(amount_to_sell)s for at least %(min_to_receive)s (%(effectivePrice)s)",
-        "buy_atleast_amount_for": "Buy at least %(min_to_receive)s for %(amount_to_sell)s (%(effectivePrice)s)",
-        "price_warning_above": "This price is well above the current market price of %(marketPrice)s, are you sure?",
-        "price_warning_below": "This price is well below the current market price of %(marketPrice)s, are you sure?",
-        "order_cancel_confirm": "Cancel order %(order_id)s from %(user)s?",
-        "order_cancelled": "Order %(order_id)s cancelled.",
+        "trade_history": "Istoricul Tranzacțiilor",
+        "open_orders": "Comenzi Deschise",
+        "sell_amount_for_atleast": "Vinde %(amount_to_sell)s pentru cel puțin %(min_to_receive)s (%(effectivePrice)s)",
+        "buy_atleast_amount_for": "Cumpără cel puțin %(min_to_receive)s pentru %(amount_to_sell)s (%(effectivePrice)s)",
+        "price_warning_above": "Prețul este mult peste prețul actual al pieței de %(marketPrice)s, ești sigur?",
+        "price_warning_below": "Prețul este mult sub prețul actual al pieței de %(marketPrice)s, ești sigur?",
+        "order_cancel_confirm": "Anulare comandă %(order_id)s din %(user)s?",
+        "order_cancelled": "Comanda %(order_id)s a fost anulată.",
         "higher": "Higher",
         "lower": "Lower",
         "total_DEBT_TOKEN_SHORT_CURRENCY_SIGN": "Total %(DEBT_TOKEN_SHORT)s (%(CURRENCY_SIGN)s)"

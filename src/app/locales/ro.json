@@ -461,8 +461,8 @@
     "tips_js": {
         "liquid_token": "Tokeni care pot fi tranzacționați pot fi transferați oriunde și oricând. <br/>%(LIQUID_TOKEN)s pot fi convertiți în %(VESTING_TOKEN)s într-un proces numit powering up.",
         "influence_token": "Tokeni de influență care îți dau mai mult control asupra plăților articolelor și îți permit să câștigi mai mult din recompensele primite din votarea articolelor.",
-        "estimated_value": "The estimated value is based on an average value of %(LIQUID_TOKEN)s in US dollars.",
-        "non_transferable": "%(VESTING_TOKEN)s is non-transferable and requires 3 months (13 payments) to convert back to %(LIQUID_TOKEN)s.",
+        "estimated_value": "Valoarea estimativă este bazată pe valoarea medie a %(LIQUID_TOKEN)s în dolari americani.",
+        "non_transferable": "%(VESTING_TOKEN)s nu sunt transferabili și necesită 3 luni (13 plăți) pentru a fi convertiți înapoi în %(LIQUID_TOKEN)s.",
         "converted_VESTING_TOKEN_can_be_sent_to_yourself_but_can_not_transfer_again": "Converted %(VESTING_TOKEN)s can be sent to yourself or someone else but can not transfer again without converting back to %(LIQUID_TOKEN)s.",
         "part_of_your_steem_power_is_currently_delegated": "Part of %(user_name)s's STEEM POWER is currently delegated. Delegation is donated for influence or to help new users perform actions on steemit. Your delegation amount can fluctuate."
     },

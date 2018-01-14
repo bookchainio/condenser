@@ -341,15 +341,15 @@
         "unknown_account": "Cont Necunoscut",
         "user_hasnt_made_any_posts_yet": "Se pare că %(name)s nu a publicat nimic încă!",
         "user_hasnt_started_bloggin_yet": "Se pare că %(name)s nu a început să publice nimic încă!",
-        "user_hasnt_followed_anything_yet": "Looks like %(name)s might not be following anyone yet! If %(name)s recently added new users to follow, their personalized feed will populate once new content is available.",
-        "user_hasnt_had_any_replies_yet": "%(name)s hasn't had any replies yet",
+        "user_hasnt_followed_anything_yet": "Se pare că %(name)s nu urmăresc pe nimeni, încă! Dacă %(name)s au adăugat recent noi utilizatori pe care îi urmăresc, în noutățiile lor personalizate o să apară conținutul disponibil.",
+        "user_hasnt_had_any_replies_yet": "%(name)s nu are răspunsuri încă",
         "looks_like_you_havent_posted_anything_yet": "Se pare că nu ai publicat nimic încă.",
-        "create_a_post": "Create a Post",
+        "create_a_post": "Crează un Articol",
         "explore_trending_articles": "Explorează Atricolele Populare",
-        "read_the_quick_start_guide": "Read The Quick Start Guide",
+        "read_the_quick_start_guide": "Citește Ghidul de Inițiere Rapidă",
         "browse_the_faq": "Răsfoiește întrebările frecvente",
         "followers": "Urmăritori",
-        "this_is_users_reputations_score_it_is_based_on_history_of_votes": "This is %(name)s's reputation score.\n\nThe reputation score is based on the history of votes received by the account, and is used to hide low quality content.",
+        "this_is_users_reputations_score_it_is_based_on_history_of_votes": "Aceasta este %(name)s scorul reputației.\nScorul reputației este bazat pe istoricul voturilor primite de cont, și este folosit pentru a ascunde conținutul de calitate slabă.",
         "follower_count": {
             "zero": "Nici un urmăritor",
             "one": "1 urmăritor",
@@ -361,13 +361,13 @@
             "other": "%(count)s following"
         },
         "post_count": {
-            "zero": "No posts",
-            "one": "1 post",
-            "other": "%(count)s posts"
+            "zero": "Nici un articol",
+            "one": "1 articol",
+            "other": "%(count)s articole"
         }
     },
     "authorrewards_jsx": {
-        "estimated_author_rewards_last_week": "Estimated author rewards last week",
+        "estimated_author_rewards_last_week": "Suma estimativă de recompense pentru autor, din săptămâna trecută",
         "author_rewards_history": "Istoricul Recompenselor de Autor"
     },
     "curationrewards_jsx": {
@@ -386,26 +386,26 @@
         "hate_speech_or_internet_trolling": "Hate Speech or Internet Trolling",
         "intentional_miss_categorized_content_or_spam": "Intentional miss-categorized content or Spam",
         "pending_payout": "Pending Payout $%(value)s",
-        "payout_declined": "Payout Declined",
+        "payout_declined": "Plată Refuzată",
         "max_accepted_payout": "Max Accepted Payout $%(value)s",
         "promotion_cost": "Promotion Cost $%(value)s",
         "past_payouts": "Past Payouts $%(value)s",
         "past_payouts_author": " - Author $%(value)s",
         "past_payouts_curators": " - Curators $%(value)s",
         "we_will_reset_curation_rewards_for_this_post": "will reset your curation rewards for this post",
-        "removing_your_vote": "Removing your vote",
+        "removing_your_vote": "Înlătură-ți votul",
         "changing_to_an_upvote": "Changing to an Up-Vote",
         "changing_to_a_downvote": "Changing to a Down-Vote",
         "confirm_flag": "Confirm Flag",
         "and_more": "and %(count)s more",
         "votes_plural": {
-            "one": "%(count)s vote",
-            "other": "%(count)s votes"
+            "one": "%(count)s vot",
+            "other": "%(count)s voturi"
         }
     },
     "witnesses_jsx": {
         "witness_thread": "witness thread",
-        "top_witnesses": "Witness Voting",
+        "top_witnesses": "Votare Martori",
         "you_have_votes_remaining": {
             "zero": "You have no votes remaining",
             "one": "You have 1 vote remaining",
@@ -459,8 +459,8 @@
         "DEBT_TOKEN_will_be_unavailable": "This action will take place 3.5 days from now and can not be canceled. These %(DEBT_TOKEN)s will immediately become unavailable"
     },
     "tips_js": {
-        "liquid_token": "Tradeable tokens that may be transferred anywhere at anytime.<br/>%(LIQUID_TOKEN)s can be converted to %(VESTING_TOKEN)s in a process called powering up.",
-        "influence_token": "Influence tokens which give you more control over post payouts and allow you to earn on curation rewards.",
+        "liquid_token": "Tokeni care pot fi tranzacționați pot fi transferați oriunde și oricând. <br/>%(LIQUID_TOKEN)s pot fi convertiți în %(VESTING_TOKEN)s într-un proces numit powering up.",
+        "influence_token": "Tokeni de influență care îți dau mai mult control asupra plăților articolelor și îți permit să câștigi mai mult din recompensele primite din votarea articolelor.",
         "estimated_value": "The estimated value is based on an average value of %(LIQUID_TOKEN)s in US dollars.",
         "non_transferable": "%(VESTING_TOKEN)s is non-transferable and requires 3 months (13 payments) to convert back to %(LIQUID_TOKEN)s.",
         "converted_VESTING_TOKEN_can_be_sent_to_yourself_but_can_not_transfer_again": "Converted %(VESTING_TOKEN)s can be sent to yourself or someone else but can not transfer again without converting back to %(LIQUID_TOKEN)s.",

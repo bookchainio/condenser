@@ -397,7 +397,7 @@
         "changing_to_an_upvote": "Changing to an Up-Vote",
         "changing_to_a_downvote": "Changing to a Down-Vote",
         "confirm_flag": "Confirm Flag",
-        "and_more": "and %(count)s more",
+        "and_more": "si mai multe %(count)s",
         "votes_plural": {
             "one": "%(count)s vot",
             "other": "%(count)s voturi"

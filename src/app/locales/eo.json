@@ -324,7 +324,7 @@
         "unable_to_recover_account_not_change_ownership_recently": "We are unable to recover this account, it has not changed ownership recently.",
         "password_not_used_in_last_days": "Ĉi tiu pasvorto ne estis uzata en ĉi tiu konto dum la lastaj 30 tagoj.",
         "request_already_submitted_contact_support": "Your request has been already submitted and we are working on it. Please contact %(SUPPORT_EMAIL)s for the status of your request.",
-        "recover_account_intro": "From time to time, a Steemian's owner key may be compromised. Stolen Account Recovery gives the rightful account owner 30 days to recover their account from the moment the thief changed their owner key. Stolen Account Recovery can only be used on %(APP_URL)s if the account owner had previously listed '%(APP_NAME)s' as their account trustee and complied with %(APP_NAME)s's Terms of Service.",
+        "recover_account_intro": "De tempo al tempo, mastroŝlosilo de Steem-ano estos malkonfidenciga. Restaŭro de Ŝtelita Konto donas al la rajta propranto de la konto 30 tagojn por restaŭri ties konton de la momento, kiam la ŝtelisto ŝanĝis ties mastroŝlosilon. Restaŭro de Ŝtelita Konto nur povas esti uzata en %(APP_URL)s se la propranto de la konto antaŭe nomis %(APP_NAME)s kiel ties sindiko, kaj konformis laŭ la Regularo de Servo de %(APP_NAME)s.",
         "login_with_facebook_or_reddit_media_to_verify_identity": "Bonvolu ensaluti per Facebook aŭ Reddit por verigi vian identeco",
         "login_with_social_media_to_verify_identity": "Bonvolu ensaluti per %(provider)s por verigi vian identeco",
         "enter_email_toverify_identity": "Ni nepre verigi vian identecon. Bonvolu entajpi vian retpoŝtadreson suben por komencigi la verigadon.",

@@ -164,7 +164,7 @@
         "account_name_should_be_longer": "Salutnomo estu pli longa.",
         "account_name_should_have_only_letters_digits_or_dashes": "Salutnomo havu nur literojn, ciferojn, punktojn, aŭ strekojn.",
         "cannot_increase_reward_of_post_within_the_last_minute_before_payout": "Ne eblas pligrandigi rekompenson de afiŝo en la lasta minuto antaŭ pagado",
-        "vote_currently_exists_user_must_be_indicate_a_to_reject_witness": "vote currently exists, user must be indicate a desire to reject witness",
+        "vote_currently_exists_user_must_be_indicate_a_to_reject_witness": "voĉdono nune ekzistas, do uzanto devas indiki deziron malaprobi atestanton",
         "only_one_APP_NAME_account_allowed_per_ip_address_every_10_minutes": "Only one Steem account allowed per IP address every 10 minutes",
         "resteem_this_post": "Reafiŝis Ĉi Tiun Afiŝon",
         "reblog": "Reafiŝi",

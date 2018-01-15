@@ -274,12 +274,12 @@
         "tag_your_story": "Etichetã (pânã la 5 etichete), prima etichetã reprezintã categoria ta principalã.",
         "select_a_tag": "Selecteazã o etichetã",
         "maximum_tag_length_is_24_characters": "Lungimea maximã a unei etichete este de 24 caractere",
-        "use_limited_amount_of_categories": "Please use only %(amount)s categories",
+        "use_limited_amount_of_categories": "Te rugãm sã folosesti doar %(amount)s categorii",
         "use_only_lowercase_letters": "Use only lowercase letters",
         "use_one_dash": "Use only one dash",
-        "use_spaces_to_separate_tags": "Use spaces to separate tags",
+        "use_spaces_to_separate_tags": "Foloseste spatii pentru a separa etichetele",
         "use_only_allowed_characters": "Use only lowercase letters, digits and one dash",
-        "must_start_with_a_letter": "Must start with a letter",
+        "must_start_with_a_letter": "Trebuie sã înceapã cu o literã",
         "must_end_with_a_letter_or_number": "Must end with a letter or number"
     },
     "postfull_jsx": {

@@ -447,7 +447,7 @@
         "the_memo_key_is_used_to_create_and_read_memos": "The memo key is used to create and read memos."
     },
     "suggestpassword_jsx": {
-        "APP_NAME_cannot_recover_passwords_keep_this_page_in_a_secure_location": "%(APP_NAME)s cannot recover passwords. Keep this page in a secure location, such as a fireproof safe or safety deposit box.",
+        "APP_NAME_cannot_recover_passwords_keep_this_page_in_a_secure_location": "%(APP_NAME)s ne povas restaŭri pasvortojn. Tenu ĉi tiun paĝon en sekurejo, kiel fajroimuna dokumentŝranko aŭ banka sekurskatolo.",
         "APP_NAME_password_backup": "Savkopio de Pasvorto ĉe %(APP_NAME)s",
         "APP_NAME_password_backup_required": "Savkopio de Pasvorto ĉe %(APP_NAME)s (nepra)",
         "after_printing_write_down_your_user_name": "After printing, write down your user name"
@@ -461,8 +461,8 @@
     "tips_js": {
         "liquid_token": "Tradeable tokens that may be transferred anywhere at anytime.<br/>%(LIQUID_TOKEN)s can be converted to %(VESTING_TOKEN)s in a process called powering up.",
         "influence_token": "Influence tokens which give you more control over post payouts and allow you to earn on curation rewards.",
-        "estimated_value": "The estimated value is based on an average value of %(LIQUID_TOKEN)s in US dollars.",
-        "non_transferable": "%(VESTING_TOKEN)s is non-transferable and requires 3 months (13 payments) to convert back to %(LIQUID_TOKEN)s.",
+        "estimated_value": "La taksata valoro estas bazita de la averaĝa valoro po %(LIQUID_TOKEN)s por Usonaj dolaroj.",
+        "non_transferable": "%(VESTING_TOKEN)s ne estas interŝanĝebla, kaj devigas 3 monatojn (13 pagerojn) por rekonverti al %(LIQUID_TOKEN)s.",
         "converted_VESTING_TOKEN_can_be_sent_to_yourself_but_can_not_transfer_again": "Converted %(VESTING_TOKEN)s can be sent to yourself or someone else but can not transfer again without converting back to %(LIQUID_TOKEN)s.",
         "part_of_your_steem_power_is_currently_delegated": "Parto de la STEEM POWER de %(user_name)s estas nune delegita. Delegado estas donata por influi aŭ help novulojn fari agojn en Steemit. La iomo da via delegado povas varii."
     },

@@ -212,7 +212,7 @@
         },
         "post_key_warning": {
             "confirm": "Vi baldaŭ publikigos privatan ŝlosilon aŭ mastropasvorton de STEEM. Vi probable perdos posedon de la rilata konto kaj ĉiom da ĝiaj fondusoj.",
-            "warning": "Legitimate users, including employees of Steemit Inc., will never ask you for a private key or master password.",
+            "warning": "Legitimaj uzantoj, inkluzivante laboristojn de Steemit Inc., neniam demandos al vi vian privatan ŝlosilon aŭ mastropasvorton.",
             "checkbox": "Mi komprenas"
         }
     },
@@ -288,7 +288,7 @@
         "share_on_twitter": "Disvastigi per Twitter",
         "share_on_linkedin": "Disvastigi per LinkedIn",
         "recent_password": "Lastatempa Pasvorto",
-        "in_week_convert_DEBT_TOKEN_to_LIQUID_TOKEN": "In 3.5 days, convert %(amount)s %(DEBT_TOKEN)s into %(LIQUID_TOKEN)s",
+        "in_week_convert_DEBT_TOKEN_to_LIQUID_TOKEN": "Post 3,5 tagoj, konvertu %(amount)s %(DEBT_TOKEN)s al %(LIQUID_TOKEN)s",
         "view_the_full_context": "Vidi plenan kuntekston",
         "view_the_direct_parent": "Vidi la rektan patron",
         "you_are_viewing_a_single_comments_thread_from": "Vi rigardas fadenon de unuopa komento de"
@@ -321,7 +321,7 @@
         "begin_recovery": "Komenci Restaŭron",
         "not_valid": "Malvalida",
         "account_name_is_not_found": "Salutnomo ne estas trovita",
-        "unable_to_recover_account_not_change_ownership_recently": "We are unable to recover this account, it has not changed ownership recently.",
+        "unable_to_recover_account_not_change_ownership_recently": "Ni ne eblas restaŭri ĉi tiun konton. Ĝia proprieto ne ŝanĝiĝis lastatempe.",
         "password_not_used_in_last_days": "Ĉi tiu pasvorto ne estis uzata en ĉi tiu konto dum la lastaj 30 tagoj.",
         "request_already_submitted_contact_support": "Via peto estis jam sendita, kaj ni prizorgas ĝin. Bonvolu kontakti %(SUPPORT_EMAIL)s pri la statuso de via peto.",
         "recover_account_intro": "De tempo al tempo, mastroŝlosilo de Steem-ano estos malkonfidenciga. Restaŭro de Ŝtelita Konto donas al la rajta propranto de la konto 30 tagojn por restaŭri ties konton de la momento, kiam la ŝtelisto ŝanĝis ties mastroŝlosilon. Restaŭro de Ŝtelita Konto nur povas esti uzata en %(APP_URL)s se la propranto de la konto antaŭe nomis %(APP_NAME)s kiel ties sindiko, kaj konformis laŭ la Regularo de Servo de %(APP_NAME)s.",
@@ -380,7 +380,7 @@
         "comments_were_hidden_due_to_low_ratings": "Komentoj estis kaŝitaj pro malalta estimo"
     },
     "voting_jsx": {
-        "flagging_post_can_remove_rewards_the_flag_should_be_used_for_the_following": "Flagging a post can remove rewards and make this material less visible. Some common reasons to flag",
+        "flagging_post_can_remove_rewards_the_flag_should_be_used_for_the_following": "Flagante afiŝon povas forviŝi komencojn, kaj fari ĉi tiun afiŝon malpli videbla. Jen oftaj kialoj por flagi",
         "disagreement_on_rewards": "Malkonsento pri kompensoj",
         "fraud_or_plagiarism": "Fraŭdo aŭ Plagiato",
         "hate_speech_or_internet_trolling": "Malama Diskurso aŭ Interreta Trolado",

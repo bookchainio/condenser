@@ -533,7 +533,7 @@
     "loginform_jsx": {
         "you_need_a_private_password_or_key": "Vi bezonas privatan pasvorton aŭ ŝlosilon (ne publikan ŝlosilon)",
         "cryptography_test_failed": "Kriptografia testo malsukcesis",
-        "unable_to_log_you_in": "We will be unable to log you in with this browser.",
+        "unable_to_log_you_in": "Ni neeblos ensaluti vin per ĉi tiu retumilo.",
         "the_latest_versions_of": "La lastaj versioj de ",
         "are_well_tested_and_known_to_work_with": "estas bone testita, kaj sciata funkcii kun %(APP_URL)s.",
         "due_to_server_maintenance": "Pro servila prizorgado, ni nune funkcias en nurlega reĝimo. Ni pardonpetas pro la maloportuneco.",
@@ -631,7 +631,7 @@
         "tokens_worth_about_1_of_LIQUID_TICKER": "Ĵetonoj valorita pli malpli $1.00 USD de %(LIQUID_TICKER)s, nune kolektante %(sbdInterest)s%% jaran procentan interezon.",
         "savings": "BANKO",
         "estimated_account_value": "Taksata Valoro de Konto",
-        "next_power_down_is_scheduled_to_happen": "The next power down is scheduled to happen",
+        "next_power_down_is_scheduled_to_happen": "La sekva malstartado estas planata okazi",
         "transfers_are_temporary_disabled": "Interŝanĝoj provizore estas malŝaltaj.",
         "history": "HISTORIO",
         "redeem_rewards": "Elaĉeti Kompensojn (Sendi al Bilanco)",

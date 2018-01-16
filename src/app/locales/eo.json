@@ -492,7 +492,7 @@
     },
     "posts_index": {
         "empty_feed_1": "Verŝajne vi ankoraŭ ne sekvas ion ajn",
-        "empty_feed_2": "If you recently added new users to follow, your personalized feed will populate once new content is available",
+        "empty_feed_2": "Se vi lastatempe aldonis novajn uzantojn por sekvi, via talorita fluo pleniĝos post nova enhavo disponas",
         "empty_feed_3": "Esplori Popularajn Artikolojn",
         "empty_feed_4": "Legu la Rapidkomencan Gvidilon",
         "empty_feed_5": "Tralegi La Oftajn Demandojn"
@@ -614,7 +614,7 @@
         "from": "De",
         "to": "Al",
         "asset_currently_collecting": "%(asset)s nune kolektas %(interest)s%% jaran procentan interezon.",
-        "beware_of_spam_and_phishing_links": "Beware of spam and phishing links in transfer memos. Do not open links from users you do not trust. Do not provide your private keys to any third party websites.",
+        "beware_of_spam_and_phishing_links": "Atentu spamon kaj fraŭdaj ligiloj en interŝanĝaj notoj. Ne malfermu ligilojn de uzantoj kiujn vi ne fidas. Ne provizu viajn privatajn ŝlosilojn al iuj ajn eksterpartiaj retejoj.",
         "autocomplete_previous_transfers": "antaŭaj interŝanĝoj",
         "autocomplete_user_following": "abontante"
     },

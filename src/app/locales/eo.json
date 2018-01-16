@@ -443,8 +443,8 @@
         "posting_key_is_required_it_should_be_different": "La afiŝada ŝlosilo estas uzata por afiŝi kaj voĉdoni. Ĝi estu malsama de la aktiva kaj proprieta ŝlosiloj.",
         "the_active_key_is_used_to_make_transfers_and_place_orders": "La aktiva ŝlosilo estas uzata por fari interŝanĝojn kaj mendojn en la interna borso.",
         "the_owner_key_is_required_to_change_other_keys": "La proprieta ŝlosilo estas la mastroŝlosilo por la konto, kaj estas nepra por ŝanĝi la aliajn ŝlosilojn.",
-        "the_private_key_or_password_should_be_kept_offline": "The private key or password for the owner key should be kept offline as much as possible.",
-        "the_memo_key_is_used_to_create_and_read_memos": "The memo key is used to create and read memos."
+        "the_private_key_or_password_should_be_kept_offline": "La privata ŝlosilo aŭ pasvorto por la proprieta ŝlosilo devas esti gardita senkonekte se eble.",
+        "the_memo_key_is_used_to_create_and_read_memos": "La nota ŝlosilo estas uzata por krei kaj legi notojn."
     },
     "suggestpassword_jsx": {
         "APP_NAME_cannot_recover_passwords_keep_this_page_in_a_secure_location": "%(APP_NAME)s ne povas restaŭri pasvortojn. Tenu ĉi tiun paĝon en sekurejo, kiel fajroimuna dokumentŝranko aŭ banka sekurskatolo.",

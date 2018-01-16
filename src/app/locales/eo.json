@@ -641,7 +641,7 @@
         "power_down": "Malŝalti",
         "amount": "Sumo",
         "already_power_down": "You are already powering down %(AMOUNT)s %(LIQUID_TICKER)s (%(WITHDRAWN)s %(LIQUID_TICKER)s paid out so far). Note that if you change the power down amount the payout schedule will reset.",
-        "delegating": "You are delegating %(AMOUNT)s %(LIQUID_TICKER)s. That amount is locked up and not available to power down until the delegation is removed and a full reward period has passed.",
+        "delegating": "Vi deligas %(AMOUNT)s %(LIQUID_TICKER)s. Tiom estos malŝlosita kaj ne dispona por malstarti ĝis la deligado estas forigita kaj preter la plena kompenco-periodo.",
         "per_week": "Tio estas po ~%(AMOUNT)s %(LIQUID_TICKER)s por semajno.",
         "warning": "Lasante malpli ol %(AMOUNT)s %(VESTING_TOKEN)s en via konto ne estas rekomenda, kaj povas fuŝi vian konton.",
         "error": "Ne eblas malŝalti (ERARO: %(MESSAGE)s)"

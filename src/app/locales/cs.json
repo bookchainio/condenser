@@ -324,17 +324,17 @@
         "unable_to_recover_account_not_change_ownership_recently": "Nejsme schopni obnovit tento účet, vlastnictví nebylo v nedávné minulosti změněno.",
         "password_not_used_in_last_days": "Toto heslo nebylo použito pro tento účet v posledních 30 dnech.",
         "request_already_submitted_contact_support": "Váš požadavek byl již odeslán a pracujeme na něm. Pro zjištění stavu požadavku se obraťte na %(SUPPORT_EMAIL)s.",
-        "recover_account_intro": "Občas může být vlastnický klíč Steemiana prozrazen. Od doby, kdy byl změněn majitel klíče, má právoplatný majitel účtu 30 dní na obnovení účtu. Zkrácené obnovení účtu lze použít pouze na %(APP_URL)s, pokud vlastník účtu dříve uvedl%(APP_NAME)s' jako svého správce účtu a splnil smluvní podmínky služby'%(APP_NAME)s.",
-        "login_with_facebook_or_reddit_media_to_verify_identity": "Přihlaste se pomocí Facebooku nebo Reddit, k ověření vaší identity",
-        "login_with_social_media_to_verify_identity": "Přihlaste se prosím %(provider)s k ověření vaší identity",
-        "enter_email_toverify_identity": "Potřebujeme ověřit vaši identitu. Zadejte prosím níže vaši e-mailovou adresu zahájíte ověření.",
+        "recover_account_intro": "Někdy může být vlastnický klíč k účtu vyzrazen. Proces obnovení účtu dává právoplatnému majiteli od okamžiku, kdy zloděj změnil vlastnický klíč, 30 dní na obnovu účtu. Proces obnovení účtu lze využít jen v rámci %(APP_URL)s, pokud vlastník účtu v minulosti zařadil %(APP_NAME)s mezi správce účtu a souhlasil s podmínkami využití %(APP_NAME)s.",
+        "login_with_facebook_or_reddit_media_to_verify_identity": "Pro ověření vaší identity se přihlaste pomocí Facebooku nebo Reddit",
+        "login_with_social_media_to_verify_identity": "Pro ověření vaší identity se prosím přihlaste přes %(provider)s",
+        "enter_email_toverify_identity": "Potřebujeme ověřit vaši identitu. Zadejte prosím níže vaši e-mailovou adresu k zahájení ověřování.",
         "continue_with_email": "Pokračovat vložením e-mailu",
         "thanks_for_submitting_request_for_account_recovery": "Děkujeme vám za zaslání požadavku o obnovu účtu pomocí multifaktorové autentifikace založené na blockchainu aplikace %(APP_NAME)s. Odpovíme vám tak rychle, jak to bude možné. Přesto, prosím, počítejte s tím, že vzhledem k vysokému počtu e-mailů může dojít k jistému zdržení. Buďte prosím připravení na ověření vaší identity.",
         "recovering_account": "Obnovování účtu",
         "recover_account": "Obnovit účet",
         "checking_account_owner": "Ověřování majitele účtu",
         "sending_recovery_request": "Zasílání žádosti o obnovu",
-        "cant_confirm_account_ownership": "Nemůžeme potvrdit vlastnictví účtu. Zkontrolujte váš účet",
+        "cant_confirm_account_ownership": "Nemůžeme potvrdit vlastnictví účtu. Zkontrolujte vaše heslo",
         "account_recovery_request_not_confirmed": "Žádost o obnovu účtu doposud nebyla schválena. Zkuste to, prosím, později. Děkujeme vám za vaši trpělivost."
     },
     "user_profile": {
@@ -358,7 +358,7 @@
         "followed_count": {
             "zero": "Nesledovat nikoho",
             "one": "1 sledující",
-            "other": "%(count)s Sledující"
+            "other": "%(count)s sledujících"
         },
         "post_count": {
             "zero": "Žádné příspěvky",
@@ -440,8 +440,8 @@
         "private": "Soukromý",
         "public_something_key": "Veřejný %(key)s klíč",
         "private_something_key": "Soukromý %(key)s klíč",
-        "posting_key_is_required_it_should_be_different": "Odesílací klíč je používán pro odesílání příspěvků a hlasování. Měl by být rozdílný od aktivního a vlastnického klíče.",
-        "the_active_key_is_used_to_make_transfers_and_place_orders": "Aktivní klíč se používá pro převody a zadání objednávek na vnitřním trhu.",
+        "posting_key_is_required_it_should_be_different": "Publikační klíč je používán pro odesílání příspěvků a hlasování. Měl by být jiný než aktivní a vlastnický klíč.",
+        "the_active_key_is_used_to_make_transfers_and_place_orders": "Aktivní klíč se používá pro převody a podávání příkazů na vnitřním trhu.",
         "the_owner_key_is_required_to_change_other_keys": "Klíč majitele je hlavním klíčem účtu a vyžaduje se změna ostatních klíčů.",
         "the_private_key_or_password_should_be_kept_offline": "Soukromý klíč nebo heslo pro klíč vlastníka by měl být udržován nejlépe offline.",
         "the_memo_key_is_used_to_create_and_read_memos": "Poznámkový klíč se používá pro tvorbu a čtení poznámek."

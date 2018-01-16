@@ -450,7 +450,7 @@
         "APP_NAME_cannot_recover_passwords_keep_this_page_in_a_secure_location": "%(APP_NAME)s ne povas restaŭri pasvortojn. Tenu ĉi tiun paĝon en sekurejo, kiel fajroimuna dokumentŝranko aŭ banka sekurskatolo.",
         "APP_NAME_password_backup": "Savkopio de Pasvorto ĉe %(APP_NAME)s",
         "APP_NAME_password_backup_required": "Savkopio de Pasvorto ĉe %(APP_NAME)s (nepra)",
-        "after_printing_write_down_your_user_name": "After printing, write down your user name"
+        "after_printing_write_down_your_user_name": "Post printado, surskribu vian salutnomon"
     },
     "converttosteem_jsx": {
         "your_existing_DEBT_TOKEN_are_liquid_and_transferable": "Your existing %(DEBT_TOKEN)s are liquid and transferable. Instead you may wish to trade %(DEBT_TOKEN)s directly in this site under %(link)s or transfer to an external market.",

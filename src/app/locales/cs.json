@@ -442,25 +442,25 @@
         "private_something_key": "Soukromý %(key)s klíč",
         "posting_key_is_required_it_should_be_different": "Publikační klíč je používán pro odesílání příspěvků a hlasování. Měl by být jiný než aktivní a vlastnický klíč.",
         "the_active_key_is_used_to_make_transfers_and_place_orders": "Aktivní klíč se používá pro převody a podávání příkazů na vnitřním trhu.",
-        "the_owner_key_is_required_to_change_other_keys": "Klíč majitele je hlavním klíčem účtu a vyžaduje se změna ostatních klíčů.",
-        "the_private_key_or_password_should_be_kept_offline": "Soukromý klíč nebo heslo pro klíč vlastníka by měl být udržován nejlépe offline.",
+        "the_owner_key_is_required_to_change_other_keys": "Vlastnický klíč je hlavním klíčem účtu a je třeba ke změně ostatních klíčů.",
+        "the_private_key_or_password_should_be_kept_offline": "Soukromý klíč nebo heslo k vlastnickému klíči by měly být pokud možno uchovávány offline.",
         "the_memo_key_is_used_to_create_and_read_memos": "Poznámkový klíč se používá pro tvorbu a čtení poznámek."
     },
     "suggestpassword_jsx": {
-        "APP_NAME_cannot_recover_passwords_keep_this_page_in_a_secure_location": "%(APP_NAME)s hesla nelze obnovit. Uchovávejte tuto stránku na bezpečném místě, například v ohnivzdorném trezoru nebo bezpečnostní schránce.",
+        "APP_NAME_cannot_recover_passwords_keep_this_page_in_a_secure_location": "%(APP_NAME)s nemůže obnovit heslo. Uchovávejte tuto stránku na bezpečném místě, například v ohnivzdorném trezoru nebo bezpečnostní schránce.",
         "APP_NAME_password_backup": "%(APP_NAME)s záloha hesla",
         "APP_NAME_password_backup_required": "%(APP_NAME)s záloha hesla (požadována)",
-        "after_printing_write_down_your_user_name": "Po vytištění, poznamenejte si uživatelské jméno"
+        "after_printing_write_down_your_user_name": "Po vytištění si uživatelské jméno zapište"
     },
     "converttosteem_jsx": {
-        "your_existing_DEBT_TOKEN_are_liquid_and_transferable": "Vaše stávající %(DEBT_TOKEN)s jsou likvidní a převoditelné. Chcete místo toho obchodovat %(DEBT_TOKEN)s přímo na tomto webu %(link)s nebo převést na externí trh.",
-        "this_is_a_price_feed_conversion": "Toto je cena za převod. 3.5-denní zpoždění je nutné k tomu, aby se zabránilo manipulaci s tržní cenou",
+        "your_existing_DEBT_TOKEN_are_liquid_and_transferable": "Vaše stávající %(DEBT_TOKEN)s jsou likvidní a převoditelné. Možná však chcete s %(DEBT_TOKEN)s obchodovat přímo na tomto webu %(link)s nebo je převést na externí trh.",
+        "this_is_a_price_feed_conversion": "Toto je převod podle zveřejněných cen. Tříapůldenní zpoždění je nutné k tomu, aby se zabránilo manipulaci s tržní cenou",
         "convert_to_LIQUID_TOKEN": "Převést na %(LIQUID_TOKEN)s",
-        "DEBT_TOKEN_will_be_unavailable": "Tato akce se bude konat 3,5 dní ode dneška a nelze ji zrušit. Tyto %(DEBT_TOKEN)s budou okamžitě k dispozici"
+        "DEBT_TOKEN_will_be_unavailable": "Tato akce se bude trvat tři a půl dne a nelze ji zrušit. Tyto %(DEBT_TOKEN)s okamžitě přestanou být k dispozici"
     },
     "tips_js": {
-        "liquid_token": "Obchodovatelné tokeny, které mohou být převedeny kdekoli na kdykoli. <br/>%(LIQUID_TOKEN)s lze převést na %(VESTING_TOKEN)s v procesu zvaném powering up.",
-        "influence_token": "Vliv žetonů, které vám dávají větší kontrolu nad výplatami po vyúčtování a umožňují vám obdržet odměnu za kurátorství.",
+        "liquid_token": "Obchodovatelné tokeny, které mohou být převedeny kamkoli a kdykoli. <br/>%(LIQUID_TOKEN)s lze převést na %(VESTING_TOKEN)s v procesu zvaném powering up.",
+        "influence_token": "Tokeny vlivu, které vám dávají větší kontrolu nad výplatami za články a umožní vám vydělávat kurátorské odměny.",
         "estimated_value": "Odhadovaná hodnota je založena na průměrné hodnotě %(LIQUID_TOKEN)s v amerických dolarech.",
         "non_transferable": "%(VESTING_TOKEN)s jsou nepřenosné a vyžadují 3 měsíce (13 plateb) na převod zpět na %(LIQUID_TOKEN)s.",
         "converted_VESTING_TOKEN_can_be_sent_to_yourself_but_can_not_transfer_again": "Přeměněné %(VESTING_TOKEN)s můžete zaslat sobě nebo někomu jinému, ale nelze jej znovu převést bez převodu na %(LIQUID_TOKEN)s.",

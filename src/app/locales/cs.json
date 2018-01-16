@@ -244,7 +244,7 @@
         "intro_paragraph": "Váš hlas je cenný. Přidejte se ke komunitě, která platí za publikování a ohodnocení velmi kvalitního obsahu."
     },
     "main_menu": {
-        "hot": "živé",
+        "hot": "žhavé",
         "trending": "populární"
     },
     "reply_editor": {
@@ -283,15 +283,15 @@
         "must_end_with_a_letter_or_number": "Musí končit písmenem nebo číslicí"
     },
     "postfull_jsx": {
-        "this_post_is_not_available_due_to_a_copyright_claim": "Tento příspěvek není k dispozici z důvodu autorských práv.",
+        "this_post_is_not_available_due_to_a_copyright_claim": "Tento příspěvek není k dispozici z důvodu porušení autorských práv.",
         "share_on_facebook": "Sdílet na Facebooku",
         "share_on_twitter": "Sdílet na Twitteru",
         "share_on_linkedin": "Sdílet na Linkedin",
-        "recent_password": "Současné heslo",
-        "in_week_convert_DEBT_TOKEN_to_LIQUID_TOKEN": "Za 3,5 dne, bude přeměněno %(amount)s %(DEBT_TOKEN)s na %(LIQUID_TOKEN)s",
-        "view_the_full_context": "Zobrazit celý obsah",
+        "recent_password": "Nedávné heslo",
+        "in_week_convert_DEBT_TOKEN_to_LIQUID_TOKEN": "Za 3,5 dne bude přeměněno %(amount)s %(DEBT_TOKEN)s na %(LIQUID_TOKEN)s",
+        "view_the_full_context": "Zobrazit celý kontext",
         "view_the_direct_parent": "Zobrazit přímo nadřazené",
-        "you_are_viewing_a_single_comments_thread_from": "Prohlížíte si jeden komentář ve vláknu"
+        "you_are_viewing_a_single_comments_thread_from": "Prohlížíte si jedno vlákno komentářů k"
     },
     "market_jsx": {
         "action": "Akce",
@@ -303,12 +303,12 @@
         "available": "Dostupný",
         "lowest_ask": "Nejnižší poptávka",
         "highest_bid": "Nejvyšší nabídka",
-        "buy_orders": "Objednávky pro koupi",
-        "sell_orders": "Nabídka k prodeji",
+        "buy_orders": "Nákupní příkazy",
+        "sell_orders": "Prodejní příkazy",
         "trade_history": "Historie obchodování",
-        "open_orders": "Otevřené objednávky",
+        "open_orders": "Nespárované příkazy",
         "sell_amount_for_atleast": "Prodej %(amount_to_sell)s za nejméně %(min_to_receive)s (%(effectivePrice)s)",
-        "buy_atleast_amount_for": "Koupit alespoň %(min_to_receive)s pro %(amount_to_sell)s (%(effectivePrice)s)",
+        "buy_atleast_amount_for": "Kup alespoň %(min_to_receive)s pro %(amount_to_sell)s (%(effectivePrice)s)",
         "price_warning_above": "Tato cena je značně nad současnou tržní cenou %(marketPrice)s, jste si jistý?",
         "price_warning_below": "Tato cena je značně pod současnou tržní cenou %(marketPrice)s, jste si jistý?",
         "order_cancel_confirm": "Zrušit příkaz %(order_id)s od %(user)s?",
@@ -318,10 +318,10 @@
         "total_DEBT_TOKEN_SHORT_CURRENCY_SIGN": "Celkem %(DEBT_TOKEN_SHORT)s (%(CURRENCY_SIGN)s)"
     },
     "recoveraccountstep1_jsx": {
-        "begin_recovery": "Zahájení zotavení",
+        "begin_recovery": "Zahájit obnovu",
         "not_valid": "Neplatné",
         "account_name_is_not_found": "Účet nebyl nalezen",
-        "unable_to_recover_account_not_change_ownership_recently": "Nejsme schopni obnovit tento účet, vlastnictví nebylo změněno.",
+        "unable_to_recover_account_not_change_ownership_recently": "Nejsme schopni obnovit tento účet, vlastnictví nebylo v nedávné minulosti změněno.",
         "password_not_used_in_last_days": "Toto heslo nebylo použito pro tento účet v posledních 30 dnech.",
         "request_already_submitted_contact_support": "Váš požadavek byl již odeslán a pracujeme na něm. Pro zjištění stavu požadavku se obraťte na %(SUPPORT_EMAIL)s.",
         "recover_account_intro": "Občas může být vlastnický klíč Steemiana prozrazen. Od doby, kdy byl změněn majitel klíče, má právoplatný majitel účtu 30 dní na obnovení účtu. Zkrácené obnovení účtu lze použít pouze na %(APP_URL)s, pokud vlastník účtu dříve uvedl%(APP_NAME)s' jako svého správce účtu a splnil smluvní podmínky služby'%(APP_NAME)s.",

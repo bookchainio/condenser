@@ -453,21 +453,21 @@
         "after_printing_write_down_your_user_name": "După imprimare, notează-ți numele de utilizator"
     },
     "converttosteem_jsx": {
-        "your_existing_DEBT_TOKEN_are_liquid_and_transferable": "Your existing %(DEBT_TOKEN)s are liquid and transferable. Instead you may wish to trade %(DEBT_TOKEN)s directly in this site under %(link)s or transfer to an external market.",
-        "this_is_a_price_feed_conversion": "This is a price feed conversion. The 3.5 day delay is necessary to prevent abuse from gaming the price feed average",
-        "convert_to_LIQUID_TOKEN": "Convert to %(LIQUID_TOKEN)s",
-        "DEBT_TOKEN_will_be_unavailable": "This action will take place 3.5 days from now and can not be canceled. These %(DEBT_TOKEN)s will immediately become unavailable"
+        "your_existing_DEBT_TOKEN_are_liquid_and_transferable": "Tokenii existenți %(DEBT_TOKEN)s sunt transferabili. Poți în schimb, să faci tranzacții cu %(DEBT_TOKEN)s direct pe acest site pe %(link)s sau să transferi pe o piață externă.",
+        "this_is_a_price_feed_conversion": "Acesta este un flux de conversie. Întârzierea de 3.5 zile este necesară pentru a preveni abuzul",
+        "convert_to_LIQUID_TOKEN": "Convertește în %(LIQUID_TOKEN)s",
+        "DEBT_TOKEN_will_be_unavailable": "Această acțiunea va dura 3.5 zile din acest moment și nu poate fi anulată. Acești %(DEBT_TOKEN)s o să devine disponibile imediat"
     },
     "tips_js": {
         "liquid_token": "Tokeni care pot fi tranzacționați pot fi transferați oriunde și oricând. <br/>%(LIQUID_TOKEN)s pot fi convertiți în %(VESTING_TOKEN)s într-un proces numit powering up.",
         "influence_token": "Tokeni de influență care îți dau mai mult control asupra plăților articolelor și îți permit să câștigi mai mult din recompensele primite din votarea articolelor.",
         "estimated_value": "Valoarea estimativă este bazată pe valoarea medie a %(LIQUID_TOKEN)s în dolari americani.",
         "non_transferable": "%(VESTING_TOKEN)s nu sunt transferabili și necesită 3 luni (13 plăți) pentru a fi convertiți înapoi în %(LIQUID_TOKEN)s.",
-        "converted_VESTING_TOKEN_can_be_sent_to_yourself_but_can_not_transfer_again": "Converted %(VESTING_TOKEN)s can be sent to yourself or someone else but can not transfer again without converting back to %(LIQUID_TOKEN)s.",
-        "part_of_your_steem_power_is_currently_delegated": "Part of %(user_name)s's STEEM POWER is currently delegated. Delegation is donated for influence or to help new users perform actions on steemit. Your delegation amount can fluctuate."
+        "converted_VESTING_TOKEN_can_be_sent_to_yourself_but_can_not_transfer_again": "%(VESTING_TOKEN)s Convertiți pot fi trimiși către tine sau altcineva, dar nu pot fi transferați înapoi până nu sunt convertiți înapoi în %(LIQUID_TOKEN)s.",
+        "part_of_your_steem_power_is_currently_delegated": "O parte din Puterea Steem a %(user_name)s este delegată în prezent. Delegarea este donată pentru a influența sau ajuta utilizatori steemit, noi. Suma delegată poate fluctua."
     },
     "promote_post_jsx": {
-        "promote_post": "Promote Post",
+        "promote_post": "Promovează Articlol",
         "spend_your_DEBT_TOKEN_to_advertise_this_post": "Spend your %(DEBT_TOKEN)s's to advertise this post in the promoted content section",
         "you_successfully_promoted_this_post": "You successfully promoted this post",
         "this_post_was_hidden_due_to_low_ratings": "This post was hidden due to low ratings"

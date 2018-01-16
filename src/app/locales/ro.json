@@ -468,22 +468,22 @@
     },
     "promote_post_jsx": {
         "promote_post": "Promovează Articlol",
-        "spend_your_DEBT_TOKEN_to_advertise_this_post": "Spend your %(DEBT_TOKEN)s's to advertise this post in the promoted content section",
-        "you_successfully_promoted_this_post": "You successfully promoted this post",
-        "this_post_was_hidden_due_to_low_ratings": "This post was hidden due to low ratings"
+        "spend_your_DEBT_TOKEN_to_advertise_this_post": "Cheltuiește-ți %(DEBT_TOKEN)s pentru a-ți promova acest articol în secțiunea de promovare",
+        "you_successfully_promoted_this_post": "Ai promobat cu succes acest articol",
+        "this_post_was_hidden_due_to_low_ratings": "Acest articol a fost ascuns din cauza rating-urilor scăzute"
     },
     "about_jsx": {
-        "about_app": "About %(APP_NAME)s",
-        "about_app_details": "%(APP_NAME)s is a social media platform where everyone gets paid for creating and curating content. It leverages a robust digital points system, called Steem, that supports real value for digital rewards through market price discovery and liquidity.",
-        "learn_more_at_app_url": "Learn more at %(APP_URL)s",
-        "resources": "Resources"
+        "about_app": "Despre %(APP_NAME)s",
+        "about_app_details": "%(APP_NAME)s este o platformă media de socializare unde toată lumea este plătită pentru crearea și susținerea conținutului. Acesta utilizează un sistem robust de puncte digitale, numit Steem, care susține o valoare reală pentru recompensele digitale prin descoperirea prețului pieței.",
+        "learn_more_at_app_url": "Află mai multe la %(APP_URL)s",
+        "resources": "Resurse"
     },
     "markdownviewer_jsx": {
-        "images_were_hidden_due_to_low_ratings": "Images were hidden due to low ratings."
+        "images_were_hidden_due_to_low_ratings": "Imaginiile au fost ascunse din cauza rating-urilor scăzute."
     },
     "postsummary_jsx": {
-        "resteemed": "resteemed",
-        "resteemed_by": "Resteemed by",
+        "resteemed": "distribuit",
+        "resteemed_by": "Distribuit de",
         "reveal_it": "Reveal this post",
         "adjust_your": "adjust your",
         "display_preferences": "display preferences",
@@ -546,8 +546,8 @@
         "however_you_can_use_it_to": "However, you can use it to ",
         "update_your_password": "update your password",
         "to_obtain_a_more_secure_set_of_keys": "to obtain a more secure set of keys.",
-        "this_password_is_bound_to_your_account_active_key": "This password is bound to your account's active key and can not be used to login to this page.",
-        "you_may_use_this_active_key_on_other_more": "You may use this active key on other more secure pages like the Wallet or Market pages.",
+        "this_password_is_bound_to_your_account_active_key": "Această parolă este legată de cheia activa a contului tău și nu poate fi folosită pentru a vă conecta la această pagină.",
+        "you_may_use_this_active_key_on_other_more": "Poți folosi această cheie activă sau pagini mai securizate ca Protfelul sau paginile Pieței.",
         "you_account_has_been_successfully_created": "You account has been successfully created!",
         "you_account_has_been_successfully_recovered": "You account has been successfully recovered!",
         "password_update_succes": "The password for %(accountName)s was successfully updated",

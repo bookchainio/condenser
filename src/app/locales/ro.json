@@ -415,19 +415,19 @@
         "witness": "Martori",
         "information": "Informație",
         "if_you_want_to_vote_outside_of_top_enter_account_name": "Dacă vrei să votezi pentru un martor care nu este în primii 50, intorduce mai jos numele contului, pentru a vota",
-        "set_witness_proxy": "You can also choose a proxy that will vote for witnesses for you. This will reset your current witness selection.",
-        "witness_set": "You have set a voting proxy. If you would like to re-enable manual voting, please clear your proxy.",
-        "witness_proxy_current": "Your current proxy is",
-        "witness_proxy_set": "Set proxy",
-        "witness_proxy_clear": "Clear proxy",
-        "proxy_update_error": "Your proxy was not updated"
+        "set_witness_proxy": "De asemenea, poți să alegi un proxy care să voteze martorii pentru tine. Aceasta o să reseteze selecția ta actuală a martorilor.",
+        "witness_set": "Ai setat un proxy de votare. Dacă vrei să activezi votarea manuală, te rugăm să îți deselectezi proxy-ul.",
+        "witness_proxy_current": "Proxy-ul tău actual este",
+        "witness_proxy_set": "Selectare proxy",
+        "witness_proxy_clear": "Elimină proxy",
+        "proxy_update_error": "Proxy-ul tău nu a fost actualizat"
     },
     "votesandcomments_jsx": {
-        "no_responses_yet_click_to_respond": "No responses yet. Click to respond.",
+        "no_responses_yet_click_to_respond": "Nici un răspuns încă. Apasă pentru a răspunde.",
         "response_count_tooltip": {
-            "zero": "no responses. Click to respond.",
-            "one": "1 response. Click to respond.",
-            "other": "%(count)s responses. Click to respond."
+            "zero": "nici un răspuns. Apasă pentru a răspunde.",
+            "one": "1 răspuns. Apasă pentru a răspunde.",
+            "other": "%(count)s răspunsuri. Apasă pentru a răspunde."
         },
         "vote_count": {
             "zero": "nici un vot",
@@ -447,10 +447,10 @@
         "the_memo_key_is_used_to_create_and_read_memos": "Cheia memo este folosită pentru a citi notele."
     },
     "suggestpassword_jsx": {
-        "APP_NAME_cannot_recover_passwords_keep_this_page_in_a_secure_location": "%(APP_NAME)s cannot recover passwords. Keep this page in a secure location, such as a fireproof safe or safety deposit box.",
-        "APP_NAME_password_backup": "%(APP_NAME)s Password Backup",
-        "APP_NAME_password_backup_required": "%(APP_NAME)s Password Backup (required)",
-        "after_printing_write_down_your_user_name": "After printing, write down your user name"
+        "APP_NAME_cannot_recover_passwords_keep_this_page_in_a_secure_location": "%(APP_NAME)s nu poate recupera parole. Ține această pagină într-o locație securizată, cum ar fi fireproof safe sau safety deposit box.",
+        "APP_NAME_password_backup": "%(APP_NAME)s Copie de rezervă a Parolei",
+        "APP_NAME_password_backup_required": "%(APP_NAME)s Copie de rezervă a Parolei (necesar)",
+        "after_printing_write_down_your_user_name": "După imprimare, notează-ți numele de utilizator"
     },
     "converttosteem_jsx": {
         "your_existing_DEBT_TOKEN_are_liquid_and_transferable": "Your existing %(DEBT_TOKEN)s are liquid and transferable. Instead you may wish to trade %(DEBT_TOKEN)s directly in this site under %(link)s or transfer to an external market.",

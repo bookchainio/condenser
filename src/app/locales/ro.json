@@ -484,29 +484,29 @@
     "postsummary_jsx": {
         "resteemed": "distribuit",
         "resteemed_by": "Distribuit de",
-        "reveal_it": "Reveal this post",
-        "adjust_your": "adjust your",
-        "display_preferences": "display preferences",
-        "create_an_account": "create an account",
-        "to_save_your_preferences": "to save your preferences"
+        "reveal_it": "Afișează acest articol",
+        "adjust_your": "ajustează-ți",
+        "display_preferences": "afișare preferințe",
+        "create_an_account": "crează un cont",
+        "to_save_your_preferences": "pentru a salva preferințele"
     },
     "posts_index": {
-        "empty_feed_1": "Looks like you haven't followed anything yet",
-        "empty_feed_2": "If you recently added new users to follow, your personalized feed will populate once new content is available",
-        "empty_feed_3": "Explore Trending Articles",
-        "empty_feed_4": "Read The Quick Start Guide",
-        "empty_feed_5": "Browse The FAQ"
+        "empty_feed_1": "Se pare că încă nu ai urmat nimic încă",
+        "empty_feed_2": "Dacă ai adăugat recent utilizatori noi pe care îi urmărești, conținutul acestora o să populeze noutățiile tale personalizate",
+        "empty_feed_3": "Explorează Articolele Populare",
+        "empty_feed_4": "Citește Ghidul Rapid de Începere",
+        "empty_feed_5": "Răsfoiește întrebările frecvente"
     },
     "transferhistoryrow_jsx": {
-        "to_savings": "to savings",
-        "from_savings": "from savings",
-        "cancel_transfer_from_savings": "Cancel transfer from savings",
-        "stop_power_down": "Stop power down",
-        "start_power_down_of": "Start power down of",
-        "receive_interest_of": "Receive interest of"
+        "to_savings": "la economii",
+        "from_savings": "de la economii",
+        "cancel_transfer_from_savings": "Anulează transferul de la economii",
+        "stop_power_down": "Oprește power down",
+        "start_power_down_of": "Începe power down a",
+        "receive_interest_of": "Primește dobândă de"
     },
     "savingswithdrawhistory_jsx": {
-        "cancel_this_withdraw_request": "Cancel this withdraw request?",
+        "cancel_this_withdraw_request": "Anulează cererea de retragere?",
         "pending_savings_withdrawals": "PENDING SAVINGS WITHDRAWS",
         "withdraw": "Withdraw %(amount)s",
         "to": "to %(to)s",
@@ -544,8 +544,8 @@
         "active_or_owner": "Active or Owner",
         "this_password_is_bound_to_your_account_owner_key": "This password is bound to your account's owner key and can not be used to login to this site.",
         "however_you_can_use_it_to": "However, you can use it to ",
-        "update_your_password": "update your password",
-        "to_obtain_a_more_secure_set_of_keys": "to obtain a more secure set of keys.",
+        "update_your_password": "actualizează-ți parola",
+        "to_obtain_a_more_secure_set_of_keys": "pentru a obține un set de chei mai securizate.",
         "this_password_is_bound_to_your_account_active_key": "Această parolă este legată de cheia activa a contului tău și nu poate fi folosită pentru a vă conecta la această pagină.",
         "you_may_use_this_active_key_on_other_more": "Poți folosi această cheie activă sau pagini mai securizate ca Protfelul sau paginile Pieței.",
         "you_account_has_been_successfully_created": "Contul tău a fost creat cu succes!",
@@ -562,7 +562,7 @@
         "signup_button_emphasis": "STEEM GRATUIT!",
         "sign_up_get_steem": "Înregistrare. Obține STEEM",
         "returning_users": "Utilizatori care revin: ",
-        "join_our": "Join our"
+        "join_our": "Alătură-ne"
     },
     "chainvalidation_js": {
         "account_name_should": "Numele contului ar trebui ",
@@ -593,20 +593,20 @@
         "update": "Actualizare",
         "profile_image_url": "Url poza de profil",
         "cover_image_url": "Url imagine de fundal",
-        "profile_name": "Display Name",
-        "profile_about": "About",
-        "profile_location": "Location",
+        "profile_name": "Nume afișat",
+        "profile_about": "Despre",
+        "profile_location": "Locație",
         "profile_website": "Website"
     },
     "transfer_jsx": {
-        "amount_is_in_form": "Amount is in the form 99999.999",
-        "insufficient_funds": "Insufficient funds",
-        "use_only_3_digits_of_precison": "Use only 3 digits of precison",
-        "send_to_account": "Send to account",
-        "asset": "Asset",
-        "this_memo_is_private": "This memo is private",
-        "this_memo_is_public": "This memo is public",
-        "convert_to_VESTING_TOKEN": "Convert to %(VESTING_TOKEN)s",
+        "amount_is_in_form": "Suma este în forma 99999.999",
+        "insufficient_funds": "Fonduri insuficiente",
+        "use_only_3_digits_of_precison": "Folosește numai 3 cifre de precizie",
+        "send_to_account": "Trimite către cont",
+        "asset": "Resursă",
+        "this_memo_is_private": "Acestă notiță este privată",
+        "this_memo_is_public": "Această notiță este publică",
+        "convert_to_VESTING_TOKEN": "Convertește în %(VESTING_TOKEN)s",
         "balance_subject_to_3_day_withdraw_waiting_period": "Balance subject to 3 day withdraw waiting period,",
         "move_funds_to_another_account": "Move funds to another %(APP_NAME)s account.",
         "protect_funds_by_requiring_a_3_day_withdraw_waiting_period": "Protect funds by requiring a 3 day withdraw waiting period.",

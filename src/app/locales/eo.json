@@ -211,7 +211,7 @@
             "other": "%(count)s Respondoj"
         },
         "post_key_warning": {
-            "confirm": "You are about to publish a STEEM private key or master password. You will probably lose control of the associated account and all its funds.",
+            "confirm": "Vi baldaŭ publikigos privatan ŝlosilon aŭ mastropasvorton de STEEM. Vi probable perdos posedon de la rilata konto kaj ĉiom da ĝiaj fondusoj.",
             "warning": "Legitimate users, including employees of Steemit Inc., will never ask you for a private key or master password.",
             "checkbox": "Mi komprenas"
         }

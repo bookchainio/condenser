@@ -453,8 +453,8 @@
         "after_printing_write_down_your_user_name": "Post printado, surskribu vian salutnomon"
     },
     "converttosteem_jsx": {
-        "your_existing_DEBT_TOKEN_are_liquid_and_transferable": "Your existing %(DEBT_TOKEN)s are liquid and transferable. Instead you may wish to trade %(DEBT_TOKEN)s directly in this site under %(link)s or transfer to an external market.",
-        "this_is_a_price_feed_conversion": "This is a price feed conversion. The 3.5 day delay is necessary to prevent abuse from gaming the price feed average",
+        "your_existing_DEBT_TOKEN_are_liquid_and_transferable": "Via ekzistantaj %(DEBT_TOKEN)s estas fluaj kaj sendeblaj. Anstataŭe vi eble volus interŝanĝi %(DEBT_TOKEN)sn rekte en ĉi tiu retejo sub %(link)s aŭ sendi al ekstera borso.",
+        "this_is_a_price_feed_conversion": "Ĉi tiu estas konverto de fiksita prezo. La 3.5-taga atendo necesas por preventi misuzadon vetludante la prezan averaĝon",
         "convert_to_LIQUID_TOKEN": "Konverti al %(LIQUID_TOKEN)s",
         "DEBT_TOKEN_will_be_unavailable": "This action will take place 3.5 days from now and can not be canceled. These %(DEBT_TOKEN)s will immediately become unavailable"
     },

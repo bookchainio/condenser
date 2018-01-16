@@ -384,7 +384,7 @@
         "disagreement_on_rewards": "Dezacord pentru recompense",
         "fraud_or_plagiarism": "Fraudă sau Plagiat",
         "hate_speech_or_internet_trolling": "Discurs de ură sau batjocura pe internet",
-        "intentional_miss_categorized_content_or_spam": "Intentional miss-categorized content or Spam",
+        "intentional_miss_categorized_content_or_spam": "Conținut pus intenționat într-o categorie nepotrivită sau Spam",
         "pending_payout": "În curs de plată $%(value)s",
         "payout_declined": "Plată Refuzată",
         "max_accepted_payout": "Câștigurile Maxim Acceptate $%(value)s",
@@ -396,7 +396,7 @@
         "removing_your_vote": "Înlătură-ți votul",
         "changing_to_an_upvote": "Schimbare la un Vot-Pentru",
         "changing_to_a_downvote": "Schimbare la un Vot-Împotriva",
-        "confirm_flag": "Confirm Flag",
+        "confirm_flag": "Confirmă marcare",
         "and_more": "si mai multe %(count)s",
         "votes_plural": {
             "one": "%(count)s vot",
@@ -641,16 +641,16 @@
         "power_down": "Power Down",
         "amount": "Cantitate",
         "already_power_down": "Deja ai început procesul de powering down %(AMOUNT)s %(LIQUID_TICKER)s (%(WITHDRAWN)s %(LIQUID_TICKER)s plătit deja). Reține că dăcă schimbi cantitate din power down, plata compensațiilor se va reseta.",
-        "delegating": "You are delegating %(AMOUNT)s %(LIQUID_TICKER)s. That amount is locked up and not available to power down until the delegation is removed and a full reward period has passed.",
-        "per_week": "That's ~%(AMOUNT)s %(LIQUID_TICKER)s per week.",
-        "warning": "Leaving less than %(AMOUNT)s %(VESTING_TOKEN)s in your account is not recommended and can leave your account in a unusable state.",
-        "error": "Unable to power down (ERROR: %(MESSAGE)s)"
+        "delegating": "Deleghezi %(AMOUNT)s %(LIQUID_TICKER)s. Această cantitatea nu este disponibilă și nu se poate face power down până ce delegarea nu a fost înlăturată și s-a așteptat o perioadă de recompense.",
+        "per_week": "Aceasta este ~%(AMOUNT)s %(LIQUID_TICKER)s pe săptămână.",
+        "warning": "Lăsând mai puțin de %(AMOUNT)s %(VESTING_TOKEN)s în contul tău nu este recomandat și ar putea lăsa contul tău într-o stare inutilizabilă.",
+        "error": "Nu s-a putut incepe power down (EROARE: %(MESSAGE)s)"
     },
     "checkloginowner_jsx": {
-        "your_password_permissions_were_reduced": "Your password permissions were reduced",
-        "if_you_did_not_make_this_change": "If you did not make this change please",
-        "ownership_changed_on": "Ownership Changed On ",
-        "deadline_for_recovery_is": "Deadline for recovery is",
-        "i_understand_dont_show_again": "I understand, don't show me again"
+        "your_password_permissions_were_reduced": "Permisiunile parolelor tale au fost reduse",
+        "if_you_did_not_make_this_change": "Dacă nu ai făcut această schimbare, te rugăm",
+        "ownership_changed_on": "Proprietatea Schimbată pe ",
+        "deadline_for_recovery_is": "Termenul limită de recuperare este",
+        "i_understand_dont_show_again": "Am înțeles, nu mai afișa"
     }
 }

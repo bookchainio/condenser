@@ -456,10 +456,10 @@
         "your_existing_DEBT_TOKEN_are_liquid_and_transferable": "Via ekzistantaj %(DEBT_TOKEN)s estas fluaj kaj sendeblaj. Anstataŭe vi eble volus interŝanĝi %(DEBT_TOKEN)sn rekte en ĉi tiu retejo sub %(link)s aŭ sendi al ekstera borso.",
         "this_is_a_price_feed_conversion": "Ĉi tiu estas konverto de fiksita prezo. La 3.5-taga atendo necesas por preventi misuzadon vetludante la prezan averaĝon",
         "convert_to_LIQUID_TOKEN": "Konverti al %(LIQUID_TOKEN)s",
-        "DEBT_TOKEN_will_be_unavailable": "This action will take place 3.5 days from now and can not be canceled. These %(DEBT_TOKEN)s will immediately become unavailable"
+        "DEBT_TOKEN_will_be_unavailable": "Ĉi tiu ago okazos 3.5 tagojn de nun kaj ne povas esti nuligita. Ĉi tiuj %(DEBT_TOKEN)s tuje estiĝos maldisponaj"
     },
     "tips_js": {
-        "liquid_token": "Tradeable tokens that may be transferred anywhere at anytime.<br/>%(LIQUID_TOKEN)s can be converted to %(VESTING_TOKEN)s in a process called powering up.",
+        "liquid_token": "Interŝanĝeblaj ĵetonoj kiuj povas esti interŝanĝitaj ie iam ajn.<br/>%(LIQUID_TOKEN)s povas esti konvertitaj al %(VESTING_TOKEN)s en procezo nomata startado.",
         "influence_token": "Influence tokens which give you more control over post payouts and allow you to earn on curation rewards.",
         "estimated_value": "La taksata valoro estas bazita de la averaĝa valoro po %(LIQUID_TOKEN)s por Usonaj dolaroj.",
         "non_transferable": "%(VESTING_TOKEN)s ne estas interŝanĝebla, kaj devigas 3 monatojn (13 pagerojn) por rekonverti al %(LIQUID_TOKEN)s.",

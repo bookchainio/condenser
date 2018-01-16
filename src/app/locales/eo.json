@@ -417,10 +417,10 @@
         "if_you_want_to_vote_outside_of_top_enter_account_name": "Se vi volus voĉdoni atestanton ekster la supra 50, entajpu la salutnomon suben, por fari voĉdonon",
         "set_witness_proxy": "You can also choose a proxy that will vote for witnesses for you. This will reset your current witness selection.",
         "witness_set": "You have set a voting proxy. If you would like to re-enable manual voting, please clear your proxy.",
-        "witness_proxy_current": "Via aktuala prokurilo estas",
-        "witness_proxy_set": "Agordi prokurilon",
-        "witness_proxy_clear": "Nuligi prokurilon",
-        "proxy_update_error": "Via prokurilo ne estis ĝisdatigita"
+        "witness_proxy_current": "Via aktuala prokuro estas",
+        "witness_proxy_set": "Deklari prokuron",
+        "witness_proxy_clear": "Nuligi prokuron",
+        "proxy_update_error": "Via prokuro ne estis ĝisdatigita"
     },
     "votesandcomments_jsx": {
         "no_responses_yet_click_to_respond": "Sen respondoj. Klaku por respondi.",

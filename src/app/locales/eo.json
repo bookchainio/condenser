@@ -392,7 +392,7 @@
         "past_payouts": "Estintecaj Pagadoj $%(value)s",
         "past_payouts_author": " - Afiŝanto $%(value)s",
         "past_payouts_curators": " - Zorgantoj $%(value)s",
-        "we_will_reset_curation_rewards_for_this_post": "will reset your curation rewards for this post",
+        "we_will_reset_curation_rewards_for_this_post": "restarigos viajn prizorgajn kompencojn por ĉi tiu afiŝo",
         "removing_your_vote": "Forigante vian voĉdonon",
         "changing_to_an_upvote": "Ŝanĝante al Porvoĉdono",
         "changing_to_a_downvote": "Ŝanĝante al Kontraŭvoĉdono",
@@ -414,7 +414,7 @@
         "you_can_vote_for_maximum_of_witnesses": "Vi povas voĉdoni maksimume 30 atestantojn",
         "witness": "Atestanto",
         "information": "Informo",
-        "if_you_want_to_vote_outside_of_top_enter_account_name": "If you would like to vote for a witness outside of the top 50, enter the account name below to cast a vote",
+        "if_you_want_to_vote_outside_of_top_enter_account_name": "Se vi volus voĉdoni atestanton ekster la supra 50, entajpu la salutnomon suben, por fari voĉdonon",
         "set_witness_proxy": "You can also choose a proxy that will vote for witnesses for you. This will reset your current witness selection.",
         "witness_set": "You have set a voting proxy. If you would like to re-enable manual voting, please clear your proxy.",
         "witness_proxy_current": "Via aktuala prokurilo estas",
@@ -491,7 +491,7 @@
         "to_save_your_preferences": "savi viajn agordojn"
     },
     "posts_index": {
-        "empty_feed_1": "Looks like you haven't followed anything yet",
+        "empty_feed_1": "Verŝajne vi ankoraŭ ne sekvas ion ajn",
         "empty_feed_2": "If you recently added new users to follow, your personalized feed will populate once new content is available",
         "empty_feed_3": "Esplori Popularajn Artikolojn",
         "empty_feed_4": "Legu la Rapidkomencan Gvidilon",
@@ -632,7 +632,7 @@
         "savings": "BANKO",
         "estimated_account_value": "Taksata Valoro de Konto",
         "next_power_down_is_scheduled_to_happen": "The next power down is scheduled to happen",
-        "transfers_are_temporary_disabled": "Transfers are temporary disabled.",
+        "transfers_are_temporary_disabled": "Interŝanĝoj provizore estas malŝaltaj.",
         "history": "HISTORIO",
         "redeem_rewards": "Elaĉeti Kompensojn (Sendi al Bilanco)",
         "buy_steem_or_steem_power": "Aĉeti STEEM aŭ STEEM POWER"
@@ -643,7 +643,7 @@
         "already_power_down": "You are already powering down %(AMOUNT)s %(LIQUID_TICKER)s (%(WITHDRAWN)s %(LIQUID_TICKER)s paid out so far). Note that if you change the power down amount the payout schedule will reset.",
         "delegating": "You are delegating %(AMOUNT)s %(LIQUID_TICKER)s. That amount is locked up and not available to power down until the delegation is removed and a full reward period has passed.",
         "per_week": "Tio estas po ~%(AMOUNT)s %(LIQUID_TICKER)s por semajno.",
-        "warning": "Leaving less than %(AMOUNT)s %(VESTING_TOKEN)s in your account is not recommended and can leave your account in a unusable state.",
+        "warning": "Lasante malpli ol %(AMOUNT)s %(VESTING_TOKEN)s en via konto ne estas rekomenda, kaj povas fuŝi vian konton.",
         "error": "Ne eblas malŝalti (ERARO: %(MESSAGE)s)"
     },
     "checkloginowner_jsx": {

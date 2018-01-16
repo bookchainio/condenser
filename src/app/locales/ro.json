@@ -111,8 +111,8 @@
         "unfollow": "Nu mai urmări",
         "unmute": "Înlătură modul silențios",
         "unknown": "Necunoscut",
-        "upvote": "Upvote",
-        "upvote_post": "Upvote post",
+        "upvote": "Votează",
+        "upvote_post": "Votează articol",
         "username": "Nume utilizator",
         "version": "Verisune",
         "vote": "Vot",
@@ -177,7 +177,7 @@
         "not_valid_email": "Email-ul nu este valid",
         "thank_you_for_being_an_early_visitor_to_APP_NAME": "Mulțumim că ești un vizitator timpuriu la %(APP_NAME)s. O să te contactam în cel mai scurt timp posibil.",
         "author_rewards": "Recompensele Autorului",
-        "curation_rewards": "Curation rewards",
+        "curation_rewards": "Recompense curation",
         "sorry_your_reddit_account_doesnt_have_enough_karma": "Ne pare rău, contul tău de Reddit nu are suficientă Reddit Karma pentru a se califica pentru o autentificare gratuită. Te rugăm să îți adaugi adresa de email pentru a fi pe lista de așteptare",
         "register_with_facebook": "Conectare cu Facebook",
         "or_click_the_button_below_to_register_with_facebook": "Apasă pe butonul de mai jos pentru a te înregistra cu Facebook",
@@ -187,7 +187,7 @@
         "next_7_strings_single_block": {
             "authors_get_paid_when_people_like_you_upvote_their_post": "Autorii sunt plătiți atunci când oameni ca tine, votează articolul lor",
             "if_you_enjoyed_what_you_read_earn_amount": "Dacă îți place ce ai citit, fă-ți un cont astăzi și începe să strângi STEEM!",
-            "free_steem": "FREE STEEM!",
+            "free_steem": "STEEM GRATUIT!",
             "sign_up_earn_steem": "Înregistrează-te acum pentru a câștiga "
         },
         "next_3_strings_together": {
@@ -195,7 +195,7 @@
             "show_less": "Arată mai puțin",
             "value_posts": "articole de calitate slabă"
         },
-        "read_only_mode": "Due to server maintenance we are running in read only mode. We are sorry for the inconvenience.",
+        "read_only_mode": "Datorită întreținerii server-ului, funționăm numai pe modul de citire. Ne pare rău pentru inconveniență.",
         "tags_and_topics": "Etighete",
         "show_more_topics": "Vezi toate etichetele",
         "basic": "De bază",
@@ -222,7 +222,7 @@
         "APP_NAME_whitepaper": "Whitepaper %(APP_NAME)s",
         "buy_LIQUID_TOKEN": "Cumpără %(LIQUID_TOKEN)s",
         "sell_LIQUID_TOKEN": "Vinde %(LIQUID_TOKEN)s",
-        "currency_market": "Currency Market",
+        "currency_market": "Piața Valutară",
         "stolen_account_recovery": "Recuperarea Conturilor Furate",
         "change_account_password": "Schimbă Parola Contului",
         "witnesses": "Martori",
@@ -240,7 +240,7 @@
         "bluepaper": "Steem Bluepaper",
         "smt_whitepaper": "SMT Whitepaper",
         "whitepaper": "Steem Whitepaper",
-        "intro_tagline": "Money talks",
+        "intro_tagline": "Banii vorbesc",
         "intro_paragraph": "Vocea ta înseamnă ceva. Alătură-te comunității care te plătește să publici și să susții conținut de calitate înaltă."
     },
     "main_menu": {
@@ -257,28 +257,28 @@
         "draft_saved": "Ciornă salvată.",
         "editor": "Editor",
         "insert_images_by_dragging_dropping": "Inserează imagini prin tragere & plasare, ",
-        "pasting_from_the_clipboard": "pasting from the clipboard, ",
-        "selecting_them": "selecting them",
+        "pasting_from_the_clipboard": "inserare din clipboard, ",
+        "selecting_them": "selectându-le",
         "image_upload": "Încarcă imaginea",
         "power_up_100": "Power Up 100%%",
         "default_50_50": "Implicit (50%% / 50%%)",
         "decline_payout": "Refuză plata",
         "check_this_to_auto_upvote_your_post": "Bifează pentru a-ți auto-vota postul",
-        "markdown_styling_guide": "Markdown Styling Guide",
+        "markdown_styling_guide": "Ghid de Stilizare Markdown",
         "or_by": "sau de",
         "title": "Titlu",
         "update_post": "Actualizare Articol",
-        "markdown_not_supported": "Markdown is not supported here"
+        "markdown_not_supported": "Markdown nu este acceptat aici"
     },
     "category_selector_jsx": {
         "tag_your_story": "Etichetã (pânã la 5 etichete), prima etichetã reprezintã categoria ta principalã.",
         "select_a_tag": "Selecteazã o etichetã",
         "maximum_tag_length_is_24_characters": "Lungimea maximã a unei etichete este de 24 caractere",
         "use_limited_amount_of_categories": "Te rugãm sã folosesti doar %(amount)s categorii",
-        "use_only_lowercase_letters": "Use only lowercase letters",
-        "use_one_dash": "Use only one dash",
+        "use_only_lowercase_letters": "Folosește numai litere mici",
+        "use_one_dash": "Folosește numai o cratimă",
         "use_spaces_to_separate_tags": "Foloseste spatii pentru a separa etichetele",
-        "use_only_allowed_characters": "Use only lowercase letters, digits and one dash",
+        "use_only_allowed_characters": "Folosește numai litere mici, cifre și o cratimă",
         "must_start_with_a_letter": "Trebuie sã înceapã cu o literã",
         "must_end_with_a_letter_or_number": "Trebuie sã se termine cu o literã sau cu o cifrã"
     },
@@ -291,7 +291,7 @@
         "in_week_convert_DEBT_TOKEN_to_LIQUID_TOKEN": "În 3.5 zile, converteste %(amount)s %(DEBT_TOKEN)s în %(LIQUID_TOKEN)s",
         "view_the_full_context": "Vezi contextul complet",
         "view_the_direct_parent": "Vezi pãrintele direct",
-        "you_are_viewing_a_single_comments_thread_from": "You are viewing a single comment's thread from"
+        "you_are_viewing_a_single_comments_thread_from": "Vizualizezi șirul unui singur comentariu de la"
     },
     "market_jsx": {
         "action": "Actiune",

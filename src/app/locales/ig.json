@@ -417,13 +417,13 @@
         "if_you_want_to_vote_outside_of_top_enter_account_name": "Oburu na igacho itunyere ndi nnochinya na-esonyi na 50 ndi ama aha ha, denye aha account na okpuru ka itunyere ya",
         "set_witness_proxy": "Inwekwara ike horo ka onye ozo hotara gi ndi nnochi anya. Nkea ga-ehicha aha ndi itunyere na mbu.",
         "witness_set": "I horola ka onye ozo hotara gi. Oburu na icho ka ijirikwa aka horo ndi nnochi, biko hichapu ntuye site n'aka onye ozo.",
-        "witness_proxy_current": "Your current proxy is",
-        "witness_proxy_set": "Set proxy",
-        "witness_proxy_clear": "Clear proxy",
-        "proxy_update_error": "Your proxy was not updated"
+        "witness_proxy_current": "Proxy ugbua bu",
+        "witness_proxy_set": "Tinye proxy",
+        "witness_proxy_clear": "Hichapu proxy",
+        "proxy_update_error": "Proxy gi ananyi egosi ka okwesiri"
     },
     "votesandcomments_jsx": {
-        "no_responses_yet_click_to_respond": "No responses yet. Click to respond.",
+        "no_responses_yet_click_to_respond": "Onwebenyi ihe osara, pia ya ozo.",
         "response_count_tooltip": {
             "zero": "no responses. Click to respond.",
             "one": "1 response. Click to respond.",

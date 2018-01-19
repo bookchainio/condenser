@@ -367,8 +367,8 @@
         }
     },
     "authorrewards_jsx": {
-        "estimated_author_rewards_last_week": "Taksata iom da kompenco por afiŝanto lastasemajne",
-        "author_rewards_history": "Historio de Kompenco por Afiŝanto"
+        "estimated_author_rewards_last_week": "Taksata iom da kompenso por afiŝanto lastasemajne",
+        "author_rewards_history": "Historio de Kompenso por Afiŝanto"
     },
     "curationrewards_jsx": {
         "estimated_curation_rewards_last_week": "Taksata iom da Kompenso por zorgado lastasemajne",
@@ -380,7 +380,7 @@
         "comments_were_hidden_due_to_low_ratings": "Komentoj estis kaŝitaj pro malalta estimo"
     },
     "voting_jsx": {
-        "flagging_post_can_remove_rewards_the_flag_should_be_used_for_the_following": "Flagante afiŝon povas forviŝi komencojn, kaj fari ĉi tiun afiŝon malpli videbla. Jen oftaj kialoj por flagi",
+        "flagging_post_can_remove_rewards_the_flag_should_be_used_for_the_following": "Flagante afiŝon povas forviŝi kompensojn, kaj fari ĉi tiun afiŝon malpli videbla. Jen oftaj kialoj por flagi",
         "disagreement_on_rewards": "Malkonsento pri kompensoj",
         "fraud_or_plagiarism": "Fraŭdo aŭ Plagiato",
         "hate_speech_or_internet_trolling": "Malama Diskurso aŭ Interreta Trolado",
@@ -392,7 +392,7 @@
         "past_payouts": "Estintecaj Pagadoj $%(value)s",
         "past_payouts_author": " - Afiŝanto $%(value)s",
         "past_payouts_curators": " - Zorgantoj $%(value)s",
-        "we_will_reset_curation_rewards_for_this_post": "restarigos viajn prizorgajn kompencojn por ĉi tiu afiŝo",
+        "we_will_reset_curation_rewards_for_this_post": "restarigos viajn prizorgajn kompensojn por ĉi tiu afiŝo",
         "removing_your_vote": "Forigante vian voĉdonon",
         "changing_to_an_upvote": "Ŝanĝante al Porvoĉdono",
         "changing_to_a_downvote": "Ŝanĝante al Kontraŭvoĉdono",
@@ -460,7 +460,7 @@
     },
     "tips_js": {
         "liquid_token": "Interŝanĝeblaj ĵetonoj kiuj povas esti interŝanĝitaj ie iam ajn.<br/>%(LIQUID_TOKEN)s povas esti konvertitaj al %(VESTING_TOKEN)s en procezo nomata startado.",
-        "influence_token": "Influaj ĵetonoj kiuj donas al vi pli da regado de afiŝa pagado, kaj permesas al vi enspezi de prizorgaj kompencoj.",
+        "influence_token": "Influaj ĵetonoj kiuj donas al vi pli da regado de afiŝa pagado, kaj permesas al vi enspezi de prizorgaj kompensoj.",
         "estimated_value": "La taksata valoro estas bazita de la averaĝa valoro po %(LIQUID_TOKEN)s por Usonaj dolaroj.",
         "non_transferable": "%(VESTING_TOKEN)s ne estas interŝanĝebla, kaj devigas 3 monatojn (13 pagerojn) por rekonverti al %(LIQUID_TOKEN)s.",
         "converted_VESTING_TOKEN_can_be_sent_to_yourself_but_can_not_transfer_again": "Konvertitaj %(VESTING_TOKEN)s estas sendeblaj al vi mem aŭ aliulo, sed ne povas interŝanĝi denove sen rekonvertado al %(LIQUID_TOKEN)s.",
@@ -557,7 +557,7 @@
         "this_operation_requires_your_key_or_master_password": "Ĉi tiu funkcio bezonas vian ŝlosilon %(authType)s aŭ Mastropasvorton.",
         "keep_me_logged_in": "Memori mian ensalutitan statuson",
         "amazing_community": "vigla komunumo",
-        "to_comment_and_reward_others": " komenti kaj rekompenci alajn afiŝantojn.",
+        "to_comment_and_reward_others": " komenti kaj kompensi alajn afiŝantojn.",
         "signup_button": "Registriĝu nun por enspezi ",
         "signup_button_emphasis": "AKIRI STEEM SENPAGE!",
         "sign_up_get_steem": "Registriĝu. Akiri STEEM-on",
@@ -641,7 +641,7 @@
         "power_down": "Malŝalti",
         "amount": "Sumo",
         "already_power_down": "Vi jam malstarti %(AMOUNT)s %(LIQUID_TICKER)s (%(WITHDRAWN)s %(LIQUID_TICKER)s pagata ĝis nun). Notinde, se vi ŝanĝus la malstartan iomon, tiel la pagplano restariĝos.",
-        "delegating": "Vi deligas %(AMOUNT)s %(LIQUID_TICKER)s. Tiom estos malŝlosita kaj ne dispona por malstarti ĝis la deligado estas forigita kaj preter la plena kompenco-periodo.",
+        "delegating": "Vi deligas %(AMOUNT)s %(LIQUID_TICKER)s. Tiom estos malŝlosita kaj ne dispona por malstarti ĝis la deligado estas forigita kaj preter la plena kompenso-periodo.",
         "per_week": "Tio estas po ~%(AMOUNT)s %(LIQUID_TICKER)s por semajno.",
         "warning": "Lasante malpli ol %(AMOUNT)s %(VESTING_TOKEN)s en via konto ne estas rekomenda, kaj povas fuŝi vian konton.",
         "error": "Ne eblas malŝalti (ERARO: %(MESSAGE)s)"

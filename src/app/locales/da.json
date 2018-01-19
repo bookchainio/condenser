@@ -349,16 +349,16 @@
         "read_the_quick_start_guide": "Læs kom godt i gang-guide",
         "browse_the_faq": "Se FAQ",
         "followers": "Følgere",
-        "this_is_users_reputations_score_it_is_based_on_history_of_votes": "This is %(name)s's reputation score.\n\nThe reputation score is based on the history of votes received by the account, and is used to hide low quality content.",
+        "this_is_users_reputations_score_it_is_based_on_history_of_votes": "Dette er %(name)ss omdømmescore.\n\nOmdømmescoren baseres på historik over kontoens modtagne stemmer, og bruges til at skjule indhold af lav kvalitet.",
         "follower_count": {
-            "zero": "No followers",
-            "one": "1 follower",
-            "other": "%(count)s followers"
+            "zero": "Ingen følgere",
+            "one": "1 følger",
+            "other": "%(count)s følgere"
         },
         "followed_count": {
-            "zero": "Not following anybody",
-            "one": "1 following",
-            "other": "%(count)s following"
+            "zero": "Følger ingen",
+            "one": "1 følger",
+            "other": "%(count)s følgere"
         },
         "post_count": {
             "zero": "No posts",
@@ -431,23 +431,23 @@
         },
         "vote_count": {
             "zero": "no votes",
-            "one": "1 vote",
-            "other": "%(count)s votes"
+            "one": "1 stemme",
+            "other": "%(count)s stemmer"
         }
     },
     "userkeys_jsx": {
-        "public": "Public",
-        "private": "Private",
-        "public_something_key": "Public %(key)s Key",
-        "private_something_key": "Private %(key)s Key",
-        "posting_key_is_required_it_should_be_different": "The posting key is used for posting and voting. It should be different from the active and owner keys.",
-        "the_active_key_is_used_to_make_transfers_and_place_orders": "The active key is used to make transfers and place orders in the internal market.",
-        "the_owner_key_is_required_to_change_other_keys": "The owner key is the master key for the account and is required to change the other keys.",
-        "the_private_key_or_password_should_be_kept_offline": "The private key or password for the owner key should be kept offline as much as possible.",
-        "the_memo_key_is_used_to_create_and_read_memos": "The memo key is used to create and read memos."
+        "public": "Offentlig",
+        "private": "Privat",
+        "public_something_key": "Offentlig %(key)s nøgle",
+        "private_something_key": "Privat %(key)s nøgle",
+        "posting_key_is_required_it_should_be_different": "Indlægsnøglen bruges til at oprette indlæg og stemme. Den bør ikke være den aktive nøgle eller ejernøglerne.",
+        "the_active_key_is_used_to_make_transfers_and_place_orders": "Den aktive nøgle bruges til overførsler og til at oprette ordrer på det interne marked.",
+        "the_owner_key_is_required_to_change_other_keys": "Ejernøglen er hovednøgle for kontoen. Den er påkrævet for at ændre de andre nøgler.",
+        "the_private_key_or_password_should_be_kept_offline": "Den private nøgle eller adgangskode til ejernøglen bør holdes offline så meget som muligt.",
+        "the_memo_key_is_used_to_create_and_read_memos": "Din notat-nøgle bruges til at skabe og læse notater."
     },
     "suggestpassword_jsx": {
-        "APP_NAME_cannot_recover_passwords_keep_this_page_in_a_secure_location": "%(APP_NAME)s cannot recover passwords. Keep this page in a secure location, such as a fireproof safe or safety deposit box.",
+        "APP_NAME_cannot_recover_passwords_keep_this_page_in_a_secure_location": "%(APP_NAME)s kan ikke gendanne adgangskoder. Opbevar denne side et sikkert sted, f.eks i et brandsikret skab eller i en bankboks.",
         "APP_NAME_password_backup": "%(APP_NAME)s Password Backup",
         "APP_NAME_password_backup_required": "%(APP_NAME)s Password Backup (required)",
         "after_printing_write_down_your_user_name": "After printing, write down your user name"

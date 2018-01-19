@@ -456,10 +456,10 @@
         "your_existing_DEBT_TOKEN_are_liquid_and_transferable": "Dine %(DEBT_TOKEN)s er til rådighed og kan overføres. Du kan også handle %(DEBT_TOKEN)s direkte her på siden under %(link)s eller overføre dem til et eksternt marked.",
         "this_is_a_price_feed_conversion": "Dette er en markedsrentekonvertering. De 3½ dages forsinkelse er nødvendig for at forhindre spekulation i markedsrentens gennemsnitlige udvikling",
         "convert_to_LIQUID_TOKEN": "Konvertér til %(LIQUID_TOKEN)s",
-        "DEBT_TOKEN_will_be_unavailable": "This action will take place 3.5 days from now and can not be canceled. These %(DEBT_TOKEN)s will immediately become unavailable"
+        "DEBT_TOKEN_will_be_unavailable": "Denne handling gennemføres 3½ dage fra nu og kan ikke fortrydes. Disse %(DEBT_TOKEN)s bliver øjeblikkeligt utilgængelige"
     },
     "tips_js": {
-        "liquid_token": "Tradeable tokens that may be transferred anywhere at anytime.<br/>%(LIQUID_TOKEN)s can be converted to %(VESTING_TOKEN)s in a process called powering up.",
+        "liquid_token": "Omsættelige tokens, der til enhver tid kan overføres til hvor end du ønsker.<br />%(LIQUID_TOKEN)s kan konverteres til %(VESTING_TOKEN)s i en såkaldt Power Up-proces.",
         "influence_token": "Influence tokens which give you more control over post payouts and allow you to earn on curation rewards.",
         "estimated_value": "The estimated value is based on an average value of %(LIQUID_TOKEN)s in US dollars.",
         "non_transferable": "%(VESTING_TOKEN)s is non-transferable and requires 3 months (13 payments) to convert back to %(LIQUID_TOKEN)s.",

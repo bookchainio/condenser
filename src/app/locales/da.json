@@ -99,9 +99,9 @@
         "since": "siden",
         "submit": "Indsend",
         "power_up": "Power up",
-        "submit_a_story": "Post",
+        "submit_a_story": "Indlæg",
         "tag": "Tag",
-        "to": " to ",
+        "to": " til ",
         "topics": "Emner",
         "toggle_nightmode": "Skift dag/nat-tilstand",
         "all_tags": "Alle tags",
@@ -180,35 +180,35 @@
         "curation_rewards": "Curation rewards",
         "sorry_your_reddit_account_doesnt_have_enough_karma": "Sorry, your Reddit account doesn't have enough Reddit Karma to qualify for a free sign up. Please add your email for a place on the waiting list",
         "register_with_facebook": "Register with Facebook",
-        "or_click_the_button_below_to_register_with_facebook": "Or click the button below to register with Facebook",
-        "server_returned_error": "server returned error",
-        "APP_NAME_support": "%(APP_NAME)s Support",
-        "please_email_questions_to": "Please email your questions to",
+        "or_click_the_button_below_to_register_with_facebook": "Eller tryk på knappen herunder for at registrere via Facebook",
+        "server_returned_error": "serverfejl",
+        "APP_NAME_support": "%(APP_NAME)s support",
+        "please_email_questions_to": "Send venligst spørgsmål til",
         "next_7_strings_single_block": {
-            "authors_get_paid_when_people_like_you_upvote_their_post": "Authors get paid when people like you upvote their post",
-            "if_you_enjoyed_what_you_read_earn_amount": "If you enjoyed what you read here, create your account today and start earning FREE STEEM!",
-            "free_steem": "FREE STEEM!",
-            "sign_up_earn_steem": "Sign up now to earn "
+            "authors_get_paid_when_people_like_you_upvote_their_post": "Forfattere belønnes når du og andre brugere upvote'er deres indlæg",
+            "if_you_enjoyed_what_you_read_earn_amount": "Kunne du lide hvad du så? Opret en konto nu og tjen GRATIS STEEM!",
+            "free_steem": "GRATIS STEEM!",
+            "sign_up_earn_steem": "Tilmeld dig nu og tjen "
         },
         "next_3_strings_together": {
-            "show_more": "Show more",
-            "show_less": "Show fewer",
-            "value_posts": "low value posts"
+            "show_more": "Vis mere",
+            "show_less": "Vis færre",
+            "value_posts": "indlæg med lav værdi"
         },
-        "read_only_mode": "Due to server maintenance we are running in read only mode. We are sorry for the inconvenience.",
+        "read_only_mode": "Pga. servervedligeholdelse kan man lige nu kun læse. Vi beklager ulejligheden.",
         "tags_and_topics": "Tags",
-        "show_more_topics": "View all tags",
-        "basic": "Basic",
-        "advanced": "Advanced",
+        "show_more_topics": "Vis alle tags",
+        "basic": "Enkel",
+        "advanced": "Avanceret",
         "views": {
-            "zero": "No Views",
-            "one": "%(count)s View",
-            "other": "%(count)s Views"
+            "zero": "Ingen visninger",
+            "one": "%(count)s visning",
+            "other": "%(count)s visninger"
         },
         "responses": {
-            "zero": "No Responses",
-            "one": "%(count)s Response",
-            "other": "%(count)s Responses"
+            "zero": "Ingen svar",
+            "one": "%(count)s svar",
+            "other": "%(count)s svar"
         },
         "post_key_warning": {
             "confirm": "You are about to publish a STEEM private key or master password. You will probably lose control of the associated account and all its funds.",

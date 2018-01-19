@@ -448,12 +448,12 @@
     },
     "suggestpassword_jsx": {
         "APP_NAME_cannot_recover_passwords_keep_this_page_in_a_secure_location": "%(APP_NAME)s kan ikke gendanne adgangskoder. Opbevar denne side et sikkert sted, f.eks i et brandsikret skab eller i en bankboks.",
-        "APP_NAME_password_backup": "%(APP_NAME)s Password Backup",
-        "APP_NAME_password_backup_required": "%(APP_NAME)s Password Backup (required)",
-        "after_printing_write_down_your_user_name": "After printing, write down your user name"
+        "APP_NAME_password_backup": "Backup af %(APP_NAME)s adgangskode",
+        "APP_NAME_password_backup_required": "Backup af %(APP_NAME)s adgangskode (påkrævet)",
+        "after_printing_write_down_your_user_name": "Skriv brugernavnet ned efter udskrift"
     },
     "converttosteem_jsx": {
-        "your_existing_DEBT_TOKEN_are_liquid_and_transferable": "Your existing %(DEBT_TOKEN)s are liquid and transferable. Instead you may wish to trade %(DEBT_TOKEN)s directly in this site under %(link)s or transfer to an external market.",
+        "your_existing_DEBT_TOKEN_are_liquid_and_transferable": "Dine %(DEBT_TOKEN)s er til rådighed og kan overføres. Du kan også handle %(DEBT_TOKEN)s direkte her på siden under %(link)s eller overføre dem til et eksternt marked.",
         "this_is_a_price_feed_conversion": "This is a price feed conversion. The 3.5 day delay is necessary to prevent abuse from gaming the price feed average",
         "convert_to_LIQUID_TOKEN": "Convert to %(LIQUID_TOKEN)s",
         "DEBT_TOKEN_will_be_unavailable": "This action will take place 3.5 days from now and can not be canceled. These %(DEBT_TOKEN)s will immediately become unavailable"

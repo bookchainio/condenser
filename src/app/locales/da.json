@@ -211,24 +211,24 @@
             "other": "%(count)s svar"
         },
         "post_key_warning": {
-            "confirm": "You are about to publish a STEEM private key or master password. You will probably lose control of the associated account and all its funds.",
-            "warning": "Legitimate users, including employees of Steemit Inc., will never ask you for a private key or master password.",
-            "checkbox": "I understand"
+            "confirm": "Du er ved at offentliggøre den private nøgle eller hovednøglen til STEEM. Du mister sandsynligvis kontrol over den tilknyttede konto og alle midler på den.",
+            "warning": "Reelle brugere, herunder ansatte i Steemit Inc. vil aldrig bede dig oplyse din private nøgle eller hovednøglen.",
+            "checkbox": "Forstået"
         }
     },
     "navigation": {
-        "about": "About",
-        "explore": "Explore",
+        "about": "Om",
+        "explore": "Udforsk",
         "APP_NAME_whitepaper": "%(APP_NAME)s Whitepaper",
-        "buy_LIQUID_TOKEN": "Buy %(LIQUID_TOKEN)s",
-        "sell_LIQUID_TOKEN": "Sell %(LIQUID_TOKEN)s",
-        "currency_market": "Currency Market",
-        "stolen_account_recovery": "Stolen Accounts Recovery",
-        "change_account_password": "Change Account Password",
-        "witnesses": "Witnesses",
-        "vote_for_witnesses": "Vote for Witnesses",
-        "privacy_policy": "Privacy Policy",
-        "terms_of_service": "Terms of Service",
+        "buy_LIQUID_TOKEN": "Køb %(LIQUID_TOKEN)s",
+        "sell_LIQUID_TOKEN": "Sælg %(LIQUID_TOKEN)s",
+        "currency_market": "Valutamarked",
+        "stolen_account_recovery": "Gendan stjålne konti",
+        "change_account_password": "Skift kontoens adgangskode",
+        "witnesses": "Vidner",
+        "vote_for_witnesses": "Stem på vidner",
+        "privacy_policy": "Privatlivspolitik",
+        "terms_of_service": "Vilkår og betingelser",
         "sign_up": "Join",
         "learn_more": "Learn More",
         "welcome": "Welcome",

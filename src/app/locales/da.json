@@ -454,8 +454,8 @@
     },
     "converttosteem_jsx": {
         "your_existing_DEBT_TOKEN_are_liquid_and_transferable": "Dine %(DEBT_TOKEN)s er til rådighed og kan overføres. Du kan også handle %(DEBT_TOKEN)s direkte her på siden under %(link)s eller overføre dem til et eksternt marked.",
-        "this_is_a_price_feed_conversion": "This is a price feed conversion. The 3.5 day delay is necessary to prevent abuse from gaming the price feed average",
-        "convert_to_LIQUID_TOKEN": "Convert to %(LIQUID_TOKEN)s",
+        "this_is_a_price_feed_conversion": "Dette er en markedsrentekonvertering. De 3½ dages forsinkelse er nødvendig for at forhindre spekulation i markedsrentens gennemsnitlige udvikling",
+        "convert_to_LIQUID_TOKEN": "Konvertér til %(LIQUID_TOKEN)s",
         "DEBT_TOKEN_will_be_unavailable": "This action will take place 3.5 days from now and can not be canceled. These %(DEBT_TOKEN)s will immediately become unavailable"
     },
     "tips_js": {

@@ -443,8 +443,8 @@
         "posting_key_is_required_it_should_be_different": "Ihe nghaghe maka posting ka eji eji ezipu ederede post nakwa ntunye. Ogadi iche site na nghaghe active nakwa nghaghe nke onye.",
         "the_active_key_is_used_to_make_transfers_and_place_orders": "Eji Otugwo nkèdiirè eme ndoghari ya na inye iwu n'ahia diniime.",
         "the_owner_key_is_required_to_change_other_keys": "Ihe nke onye nke onye nwe bu ngbaghe nke kachasi nkpa, anaejikwa tutu inwe ike igbanwo ihe ngbaghe ndi ozo.",
-        "the_private_key_or_password_should_be_kept_offline": "The private key or password for the owner key should be kept offline as much as possible.",
-        "the_memo_key_is_used_to_create_and_read_memos": "The memo key is used to create and read memos."
+        "the_private_key_or_password_should_be_kept_offline": "Ihe ngbanye nke nani gi di oke nkpa ya mere hu na-ichekwara ya ebe ozo na-abughi na internet.",
+        "the_memo_key_is_used_to_create_and_read_memos": "A na-eji igodo memo ede na igukwa memo nile."
     },
     "suggestpassword_jsx": {
         "APP_NAME_cannot_recover_passwords_keep_this_page_in_a_secure_location": "%(APP_NAME)s cannot recover passwords. Keep this page in a secure location, such as a fireproof safe or safety deposit box.",

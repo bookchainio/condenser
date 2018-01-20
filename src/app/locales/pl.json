@@ -454,7 +454,7 @@
     },
     "converttosteem_jsx": {
         "your_existing_DEBT_TOKEN_are_liquid_and_transferable": "Twoje %(DEBT_TOKEN)s są płynne i mogą być przetransferowane. Możesz to zrobić pod tym linkiem %(link)s lub przetransferować na zewnętrzną giełdę.",
-        "this_is_a_price_feed_conversion": "Przeliczenie po kursie rynkowym. Okres 3,5 dnia jest niezbędny, aby zapobiedz nadużyciom związanym z krótkoterminowymi zmianami średniej ceny rynkowej",
+        "this_is_a_price_feed_conversion": "Przeliczenie po kursie rynkowym. Okres 3,5 dnia jest niezbędny, aby zapobiec nadużyciom związanym z krótkoterminowymi zmianami średniej ceny rynkowej",
         "convert_to_LIQUID_TOKEN": "Zamień na %(LIQUID_TOKEN)s",
         "DEBT_TOKEN_will_be_unavailable": "Ta potrwa 3,5 dnia liczone od teraz i nie może być anulowane. %(DEBT_TOKEN)s staną się natychmiastowo niedostępne"
     },

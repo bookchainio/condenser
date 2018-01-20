@@ -175,11 +175,11 @@
         "show_private_key": "Vis privat nøgle",
         "login_to_show": "Log ind for at vise",
         "not_valid_email": "Ugyldig email",
-        "thank_you_for_being_an_early_visitor_to_APP_NAME": "Thank you for being an early visitor to %(APP_NAME)s. We will get back to you at the earliest possible opportunity.",
-        "author_rewards": "Author rewards",
-        "curation_rewards": "Curation rewards",
-        "sorry_your_reddit_account_doesnt_have_enough_karma": "Sorry, your Reddit account doesn't have enough Reddit Karma to qualify for a free sign up. Please add your email for a place on the waiting list",
-        "register_with_facebook": "Register with Facebook",
+        "thank_you_for_being_an_early_visitor_to_APP_NAME": "Tak fordi du besøger %(APP_NAME)s så tidligt. Vi vender tilbage til dig så hurtigt vi kan.",
+        "author_rewards": "Forfatterbelønninger",
+        "curation_rewards": "Udvælgelsesbelønninger",
+        "sorry_your_reddit_account_doesnt_have_enough_karma": "Beklager. Din Reddit-konto har ikke nok Reddit Karma til at kvalificere dig til gratis tilmelding. Angiv din email for en plads på ventelisten",
+        "register_with_facebook": "Registrer med Facebook",
         "or_click_the_button_below_to_register_with_facebook": "Eller tryk på knappen herunder for at registrere via Facebook",
         "server_returned_error": "serverfejl",
         "APP_NAME_support": "%(APP_NAME)s support",
@@ -301,7 +301,7 @@
         "spread": "Spread",
         "total": "Total",
         "available": "Available",
-        "lowest_ask": "Lowest ask",
+        "lowest_ask": "Laveste bud",
         "highest_bid": "Højeste bud",
         "buy_orders": "Købsordrer",
         "sell_orders": "Salgsordrer",
@@ -361,30 +361,30 @@
             "other": "%(count)s følgere"
         },
         "post_count": {
-            "zero": "No posts",
-            "one": "1 post",
-            "other": "%(count)s posts"
+            "zero": "Ingen indlæg",
+            "one": "1 indlæg",
+            "other": "%(count)s indlæg"
         }
     },
     "authorrewards_jsx": {
-        "estimated_author_rewards_last_week": "Estimated author rewards last week",
-        "author_rewards_history": "Author Rewards History"
+        "estimated_author_rewards_last_week": "Anslået forfatterbelønning sidste uge",
+        "author_rewards_history": "Historik for forfatterbelønninger"
     },
     "curationrewards_jsx": {
-        "estimated_curation_rewards_last_week": "Estimated curation rewards last week",
-        "curation_rewards_history": "Curation Rewards History"
+        "estimated_curation_rewards_last_week": "Anslået udvælgelsesbelønning sidste uge",
+        "curation_rewards_history": "Historik for udvælgelsesbelønning"
     },
     "post_jsx": {
-        "now_showing_comments_with_low_ratings": "Now showing comments with low ratings",
-        "sort_order": "Sort Order",
-        "comments_were_hidden_due_to_low_ratings": "Comments were hidden due to low ratings"
+        "now_showing_comments_with_low_ratings": "Kommentarer med lav rating vises nu",
+        "sort_order": "Sortering",
+        "comments_were_hidden_due_to_low_ratings": "Kommentarer blev skjult pga. lave ratings"
     },
     "voting_jsx": {
-        "flagging_post_can_remove_rewards_the_flag_should_be_used_for_the_following": "Flagging a post can remove rewards and make this material less visible. Some common reasons to flag",
-        "disagreement_on_rewards": "Disagreement on rewards",
-        "fraud_or_plagiarism": "Fraud or Plagiarism",
-        "hate_speech_or_internet_trolling": "Hate Speech or Internet Trolling",
-        "intentional_miss_categorized_content_or_spam": "Intentional miss-categorized content or Spam",
+        "flagging_post_can_remove_rewards_the_flag_should_be_used_for_the_following": "Hvis du flager et indlæg kan det fjerne belønninger og reducere synligheden af materialet. Et par almindelige årsager til at flage",
+        "disagreement_on_rewards": "Uenighed om belønninger",
+        "fraud_or_plagiarism": "Misbrug eller plagiering",
+        "hate_speech_or_internet_trolling": "Hate speech eller trolling",
+        "intentional_miss_categorized_content_or_spam": "Bevidst fejlkategoriseret indhold eller spam",
         "pending_payout": "Pending Payout $%(value)s",
         "payout_declined": "Payout Declined",
         "max_accepted_payout": "Max Accepted Payout $%(value)s",

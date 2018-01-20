@@ -394,7 +394,7 @@
         "past_payouts_curators": " - Udvælgelse: $%(value)s",
         "we_will_reset_curation_rewards_for_this_post": "vil nulstille dine udvælgelsesbelønninger for dette indlæg",
         "removing_your_vote": "Fjerner din stemme",
-        "changing_to_an_upvote": "Changing to an Up-Vote",
+        "changing_to_an_upvote": "Ændrer til Upvote",
         "changing_to_a_downvote": "Changing to a Down-Vote",
         "confirm_flag": "Confirm Flag",
         "and_more": "and %(count)s more",

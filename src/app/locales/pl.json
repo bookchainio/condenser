@@ -329,7 +329,7 @@
         "login_with_social_media_to_verify_identity": "Zaloguj się przez %(provider)s aby potwierdzić tożsamość",
         "enter_email_toverify_identity": "Musimy potwierdzić twoją tożsamość. Podaj swój adres email aby rozpocząć weryfikację.",
         "continue_with_email": "Kontynuuj przy użyciu emaila",
-        "thanks_for_submitting_request_for_account_recovery": "Dziękujemy za wysłanie zgłoszenia dotyczącego odzyskiwania konta używając wieloskładnikowej, opartej o blockchain autentykacji %(APP_NAME)s. Odpowiemy najszybciej jak to możliwe, jednakże, możliwe są opóżnienia z powodu dużej ilości zgłoszeń. Proszę być przygotwanym do potwierdzenia tożsamości.",
+        "thanks_for_submitting_request_for_account_recovery": "Dziękujemy za wysłanie zgłoszenia dotyczącego odzyskiwania konta używając wieloskładnikowej, opartej o blockchain autentykacji %(APP_NAME)s. Odpowiemy najszybciej jak to możliwe, jednakże, możliwe są opóźnienia z powodu dużej ilości zgłoszeń. Proszę być przygotowanym do potwierdzenia tożsamości.",
         "recovering_account": "Odzyskiwanie konta",
         "recover_account": "Odzyskaj konto",
         "checking_account_owner": "Sprawdzanie właściciela konta",

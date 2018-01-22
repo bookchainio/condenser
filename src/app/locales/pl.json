@@ -649,7 +649,7 @@
     "checkloginowner_jsx": {
         "your_password_permissions_were_reduced": "Twoje uprawnienia zostały zmniejszone",
         "if_you_did_not_make_this_change": "Jeżeli to nie ty wykonałeś tą zmianę",
-        "ownership_changed_on": "Zmiana właściciela nastąpiła ",
+        "ownership_changed_on": "Nastąpiła zmiana właściciela",
         "deadline_for_recovery_is": "Ostateczny czas na odzyskanie",
         "i_understand_dont_show_again": "Rozumiem, nie pokazuj mi tego ponownie"
     }

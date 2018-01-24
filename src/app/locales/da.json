@@ -415,22 +415,22 @@
         "witness": "Vidne",
         "information": "Information",
         "if_you_want_to_vote_outside_of_top_enter_account_name": "Hvis du vil stemme på et vidne udenfor top-50, skal kontonavnet skrives herunder for at stemme",
-        "set_witness_proxy": "You can also choose a proxy that will vote for witnesses for you. This will reset your current witness selection.",
-        "witness_set": "You have set a voting proxy. If you would like to re-enable manual voting, please clear your proxy.",
-        "witness_proxy_current": "Your current proxy is",
-        "witness_proxy_set": "Set proxy",
-        "witness_proxy_clear": "Clear proxy",
-        "proxy_update_error": "Your proxy was not updated"
+        "set_witness_proxy": "Du kan også vælge en fuldmægtig, der kan stemme på vidner for dig. Dette vil nulstille dit nuværende valg af vidner.",
+        "witness_set": "Du har afgivet stemmefuldmagt. Hvis du igen vil kunne stemme manuelt, skal du fjerne den fuldmægtige.",
+        "witness_proxy_current": "Din nuværende fuldmægtige er",
+        "witness_proxy_set": "Angiv fuldmægtig",
+        "witness_proxy_clear": "Fjern fuldmægtig",
+        "proxy_update_error": "Din fuldmægtige blev ikke opdateret"
     },
     "votesandcomments_jsx": {
-        "no_responses_yet_click_to_respond": "No responses yet. Click to respond.",
+        "no_responses_yet_click_to_respond": "Intet svar endnu. Klik for at svare.",
         "response_count_tooltip": {
-            "zero": "no responses. Click to respond.",
-            "one": "1 response. Click to respond.",
-            "other": "%(count)s responses. Click to respond."
+            "zero": "ingen svar. Klik for at svare.",
+            "one": "1 svar. Klik for at svare.",
+            "other": "%(count)s svar. Klik for at svare."
         },
         "vote_count": {
-            "zero": "no votes",
+            "zero": "ingen stemmer",
             "one": "1 stemme",
             "other": "%(count)s stemmer"
         }
@@ -460,9 +460,9 @@
     },
     "tips_js": {
         "liquid_token": "Omsættelige tokens, der til enhver tid kan overføres til hvor end du ønsker.<br />%(LIQUID_TOKEN)s kan konverteres til %(VESTING_TOKEN)s i en såkaldt Power Up-proces.",
-        "influence_token": "Influence tokens which give you more control over post payouts and allow you to earn on curation rewards.",
-        "estimated_value": "The estimated value is based on an average value of %(LIQUID_TOKEN)s in US dollars.",
-        "non_transferable": "%(VESTING_TOKEN)s is non-transferable and requires 3 months (13 payments) to convert back to %(LIQUID_TOKEN)s.",
+        "influence_token": "Indflydelses-tokens giver dig mere kontrol over indlægs udbetaling og muliggør indtjening på udvælgelse af indlæg.",
+        "estimated_value": "Anslået værdi er baseret på gennemsnitlig værdi af %(LIQUID_TOKEN)s i US dollars.",
+        "non_transferable": "%(VESTING_TOKEN)s kan ikke overføres og kræver 3 måneder (13 betalinger) at konvertere tilbage til %(LIQUID_TOKEN)s.",
         "converted_VESTING_TOKEN_can_be_sent_to_yourself_but_can_not_transfer_again": "Converted %(VESTING_TOKEN)s can be sent to yourself or someone else but can not transfer again without converting back to %(LIQUID_TOKEN)s.",
         "part_of_your_steem_power_is_currently_delegated": "Part of %(user_name)s's STEEM POWER is currently delegated. Delegation is donated for influence or to help new users perform actions on steemit. Your delegation amount can fluctuate."
     },

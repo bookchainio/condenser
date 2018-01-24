@@ -164,7 +164,7 @@
         "account_name_should_be_longer": "Kontonavn skal være længere.",
         "account_name_should_have_only_letters_digits_or_dashes": "Kontonavn må kun bestå af bogstaver, tal, punktummer og bindestreger.",
         "cannot_increase_reward_of_post_within_the_last_minute_before_payout": "Belønning af indlæg kan ikke forøges i minutterne før udbetaling",
-        "vote_currently_exists_user_must_be_indicate_a_to_reject_witness": "vote currently exists, user must be indicate a desire to reject witness",
+        "vote_currently_exists_user_must_be_indicate_a_to_reject_witness": "stemme allerede afgivet, så bruger skal specifikt ønske at afvise vidnet",
         "only_one_APP_NAME_account_allowed_per_ip_address_every_10_minutes": "Kun én Steem-konto tilladt per IP-adresse hvert 10. minut",
         "resteem_this_post": "Resteem indlægget",
         "reblog": "Resteem",
@@ -395,26 +395,26 @@
         "we_will_reset_curation_rewards_for_this_post": "vil nulstille dine udvælgelsesbelønninger for dette indlæg",
         "removing_your_vote": "Fjerner din stemme",
         "changing_to_an_upvote": "Ændrer til Upvote",
-        "changing_to_a_downvote": "Changing to a Down-Vote",
-        "confirm_flag": "Confirm Flag",
-        "and_more": "and %(count)s more",
+        "changing_to_a_downvote": "Ændrer til Downvote",
+        "confirm_flag": "Bekræft flag",
+        "and_more": "og %(count)s flere",
         "votes_plural": {
-            "one": "%(count)s vote",
-            "other": "%(count)s votes"
+            "one": "%(count)s stemme",
+            "other": "%(count)s stemmer"
         }
     },
     "witnesses_jsx": {
-        "witness_thread": "witness thread",
-        "top_witnesses": "Witness Voting",
+        "witness_thread": "vidnetråd",
+        "top_witnesses": "Stem på vidner",
         "you_have_votes_remaining": {
-            "zero": "You have no votes remaining",
-            "one": "You have 1 vote remaining",
-            "other": "You have %(count)s votes remaining"
+            "zero": "Du har ikke flere stemmer tilbage",
+            "one": "Du har 1 stemme tilbage",
+            "other": "Du har %(count)s stemmer tilbage"
         },
-        "you_can_vote_for_maximum_of_witnesses": "You can vote for a maximum of 30 witnesses",
-        "witness": "Witness",
+        "you_can_vote_for_maximum_of_witnesses": "Du kan højst stemme på 30 vidner",
+        "witness": "Vidne",
         "information": "Information",
-        "if_you_want_to_vote_outside_of_top_enter_account_name": "If you would like to vote for a witness outside of the top 50, enter the account name below to cast a vote",
+        "if_you_want_to_vote_outside_of_top_enter_account_name": "Hvis du vil stemme på et vidne udenfor top-50, skal kontonavnet skrives herunder for at stemme",
         "set_witness_proxy": "You can also choose a proxy that will vote for witnesses for you. This will reset your current witness selection.",
         "witness_set": "You have set a voting proxy. If you would like to re-enable manual voting, please clear your proxy.",
         "witness_proxy_current": "Your current proxy is",

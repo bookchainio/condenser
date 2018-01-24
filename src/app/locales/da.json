@@ -474,25 +474,25 @@
     },
     "about_jsx": {
         "about_app": "Om %(APP_NAME)s",
-        "about_app_details": "%(APP_NAME)s is a social media platform where everyone gets paid for creating and curating content. It leverages a robust digital points system, called Steem, that supports real value for digital rewards through market price discovery and liquidity.",
-        "learn_more_at_app_url": "Learn more at %(APP_URL)s",
-        "resources": "Resources"
+        "about_app_details": "%(APP_NAME)s er en social media-platform, hvor alle bliver betalt for at oprette og udvælge indhold. Platformen gør brug af et robust digitalt pointsystem ved navn Steem, der har en reel likvid markedsværdi for de digitale belønninger.",
+        "learn_more_at_app_url": "Lær mere på %(APP_URL)s",
+        "resources": "Ressourcer"
     },
     "markdownviewer_jsx": {
-        "images_were_hidden_due_to_low_ratings": "Images were hidden due to low ratings."
+        "images_were_hidden_due_to_low_ratings": "Billeder blev skjult pga. lav rating."
     },
     "postsummary_jsx": {
         "resteemed": "resteemed",
-        "resteemed_by": "Resteemed by",
-        "reveal_it": "Reveal this post",
-        "adjust_your": "adjust your",
-        "display_preferences": "display preferences",
-        "create_an_account": "create an account",
-        "to_save_your_preferences": "to save your preferences"
+        "resteemed_by": "Resteemed af",
+        "reveal_it": "Vis dette indlæg",
+        "adjust_your": "justér din",
+        "display_preferences": "indstillinger for visning",
+        "create_an_account": "opret konto",
+        "to_save_your_preferences": "for at gemme indstillinger"
     },
     "posts_index": {
-        "empty_feed_1": "Looks like you haven't followed anything yet",
-        "empty_feed_2": "If you recently added new users to follow, your personalized feed will populate once new content is available",
+        "empty_feed_1": "Du følger tilsyneladende ikke noget endnu",
+        "empty_feed_2": "Hvis du lige har valgt at følge nye brugere, vil dit personlige feed automatisk opdateres når nyt indhold bliver tilgængeligt",
         "empty_feed_3": "Undersøg populære artikler",
         "empty_feed_4": "Læs kom godt i gang-guide",
         "empty_feed_5": "Se FAQ"
@@ -553,7 +553,7 @@
         "password_update_succes": "Adgangskode for %(accountName)s blev opdateret",
         "password_info": "Denne adgangskode eller private nøgle blev ikke indtastet korrekt. Der er muligvis en fejl i håndskriften eller indtastningen. Tip: En adgangskode eller privat nøgle genereret af Steemit vil aldrig indeholde tegnene 0 (nul), O (stort o), I (stort i) eller l (lille L).",
         "enter_your_username": "Indtast dit brugernavn",
-        "password_or_wif": "Password or WIF",
+        "password_or_wif": "Adgangskode eller WIF",
         "this_operation_requires_your_key_or_master_password": "This operation requires your %(authType)s key or Master password.",
         "keep_me_logged_in": "Keep me logged in",
         "amazing_community": "amazing community",

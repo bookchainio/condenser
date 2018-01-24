@@ -463,11 +463,11 @@
         "influence_token": "Indflydelses-tokens giver dig mere kontrol over indlægs udbetaling og muliggør indtjening på udvælgelse af indlæg.",
         "estimated_value": "Anslået værdi er baseret på gennemsnitlig værdi af %(LIQUID_TOKEN)s i US dollars.",
         "non_transferable": "%(VESTING_TOKEN)s kan ikke overføres og kræver 3 måneder (13 betalinger) at konvertere tilbage til %(LIQUID_TOKEN)s.",
-        "converted_VESTING_TOKEN_can_be_sent_to_yourself_but_can_not_transfer_again": "Converted %(VESTING_TOKEN)s can be sent to yourself or someone else but can not transfer again without converting back to %(LIQUID_TOKEN)s.",
-        "part_of_your_steem_power_is_currently_delegated": "Part of %(user_name)s's STEEM POWER is currently delegated. Delegation is donated for influence or to help new users perform actions on steemit. Your delegation amount can fluctuate."
+        "converted_VESTING_TOKEN_can_be_sent_to_yourself_but_can_not_transfer_again": "Konverterede %(VESTING_TOKEN)s kan sendes til dig selv eller en anden, men kan kun overføres videre, hvis de konverteres tilbage til %(LIQUID_TOKEN)s igen.",
+        "part_of_your_steem_power_is_currently_delegated": "En del af %(user_name)ss STEEM POWER er i øjeblikket uddelegeret. Uddelegeringen doneres for at få indflydelse eller for at hjælpe nye brugere med at udføre handlinger på steemit. Dit uddelegerede beløb kan variere."
     },
     "promote_post_jsx": {
-        "promote_post": "Promote Post",
+        "promote_post": "Fremhæv indlæg",
         "spend_your_DEBT_TOKEN_to_advertise_this_post": "Spend your %(DEBT_TOKEN)s's to advertise this post in the promoted content section",
         "you_successfully_promoted_this_post": "You successfully promoted this post",
         "this_post_was_hidden_due_to_low_ratings": "This post was hidden due to low ratings"

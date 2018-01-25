@@ -634,12 +634,12 @@
         "next_power_down_is_scheduled_to_happen": "خفض الطاقة المقبل من المنتظر أن يحدث",
         "transfers_are_temporary_disabled": "تم تعطيل التحويلات مؤقتاً.",
         "history": "التاريخ",
-        "redeem_rewards": "Redeem Rewards (Transfer to Balance)",
-        "buy_steem_or_steem_power": "Buy STEEM or STEEM POWER"
+        "redeem_rewards": "احصل على المكافآت (تحويل إلى الرصيد)",
+        "buy_steem_or_steem_power": "شراء الستيم أو الستيم بور"
     },
     "powerdown_jsx": {
-        "power_down": "Power Down",
-        "amount": "Amount",
+        "power_down": "خفض الطاقة",
+        "amount": "المبلغ",
         "already_power_down": "You are already powering down %(AMOUNT)s %(LIQUID_TICKER)s (%(WITHDRAWN)s %(LIQUID_TICKER)s paid out so far). Note that if you change the power down amount the payout schedule will reset.",
         "delegating": "You are delegating %(AMOUNT)s %(LIQUID_TICKER)s. That amount is locked up and not available to power down until the delegation is removed and a full reward period has passed.",
         "per_week": "هو تقريباً %(AMOUNT)s %(LIQUID_TICKER)s كل أسبوع.",

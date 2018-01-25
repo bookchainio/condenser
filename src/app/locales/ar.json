@@ -368,11 +368,11 @@
     },
     "authorrewards_jsx": {
         "estimated_author_rewards_last_week": "المكافآت المقدرة للمؤلف الأسبوع الماضي",
-        "author_rewards_history": "Author Rewards History"
+        "author_rewards_history": "تاريخ مكافأت المؤلف"
     },
     "curationrewards_jsx": {
-        "estimated_curation_rewards_last_week": "Estimated curation rewards last week",
-        "curation_rewards_history": "Curation Rewards History"
+        "estimated_curation_rewards_last_week": "مكافأت التفاعل المقدرة الأسبوع الماضي",
+        "curation_rewards_history": "تاريخ مكافأت التفاعل"
     },
     "post_jsx": {
         "now_showing_comments_with_low_ratings": "Now showing comments with low ratings",

@@ -613,7 +613,7 @@
         "withdraw_funds_after_the_required_3_day_waiting_period": "سحب الأموال بعد فترة الانتظار المطلوبة التي مدتها 3 أيام.",
         "from": "من",
         "to": "إلى",
-        "asset_currently_collecting": "%(asset)s تجمع حالياً %(interest)s%% في أبريل.",
+        "asset_currently_collecting": "%(asset)s تجمع حالياً %(interest)s%% المعدل السنوي النسبي للكلفة.",
         "beware_of_spam_and_phishing_links": "Beware of spam and phishing links in transfer memos. Do not open links from users you do not trust. Do not provide your private keys to any third party websites.",
         "autocomplete_previous_transfers": "previous transfers",
         "autocomplete_user_following": "following"

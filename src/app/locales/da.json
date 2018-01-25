@@ -153,7 +153,7 @@
         "update_password": "Opdater adgangskode",
         "confirm_password": "Bekræft adgangskode",
         "account_updated": "Konto opdateret",
-        "password_must_be_characters_or_more": "Adgangskoden skal mindst indeholde %(amount)s tegn",
+        "password_must_be_characters_or_more": "Adgangskoden skal være på mindst %(amount)s tegn",
         "need_password_or_key": "Du skal bruge en privat adgangskode eller nøgle (ikke en offentlig nøgle)",
         "login_to_see_memo": "log ind for at se notat",
         "new_password": "Ny adgangskode",
@@ -169,11 +169,11 @@
         "resteem_this_post": "Resteem indlægget",
         "reblog": "Resteem",
         "write_your_story": "Skriv din historie",
-        "remember_voting_and_posting_key": "Husk stemme- og indlægsnøgler",
+        "remember_voting_and_posting_key": "Husk stemme- og indlægsnøgle",
         "auto_login_question_mark": "Log ind automatisk?",
         "hide_private_key": "Skjul privat nøgle",
         "show_private_key": "Vis privat nøgle",
-        "login_to_show": "Log ind for at vise",
+        "login_to_show": "Log ind for at se",
         "not_valid_email": "Ugyldig email",
         "thank_you_for_being_an_early_visitor_to_APP_NAME": "Tak fordi du besøger %(APP_NAME)s så tidligt. Vi vender tilbage til dig så hurtigt vi kan.",
         "author_rewards": "Forfatterbelønninger",
@@ -185,13 +185,13 @@
         "APP_NAME_support": "%(APP_NAME)s support",
         "please_email_questions_to": "Send venligst spørgsmål til",
         "next_7_strings_single_block": {
-            "authors_get_paid_when_people_like_you_upvote_their_post": "Forfattere belønnes når du og andre brugere upvote'er deres indlæg",
+            "authors_get_paid_when_people_like_you_upvote_their_post": "Forfattere belønnes når du og andre brugere Upvoter deres indlæg",
             "if_you_enjoyed_what_you_read_earn_amount": "Kunne du lide hvad du så? Opret en konto nu og tjen GRATIS STEEM!",
             "free_steem": "GRATIS STEEM!",
             "sign_up_earn_steem": "Tilmeld dig nu og tjen "
         },
         "next_3_strings_together": {
-            "show_more": "Vis mere",
+            "show_more": "Vis flere",
             "show_less": "Vis færre",
             "value_posts": "indlæg med lav værdi"
         },
@@ -212,7 +212,7 @@
         },
         "post_key_warning": {
             "confirm": "Du er ved at offentliggøre den private nøgle eller hovednøglen til STEEM. Du mister sandsynligvis kontrol over den tilknyttede konto og alle midler på den.",
-            "warning": "Reelle brugere, herunder ansatte i Steemit Inc. vil aldrig bede dig oplyse din private nøgle eller hovednøglen.",
+            "warning": "Reelle brugere, herunder ansatte i Steemit Inc., vil aldrig bede dig oplyse din private nøgle eller hovednøglen.",
             "checkbox": "Forstået"
         }
     },
@@ -257,18 +257,18 @@
         "draft_saved": "Kladde gemt.",
         "editor": "Editor",
         "insert_images_by_dragging_dropping": "Indsæt billeder med drag 'n' drop ",
-        "pasting_from_the_clipboard": "indsætter fra udklipsholderen, ",
+        "pasting_from_the_clipboard": "indsætte fra udklipsholderen, ",
         "selecting_them": "at vælge dem",
         "image_upload": "Upload af billeder",
         "power_up_100": "Power Up 100%%",
         "default_50_50": "Standard (50%% / 50%%)",
         "decline_payout": "Afvis udbetaling",
-        "check_this_to_auto_upvote_your_post": "Afkryds for automatisk upvote af dit indlæg",
+        "check_this_to_auto_upvote_your_post": "Upvote automatisk dit indlæg",
         "markdown_styling_guide": "Guide til Markdown Styling",
         "or_by": "eller af",
         "title": "Titel",
         "update_post": "Opdater indlæg",
-        "markdown_not_supported": "Markdown ikke understøttet her"
+        "markdown_not_supported": "Markdown understøttes ikke her"
     },
     "category_selector_jsx": {
         "tag_your_story": "Tag (op til 5 tags), det første tag er din primære kategori.",

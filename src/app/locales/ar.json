@@ -586,11 +586,11 @@
         "public_profile_settings": "Public Profile Settings",
         "private_post_display_settings": "Private Post Display Settings",
         "not_safe_for_work_nsfw_content": "Not safe for work (NSFW) content",
-        "always_hide": "Always hide",
-        "always_warn": "Always warn",
-        "always_show": "Always show",
-        "muted_users": "Muted Users",
-        "update": "Update",
+        "always_hide": "إخفاء دوماً",
+        "always_warn": "التحذير دوماً",
+        "always_show": "الإظهار دائماً",
+        "muted_users": "الحسابات المكتومة",
+        "update": "تحديث",
         "profile_image_url": "Profile picture url",
         "cover_image_url": "Cover image url",
         "profile_name": "Display Name",
@@ -644,13 +644,13 @@
         "delegating": "You are delegating %(AMOUNT)s %(LIQUID_TICKER)s. That amount is locked up and not available to power down until the delegation is removed and a full reward period has passed.",
         "per_week": "هو تقريباً %(AMOUNT)s %(LIQUID_TICKER)s كل أسبوع.",
         "warning": "لا ينصح بترك أقل من %(AMOUNT)s %(VESTING_TOKEN)s في حسابك، هذا قد يجعل حسابك في وضع غير صالح للاستعمال.",
-        "error": "Unable to power down (ERROR: %(MESSAGE)s)"
+        "error": "لا يمكن خفض الطاقة (الخطأ: %(MESSAGE)s)"
     },
     "checkloginowner_jsx": {
-        "your_password_permissions_were_reduced": "Your password permissions were reduced",
-        "if_you_did_not_make_this_change": "If you did not make this change please",
-        "ownership_changed_on": "Ownership Changed On ",
-        "deadline_for_recovery_is": "Deadline for recovery is",
-        "i_understand_dont_show_again": "I understand, don't show me again"
+        "your_password_permissions_were_reduced": "تم تقليل أذونات كلمة المرور الخاصة بك",
+        "if_you_did_not_make_this_change": "إذا لم تكن قد قمت بهذا التغيير الرجاء",
+        "ownership_changed_on": "تم تغيير الملكية لـ ",
+        "deadline_for_recovery_is": "آخر موعد للاسترداد هو",
+        "i_understand_dont_show_again": "لقد فهمت، لا تظهر لي مرة أخرى"
     }
 }

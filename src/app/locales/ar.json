@@ -640,7 +640,7 @@
     "powerdown_jsx": {
         "power_down": "خفض الطاقة",
         "amount": "المبلغ",
-        "already_power_down": "You are already powering down %(AMOUNT)s %(LIQUID_TICKER)s (%(WITHDRAWN)s %(LIQUID_TICKER)s paid out so far). Note that if you change the power down amount the payout schedule will reset.",
+        "already_power_down": "لقد قمت بخفض الطاقة من قبل %(AMOUNT)s %(LIQUID_TICKER)s (%(WITHDRAWN)s %(LIQUID_TICKER)s تم دفعه حتى الآن). ملاحظة إذا قمت بتغيير مبلغ خفض الطاقة ستيم إعادة تعيين الجدول الزمني للدفع.",
         "delegating": "You are delegating %(AMOUNT)s %(LIQUID_TICKER)s. That amount is locked up and not available to power down until the delegation is removed and a full reward period has passed.",
         "per_week": "هو تقريباً %(AMOUNT)s %(LIQUID_TICKER)s كل أسبوع.",
         "warning": "لا ينصح بترك أقل من %(AMOUNT)s %(VESTING_TOKEN)s في حسابك، هذا قد يجعل حسابك في وضع غير صالح للاستعمال.",

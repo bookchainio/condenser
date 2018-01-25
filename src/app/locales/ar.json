@@ -1,12 +1,12 @@
 {
     "g": {
         "age": "العمر",
-        "amount": "Amount",
-        "and": "and",
-        "are_you_sure": "Are you sure?",
-        "ask": "Ask",
-        "balance": "Balance",
-        "balances": "Balances",
+        "amount": "المبلغ",
+        "and": "و",
+        "are_you_sure": "هل أنت متاكد؟",
+        "ask": "اطلب",
+        "balance": "الرصيد",
+        "balances": "الأرصدة",
         "bid": "Bid",
         "blog": "Blog",
         "browse": "Browse",

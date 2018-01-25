@@ -641,16 +641,16 @@
         "power_down": "Power Down",
         "amount": "Beløb",
         "already_power_down": "Power Down af %(AMOUNT)s %(LIQUID_TICKER)s er allerede i gang (%(WITHDRAWN)s %(LIQUID_TICKER)s udbetalt hidtil). NB! Planlagt udbetaling nulstilles, hvis du ændrer Power Down-beløb.",
-        "delegating": "You are delegating %(AMOUNT)s %(LIQUID_TICKER)s. That amount is locked up and not available to power down until the delegation is removed and a full reward period has passed.",
-        "per_week": "That's ~%(AMOUNT)s %(LIQUID_TICKER)s per week.",
-        "warning": "Leaving less than %(AMOUNT)s %(VESTING_TOKEN)s in your account is not recommended and can leave your account in a unusable state.",
-        "error": "Unable to power down (ERROR: %(MESSAGE)s)"
+        "delegating": "Du uddelegerer %(AMOUNT)s %(LIQUID_TICKER)s. Beløbet låses og kan ikke bruges til Power Down før uddelegeringen er fjernet og en hel belønningsperiode er gået.",
+        "per_week": "Det er ca. %(AMOUNT)s %(LIQUID_TICKER)s om ugen.",
+        "warning": "At efterlade færre end %(AMOUNT)s %(VESTING_TOKEN)s på kontoen frarådes, da det kan resultere i at kontoen ikke kan bruges.",
+        "error": "Kunne ikke Power Down (FEJL: %(MESSAGE)s)"
     },
     "checkloginowner_jsx": {
-        "your_password_permissions_were_reduced": "Your password permissions were reduced",
-        "if_you_did_not_make_this_change": "If you did not make this change please",
-        "ownership_changed_on": "Ownership Changed On ",
-        "deadline_for_recovery_is": "Deadline for recovery is",
-        "i_understand_dont_show_again": "I understand, don't show me again"
+        "your_password_permissions_were_reduced": "Adgangskoderettigheder blev reduceret",
+        "if_you_did_not_make_this_change": "Hvis ikke du foretog ændringen, skal du",
+        "ownership_changed_on": "Ejerskab ændre på ",
+        "deadline_for_recovery_is": "Deadline for gendannelse er",
+        "i_understand_dont_show_again": "Jeg er indforstået. Vis ikke igen"
     }
 }

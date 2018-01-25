@@ -273,7 +273,7 @@
     "category_selector_jsx": {
         "tag_your_story": "Tag (op til 5 tags), det første tag er din primære kategori.",
         "select_a_tag": "Vælg et tag",
-        "maximum_tag_length_is_24_characters": "Maksimal længde på tag er 24 tegn",
+        "maximum_tag_length_is_24_characters": "Maksimal længde på tags er 24 tegn",
         "use_limited_amount_of_categories": "Brug venligst højst %(amount)s kategorier",
         "use_only_lowercase_letters": "Brug kun små bogstaver",
         "use_one_dash": "Brug kun én bindestreg",
@@ -291,7 +291,7 @@
         "in_week_convert_DEBT_TOKEN_to_LIQUID_TOKEN": "Konverter %(amount)s %(DEBT_TOKEN)s til %(LIQUID_TOKEN)s om 3½ dage",
         "view_the_full_context": "Vis hele sammenhængen",
         "view_the_direct_parent": "Vis den direkte overordnede",
-        "you_are_viewing_a_single_comments_thread_from": "Du ser en enkelt kommentars tråd fra"
+        "you_are_viewing_a_single_comments_thread_from": "Du ser en enkelt kommentartråd fra"
     },
     "market_jsx": {
         "action": "Handling",
@@ -301,8 +301,8 @@
         "spread": "Spredning",
         "total": "I alt",
         "available": "Disponibel",
-        "lowest_ask": "Laveste bud",
-        "highest_bid": "Højeste bud",
+        "lowest_ask": "Laveste salgsbud",
+        "highest_bid": "Højeste købsbud",
         "buy_orders": "Købsordrer",
         "sell_orders": "Salgsordrer",
         "trade_history": "Handelshistorik",

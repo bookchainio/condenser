@@ -416,8 +416,8 @@
         "information": "Information",
         "if_you_want_to_vote_outside_of_top_enter_account_name": "Hvis du vil stemme på et vidne udenfor top-50, skal kontonavnet skrives herunder for at stemme",
         "set_witness_proxy": "Du kan også vælge en fuldmægtig, der kan stemme på vidner for dig. Dette vil nulstille dit nuværende valg af vidner.",
-        "witness_set": "Du har afgivet stemmefuldmagt. Hvis du igen vil kunne stemme manuelt, skal du fjerne den fuldmægtige.",
-        "witness_proxy_current": "Din nuværende fuldmægtige er",
+        "witness_set": "Du har afgivet stemmefuldmagt. Hvis du igen vil kunne stemme manuelt, skal du slette fuldmagten.",
+        "witness_proxy_current": "Nuværende fuldmægtige er",
         "witness_proxy_set": "Angiv fuldmægtig",
         "witness_proxy_clear": "Fjern fuldmægtig",
         "proxy_update_error": "Din fuldmægtige blev ikke opdateret"
@@ -444,7 +444,7 @@
         "the_active_key_is_used_to_make_transfers_and_place_orders": "Den aktive nøgle bruges til overførsler og til at oprette ordrer på det interne marked.",
         "the_owner_key_is_required_to_change_other_keys": "Ejernøglen er hovednøgle for kontoen. Den er påkrævet for at ændre de andre nøgler.",
         "the_private_key_or_password_should_be_kept_offline": "Den private nøgle eller adgangskode til ejernøglen bør holdes offline så meget som muligt.",
-        "the_memo_key_is_used_to_create_and_read_memos": "Din notat-nøgle bruges til at skabe og læse notater."
+        "the_memo_key_is_used_to_create_and_read_memos": "Din notat-nøgle bruges til at oprette og læse notater."
     },
     "suggestpassword_jsx": {
         "APP_NAME_cannot_recover_passwords_keep_this_page_in_a_secure_location": "%(APP_NAME)s kan ikke gendanne adgangskoder. Opbevar denne side et sikkert sted, f.eks i et brandsikret skab eller i en bankboks.",
@@ -454,7 +454,7 @@
     },
     "converttosteem_jsx": {
         "your_existing_DEBT_TOKEN_are_liquid_and_transferable": "Dine %(DEBT_TOKEN)s er til rådighed og kan overføres. Du kan også handle %(DEBT_TOKEN)s direkte her på siden under %(link)s eller overføre dem til et eksternt marked.",
-        "this_is_a_price_feed_conversion": "Dette er en markedsrentekonvertering. De 3½ dages forsinkelse er nødvendig for at forhindre spekulation i markedsrentens gennemsnitlige udvikling",
+        "this_is_a_price_feed_conversion": "Dette er en markedsrentekonvertering. De 3½ dages karantæne er nødvendigt for at forhindre spekulation i markedsrentens gennemsnitlige udvikling",
         "convert_to_LIQUID_TOKEN": "Konvertér til %(LIQUID_TOKEN)s",
         "DEBT_TOKEN_will_be_unavailable": "Denne handling gennemføres 3½ dage fra nu og kan ikke fortrydes. Disse %(DEBT_TOKEN)s bliver øjeblikkeligt utilgængelige"
     },
@@ -468,13 +468,13 @@
     },
     "promote_post_jsx": {
         "promote_post": "Fremhæv indlæg",
-        "spend_your_DEBT_TOKEN_to_advertise_this_post": "Brug dine %(DEBT_TOKEN)s til at promovere indlægget i sektionen for promoverede indlæg",
-        "you_successfully_promoted_this_post": "Indlægget er nu promoveret",
+        "spend_your_DEBT_TOKEN_to_advertise_this_post": "Brug dine %(DEBT_TOKEN)s til at annoncere for indlægget i sektionen for fremhævede indlæg",
+        "you_successfully_promoted_this_post": "Indlægget er nu fremhævet",
         "this_post_was_hidden_due_to_low_ratings": "Dette indlæg blev skjult pga. lav rating"
     },
     "about_jsx": {
         "about_app": "Om %(APP_NAME)s",
-        "about_app_details": "%(APP_NAME)s er en social media-platform, hvor alle bliver betalt for at oprette og udvælge indhold. Platformen gør brug af et robust digitalt pointsystem ved navn Steem, der har en reel likvid markedsværdi for de digitale belønninger.",
+        "about_app_details": "%(APP_NAME)s er en platform for sociale medier, hvor alle betales for at oprette og udvælge indhold. Platformen gør brug af et robust digitalt pointsystem for digitale belønninger ved navn Steem, der har en reel likvid markedsværdi.",
         "learn_more_at_app_url": "Lær mere på %(APP_URL)s",
         "resources": "Ressourcer"
     },
@@ -501,9 +501,9 @@
         "to_savings": "til opsparing",
         "from_savings": "fra opsparing",
         "cancel_transfer_from_savings": "Annuller overførsel fra opsparing",
-        "stop_power_down": "Stop power down",
-        "start_power_down_of": "Start power down af",
-        "receive_interest_of": "Modtag renter på"
+        "stop_power_down": "Stop Power Down",
+        "start_power_down_of": "Start Power Down af",
+        "receive_interest_of": "Modtag rente på"
     },
     "savingswithdrawhistory_jsx": {
         "cancel_this_withdraw_request": "Annuller denne udbetalingsanmodning?",
@@ -525,10 +525,10 @@
         "stolen_account_recovery": "Gendannelse af stjålet konto",
         "people_following": "Folk, der følger dig",
         "people_followed_by": "Folk, der følges af",
-        "curation_rewards_by": "Udvælgelsesbelønning af",
-        "author_rewards_by": "Forfatterbelønning af",
+        "curation_rewards_by": "Udvælgelsesbelønning fra",
+        "author_rewards_by": "Forfatterbelønning fra",
         "replies_to": "Svar til",
-        "comments_by": "Kommentarer af"
+        "comments_by": "Kommentarer fra"
     },
     "loginform_jsx": {
         "you_need_a_private_password_or_key": "Du skal bruge en privat adgangskode eller nøgle (ikke en offentlig nøgle)",

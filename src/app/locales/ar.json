@@ -391,7 +391,7 @@
         "promotion_cost": "تكلفة الترويج $%(value)s",
         "past_payouts": "المدفوعات السابقة $%(value)s",
         "past_payouts_author": " -المؤلف $%(value)s",
-        "past_payouts_curators": " - Curators $%(value)s",
+        "past_payouts_curators": " - المتفاعلين $%(value)s",
         "we_will_reset_curation_rewards_for_this_post": "will reset your curation rewards for this post",
         "removing_your_vote": "Removing your vote",
         "changing_to_an_upvote": "Changing to an Up-Vote",
@@ -462,7 +462,7 @@
         "liquid_token": "Tradeable tokens that may be transferred anywhere at anytime.<br/>%(LIQUID_TOKEN)s can be converted to %(VESTING_TOKEN)s in a process called powering up.",
         "influence_token": "Influence tokens which give you more control over post payouts and allow you to earn on curation rewards.",
         "estimated_value": "The estimated value is based on an average value of %(LIQUID_TOKEN)s in US dollars.",
-        "non_transferable": "%(VESTING_TOKEN)s is non-transferable and requires 3 months (13 payments) to convert back to %(LIQUID_TOKEN)s.",
+        "non_transferable": "%(VESTING_TOKEN)s غير قابل للتحويل و يتطلب 3 أشهر (13 أسبوع) لتقوم بتحويله مرة أخرى إلى%(LIQUID_TOKEN)s.",
         "converted_VESTING_TOKEN_can_be_sent_to_yourself_but_can_not_transfer_again": "Converted %(VESTING_TOKEN)s can be sent to yourself or someone else but can not transfer again without converting back to %(LIQUID_TOKEN)s.",
         "part_of_your_steem_power_is_currently_delegated": "Part of %(user_name)s's STEEM POWER is currently delegated. Delegation is donated for influence or to help new users perform actions on steemit. Your delegation amount can fluctuate."
     },

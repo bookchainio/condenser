@@ -240,12 +240,12 @@
         "bluepaper": "الورق الزرقاء لستيم",
         "smt_whitepaper": "الورقة البيضاء لـ SMT",
         "whitepaper": "الورقة البيضاء لستيم",
-        "intro_tagline": "Money talks",
-        "intro_paragraph": "Your voice is worth something. Join the community that pays you to post and curate high quality content."
+        "intro_tagline": "قوة المال",
+        "intro_paragraph": "صوتك يستحق شيئا. انضم إلى المجتمع الذي يدفع لك لنشر محتوى عالي الجودة."
     },
     "main_menu": {
         "hot": "hot",
-        "trending": "trending"
+        "trending": "شائع"
     },
     "reply_editor": {
         "shorten_title": "Shorten title",

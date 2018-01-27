@@ -464,10 +464,10 @@
         "estimated_value": "القيمة المقدرة استناداً على القيمة المتوسطة لـ %(LIQUID_TOKEN)s بالدولار الأمريكي.",
         "non_transferable": "%(VESTING_TOKEN)s غير قابل للتحويل و يتطلب 3 أشهر (13 أسبوع) لتقوم بتحويله مرة أخرى إلى%(LIQUID_TOKEN)s.",
         "converted_VESTING_TOKEN_can_be_sent_to_yourself_but_can_not_transfer_again": "%(VESTING_TOKEN)s الذي تم تحويله، يمكنك إرساله لنفسك أو لشخص آخر و لكني لا يمكن تحويله مرة أخرى بدون تحويله مرة أخرى إلى %(LIQUID_TOKEN)s.",
-        "part_of_your_steem_power_is_currently_delegated": "Part of %(user_name)s's STEEM POWER is currently delegated. Delegation is donated for influence or to help new users perform actions on steemit. Your delegation amount can fluctuate."
+        "part_of_your_steem_power_is_currently_delegated": "حاليا يتم تفويض جزء من STEEM POWER الخاص بـ %(user_name)s. التفويض هو تبرع من أجل زيادة التأثير و لمساعدة المستخدمين الجدد للقيام بنشاطات على ستيمت. المبلغ الذي تم تفويضه قد يكون متغير."
     },
     "promote_post_jsx": {
-        "promote_post": "Promote Post",
+        "promote_post": "الترويج لمنشور",
         "spend_your_DEBT_TOKEN_to_advertise_this_post": "Spend your %(DEBT_TOKEN)s's to advertise this post in the promoted content section",
         "you_successfully_promoted_this_post": "You successfully promoted this post",
         "this_post_was_hidden_due_to_low_ratings": "This post was hidden due to low ratings"

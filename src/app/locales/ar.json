@@ -523,16 +523,16 @@
         "change_account_password": "تغيير كلمة مرور الحساب",
         "create_account": "إنشاء حساب",
         "stolen_account_recovery": "استرداد الحساب المسروق",
-        "people_following": "الأشخاص الذين أتابعهم",
+        "people_following": "الأشخاص المتبعون",
         "people_followed_by": "أشخاص متبعون من قبل",
-        "curation_rewards_by": "Curation rewards by",
-        "author_rewards_by": "Author rewards by",
-        "replies_to": "Replies to",
-        "comments_by": "Comments by"
+        "curation_rewards_by": "مكافأت التفاعل من قبل",
+        "author_rewards_by": "مكافأت المؤلف من قبل",
+        "replies_to": "الرد على",
+        "comments_by": "التعليق من طرف"
     },
     "loginform_jsx": {
-        "you_need_a_private_password_or_key": "You need a private password or key (not a public key)",
-        "cryptography_test_failed": "Cryptography test failed",
+        "you_need_a_private_password_or_key": "أنت بحاجة ألى كلمة المرور الخاصة أو المفتاح الخاص (و ليس المفتاح العام)",
+        "cryptography_test_failed": "فشل اختبار التشفير",
         "unable_to_log_you_in": "We will be unable to log you in with this browser.",
         "the_latest_versions_of": "The latest versions of ",
         "are_well_tested_and_known_to_work_with": "are well tested and known to work with %(APP_URL)s.",

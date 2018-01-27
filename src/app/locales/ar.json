@@ -289,14 +289,14 @@
         "share_on_linkedin": "مشاركة على Linkedin",
         "recent_password": "كلمة المرور الحالية",
         "in_week_convert_DEBT_TOKEN_to_LIQUID_TOKEN": "في ظرف ثلاثة أيام و نصف، سيتم تحويل %(amount)s %(DEBT_TOKEN)s إلى %(LIQUID_TOKEN)s",
-        "view_the_full_context": "View the full context",
-        "view_the_direct_parent": "View the direct parent",
-        "you_are_viewing_a_single_comments_thread_from": "You are viewing a single comment's thread from"
+        "view_the_full_context": "عرض المحتوى الكامل",
+        "view_the_direct_parent": "عرض الرسالة الرئيسية",
+        "you_are_viewing_a_single_comments_thread_from": "أنت تقوم بعرض تعليق واحد من"
     },
     "market_jsx": {
-        "action": "Action",
-        "date_created": "Date Created",
-        "last_price": "Last price",
+        "action": "الإجراء",
+        "date_created": "تاريخ الإنشاء",
+        "last_price": "آخر سعر",
         "24h_volume": "24h volume",
         "spread": "Spread",
         "total": "Total",

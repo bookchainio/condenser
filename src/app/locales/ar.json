@@ -574,15 +574,15 @@
         "have_only_letters_digits_or_dashes": "أن تحتوي على أحرف فقط و أرقام أو وصلات.",
         "have_only_one_dash_in_a_row": "أن تحتوي على وصلة واحدة فقط في الصف.",
         "end_with_a_letter_or_digit": "أن تنتهي بحرف أو رقم.",
-        "verified_exchange_no_memo": "You must include a memo for your exchange transfer."
+        "verified_exchange_no_memo": "يجب عليك أن تقوم بإدراج الملحوظة للقيام بتحويل الصرف."
     },
     "settings_jsx": {
-        "invalid_url": "Invalid URL",
-        "name_is_too_long": "Name is too long",
-        "name_must_not_begin_with": "Name must not begin with @",
-        "about_is_too_long": "About is too long",
-        "location_is_too_long": "Location is too long",
-        "website_url_is_too_long": "Website URL is too long",
+        "invalid_url": "عنوان URL غير صحيح",
+        "name_is_too_long": "الاسم طويل جداً",
+        "name_must_not_begin_with": "يجب أن لا يبدأ الاسم بـ @",
+        "about_is_too_long": "'نبذة' طويلة جدا",
+        "location_is_too_long": "'الموقع' طويل جدا",
+        "website_url_is_too_long": "عنوان URL الموقع طويل جداً",
         "public_profile_settings": "Public Profile Settings",
         "private_post_display_settings": "Private Post Display Settings",
         "not_safe_for_work_nsfw_content": "Not safe for work (NSFW) content",

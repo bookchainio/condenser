@@ -569,11 +569,11 @@
         "not_be_empty": "أن لا يكون فارغ.",
         "be_longer": "يكون أطول.",
         "be_shorter": "يكون أقصر.",
-        "each_account_segment_should": "Each account segment should ",
-        "start_with_a_letter": "start with a letter.",
-        "have_only_letters_digits_or_dashes": "have only letters, digits, or dashes.",
-        "have_only_one_dash_in_a_row": "have only one dash in a row.",
-        "end_with_a_letter_or_digit": "end with a letter or digit.",
+        "each_account_segment_should": "شريحة كل حساب يجب ",
+        "start_with_a_letter": "أن تبدء بحرف.",
+        "have_only_letters_digits_or_dashes": "أن تحتوي على أحرف فقط و أرقام أو وصلات.",
+        "have_only_one_dash_in_a_row": "أن تحتوي على وصلة واحدة فقط في الصف.",
+        "end_with_a_letter_or_digit": "أن تنتهي بحرف أو رقم.",
         "verified_exchange_no_memo": "You must include a memo for your exchange transfer."
     },
     "settings_jsx": {

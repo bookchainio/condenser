@@ -418,8 +418,8 @@
         "set_witness_proxy": "يمكنك أيضا اختيار وكيل الذي بدوره سيصوت على الشهود نيابة عنك، سيؤدي ذلك إلى إعادة تعيين اختيار الشهود الحالي الخاص بك.",
         "witness_set": "لقد قمت بتعيين وكيل التصويت. إذا كنت ترغب في إعادة تمكين التصويت اليدوي، يرجى مسح الوكيل.",
         "witness_proxy_current": "الوكيل الذي اخترته هو",
-        "witness_proxy_set": "Set proxy",
-        "witness_proxy_clear": "Clear proxy",
+        "witness_proxy_set": "تعيين الوكيل",
+        "witness_proxy_clear": "مسح الوكيل",
         "proxy_update_error": "Your proxy was not updated"
     },
     "votesandcomments_jsx": {

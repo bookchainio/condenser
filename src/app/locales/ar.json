@@ -507,23 +507,23 @@
     },
     "savingswithdrawhistory_jsx": {
         "cancel_this_withdraw_request": "إلغاء طلب السحب هذا؟",
-        "pending_savings_withdrawals": "PENDING SAVINGS WITHDRAWS",
-        "withdraw": "Withdraw %(amount)s",
-        "to": "to %(to)s",
-        "from_to": "from %(from)s to %(to)s"
+        "pending_savings_withdrawals": "طلبات سحب من 'المدخرات' معلقة",
+        "withdraw": "سحب %(amount)s",
+        "to": "إلى %(to)s",
+        "from_to": "من %(from)s إلى %(to)s"
     },
     "explorepost_jsx": {
-        "copied": "Copied!",
-        "copy": "COPY",
-        "alternative_sources": "Alternative Sources"
+        "copied": "تم النسخ!",
+        "copy": "نسخ",
+        "alternative_sources": "مصادر بديلة"
     },
     "header_jsx": {
-        "home": "home",
-        "create_a_post": "Create a post",
-        "change_account_password": "Change Account Password",
-        "create_account": "Create Account",
-        "stolen_account_recovery": "Stolen Account Recovery",
-        "people_following": "People following",
+        "home": "الصفحة الرئسية",
+        "create_a_post": "إنشاء منشور",
+        "change_account_password": "تغيير كلمة مرور الحساب",
+        "create_account": "إنشاء حساب",
+        "stolen_account_recovery": "استرداد الحساب المسروق",
+        "people_following": "الأشخاص الذين أتابعهم",
         "people_followed_by": "People followed by",
         "curation_rewards_by": "Curation rewards by",
         "author_rewards_by": "Author rewards by",

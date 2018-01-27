@@ -492,8 +492,8 @@
     },
     "posts_index": {
         "empty_feed_1": "Du følger tilsyneladende ikke noget endnu",
-        "empty_feed_2": "Hvis du lige har valgt at følge nye brugere, vil dit personlige feed automatisk opdateres når nyt indhold bliver tilgængeligt",
-        "empty_feed_3": "Undersøg populære artikler",
+        "empty_feed_2": "Hvis du lige har valgt at følge nye brugere, vil dit personlige feed automatisk opdateres, når nyt indhold bliver tilgængeligt",
+        "empty_feed_3": "Udforsk populære artikler",
         "empty_feed_4": "Læs kom godt i gang-guide",
         "empty_feed_5": "Se FAQ"
     },
@@ -641,15 +641,15 @@
         "power_down": "Power Down",
         "amount": "Beløb",
         "already_power_down": "Power Down af %(AMOUNT)s %(LIQUID_TICKER)s er allerede i gang (%(WITHDRAWN)s %(LIQUID_TICKER)s udbetalt hidtil). NB! Planlagt udbetaling nulstilles, hvis du ændrer Power Down-beløb.",
-        "delegating": "Du uddelegerer %(AMOUNT)s %(LIQUID_TICKER)s. Beløbet låses og kan ikke bruges til Power Down før uddelegeringen er fjernet og en hel belønningsperiode er gået.",
+        "delegating": "Du uddelegerer %(AMOUNT)s %(LIQUID_TICKER)s. Beløbet er låst og kan ikke bruges til Power Down før uddelegeringen er fjernet og en hel belønningsperiode er gået.",
         "per_week": "Det er ca. %(AMOUNT)s %(LIQUID_TICKER)s om ugen.",
         "warning": "At efterlade færre end %(AMOUNT)s %(VESTING_TOKEN)s på kontoen frarådes, da det kan resultere i at kontoen ikke kan bruges.",
-        "error": "Kunne ikke Power Down (FEJL: %(MESSAGE)s)"
+        "error": "Power Down mislykkedes (FEJL: %(MESSAGE)s)"
     },
     "checkloginowner_jsx": {
         "your_password_permissions_were_reduced": "Adgangskoderettigheder blev reduceret",
         "if_you_did_not_make_this_change": "Hvis ikke du foretog ændringen, skal du",
-        "ownership_changed_on": "Ejerskab ændre på ",
+        "ownership_changed_on": "Ejerskab ændret på ",
         "deadline_for_recovery_is": "Deadline for gendannelse er",
         "i_understand_dont_show_again": "Jeg er indforstået. Vis ikke igen"
     }

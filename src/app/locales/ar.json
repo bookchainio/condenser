@@ -492,16 +492,16 @@
     },
     "posts_index": {
         "empty_feed_1": "يبدو أنك لم تتبع أي شيء لحد الأن",
-        "empty_feed_2": "If you recently added new users to follow, your personalized feed will populate once new content is available",
-        "empty_feed_3": "Explore Trending Articles",
-        "empty_feed_4": "Read The Quick Start Guide",
-        "empty_feed_5": "Browse The FAQ"
+        "empty_feed_2": "إذا قمت مؤخراً بمتابعة أشخاص أخرين، سيتم تعبئة التلقيم الخاص بك بكل المنشورات المتوفرة",
+        "empty_feed_3": "استكشف المنشورات الشائعة",
+        "empty_feed_4": "اقرء دليل البدء السريع",
+        "empty_feed_5": "تصفح الأسئلة الشائعة"
     },
     "transferhistoryrow_jsx": {
-        "to_savings": "to savings",
-        "from_savings": "from savings",
-        "cancel_transfer_from_savings": "Cancel transfer from savings",
-        "stop_power_down": "Stop power down",
+        "to_savings": "إلى المدخرات",
+        "from_savings": "من المدخرات",
+        "cancel_transfer_from_savings": "إلغاء التحويل من المدخرات",
+        "stop_power_down": "إيقاف خفض الطاقة",
         "start_power_down_of": "Start power down of",
         "receive_interest_of": "Receive interest of"
     },

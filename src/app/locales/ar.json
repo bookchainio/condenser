@@ -187,7 +187,7 @@
         "next_7_strings_single_block": {
             "authors_get_paid_when_people_like_you_upvote_their_post": "المؤلفين يتم الدفع لهم عندما يقوم أشخاص مثلك بالتصويت لهم",
             "if_you_enjoyed_what_you_read_earn_amount": "إذا استمتعت بما قرائته هنا، أنشئ حساب اليوم و ابدء في كسب ستيم مجاناً!",
-            "free_steem": "FREE STEEM!",
+            "free_steem": "STEEM مجانا!",
             "sign_up_earn_steem": "Sign up now to earn "
         },
         "next_3_strings_together": {
@@ -237,9 +237,9 @@
         "chat": "دردشة ستيميت",
         "app_center": "مركز تطبيقات ستيميت",
         "api_docs": "مستندات IAP لستيميت",
-        "bluepaper": "الورق الزرقاء لستيم",
+        "bluepaper": "الورقة الزرقاء لـ STEEM",
         "smt_whitepaper": "الورقة البيضاء لـ SMT",
-        "whitepaper": "الورقة البيضاء لستيم",
+        "whitepaper": "الورقة البيضاء لـ STEEM",
         "intro_tagline": "قوة المال",
         "intro_paragraph": "صوتك يستحق شيئا. انضم إلى المجتمع الذي يدفع لك لنشر محتوى عالي الجودة."
     },
@@ -635,7 +635,7 @@
         "transfers_are_temporary_disabled": "تم تعطيل التحويلات مؤقتاً.",
         "history": "التاريخ",
         "redeem_rewards": "احصل على المكافآت (تحويل إلى الرصيد)",
-        "buy_steem_or_steem_power": "شراء الستيم أو الستيم بور"
+        "buy_steem_or_steem_power": "شراء STEEM أو STEEM POWER"
     },
     "powerdown_jsx": {
         "power_down": "خفض الطاقة",

@@ -461,7 +461,7 @@
     "tips_js": {
         "liquid_token": "الأموال القابلة للتداول (المتاحة) يمكن تحويلها إلى أي مكان و في أي وقت.<br/>%(LIQUID_TOKEN)s يمكن تحويله إلى %(VESTING_TOKEN)s في عملية تسمى رفع الطاقة.",
         "influence_token": "هذه الأموال تمنحك المزيد من التحكم و التأثير في الأرباح المحتملة للمنشور، وتسمح لك بزيادة أرباحك في عملية التفاعل.",
-        "estimated_value": "The estimated value is based on an average value of %(LIQUID_TOKEN)s in US dollars.",
+        "estimated_value": "القيمة المقدرة استناداً على القيمة المتوسطة لـ %(LIQUID_TOKEN)s بالدولار الأمريكي.",
         "non_transferable": "%(VESTING_TOKEN)s غير قابل للتحويل و يتطلب 3 أشهر (13 أسبوع) لتقوم بتحويله مرة أخرى إلى%(LIQUID_TOKEN)s.",
         "converted_VESTING_TOKEN_can_be_sent_to_yourself_but_can_not_transfer_again": "Converted %(VESTING_TOKEN)s can be sent to yourself or someone else but can not transfer again without converting back to %(LIQUID_TOKEN)s.",
         "part_of_your_steem_power_is_currently_delegated": "Part of %(user_name)s's STEEM POWER is currently delegated. Delegation is donated for influence or to help new users perform actions on steemit. Your delegation amount can fluctuate."

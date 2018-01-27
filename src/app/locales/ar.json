@@ -448,9 +448,9 @@
     },
     "suggestpassword_jsx": {
         "APP_NAME_cannot_recover_passwords_keep_this_page_in_a_secure_location": "%(APP_NAME)s لا يمكنه استرداد كلمات المرور. احتفظ بهذه الصفحة في مكان أمن، مثل خزنة آمنة أو صندوق ودائع آمن.",
-        "APP_NAME_password_backup": "%(APP_NAME)s Password Backup",
-        "APP_NAME_password_backup_required": "%(APP_NAME)s Password Backup (required)",
-        "after_printing_write_down_your_user_name": "After printing, write down your user name"
+        "APP_NAME_password_backup": "النسخ الاحتياطي لكلمة المرور %(APP_NAME)s",
+        "APP_NAME_password_backup_required": "النسخ الاحتياطي لكلمة المرور (مطلوب) %(APP_NAME)s",
+        "after_printing_write_down_your_user_name": "بعد الطباعة، قم بتدوين اسم المستخدم الخاص بك"
     },
     "converttosteem_jsx": {
         "your_existing_DEBT_TOKEN_are_liquid_and_transferable": "Your existing %(DEBT_TOKEN)s are liquid and transferable. Instead you may wish to trade %(DEBT_TOKEN)s directly in this site under %(link)s or transfer to an external market.",

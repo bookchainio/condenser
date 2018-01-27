@@ -74,7 +74,7 @@
         "receive": "Modtag ",
         "remove": "Fjern",
         "remove_vote": "Fjern stemme",
-        "replied_to": "svarede på %(account)s",
+        "replied_to": "svarede til %(account)s",
         "replies": "Svar",
         "reply": "Svar",
         "reply_count": {

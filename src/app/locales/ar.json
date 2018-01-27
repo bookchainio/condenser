@@ -188,27 +188,27 @@
             "authors_get_paid_when_people_like_you_upvote_their_post": "المؤلفين يتم الدفع لهم عندما يقوم أشخاص مثلك بالتصويت لهم",
             "if_you_enjoyed_what_you_read_earn_amount": "إذا استمتعت بما قرائته هنا، أنشئ حساب اليوم و ابدء في كسب ستيم مجاناً!",
             "free_steem": "STEEM مجانا!",
-            "sign_up_earn_steem": "Sign up now to earn "
+            "sign_up_earn_steem": "قم بالتسجيل الآن لتربح "
         },
         "next_3_strings_together": {
-            "show_more": "Show more",
-            "show_less": "Show fewer",
-            "value_posts": "low value posts"
+            "show_more": "اظهر المزيد",
+            "show_less": "اظهر أقل",
+            "value_posts": "المنشورات المنخفضة القيمة"
         },
-        "read_only_mode": "Due to server maintenance we are running in read only mode. We are sorry for the inconvenience.",
-        "tags_and_topics": "Tags",
-        "show_more_topics": "View all tags",
-        "basic": "Basic",
-        "advanced": "Advanced",
+        "read_only_mode": "بسبب صيانة السيرفر تم وضع الموقع في وضع القراءة فقط. نحن نتأسف على الإزعاج.",
+        "tags_and_topics": "هاشتقات",
+        "show_more_topics": "اظهار جميع الهاشتقات",
+        "basic": "أساسي",
+        "advanced": "متقدم",
         "views": {
-            "zero": "No Views",
-            "one": "%(count)s View",
-            "other": "%(count)s Views"
+            "zero": "لا توجد مشاهدات",
+            "one": "%(count)s مشاهدة",
+            "other": "%(count)s مشاهدة"
         },
         "responses": {
-            "zero": "No Responses",
-            "one": "%(count)s Response",
-            "other": "%(count)s Responses"
+            "zero": "لا يوجد ردود",
+            "one": "%(count)s رد",
+            "other": "%(count)s رد"
         },
         "post_key_warning": {
             "confirm": "أنت على وشك نشر مفتاح الستيم الخاص أو كلمة المرور الرئيسية. ربما ستفقد السيطرة على الحساب المترابط و كل الأمول الموجودة فيه.",

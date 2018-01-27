@@ -460,11 +460,11 @@
     },
     "tips_js": {
         "liquid_token": "Omsættelige tokens, der til enhver tid kan overføres til hvor end du ønsker.<br />%(LIQUID_TOKEN)s kan konverteres til %(VESTING_TOKEN)s i en såkaldt Power Up-proces.",
-        "influence_token": "Indflydelses-tokens giver dig mere kontrol over indlægs udbetaling og muliggør indtjening på udvælgelse af indlæg.",
+        "influence_token": "Indflydelses-tokens giver dig mere kontrol over indlægs-udbetaling og muliggør indtjening på udvælgelse af indlæg.",
         "estimated_value": "Anslået værdi er baseret på gennemsnitlig værdi af %(LIQUID_TOKEN)s i US dollars.",
         "non_transferable": "%(VESTING_TOKEN)s kan ikke overføres og kræver 3 måneder (13 betalinger) at konvertere tilbage til %(LIQUID_TOKEN)s.",
         "converted_VESTING_TOKEN_can_be_sent_to_yourself_but_can_not_transfer_again": "Konverterede %(VESTING_TOKEN)s kan sendes til dig selv eller en anden, men kan kun overføres videre, hvis de konverteres tilbage til %(LIQUID_TOKEN)s igen.",
-        "part_of_your_steem_power_is_currently_delegated": "En del af %(user_name)ss STEEM POWER er i øjeblikket uddelegeret. Uddelegeringen doneres for at få indflydelse eller for at hjælpe nye brugere med at udføre handlinger på steemit. Dit uddelegerede beløb kan variere."
+        "part_of_your_steem_power_is_currently_delegated": "En del af %(user_name)ss STEEM POWER er i øjeblikket uddelegeret. Uddelegeringen doneres for at få indflydelse eller for at hjælpe nye brugere med at udføre handlinger på Steemit. Dit uddelegerede beløb kan variere."
     },
     "promote_post_jsx": {
         "promote_post": "Fremhæv indlæg",
@@ -474,7 +474,7 @@
     },
     "about_jsx": {
         "about_app": "Om %(APP_NAME)s",
-        "about_app_details": "%(APP_NAME)s er en platform for sociale medier, hvor alle betales for at oprette og udvælge indhold. Platformen gør brug af et robust digitalt pointsystem for digitale belønninger ved navn Steem, der har en reel likvid markedsværdi.",
+        "about_app_details": "%(APP_NAME)s er et socialt medie, hvor alle betales for at oprette og udvælge indhold. Platformen gør brug af et robust digitalt pointsystem for digitale belønninger ved navn Steem, der har reel likvid markedsværdi.",
         "learn_more_at_app_url": "Lær mere på %(APP_URL)s",
         "resources": "Ressourcer"
     },
@@ -578,7 +578,7 @@
     },
     "settings_jsx": {
         "invalid_url": "Ugyldig URL",
-        "name_is_too_long": "Navnet er for langt",
+        "name_is_too_long": "Navn er for langt",
         "name_must_not_begin_with": "Navn må ikke begynde med @",
         "about_is_too_long": "\"Om\" er for lang",
         "location_is_too_long": "Placering er for lang",
@@ -600,7 +600,7 @@
     },
     "transfer_jsx": {
         "amount_is_in_form": "Beløb er i formatet 99999.999",
-        "insufficient_funds": "Saldo ikke tilstrækkelig",
+        "insufficient_funds": "For lav saldo",
         "use_only_3_digits_of_precison": "Brug højst 3 decimaler",
         "send_to_account": "Send til konto",
         "asset": "Aktiv",

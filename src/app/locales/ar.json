@@ -474,17 +474,17 @@
     },
     "about_jsx": {
         "about_app": "عن %(APP_NAME)s",
-        "about_app_details": "%(APP_NAME)s is a social media platform where everyone gets paid for creating and curating content. It leverages a robust digital points system, called Steem, that supports real value for digital rewards through market price discovery and liquidity.",
-        "learn_more_at_app_url": "Learn more at %(APP_URL)s",
-        "resources": "Resources"
+        "about_app_details": "%(APP_NAME)s هو منصة اجتماعية حيث يمكن لكل شخص تحقيق أرباح من خلال إنشاء محتوى أو التفاعل مع محتوى الأخرين. يستفيد من نظام نقاط رقمية قوي، يدعى STEEM، يدعم القيمة الحقيقية للمكافآت الرقمية من خلال اكتشاف سعر السوق والسيولة.",
+        "learn_more_at_app_url": "تعلم المزيد على %(APP_URL)s",
+        "resources": "المصادر"
     },
     "markdownviewer_jsx": {
-        "images_were_hidden_due_to_low_ratings": "Images were hidden due to low ratings."
+        "images_were_hidden_due_to_low_ratings": "تم إخفاء الصور بسبب التقييمات المنخفضة."
     },
     "postsummary_jsx": {
-        "resteemed": "resteemed",
-        "resteemed_by": "Resteemed by",
-        "reveal_it": "Reveal this post",
+        "resteemed": "ريستيم",
+        "resteemed_by": "ريستيم من قبل",
+        "reveal_it": "كشف هذا المنشور",
         "adjust_your": "ضبط",
         "display_preferences": "عرض التفضيلات الخاصة بك",
         "create_an_account": "إنشاء حساب",

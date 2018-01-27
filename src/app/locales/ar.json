@@ -502,11 +502,11 @@
         "from_savings": "من المدخرات",
         "cancel_transfer_from_savings": "إلغاء التحويل من المدخرات",
         "stop_power_down": "إيقاف خفض الطاقة",
-        "start_power_down_of": "Start power down of",
-        "receive_interest_of": "Receive interest of"
+        "start_power_down_of": "بدء خفض الطاقة لـ",
+        "receive_interest_of": "تلقي الفوائد من"
     },
     "savingswithdrawhistory_jsx": {
-        "cancel_this_withdraw_request": "Cancel this withdraw request?",
+        "cancel_this_withdraw_request": "إلغاء طلب السحب هذا؟",
         "pending_savings_withdrawals": "PENDING SAVINGS WITHDRAWS",
         "withdraw": "Withdraw %(amount)s",
         "to": "to %(to)s",

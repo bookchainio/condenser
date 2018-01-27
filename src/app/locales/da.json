@@ -609,7 +609,7 @@
         "convert_to_VESTING_TOKEN": "Konvertér til %(VESTING_TOKEN)s",
         "balance_subject_to_3_day_withdraw_waiting_period": "Saldo med 3 dages karantæne for udbetaling",
         "move_funds_to_another_account": "Flyt midler til en anden %(APP_NAME)s-konto.",
-        "protect_funds_by_requiring_a_3_day_withdraw_waiting_period": "Beskytter midler ved at kræve 3 dages karantæne ved udbetaling.",
+        "protect_funds_by_requiring_a_3_day_withdraw_waiting_period": "Beskyt midler ved at kræve 3 dages karantæne ved udbetaling.",
         "withdraw_funds_after_the_required_3_day_waiting_period": "Udbetal midler efter de 3 dages karantæne.",
         "from": "Fra",
         "to": "Til",
@@ -620,7 +620,7 @@
     },
     "userwallet_jsx": {
         "conversion_complete_tip": "Vil fuldføres",
-        "in_conversion": "%(amount)s i konvertering",
+        "in_conversion": "%(amount)s under konvertering",
         "transfer_to_savings": "Overfør til opsparing",
         "power_up": "Power Up",
         "power_down": "Power Down",

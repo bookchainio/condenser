@@ -459,7 +459,7 @@
         "DEBT_TOKEN_will_be_unavailable": "سيتم تنفيذ هذا الإجراء بعد ثلاثة أيام و نصف من الآن ولا يمكن إلغاؤه. ستصبح هذه %(DEBT_TOKEN)s غير متاحة على الفور"
     },
     "tips_js": {
-        "liquid_token": "Tradeable tokens that may be transferred anywhere at anytime.<br/>%(LIQUID_TOKEN)s can be converted to %(VESTING_TOKEN)s in a process called powering up.",
+        "liquid_token": "الأموال القابلة للتداول (المتاحة) يمكن تحويلها إلى أي مكان و في أي وقت.<br/>%(LIQUID_TOKEN)s يمكن تحويله إلى %(VESTING_TOKEN)s في عملية تسمى رفع الطاقة.",
         "influence_token": "Influence tokens which give you more control over post payouts and allow you to earn on curation rewards.",
         "estimated_value": "The estimated value is based on an average value of %(LIQUID_TOKEN)s in US dollars.",
         "non_transferable": "%(VESTING_TOKEN)s غير قابل للتحويل و يتطلب 3 أشهر (13 أسبوع) لتقوم بتحويله مرة أخرى إلى%(LIQUID_TOKEN)s.",

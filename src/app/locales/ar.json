@@ -562,13 +562,13 @@
         "signup_button_emphasis": "STEEM مجانا!",
         "sign_up_get_steem": "قم بالتسجيل. احصل على STEEM",
         "returning_users": "المستخدمون المكررون: ",
-        "join_our": "Join our"
+        "join_our": "انظم الينا"
     },
     "chainvalidation_js": {
-        "account_name_should": "Account name should ",
-        "not_be_empty": "not be empty.",
-        "be_longer": "be longer.",
-        "be_shorter": "be shorter.",
+        "account_name_should": "اسم الحساب ينبغي ",
+        "not_be_empty": "أن لا يكون فارغ.",
+        "be_longer": "يكون أطول.",
+        "be_shorter": "يكون أقصر.",
         "each_account_segment_should": "Each account segment should ",
         "start_with_a_letter": "start with a letter.",
         "have_only_letters_digits_or_dashes": "have only letters, digits, or dashes.",

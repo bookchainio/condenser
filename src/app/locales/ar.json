@@ -404,11 +404,11 @@
         }
     },
     "witnesses_jsx": {
-        "witness_thread": "witness thread",
-        "top_witnesses": "Witness Voting",
+        "witness_thread": "موضوع الشاهد",
+        "top_witnesses": "التصويت للشاهد",
         "you_have_votes_remaining": {
-            "zero": "You have no votes remaining",
-            "one": "You have 1 vote remaining",
+            "zero": "لم يتبقى لك أي تصويت",
+            "one": "لديك صوت واحد متبقي",
             "other": "You have %(count)s votes remaining"
         },
         "you_can_vote_for_maximum_of_witnesses": "You can vote for a maximum of 30 witnesses",

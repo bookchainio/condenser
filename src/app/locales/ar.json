@@ -442,12 +442,12 @@
         "private_something_key": "المفتاح الخاص %(key)s",
         "posting_key_is_required_it_should_be_different": "مفتاح النشر يستخدم للنشر و التصويت. و يجب أن يكون مختلف عن المفتاح النشط و مفتاح المالك.",
         "the_active_key_is_used_to_make_transfers_and_place_orders": "المفتاح النشط يستخدم لتحويل الأموال و وضع العروض في السوق الداخلي.",
-        "the_owner_key_is_required_to_change_other_keys": "The owner key is the master key for the account and is required to change the other keys.",
-        "the_private_key_or_password_should_be_kept_offline": "The private key or password for the owner key should be kept offline as much as possible.",
-        "the_memo_key_is_used_to_create_and_read_memos": "The memo key is used to create and read memos."
+        "the_owner_key_is_required_to_change_other_keys": "مفتاح المالك هو المفتاح الرئيسي للحساب و مطلوب لتغيير المفاتيح الآخرى.",
+        "the_private_key_or_password_should_be_kept_offline": "يجب الاحتفاظ بالمفتاح الخاص أو كلمة المرور لمفتاح المالك في وضع عدم الاتصال قدر الإمكان.",
+        "the_memo_key_is_used_to_create_and_read_memos": "مفتاح الملحوظة يستخدم لإنشاء و قراءة الملحوظات."
     },
     "suggestpassword_jsx": {
-        "APP_NAME_cannot_recover_passwords_keep_this_page_in_a_secure_location": "%(APP_NAME)s cannot recover passwords. Keep this page in a secure location, such as a fireproof safe or safety deposit box.",
+        "APP_NAME_cannot_recover_passwords_keep_this_page_in_a_secure_location": "%(APP_NAME)s لا يمكنه استرداد كلمات المرور. احتفظ بهذه الصفحة في مكان أمن، مثل خزنة آمنة أو صندوق ودائع آمن.",
         "APP_NAME_password_backup": "%(APP_NAME)s Password Backup",
         "APP_NAME_password_backup_required": "%(APP_NAME)s Password Backup (required)",
         "after_printing_write_down_your_user_name": "After printing, write down your user name"

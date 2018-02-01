@@ -329,7 +329,7 @@
         "login_with_social_media_to_verify_identity": "Please login with %(provider)s to verify your identity",
         "enter_email_toverify_identity": "We need to verify your identity. Please enter your email address below to begin the verification.",
         "continue_with_email": "Continue with Email",
-        "thanks_for_submitting_request_for_account_recovery": "Thanks for submitting your request for Account Recovery using %(APP_NAME)s's blockchain-based multi factor authentication. We will respond to you as quickly as possible, however, please expect there may be some delay in response due to high volume of emails. Please be prepared to verify your identity.",
+        "thanks_for_submitting_request_for_account_recovery": "Salamat sa pagsumite ng iyong kahilingan para sa pagbalik ng account gamit ang %(APP_NAME)s's batay sa blockchain multi pagpapatunay. Kami ay tutugon sa iyo nang mabilis hanggat't maari,gayunman, maaring merong kunting pagkakaantala sa tugon dahil sa mga mataas na dami ng mga email. Makihanda sa pag beripika ng inyong mga pagkakakilanlan.",
         "recovering_account": "Recovering account",
         "recover_account": "Recover Account",
         "checking_account_owner": "Checking account owner",
@@ -442,7 +442,7 @@
         "private_something_key": "Private %(key)s Key",
         "posting_key_is_required_it_should_be_different": "The posting key is used for posting and voting. It should be different from the active and owner keys.",
         "the_active_key_is_used_to_make_transfers_and_place_orders": "The active key is used to make transfers and place orders in the internal market.",
-        "the_owner_key_is_required_to_change_other_keys": "The owner key is the master key for the account and is required to change the other keys.",
+        "the_owner_key_is_required_to_change_other_keys": "Ang susi ng may-ari ay siyang master na susi ng account at ito ay kailangan sa pag papalit ng iba pang susi.",
         "the_private_key_or_password_should_be_kept_offline": "The private key or password for the owner key should be kept offline as much as possible.",
         "the_memo_key_is_used_to_create_and_read_memos": "The memo key is used to create and read memos."
     },
@@ -650,7 +650,7 @@
         "your_password_permissions_were_reduced": "Your password permissions were reduced",
         "if_you_did_not_make_this_change": "If you did not make this change please",
         "ownership_changed_on": "Ownership Changed On ",
-        "deadline_for_recovery_is": "Deadline for recovery is",
+        "deadline_for_recovery_is": "Deadline para sa pagbawi ay",
         "i_understand_dont_show_again": "I understand, don't show me again"
     }
 }

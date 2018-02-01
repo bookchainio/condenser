@@ -1,7 +1,7 @@
 {
     "g": {
         "age": "edad",
-        "amount": "Halaga",
+        "amount": "Bilang",
         "and": "at",
         "are_you_sure": "Sigurado ka ba?",
         "ask": "Magtanong",
@@ -9,7 +9,7 @@
         "balances": "Mga balanse",
         "bid": "Bid",
         "blog": "Blog",
-        "browse": "Maghanap",
+        "browse": "Browse",
         "buy": "Bumili",
         "buy_or_sell": "Bumili o magbenta",
         "by": "sa pamamagitan ng",
@@ -24,7 +24,7 @@
         "convert": "Isalin",
         "date": "Petsa",
         "delete": "Burahin",
-        "dismiss": "Alisin",
+        "dismiss": "I-dismiss",
         "edit": "I-edit",
         "email": "Email",
         "feed": "Feed",
@@ -133,7 +133,7 @@
         "passwords_do_not_match": "Ang password ay hindi tugma",
         "you_need_private_password_or_key_not_a_public_key": "Kailangan mo ng isang pribadong password o susi (hindi yung pampublikong susi)",
         "the_rules_of_APP_NAME": {
-            "one": "Ang unang alituntunin ng %(APP_NAME)s ay:Wag mong iwala ang yung password.",
+            "one": "Ang unang alituntunin ng %(APP_NAME)s ay: Wag mong iwala ang yung password.",
             "second": "And pangalawang alituntunin ng %(APP_NAME)s ay: Wag mong iwala ang yung password.",
             "third": "Ang pangatlong alituntunin ng %(APP_NAME)s ay: Hindi namin kayang ma-ibalik ang iyung password.",
             "fourth": "Ang ika-apat na alituntunin: Kung kaya mong kabisaduhin ang yung password, hindi ito ligtas.",

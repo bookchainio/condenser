@@ -417,20 +417,20 @@
         "if_you_want_to_vote_outside_of_top_enter_account_name": "Kung gusto mong bumoto para sa isang saksi sa na hindi parte ng top 50, Ilagay ang pangalan ng account sa baba para bumoto",
         "set_witness_proxy": "Pwede karin na pumili ng proxy na siyang boboto sa saksi para sayo. Ito ay mag re-reset ng kasalukuyang saksi sa pagpipilian.",
         "witness_set": "Itinakda mo ang pagboboto ng proxy. Kung gusto mo paganahin uli ang manual na pagboto, paki-clear lang ng iyung proxy.",
-        "witness_proxy_current": "Your current proxy is",
-        "witness_proxy_set": "Set proxy",
-        "witness_proxy_clear": "Clear proxy",
-        "proxy_update_error": "Your proxy was not updated"
+        "witness_proxy_current": "Ang iyong kasalukuyang proxy ay",
+        "witness_proxy_set": "Mag-set ng proxy",
+        "witness_proxy_clear": "Linawin ang proxy",
+        "proxy_update_error": "Ang iyong proxy I hindi na i-update"
     },
     "votesandcomments_jsx": {
-        "no_responses_yet_click_to_respond": "No responses yet. Click to respond.",
+        "no_responses_yet_click_to_respond": "Wala pang sumagot. I-click para tumugon.",
         "response_count_tooltip": {
-            "zero": "no responses. Click to respond.",
-            "one": "1 response. Click to respond.",
-            "other": "%(count)s responses. Click to respond."
+            "zero": "walang mga sagot. I-click para tumugon.",
+            "one": "Isang sagot. I-click para tumugon.",
+            "other": "%(count)s mga sagot. I-click para tumugon."
         },
         "vote_count": {
-            "zero": "no votes",
+            "zero": "walang mga boto",
             "one": "1 vote",
             "other": "%(count)s votes"
         }

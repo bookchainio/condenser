@@ -180,38 +180,38 @@
         "curation_rewards": "Mga reward ng Curation",
         "sorry_your_reddit_account_doesnt_have_enough_karma": "Pasensya, ang yung Reddit account ay walang sapat na Reddit Karma para maging karapat-dapat sa libreng sign up. Paki dagdag ng iyung email para mag karoon ng lugar sa listahan ng naghihintay",
         "register_with_facebook": "Mag rehistro gamit ang Facebook",
-        "or_click_the_button_below_to_register_with_facebook": "Or click the button below to register with Facebook",
-        "server_returned_error": "server returned error",
-        "APP_NAME_support": "%(APP_NAME)s Support",
-        "please_email_questions_to": "Please email your questions to",
+        "or_click_the_button_below_to_register_with_facebook": "O i-click ang button sa ibaba para magrehistro gamit ang facebook",
+        "server_returned_error": "ang server ay nag balik ng error",
+        "APP_NAME_support": "%(APP_NAME)s Suporta",
+        "please_email_questions_to": "Paki-email nalang ng inyung mga tanong sa",
         "next_7_strings_single_block": {
-            "authors_get_paid_when_people_like_you_upvote_their_post": "Authors get paid when people like you upvote their post",
-            "if_you_enjoyed_what_you_read_earn_amount": "If you enjoyed what you read here, create your account today and start earning FREE STEEM!",
-            "free_steem": "FREE STEEM!",
-            "sign_up_earn_steem": "Sign up now to earn "
+            "authors_get_paid_when_people_like_you_upvote_their_post": "Ang may-akda ay nababayaran pag ang tao katulad mo ay nag upvote sa kanilang post",
+            "if_you_enjoyed_what_you_read_earn_amount": "Kung nasiyahan ka sa nabasa mo dito, gumawa ka ng account ngayun at simulan munang kumita ng LIBRENG STEEEM!",
+            "free_steem": "LIBRENG STEEM!",
+            "sign_up_earn_steem": "Mag Sign-up na ngayun para kumita "
         },
         "next_3_strings_together": {
-            "show_more": "Show more",
-            "show_less": "Show fewer",
-            "value_posts": "low value posts"
+            "show_more": "Magpakita pa ng iba",
+            "show_less": "Magpakita ng masmaliit",
+            "value_posts": "mababang halaga na mga post"
         },
-        "read_only_mode": "Due to server maintenance we are running in read only mode. We are sorry for the inconvenience.",
-        "tags_and_topics": "Tags",
-        "show_more_topics": "View all tags",
-        "basic": "Basic",
-        "advanced": "Advanced",
+        "read_only_mode": "Dahil sa server maintenance kami ay tumakbo lang sa basahin mode. Kami ay nanghihingi ng pasensya sa abalang na idulot.",
+        "tags_and_topics": "Mga tag",
+        "show_more_topics": "Tignan ang lahat ng mga tag",
+        "basic": "Pangunahin",
+        "advanced": "Pauna",
         "views": {
-            "zero": "No Views",
-            "one": "%(count)s View",
-            "other": "%(count)s Views"
+            "zero": "Walang nanuod",
+            "one": "%(count)s Nanuod",
+            "other": "%(count)s mga nanuod"
         },
         "responses": {
-            "zero": "No Responses",
-            "one": "%(count)s Response",
-            "other": "%(count)s Responses"
+            "zero": "Walang sumagot",
+            "one": "%(count)s sagot",
+            "other": "%(count)s mga sagot"
         },
         "post_key_warning": {
-            "confirm": "You are about to publish a STEEM private key or master password. You will probably lose control of the associated account and all its funds.",
+            "confirm": "Ikaw ay maglalathala ng pribadong STEEM key o master password. Maaring ikaw ay mawawalan ng kontrol sa nauugnay na account at lahat ng mga pondo nito.",
             "warning": "Legitimate users, including employees of Steemit Inc., will never ask you for a private key or master password.",
             "checkbox": "I understand"
         }

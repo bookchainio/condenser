@@ -474,7 +474,7 @@
     },
     "about_jsx": {
         "about_app": "About %(APP_NAME)s",
-        "about_app_details": "%(APP_NAME)s is a social media platform where everyone gets paid for creating and curating content. It leverages a robust digital points system, called Steem, that supports real value for digital rewards through market price discovery and liquidity.",
+        "about_app_details": "%(APP_NAME)s ay isang social media platform kung saan ang isa't isa ay nababayaran sa paggawa at pagaasikaso ng mga nilalaman. Ito ay kumikilos sa matatag na mga puntos ng digital na sistema, tinatawag na Steem, ito ay nag susuporta sa isang tunay na halaga para sa digital na gantimpala sa pamamagitan ng pagtuklas ng presyo sa market at liquidity.",
         "learn_more_at_app_url": "Learn more at %(APP_URL)s",
         "resources": "Resources"
     },
@@ -532,7 +532,7 @@
     },
     "loginform_jsx": {
         "you_need_a_private_password_or_key": "You need a private password or key (not a public key)",
-        "cryptography_test_failed": "Cryptography test failed",
+        "cryptography_test_failed": "Cryptography na pagsusuri ay nabigo",
         "unable_to_log_you_in": "We will be unable to log you in with this browser.",
         "the_latest_versions_of": "The latest versions of ",
         "are_well_tested_and_known_to_work_with": "are well tested and known to work with %(APP_URL)s.",

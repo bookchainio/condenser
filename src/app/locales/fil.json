@@ -643,7 +643,7 @@
         "already_power_down": "Ikaw ay nag powering down %(AMOUNT)s %(LIQUID_TICKER)s %(WITHDRAWN)s%(LIQUID_TICKER)s ibinayad sa ngayun). Paalala na kung babaguhin mo ang halaga ng power down ang payout iskedyul ay mare-reset.",
         "delegating": "You are delegating %(AMOUNT)s %(LIQUID_TICKER)s. That amount is locked up and not available to power down until the delegation is removed and a full reward period has passed.",
         "per_week": "That's ~%(AMOUNT)s %(LIQUID_TICKER)s per week.",
-        "warning": "Leaving less than %(AMOUNT)s %(VESTING_TOKEN)s in your account is not recommended and can leave your account in a unusable state.",
+        "warning": "Mag-iwan ng masmababa pa sa %(AMOUNT)s %(VESTING_TOKEN)s sa iyung account ay hindi inirerekomenda at maaring mag-iwan sa iyong account na hindi magamit na estado.",
         "error": "Unable to power down (ERROR: %(MESSAGE)s)"
     },
     "checkloginowner_jsx": {

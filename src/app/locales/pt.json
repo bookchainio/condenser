@@ -341,29 +341,29 @@
         "unknown_account": "Conta desconhecida",
         "user_hasnt_made_any_posts_yet": "Parece que %(name)s não fez nenhuma publicação ainda!",
         "user_hasnt_started_bloggin_yet": "Parece que %(name)s ainda não começou o seu blog!",
-        "user_hasnt_followed_anything_yet": "Looks like %(name)s might not be following anyone yet! If %(name)s recently added new users to follow, their personalized feed will populate once new content is available.",
-        "user_hasnt_had_any_replies_yet": "%(name)s hasn't had any replies yet",
-        "looks_like_you_havent_posted_anything_yet": "Looks like you haven't posted anything yet.",
-        "create_a_post": "Create a Post",
-        "explore_trending_articles": "Explore Trending Articles",
-        "read_the_quick_start_guide": "Read The Quick Start Guide",
-        "browse_the_faq": "Browse The FAQ",
-        "followers": "Followers",
-        "this_is_users_reputations_score_it_is_based_on_history_of_votes": "This is %(name)s's reputation score.\n\nThe reputation score is based on the history of votes received by the account, and is used to hide low quality content.",
+        "user_hasnt_followed_anything_yet": "Parece que %(name)s pode não estar a seguir ninguém! Se %(name)s acaba de adicionar novos usuários para seguir, o feed personalizado \naparecerá quando novo conteúdo estiver disponível.",
+        "user_hasnt_had_any_replies_yet": "%(name)s todavia ainda não teve respostas",
+        "looks_like_you_havent_posted_anything_yet": "Parece que você não postou nada ainda.",
+        "create_a_post": "Criar uma Publicação",
+        "explore_trending_articles": "Explorar Publicações em Tendência",
+        "read_the_quick_start_guide": "Leia o Guia de Início Rápido",
+        "browse_the_faq": "Explora as perguntas frequentes",
+        "followers": "Seguidores",
+        "this_is_users_reputations_score_it_is_based_on_history_of_votes": "Esta é a reputação de %(name)s. A reputação está baseada na história de votos recebidos pela conta e é usada para esconder conteúdo de baixa qualidade.",
         "follower_count": {
-            "zero": "No followers",
-            "one": "1 follower",
-            "other": "%(count)s followers"
+            "zero": "Sem seguidores",
+            "one": "1 seguidor",
+            "other": "%(count)s seguidores"
         },
         "followed_count": {
-            "zero": "Not following anybody",
-            "one": "1 following",
-            "other": "%(count)s following"
+            "zero": "Não segue ninguém",
+            "one": "1 seguindo",
+            "other": "%(count)s seguindo"
         },
         "post_count": {
-            "zero": "No posts",
-            "one": "1 post",
-            "other": "%(count)s posts"
+            "zero": "Sem publicações",
+            "one": "1 publicação",
+            "other": "%(count)s publicações"
         }
     },
     "authorrewards_jsx": {

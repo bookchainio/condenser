@@ -178,37 +178,37 @@
         "thank_you_for_being_an_early_visitor_to_APP_NAME": "Obrigado por ser um dos primeiros a entrar em %(APP_NAME)s. Entraremos em contacto o mais rápido possível.",
         "author_rewards": "Recompensas de autor",
         "curation_rewards": "Recompensas de curação",
-        "sorry_your_reddit_account_doesnt_have_enough_karma": "Sorry, your Reddit account doesn't have enough Reddit Karma to qualify for a free sign up. Please add your email for a place on the waiting list",
-        "register_with_facebook": "Register with Facebook",
-        "or_click_the_button_below_to_register_with_facebook": "Or click the button below to register with Facebook",
+        "sorry_your_reddit_account_doesnt_have_enough_karma": "Desculpa, mas a tua conta Reddit não tem suficiente Karma para um registo grátis. Por favor, adicione o seu endereço eletrónico para entrar na lista de espera",
+        "register_with_facebook": "Registra-te com o Facebook",
+        "or_click_the_button_below_to_register_with_facebook": "Ou clica no botão abaixo para te registares com o Facebook",
         "server_returned_error": "server returned error",
-        "APP_NAME_support": "%(APP_NAME)s Support",
-        "please_email_questions_to": "Please email your questions to",
+        "APP_NAME_support": "%(APP_NAME)s Suporte",
+        "please_email_questions_to": "Por favor, envia um email com as tuas dúvidas a",
         "next_7_strings_single_block": {
-            "authors_get_paid_when_people_like_you_upvote_their_post": "Authors get paid when people like you upvote their post",
-            "if_you_enjoyed_what_you_read_earn_amount": "If you enjoyed what you read here, create your account today and start earning FREE STEEM!",
-            "free_steem": "FREE STEEM!",
-            "sign_up_earn_steem": "Sign up now to earn "
+            "authors_get_paid_when_people_like_you_upvote_their_post": "Autores são pagos quando gente como tu vota nos seus posts",
+            "if_you_enjoyed_what_you_read_earn_amount": "Se gostaste do que leste aqui, cria uma conta hoje mesmo e começa a ganhar STEEM!",
+            "free_steem": "STEEM GRÁTIS!",
+            "sign_up_earn_steem": "Registra-te agora para ganhar "
         },
         "next_3_strings_together": {
-            "show_more": "Show more",
-            "show_less": "Show fewer",
-            "value_posts": "low value posts"
+            "show_more": "Mostrar mais",
+            "show_less": "Mostrar menos",
+            "value_posts": "posts de valor baixo"
         },
-        "read_only_mode": "Due to server maintenance we are running in read only mode. We are sorry for the inconvenience.",
-        "tags_and_topics": "Tags",
-        "show_more_topics": "View all tags",
-        "basic": "Basic",
-        "advanced": "Advanced",
+        "read_only_mode": "Devido a tarefas de manutenção dos servidores, só modo leitura está disponível. Desculpamos a inconveniência.",
+        "tags_and_topics": "Etiquetas e Temas",
+        "show_more_topics": "Mostrar mais temas",
+        "basic": "Básico",
+        "advanced": "Avançado",
         "views": {
-            "zero": "No Views",
-            "one": "%(count)s View",
-            "other": "%(count)s Views"
+            "zero": "Nenhuma visualização",
+            "one": "%(count)s Visualização",
+            "other": "%(count)s Visualizações"
         },
         "responses": {
-            "zero": "No Responses",
-            "one": "%(count)s Response",
-            "other": "%(count)s Responses"
+            "zero": "Sem respostas",
+            "one": "%(count)s Resposta",
+            "other": "%(count)s Respostas"
         },
         "post_key_warning": {
             "confirm": "You are about to publish a STEEM private key or master password. You will probably lose control of the associated account and all its funds.",

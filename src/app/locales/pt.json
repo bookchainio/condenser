@@ -574,7 +574,7 @@
         "have_only_letters_digits_or_dashes": "ter apenas letras, dígitos ou hífenes.",
         "have_only_one_dash_in_a_row": "ter apenas um hífen consecutivo.",
         "end_with_a_letter_or_digit": "terminar com uma letra ou um dígito.",
-        "verified_exchange_no_memo": "You must include a memo for your exchange transfer."
+        "verified_exchange_no_memo": "Tens de incluir um memorando para a tua troca de transferência."
     },
     "settings_jsx": {
         "invalid_url": "URL Inválido",
@@ -614,7 +614,7 @@
         "from": "De",
         "to": "Para",
         "asset_currently_collecting": "%(asset)s coletando atualmente %(interest)s APR.",
-        "beware_of_spam_and_phishing_links": "Beware of spam and phishing links in transfer memos. Do not open links from users you do not trust. Do not provide your private keys to any third party websites.",
+        "beware_of_spam_and_phishing_links": "Tenha cuidado com spam e links de phishing nos memorandos. Não abra links de outros usuários em que não confie. Não proporcione chaves privadas a páginas de terceiros.",
         "autocomplete_previous_transfers": "transferências anteriores",
         "autocomplete_user_following": "seguindo"
     },
@@ -640,11 +640,11 @@
     "powerdown_jsx": {
         "power_down": "Power Down (converter a STEEM)",
         "amount": "Quantidade",
-        "already_power_down": "You are already powering down %(AMOUNT)s %(LIQUID_TICKER)s (%(WITHDRAWN)s %(LIQUID_TICKER)s paid out so far). Note that if you change the power down amount the payout schedule will reset.",
-        "delegating": "You are delegating %(AMOUNT)s %(LIQUID_TICKER)s. That amount is locked up and not available to power down until the delegation is removed and a full reward period has passed.",
-        "per_week": "That's ~%(AMOUNT)s %(LIQUID_TICKER)s per week.",
-        "warning": "Leaving less than %(AMOUNT)s %(VESTING_TOKEN)s in your account is not recommended and can leave your account in a unusable state.",
-        "error": "Unable to power down (ERROR: %(MESSAGE)s)"
+        "already_power_down": "Já estás a fazer um power down de %(AMOUNT)s %(LIQUID_TICKER)s (%(WITHDRAWN)s %(LIQUID_TICKER)s pagos até agora). Tem em conta de que se trocas a quantidade de \"power down\" o horário de pagamento vai se reinicializar.",
+        "delegating": "Estás a delegar %(AMOUNT)s %(LIQUID_TICKER)s. Essa quantidade está bloqueada e não poderás fazer \"power down\" com ela até que tenhas cancelado a delegação e o período de recompensas esteja passado.",
+        "per_week": "Isso é %(AMOUNT)s %(LIQUID_TICKER)s por semana.",
+        "warning": "Deixar menos de %(AMOUNT)s %(VESTING_TOKEN)s na sua conta não é recomendável e pode deixar a conta num estado não usável.",
+        "error": "Impossível de fazer \"power down\" (ERRO: %(MESSAGE)s)"
     },
     "checkloginowner_jsx": {
         "your_password_permissions_were_reduced": "Your password permissions were reduced",

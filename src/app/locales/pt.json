@@ -420,35 +420,35 @@
         "witness_proxy_current": "O teu proxy atual é",
         "witness_proxy_set": "Criar proxy",
         "witness_proxy_clear": "Apagar proxy",
-        "proxy_update_error": "Your proxy was not updated"
+        "proxy_update_error": "O teu proxy não foi atualizado"
     },
     "votesandcomments_jsx": {
-        "no_responses_yet_click_to_respond": "No responses yet. Click to respond.",
+        "no_responses_yet_click_to_respond": "Sem respostas ainda. Clica para responder.",
         "response_count_tooltip": {
-            "zero": "no responses. Click to respond.",
-            "one": "1 response. Click to respond.",
-            "other": "%(count)s responses. Click to respond."
+            "zero": "sem respostas. Clica para responder.",
+            "one": "1 respostas. Clica para responder.",
+            "other": "%(count)s respostas. Clica para responder."
         },
         "vote_count": {
-            "zero": "no votes",
-            "one": "1 vote",
-            "other": "%(count)s votes"
+            "zero": "sem votos",
+            "one": "1 voto",
+            "other": "%(count)s votos"
         }
     },
     "userkeys_jsx": {
-        "public": "Public",
-        "private": "Private",
-        "public_something_key": "Public %(key)s Key",
-        "private_something_key": "Private %(key)s Key",
-        "posting_key_is_required_it_should_be_different": "The posting key is used for posting and voting. It should be different from the active and owner keys.",
-        "the_active_key_is_used_to_make_transfers_and_place_orders": "The active key is used to make transfers and place orders in the internal market.",
-        "the_owner_key_is_required_to_change_other_keys": "The owner key is the master key for the account and is required to change the other keys.",
-        "the_private_key_or_password_should_be_kept_offline": "The private key or password for the owner key should be kept offline as much as possible.",
+        "public": "Público",
+        "private": "Privado",
+        "public_something_key": "Senha %(key)s pública",
+        "private_something_key": "Senha %(key)s privada",
+        "posting_key_is_required_it_should_be_different": "A chave de publicação serve para publicar e votar. Deve ser diferente da senha ativa e da senha do proprietário.",
+        "the_active_key_is_used_to_make_transfers_and_place_orders": "A senha ativa usa-se para fazer transferências e colocar ordens de compra ou venda no mercado interno.",
+        "the_owner_key_is_required_to_change_other_keys": "A senha do proprietário é a senha maestra para a conta e é requerida para mudar o resto das senhas.",
+        "the_private_key_or_password_should_be_kept_offline": "A senha privada para a conta do proprietário deve estar fora do acesso da internet. Recomenda-se imprimi-la e guarda-la num lugar seguro.",
         "the_memo_key_is_used_to_create_and_read_memos": "The memo key is used to create and read memos."
     },
     "suggestpassword_jsx": {
-        "APP_NAME_cannot_recover_passwords_keep_this_page_in_a_secure_location": "%(APP_NAME)s cannot recover passwords. Keep this page in a secure location, such as a fireproof safe or safety deposit box.",
-        "APP_NAME_password_backup": "%(APP_NAME)s Password Backup",
+        "APP_NAME_cannot_recover_passwords_keep_this_page_in_a_secure_location": "%(APP_NAME)s não pode recuperar senhas. Guarda esta página num lugar seguro, como um cofre ou uma caixa de depósito.",
+        "APP_NAME_password_backup": "%(APP_NAME)s senha de apoio ou segurança",
         "APP_NAME_password_backup_required": "%(APP_NAME)s Password Backup (required)",
         "after_printing_write_down_your_user_name": "After printing, write down your user name"
     },

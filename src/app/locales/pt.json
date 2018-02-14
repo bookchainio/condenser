@@ -484,54 +484,54 @@
     "postsummary_jsx": {
         "resteemed": "resteemed",
         "resteemed_by": "Resteemed by",
-        "reveal_it": "Reveal this post",
-        "adjust_your": "adjust your",
-        "display_preferences": "display preferences",
-        "create_an_account": "create an account",
-        "to_save_your_preferences": "to save your preferences"
+        "reveal_it": "Revelar esta publicação",
+        "adjust_your": "ajusta o teu",
+        "display_preferences": "visualizar preferências",
+        "create_an_account": "criar uma conta",
+        "to_save_your_preferences": "para guardar as tuas preferências"
     },
     "posts_index": {
-        "empty_feed_1": "Looks like you haven't followed anything yet",
-        "empty_feed_2": "If you recently added new users to follow, your personalized feed will populate once new content is available",
-        "empty_feed_3": "Explore Trending Articles",
-        "empty_feed_4": "Read The Quick Start Guide",
-        "empty_feed_5": "Browse The FAQ"
+        "empty_feed_1": "Parece que não seguiste nada ainda",
+        "empty_feed_2": "Se recentemente adicionaste gente para seguir, o teu feed personalizado aparecerá uma vez que o conteúdo esteja disponível",
+        "empty_feed_3": "Explorar artículos em tendência",
+        "empty_feed_4": "Ler o Guia Básico para começar",
+        "empty_feed_5": "Explorar as perguntas frequentes"
     },
     "transferhistoryrow_jsx": {
-        "to_savings": "to savings",
-        "from_savings": "from savings",
-        "cancel_transfer_from_savings": "Cancel transfer from savings",
-        "stop_power_down": "Stop power down",
-        "start_power_down_of": "Start power down of",
-        "receive_interest_of": "Receive interest of"
+        "to_savings": "para as poupanças",
+        "from_savings": "das poupanças",
+        "cancel_transfer_from_savings": "Cancela transferência das poupanças",
+        "stop_power_down": "Parar power down",
+        "start_power_down_of": "Começar power down de",
+        "receive_interest_of": "Receber interesse de"
     },
     "savingswithdrawhistory_jsx": {
-        "cancel_this_withdraw_request": "Cancel this withdraw request?",
-        "pending_savings_withdrawals": "PENDING SAVINGS WITHDRAWS",
-        "withdraw": "Withdraw %(amount)s",
-        "to": "to %(to)s",
-        "from_to": "from %(from)s to %(to)s"
+        "cancel_this_withdraw_request": "Cancelar o pedido de retirar?",
+        "pending_savings_withdrawals": "POUPANÇAS PENDENTES DE RETIRAR",
+        "withdraw": "Retirar %(amount)s",
+        "to": "para %(to)s",
+        "from_to": "de %(from)s para %(to)s"
     },
     "explorepost_jsx": {
-        "copied": "Copied!",
-        "copy": "COPY",
-        "alternative_sources": "Alternative Sources"
+        "copied": "Copiado!",
+        "copy": "COPIAR",
+        "alternative_sources": "Fontes alternativas"
     },
     "header_jsx": {
-        "home": "home",
-        "create_a_post": "Create a post",
-        "change_account_password": "Change Account Password",
-        "create_account": "Create Account",
-        "stolen_account_recovery": "Stolen Account Recovery",
-        "people_following": "People following",
-        "people_followed_by": "People followed by",
-        "curation_rewards_by": "Curation rewards by",
-        "author_rewards_by": "Author rewards by",
-        "replies_to": "Replies to",
-        "comments_by": "Comments by"
+        "home": "início",
+        "create_a_post": "Criar uma publicação",
+        "change_account_password": "Trocar a senha da conta",
+        "create_account": "Criar conta",
+        "stolen_account_recovery": "Recuperação de contas roubadas",
+        "people_following": "Pessoas que segues",
+        "people_followed_by": "Pessoas seguidas por",
+        "curation_rewards_by": "Recompensas curadoria de",
+        "author_rewards_by": "Recompensas de autor de",
+        "replies_to": "Respostas a",
+        "comments_by": "Comentários de"
     },
     "loginform_jsx": {
-        "you_need_a_private_password_or_key": "You need a private password or key (not a public key)",
+        "you_need_a_private_password_or_key": "Necessitas de uma senha privada (não uma senha pública)",
         "cryptography_test_failed": "Cryptography test failed",
         "unable_to_log_you_in": "We will be unable to log you in with this browser.",
         "the_latest_versions_of": "The latest versions of ",

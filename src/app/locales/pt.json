@@ -37,7 +37,7 @@
         "in_reply_to": "em resposta a",
         "insufficient_balance": "Saldo insuficiente",
         "invalid_amount": "Quantidade inválida",
-        "joined": "Joined",
+        "joined": "Juntou-se",
         "loading": "A carregar",
         "login": "Iniciar Sessão",
         "logout": "Terminar Sessão",
@@ -57,7 +57,7 @@
         "password": "Senha",
         "payouts": "Pagamentos",
         "permissions": "Permissões",
-        "phishy_message": "Link expanded to plain text; beware of a potential phishing attempt",
+        "phishy_message": "Link expandido para texto simples; cuidado com potenciais tentativas de \"phishing\"",
         "post": "Publicação",
         "post_as": "Postar como",
         "posts": "Publicações",
@@ -164,9 +164,9 @@
         "account_name_should_be_longer": "O nome de usuário deve ser mais comprido.",
         "account_name_should_have_only_letters_digits_or_dashes": "O nome de usuário deve ter apenas letras, dígitos, pontos ou hífenes.",
         "cannot_increase_reward_of_post_within_the_last_minute_before_payout": "Não se pode aumentar a recompensa de uma publicação dentro do último minuto antes do pagamento",
-        "vote_currently_exists_user_must_be_indicate_a_to_reject_witness": "vote currently exists, user must be indicate a desire to reject witness",
+        "vote_currently_exists_user_must_be_indicate_a_to_reject_witness": "este voto já existe, usuário deve indicar um desejo para rejeitar o testemunho",
         "only_one_APP_NAME_account_allowed_per_ip_address_every_10_minutes": "Só uma conta Steem permitida por IP a cada 10 minutos",
-        "resteem_this_post": "Resteem This Post",
+        "resteem_this_post": "Resteem esta publicação",
         "reblog": "Resteem",
         "write_your_story": "Escreve a tua história",
         "remember_voting_and_posting_key": "Recorda a chave de voto e publicação",
@@ -257,7 +257,7 @@
         "draft_saved": "Esboço guardado.",
         "editor": "Editor",
         "insert_images_by_dragging_dropping": "Insere imagens arrastando e soltando ",
-        "pasting_from_the_clipboard": "pasting from the clipboard, ",
+        "pasting_from_the_clipboard": "colando da área de transferência, ",
         "selecting_them": "selecionando-os",
         "image_upload": "Carregar imagem",
         "power_up_100": "Powered Up 100 %%",
@@ -376,7 +376,7 @@
     },
     "post_jsx": {
         "now_showing_comments_with_low_ratings": "Mostrando agora comentários com baixas classificações",
-        "sort_order": "Sort Order",
+        "sort_order": "Organizar",
         "comments_were_hidden_due_to_low_ratings": "Os comentários foram ocultados devido a baixas classificações"
     },
     "voting_jsx": {
@@ -483,7 +483,7 @@
     },
     "postsummary_jsx": {
         "resteemed": "resteemed",
-        "resteemed_by": "Resteemed by",
+        "resteemed_by": "Resteemed por",
         "reveal_it": "Revelar esta publicação",
         "adjust_your": "ajusta o teu",
         "display_preferences": "visualizar preferências",
@@ -647,10 +647,10 @@
         "error": "Impossível de fazer \"power down\" (ERRO: %(MESSAGE)s)"
     },
     "checkloginowner_jsx": {
-        "your_password_permissions_were_reduced": "Your password permissions were reduced",
-        "if_you_did_not_make_this_change": "If you did not make this change please",
-        "ownership_changed_on": "Ownership Changed On ",
-        "deadline_for_recovery_is": "Deadline for recovery is",
-        "i_understand_dont_show_again": "I understand, don't show me again"
+        "your_password_permissions_were_reduced": "Reduziram-se as suas permissões de senha",
+        "if_you_did_not_make_this_change": "Se não fizeste esta alteração por favor",
+        "ownership_changed_on": "Propriedade mudada em ",
+        "deadline_for_recovery_is": "O prazo para recuperação é",
+        "i_understand_dont_show_again": "Eu entendo, não mostrar novamente"
     }
 }

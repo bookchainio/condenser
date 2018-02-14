@@ -407,19 +407,19 @@
         "witness_thread": "witness thread",
         "top_witnesses": "Witness Voting",
         "you_have_votes_remaining": {
-            "zero": "You have no votes remaining",
-            "one": "You have 1 vote remaining",
-            "other": "You have %(count)s votes remaining"
+            "zero": "Não tens votos restantes",
+            "one": "Tens um voto restante",
+            "other": "Restam-te %(count)s votos disponíveis"
         },
-        "you_can_vote_for_maximum_of_witnesses": "You can vote for a maximum of 30 witnesses",
-        "witness": "Witness",
-        "information": "Information",
-        "if_you_want_to_vote_outside_of_top_enter_account_name": "If you would like to vote for a witness outside of the top 50, enter the account name below to cast a vote",
-        "set_witness_proxy": "You can also choose a proxy that will vote for witnesses for you. This will reset your current witness selection.",
+        "you_can_vote_for_maximum_of_witnesses": "Podes votar como máximo a 30 testemunhas",
+        "witness": "Testemunhas",
+        "information": "Informação",
+        "if_you_want_to_vote_outside_of_top_enter_account_name": "Se quiseres votar numa testemunha que está fora do top 50, por favor introduza o nome da conta para votar",
+        "set_witness_proxy": "Também podes eleger um proxy que votará nas testemunhas por mim. Esta atividade vai redefenir a tua atual seleção de testemunhas.",
         "witness_set": "You have set a voting proxy. If you would like to re-enable manual voting, please clear your proxy.",
-        "witness_proxy_current": "Your current proxy is",
-        "witness_proxy_set": "Set proxy",
-        "witness_proxy_clear": "Clear proxy",
+        "witness_proxy_current": "O teu proxy atual é",
+        "witness_proxy_set": "Criar proxy",
+        "witness_proxy_clear": "Apagar proxy",
         "proxy_update_error": "Your proxy was not updated"
     },
     "votesandcomments_jsx": {

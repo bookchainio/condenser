@@ -449,17 +449,17 @@
     "suggestpassword_jsx": {
         "APP_NAME_cannot_recover_passwords_keep_this_page_in_a_secure_location": "%(APP_NAME)s não pode recuperar senhas. Guarda esta página num lugar seguro, como um cofre ou uma caixa de depósito.",
         "APP_NAME_password_backup": "%(APP_NAME)s senha de apoio ou segurança",
-        "APP_NAME_password_backup_required": "%(APP_NAME)s Password Backup (required)",
-        "after_printing_write_down_your_user_name": "After printing, write down your user name"
+        "APP_NAME_password_backup_required": "%(APP_NAME)s Senha de apoio ou segurança (requerida)",
+        "after_printing_write_down_your_user_name": "Depois de imprimir, escreve o teu nome de usuário"
     },
     "converttosteem_jsx": {
-        "your_existing_DEBT_TOKEN_are_liquid_and_transferable": "Your existing %(DEBT_TOKEN)s are liquid and transferable. Instead you may wish to trade %(DEBT_TOKEN)s directly in this site under %(link)s or transfer to an external market.",
-        "this_is_a_price_feed_conversion": "This is a price feed conversion. The 3.5 day delay is necessary to prevent abuse from gaming the price feed average",
-        "convert_to_LIQUID_TOKEN": "Convert to %(LIQUID_TOKEN)s",
-        "DEBT_TOKEN_will_be_unavailable": "This action will take place 3.5 days from now and can not be canceled. These %(DEBT_TOKEN)s will immediately become unavailable"
+        "your_existing_DEBT_TOKEN_are_liquid_and_transferable": "A quantidade de %(DEBT_TOKEN)s são líquidos e transferíveis. Se desejas também podes comprar ou vender %(DEBT_TOKEN)s diretamente nesta página nos %(link)s ou transferir para um mercado externo.",
+        "this_is_a_price_feed_conversion": "Esta é a conversão de preço. Os 3.5 dias de atraso são necessários para prevenir abusos com as médias do preço",
+        "convert_to_LIQUID_TOKEN": "Converter em %(LIQUID_TOKEN)s",
+        "DEBT_TOKEN_will_be_unavailable": "Esta ação vai demorar 3.5 dias e não pode ser cancelada. Estes %(DEBT_TOKEN)s deixarão imediatamente de estar disponíveis"
     },
     "tips_js": {
-        "liquid_token": "Tradeable tokens that may be transferred anywhere at anytime.<br/>%(LIQUID_TOKEN)s can be converted to %(VESTING_TOKEN)s in a process called powering up.",
+        "liquid_token": "Tokens trocáveis podem ser transferidos em qualquer lugar a qualquer momento. <br/>%(LIQUID_TOKEN)s podem ser convertidos em %(VESTING_TOKEN)s num processo denominado de \"powering up\".",
         "influence_token": "Influence tokens which give you more control over post payouts and allow you to earn on curation rewards.",
         "estimated_value": "The estimated value is based on an average value of %(LIQUID_TOKEN)s in US dollars.",
         "non_transferable": "%(VESTING_TOKEN)s is non-transferable and requires 3 months (13 payments) to convert back to %(LIQUID_TOKEN)s.",

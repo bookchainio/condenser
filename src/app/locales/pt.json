@@ -426,7 +426,7 @@
         "no_responses_yet_click_to_respond": "Sem respostas ainda. Clica para responder.",
         "response_count_tooltip": {
             "zero": "sem respostas. Clica para responder.",
-            "one": "1 respostas. Clica para responder.",
+            "one": "1 resposta. Clica para responder.",
             "other": "%(count)s respostas. Clica para responder."
         },
         "vote_count": {
@@ -438,11 +438,11 @@
     "userkeys_jsx": {
         "public": "Público",
         "private": "Privado",
-        "public_something_key": "Senha %(key)s pública",
-        "private_something_key": "Senha %(key)s privada",
-        "posting_key_is_required_it_should_be_different": "A chave de publicação serve para publicar e votar. Deve ser diferente da senha ativa e da senha do proprietário.",
-        "the_active_key_is_used_to_make_transfers_and_place_orders": "A senha ativa usa-se para fazer transferências e colocar ordens de compra ou venda no mercado interno.",
-        "the_owner_key_is_required_to_change_other_keys": "A senha do proprietário é a senha maestra para a conta e é requerida para mudar o resto das senhas.",
+        "public_something_key": "Chave %(key)s pública",
+        "private_something_key": "Chave %(key)s privada",
+        "posting_key_is_required_it_should_be_different": "A chave de publicação serve para publicar e votar. Deve ser diferente da chave ativa e da senha do proprietário.",
+        "the_active_key_is_used_to_make_transfers_and_place_orders": "A chave ativa usa-se para fazer transferências e colocar ordens de compra ou venda no mercado interno.",
+        "the_owner_key_is_required_to_change_other_keys": "A chave do proprietário é a senha mestre para a conta e é requerida para mudar o resto das senhas.",
         "the_private_key_or_password_should_be_kept_offline": "A senha privada para a conta do proprietário deve estar fora do acesso da internet. Recomenda-se imprimi-la e guarda-la num lugar seguro.",
         "the_memo_key_is_used_to_create_and_read_memos": "A chave do memorando é usada para criar e ler memorandos."
     },
@@ -590,7 +590,7 @@
         "always_warn": "Avisar sempre",
         "always_show": "Mostrar sempre",
         "muted_users": "Usuários silenciados",
-        "update": "Update",
+        "update": "Atualizar",
         "profile_image_url": "Link para a foto de perfil",
         "cover_image_url": "Link para a imagem de fundo",
         "profile_name": "Mostar nome",

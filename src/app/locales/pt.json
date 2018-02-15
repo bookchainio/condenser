@@ -415,7 +415,7 @@
         "witness": "Testemunhas",
         "information": "Informação",
         "if_you_want_to_vote_outside_of_top_enter_account_name": "Se quiseres votar numa testemunha que está fora do top 50, por favor introduza o nome da conta para votar",
-        "set_witness_proxy": "Também podes eleger um proxy que votará nas testemunhas por mim. Esta atividade vai redefenir a tua atual seleção de testemunhas.",
+        "set_witness_proxy": "Também podes eleger um proxy que votará nas testemunhas por ti. Esta atividade vai redefenir a tua atual seleção de testemunhas.",
         "witness_set": "Selecionas-te um proxy de votação. Se queres voltar a habilitar o voto manual, por favor apaga o teu proxy.",
         "witness_proxy_current": "O teu proxy atual é",
         "witness_proxy_set": "Criar proxy",
@@ -507,7 +507,7 @@
     },
     "savingswithdrawhistory_jsx": {
         "cancel_this_withdraw_request": "Cancelar o pedido de retirar?",
-        "pending_savings_withdrawals": "POUPANÇAS PENDENTES DE RETIRAR",
+        "pending_savings_withdrawals": "POUPANÇAS PENDENTES DE RETIRADA",
         "withdraw": "Retirar %(amount)s",
         "to": "para %(to)s",
         "from_to": "de %(from)s para %(to)s"

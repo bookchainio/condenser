@@ -129,9 +129,9 @@
         "account_name": "खाता का नाम",
         "recover_your_account": "अपना खाता पुनः प्राप्त करें",
         "reset_usernames_password": "फिर से तैयार करें %(username)s पासवर्ड",
-        "this_will_update_usernames_authtype_key": "This will update %(username)s %(authType)s key",
-        "passwords_do_not_match": "Passwords do not match",
-        "you_need_private_password_or_key_not_a_public_key": "You need a private password or key (not a public key)",
+        "this_will_update_usernames_authtype_key": "यह सुधर करेगा %(username)s %(authType)s कुंजी",
+        "passwords_do_not_match": "पासवर्ड्स समान नहीं हैं",
+        "you_need_private_password_or_key_not_a_public_key": "अप्पको जरुरत है एक गुप्त पासवर्ड या कुंजी की ( एक सार्वजनिक कुंजी नहीं)",
         "the_rules_of_APP_NAME": {
             "one": "The first rule of %(APP_NAME)s is: Do not lose your password.",
             "second": "The second rule of %(APP_NAME)s is: Do not lose your password.",

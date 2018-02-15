@@ -574,7 +574,7 @@
         "have_only_letters_digits_or_dashes": "ter apenas letras, dígitos ou hífenes.",
         "have_only_one_dash_in_a_row": "ter apenas um hífen consecutivo.",
         "end_with_a_letter_or_digit": "terminar com uma letra ou um dígito.",
-        "verified_exchange_no_memo": "Tens de incluir um memorando para a tua troca de transferência."
+        "verified_exchange_no_memo": "Tens de incluir um memorando para a tua transferência de troca."
     },
     "settings_jsx": {
         "invalid_url": "URL Inválido",
@@ -590,7 +590,7 @@
         "always_warn": "Avisar sempre",
         "always_show": "Mostrar sempre",
         "muted_users": "Usuários silenciados",
-        "update": "Atualizar",
+        "update": "Update",
         "profile_image_url": "Link para a foto de perfil",
         "cover_image_url": "Link para a imagem de fundo",
         "profile_name": "Mostar nome",

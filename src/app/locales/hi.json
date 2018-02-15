@@ -195,15 +195,15 @@
             "show_less": "काम दिखाएँ",
             "value_posts": "निम्न कीमत वाली पोस्टें"
         },
-        "read_only_mode": "Due to server maintenance we are running in read only mode. We are sorry for the inconvenience.",
-        "tags_and_topics": "Tags",
-        "show_more_topics": "View all tags",
-        "basic": "Basic",
-        "advanced": "Advanced",
+        "read_only_mode": "सर्वर की रख-रखाव के कारन अभी सिर्फ पढ़ने की सूरत में परिचालन हो रहे हैं| हमलोग क्षमा चाहते हैं किसी भी असुविधा के लिए|",
+        "tags_and_topics": "वाक्यांश / लेबलें",
+        "show_more_topics": "सभी वाक्यांश देखें",
+        "basic": "बुनियादी",
+        "advanced": "उन्नत",
         "views": {
-            "zero": "No Views",
-            "one": "%(count)s View",
-            "other": "%(count)s Views"
+            "zero": "कोई मंजर नहीं",
+            "one": "%(count)s दृश्य",
+            "other": "%(count)s दृष्यायें"
         },
         "responses": {
             "zero": "No Responses",

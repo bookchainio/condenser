@@ -206,12 +206,12 @@
             "other": "%(count)s दृष्यायें"
         },
         "responses": {
-            "zero": "No Responses",
-            "one": "%(count)s Response",
-            "other": "%(count)s Responses"
+            "zero": "कोई प्रतिक्रियाएँ नहीं",
+            "one": "%(count)s प्रतिक्रिया",
+            "other": "%(count)s प्रतिक्रियाएँ"
         },
         "post_key_warning": {
-            "confirm": "You are about to publish a STEEM private key or master password. You will probably lose control of the associated account and all its funds.",
+            "confirm": "आप निजी कुंजी या मास्टर पासवर्ड प्रकाशित करने वाले हैं| संभवतः आप पकड़ खो देंगें अपने सहयोगी खता और इसके जमा पुंजिओं को|",
             "warning": "Legitimate users, including employees of Steemit Inc., will never ask you for a private key or master password.",
             "checkbox": "I understand"
         }

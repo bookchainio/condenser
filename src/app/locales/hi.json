@@ -133,9 +133,9 @@
         "passwords_do_not_match": "पासवर्ड्स समान नहीं हैं",
         "you_need_private_password_or_key_not_a_public_key": "अप्पको जरुरत है एक गुप्त पासवर्ड या कुंजी की ( एक सार्वजनिक कुंजी नहीं)",
         "the_rules_of_APP_NAME": {
-            "one": "The first rule of %(APP_NAME)s is: Do not lose your password.",
-            "second": "The second rule of %(APP_NAME)s is: Do not lose your password.",
-            "third": "The third rule of %(APP_NAME)s is: We cannot recover your password.",
+            "one": "%(APP_NAME)s का पहला नियम है: अपना पासवर्ड नहीं गवाएँ|",
+            "second": "%(APP_NAME)s का दूसरा नियम है: अपना पासवर्ड नहीं गवाएँ|",
+            "third": "%(APP_NAME)s का तीसरा नियम है: हमलोग आपका पासवर्ड दुबारा लौटा नहीं सकते|",
             "fourth": "The fourth rule: If you can remember the password, it's not secure.",
             "fifth": "The fifth rule: Use only randomly-generated passwords.",
             "sixth": "The sixth rule: Do not tell anyone your password.",

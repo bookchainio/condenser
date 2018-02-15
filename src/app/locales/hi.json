@@ -136,12 +136,12 @@
             "one": "%(APP_NAME)s का पहला नियम है: अपना पासवर्ड नहीं गवाएँ|",
             "second": "%(APP_NAME)s का दूसरा नियम है: अपना पासवर्ड नहीं गवाएँ|",
             "third": "%(APP_NAME)s का तीसरा नियम है: हमलोग आपका पासवर्ड दुबारा लौटा नहीं सकते|",
-            "fourth": "The fourth rule: If you can remember the password, it's not secure.",
-            "fifth": "The fifth rule: Use only randomly-generated passwords.",
-            "sixth": "The sixth rule: Do not tell anyone your password.",
-            "seventh": "The seventh rule: Always back up your password."
+            "fourth": "चौथा नियम: यदि आप पासवर्ड याद कर सकते हैं, तो यह सुरक्षित नहीं है|",
+            "fifth": "पांचवा नियम: सिर्फ मशीन-उत्सर्जित पासवर्ड ही उपयोग करें|",
+            "sixth": "छठा नियम: किसी को अपना पासवर्ड न बोलें|",
+            "seventh": "सांतवा नियम: हमेशा अपना पासवर्ड का बैकअप रखें|"
         },
-        "recover_password": "Recover Account",
+        "recover_password": "खाता पुनः प्राप्त करें",
         "current_password": "Current Password",
         "generated_password": "Generated Password",
         "backup_password_by_storing_it": "Back it up by storing in your password manager or a text file",

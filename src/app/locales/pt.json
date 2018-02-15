@@ -567,7 +567,7 @@
     "chainvalidation_js": {
         "account_name_should": "O nome de conta deve ",
         "not_be_empty": "não estar vazio.",
-        "be_longer": "ser mais largo.",
+        "be_longer": "ser mais longo.",
         "be_shorter": "ser mais curto.",
         "each_account_segment_should": "Cada segmento da conta deve ",
         "start_with_a_letter": "começar com uma letra.",

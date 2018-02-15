@@ -219,7 +219,7 @@
     "navigation": {
         "about": "Sobre",
         "explore": "Explorar",
-        "APP_NAME_whitepaper": "%(APP_NAME)s Documentação técnica",
+        "APP_NAME_whitepaper": "%(APP_NAME)s Whitepaper",
         "buy_LIQUID_TOKEN": "Comprar %(LIQUID_TOKEN)s",
         "sell_LIQUID_TOKEN": "Vender %(LIQUID_TOKEN)s",
         "currency_market": "Mercado de moedas",
@@ -239,7 +239,7 @@
         "api_docs": "Documentos API do Steemit",
         "bluepaper": "Steem Bluepaper",
         "smt_whitepaper": "SMT Whitepaper (Livro branco)",
-        "whitepaper": "Livro branco do Steem",
+        "whitepaper": "Steem Whitepaper",
         "intro_tagline": "O dinheiro fala",
         "intro_paragraph": "A tua voz tem valor. Junta-te á comunidade que te paga para publicar e votar conteúdo de alta qualidade."
     },
@@ -261,7 +261,7 @@
         "selecting_them": "selecionando-os",
         "image_upload": "Carregar imagem",
         "power_up_100": "Powered Up 100 %%",
-        "default_50_50": "Padrão (50 1%% / 50 1%%)",
+        "default_50_50": "Padrão (50%% / 50%%)",
         "decline_payout": "Recusar Pagamento",
         "check_this_to_auto_upvote_your_post": "Seleciona para auto-votar o teu post",
         "markdown_styling_guide": "Guia para o Markdown",
@@ -288,7 +288,7 @@
         "share_on_twitter": "Partilhar no Twitter",
         "share_on_linkedin": "Partilhar no Linkedin",
         "recent_password": "Senha recente",
-        "in_week_convert_DEBT_TOKEN_to_LIQUID_TOKEN": "Em 3.5 dias, converter 1 %(amount)s 2 %(DEBT_TOKEN)s em 3 %(LIQUID_TOKEN)s",
+        "in_week_convert_DEBT_TOKEN_to_LIQUID_TOKEN": "Em 3.5 dias, converter %(amount)s %(DEBT_TOKEN)s em %(LIQUID_TOKEN)s",
         "view_the_full_context": "Ver todo o contexto",
         "view_the_direct_parent": "Ver o comentário relacionado",
         "you_are_viewing_a_single_comments_thread_from": "Estás a ver os comentários relacionados de"

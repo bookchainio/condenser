@@ -163,7 +163,7 @@
         "account_name_should_be_shorter": "खाता का नाम छोटा होना चाहिए|",
         "account_name_should_be_longer": "खाता का नाम बड़ा होना चाहिए|",
         "account_name_should_have_only_letters_digits_or_dashes": "खाते के नाम में सिर्फ अक्षरों, अंकों, पीरियड्स या डैश होना चाहिए|",
-        "cannot_increase_reward_of_post_within_the_last_minute_before_payout": "Cannot increase reward of post within the last minute before payout",
+        "cannot_increase_reward_of_post_within_the_last_minute_before_payout": "भुगतान से पहले के अंतिम एक मिनट में पोस्ट की इनाम राशि में इजाफा नहीं हो सकता",
         "vote_currently_exists_user_must_be_indicate_a_to_reject_witness": "vote currently exists, user must be indicate a desire to reject witness",
         "only_one_APP_NAME_account_allowed_per_ip_address_every_10_minutes": "Only one Steem account allowed per IP address every 10 minutes",
         "resteem_this_post": "Resteem This Post",

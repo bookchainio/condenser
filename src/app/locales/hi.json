@@ -186,14 +186,14 @@
         "please_email_questions_to": "कृपया प्रश्न को ईमेल करें",
         "next_7_strings_single_block": {
             "authors_get_paid_when_people_like_you_upvote_their_post": "Authors get paid when people like you upvote their post",
-            "if_you_enjoyed_what_you_read_earn_amount": "If you enjoyed what you read here, create your account today and start earning FREE STEEM!",
-            "free_steem": "FREE STEEM!",
-            "sign_up_earn_steem": "Sign up now to earn "
+            "if_you_enjoyed_what_you_read_earn_amount": "यदि आप आनंदित हो रहें हैं पढ़ कर यहाँ, तो आज हे अपना खता खोलें और मुफ्त में स्टीम कमाएँ!",
+            "free_steem": "मुफ्त में स्टीम!",
+            "sign_up_earn_steem": "अभी साईनअप करें "
         },
         "next_3_strings_together": {
-            "show_more": "Show more",
-            "show_less": "Show fewer",
-            "value_posts": "low value posts"
+            "show_more": "अधिक दिखाएँ",
+            "show_less": "काम दिखाएँ",
+            "value_posts": "निम्न कीमत वाली पोस्टें"
         },
         "read_only_mode": "Due to server maintenance we are running in read only mode. We are sorry for the inconvenience.",
         "tags_and_topics": "Tags",

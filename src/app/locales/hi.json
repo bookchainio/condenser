@@ -1,11 +1,11 @@
 {
     "g": {
-        "age": "age",
-        "amount": "Amount",
-        "and": "and",
-        "are_you_sure": "Are you sure?",
-        "ask": "Ask",
-        "balance": "Balance",
+        "age": "उम्र/आयु",
+        "amount": "राशि / रकम",
+        "and": "और",
+        "are_you_sure": "क्या आप आश्वस्त हैं?",
+        "ask": "पूछें",
+        "balance": "देय राशि / शेष राशि",
         "balances": "Balances",
         "bid": "Bid",
         "blog": "Blog",

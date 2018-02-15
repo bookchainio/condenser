@@ -177,7 +177,7 @@
         "not_valid_email": "Correio eletrónico não é válido",
         "thank_you_for_being_an_early_visitor_to_APP_NAME": "Obrigado por ser um dos primeiros a entrar em %(APP_NAME)s. Entraremos em contacto o mais rápido possível.",
         "author_rewards": "Recompensas de autor",
-        "curation_rewards": "Recompensas de curação",
+        "curation_rewards": "Recompensas de curadoria",
         "sorry_your_reddit_account_doesnt_have_enough_karma": "Desculpa, mas a tua conta Reddit não tem suficiente Karma para um registo grátis. Por favor, adicione o seu endereço eletrónico para entrar na lista de espera",
         "register_with_facebook": "Registra-te com o Facebook",
         "or_click_the_button_below_to_register_with_facebook": "Ou clica no botão abaixo para te registares com o Facebook",
@@ -185,7 +185,7 @@
         "APP_NAME_support": "%(APP_NAME)s Suporte",
         "please_email_questions_to": "Por favor, envia um email com as tuas dúvidas a",
         "next_7_strings_single_block": {
-            "authors_get_paid_when_people_like_you_upvote_their_post": "Autores são pagos quando gente como tu vota nos seus posts",
+            "authors_get_paid_when_people_like_you_upvote_their_post": "Autores são pagos quando indivíduos como tu vota nas suas publicações",
             "if_you_enjoyed_what_you_read_earn_amount": "Se gostaste do que leste aqui, cria uma conta hoje mesmo e começa a ganhar STEEM!",
             "free_steem": "STEEM GRÁTIS!",
             "sign_up_earn_steem": "Registra-te agora para ganhar "
@@ -193,9 +193,9 @@
         "next_3_strings_together": {
             "show_more": "Mostrar mais",
             "show_less": "Mostrar menos",
-            "value_posts": "posts de valor baixo"
+            "value_posts": "publicações de valor baixo"
         },
-        "read_only_mode": "Devido a tarefas de manutenção dos servidores, só modo leitura está disponível. Desculpamos a inconveniência.",
+        "read_only_mode": "Devido a tarefas de manutenção dos servidores, só modo leitura está disponível. Pedimos desculpa pela inconveniência.",
         "tags_and_topics": "Etiquetas e Temas",
         "show_more_topics": "Mostrar mais temas",
         "basic": "Básico",
@@ -212,7 +212,7 @@
         },
         "post_key_warning": {
             "confirm": "Estás quase a publicar uma chave privada de STEEM ou uma senha mestre. Provavelmente irás perder controlo da conta associada e os seus fundos.",
-            "warning": "Usuários legítimos, incluindo funcionários da Steemit Inc., nunca te pediram pela chave privada nem pela senha mestre.",
+            "warning": "Usuários legítimos, incluindo funcionários da Steemit Inc., nunca te vão pedir pela chave privada nem pela senha mestre.",
             "checkbox": "Entendido"
         }
     },

@@ -241,16 +241,16 @@
         "smt_whitepaper": "SMT श्वेतपत्र",
         "whitepaper": "स्टीम श्वेतपत्र",
         "intro_tagline": "मुद्रा विचार वार्ता",
-        "intro_paragraph": "Your voice is worth something. Join the community that pays you to post and curate high quality content."
+        "intro_paragraph": "आपका आवाज कुछ अच्छा है| समुदाय से जुड़ें जो भुगतान करता है आपके पोस्ट और उपपादरी करती है उच्चतम गुण वाली विषय को|"
     },
     "main_menu": {
-        "hot": "hot",
-        "trending": "trending"
+        "hot": "गरम / उत्तेजक",
+        "trending": "लोकप्रिय / प्रचलित"
     },
     "reply_editor": {
-        "shorten_title": "Shorten title",
-        "exceeds_maximum_length": "Exceeds maximum length (%(maxKb)sKB)",
-        "including_the_category": " (including the category '%(rootCategory)s')",
+        "shorten_title": "शीर्षक छोटा रखें",
+        "exceeds_maximum_length": "(%(maxKb)s केबी) अधिकतम लम्बाई पर कर चुकी है",
+        "including_the_category": " (%(rootCategory)s\" श्रेणियों को शामिल करते हुए)",
         "use_limited_amount_of_tags": "You have %(tagsLength)s tags total%(includingCategory)s. Please use only 5 in your post and category line.",
         "are_you_sure_you_want_to_clear_this_form": "Are you sure you want to clear this form?",
         "uploading": "Uploading",

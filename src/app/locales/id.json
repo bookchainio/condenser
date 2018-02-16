@@ -332,7 +332,7 @@
         "thanks_for_submitting_request_for_account_recovery": "Thanks for submitting your request for Account Recovery using %(APP_NAME)s's blockchain-based multi factor authentication. We will respond to you as quickly as possible, however, please expect there may be some delay in response due to high volume of emails. Please be prepared to verify your identity.",
         "recovering_account": "Recovering account",
         "recover_account": "Recover Account",
-        "checking_account_owner": "Checking account owner",
+        "checking_account_owner": "Memeriksa akun pemilik",
         "sending_recovery_request": "Sending recovery request",
         "cant_confirm_account_ownership": "We can't confirm account ownership. Check your password",
         "account_recovery_request_not_confirmed": "Account recovery request is not confirmed yet, please get back later, thank you for your patience."

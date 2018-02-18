@@ -641,9 +641,9 @@
         "power_down": "Turunkan Tenaga",
         "amount": "Jumlah",
         "already_power_down": "Anda sudah melakukan power down %(AMOUNT)s %(LIQUID_TICKER)s (%(WITHDRAWN)s %(LIQUID_TICKER)s dibayarkan sejauh). Catatan bahwa jika Anda mengubah jumlah power down maka jadwal pembayaran akan diatur ulang.",
-        "delegating": "You are delegating %(AMOUNT)s %(LIQUID_TICKER)s. That amount is locked up and not available to power down until the delegation is removed and a full reward period has passed.",
-        "per_week": "That's ~%(AMOUNT)s %(LIQUID_TICKER)s per week.",
-        "warning": "Leaving less than %(AMOUNT)s %(VESTING_TOKEN)s in your account is not recommended and can leave your account in a unusable state.",
+        "delegating": "Anda mendelegasikan %(AMOUNT)s %(LIQUID_TICKER)s. Jumlah tersebut dikunci dan tidak tersedia untuk dilakukan power down hingga delegasi tersebut dihapus dan satu periode Penghargaan penuh telah terlampaui.",
+        "per_week": "Itulah ~%(AMOUNT)s %(LIQUID_TICKER)s per minggu.",
+        "warning": "Tersisa kurang daripada %(AMOUNT)s %(VESTING_TOKEN)s dalam akun ini tidak dianjurkan dan dapat meninggalkan akun Anda dalam keadaan yang tidak dapat digunakan.",
         "error": "Unable to power down (ERROR: %(MESSAGE)s)"
     },
     "checkloginowner_jsx": {

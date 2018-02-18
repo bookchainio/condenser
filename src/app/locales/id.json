@@ -392,28 +392,28 @@
         "past_payouts": "Pembayaran sebelumnya $%(value)s",
         "past_payouts_author": " - Penulis $%(value)s",
         "past_payouts_curators": " - Kurator $%(value)s",
-        "we_will_reset_curation_rewards_for_this_post": "will reset your curation rewards for this post",
-        "removing_your_vote": "Removing your vote",
-        "changing_to_an_upvote": "Changing to an Up-Vote",
-        "changing_to_a_downvote": "Changing to a Down-Vote",
-        "confirm_flag": "Confirm Flag",
-        "and_more": "and %(count)s more",
+        "we_will_reset_curation_rewards_for_this_post": "akan mangatur ulang pendapatn kurasi untuk postingan ini",
+        "removing_your_vote": "Menghilangkan suara anda",
+        "changing_to_an_upvote": "Mengganti ke Up-Vote",
+        "changing_to_a_downvote": "Merubah ke Down-Vote",
+        "confirm_flag": "Mengkonfirmasi Flag",
+        "and_more": "dan %(count)s lainnya",
         "votes_plural": {
-            "one": "%(count)s vote",
-            "other": "%(count)s votes"
+            "one": "%(count)s Suara",
+            "other": "%(count)s Suara"
         }
     },
     "witnesses_jsx": {
-        "witness_thread": "witness thread",
-        "top_witnesses": "Witness Voting",
+        "witness_thread": "urutan Saksi",
+        "top_witnesses": "Saksi pemungutan suara",
         "you_have_votes_remaining": {
-            "zero": "You have no votes remaining",
-            "one": "You have 1 vote remaining",
-            "other": "You have %(count)s votes remaining"
+            "zero": "Anda tidak memiliki sisa suara",
+            "one": "Anda memiliki 1 suara tersisa",
+            "other": "Anda memiliki %(count)s suara yang tersisa"
         },
-        "you_can_vote_for_maximum_of_witnesses": "You can vote for a maximum of 30 witnesses",
-        "witness": "Witness",
-        "information": "Information",
+        "you_can_vote_for_maximum_of_witnesses": "Anda dapat memilih maksimal 30 Saksi",
+        "witness": "Saksi",
+        "information": "Informasi",
         "if_you_want_to_vote_outside_of_top_enter_account_name": "If you would like to vote for a witness outside of the top 50, enter the account name below to cast a vote",
         "set_witness_proxy": "You can also choose a proxy that will vote for witnesses for you. This will reset your current witness selection.",
         "witness_set": "You have set a voting proxy. If you would like to re-enable manual voting, please clear your proxy.",

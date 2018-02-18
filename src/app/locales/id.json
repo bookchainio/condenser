@@ -335,12 +335,12 @@
         "checking_account_owner": "Memeriksa akun pemilik",
         "sending_recovery_request": "Sedang mengirimkan permintaan pemulihan",
         "cant_confirm_account_ownership": "Kami tidak dapat mengkonfirmasi kepemilikan account. Harap periksa password Anda",
-        "account_recovery_request_not_confirmed": "Account recovery request is not confirmed yet, please get back later, thank you for your patience."
+        "account_recovery_request_not_confirmed": "Permintaan pemulihan akun belum dikonfirmasi, harap kembali lagi nanti, terima kasih atas kesabaran Anda."
     },
     "user_profile": {
-        "unknown_account": "Unknown Account",
-        "user_hasnt_made_any_posts_yet": "Looks like %(name)s hasn't made any posts yet!",
-        "user_hasnt_started_bloggin_yet": "Looks like %(name)s hasn't started blogging yet!",
+        "unknown_account": "Akun Tidak Diketahui",
+        "user_hasnt_made_any_posts_yet": "Tampaknya %(name)s belum membuat postingan!",
+        "user_hasnt_started_bloggin_yet": "Tampaknya %(name)s belum memulai nge-blog!",
         "user_hasnt_followed_anything_yet": "Looks like %(name)s might not be following anyone yet! If %(name)s recently added new users to follow, their personalized feed will populate once new content is available.",
         "user_hasnt_had_any_replies_yet": "%(name)s hasn't had any replies yet",
         "looks_like_you_havent_posted_anything_yet": "Looks like you haven't posted anything yet.",

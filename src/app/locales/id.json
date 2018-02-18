@@ -361,28 +361,28 @@
             "other": "%(count)s yang diikuti"
         },
         "post_count": {
-            "zero": "No posts",
-            "one": "1 post",
-            "other": "%(count)s posts"
+            "zero": "Tidak ada Postingan",
+            "one": "1 Postingan",
+            "other": "%(count)s Postingan"
         }
     },
     "authorrewards_jsx": {
-        "estimated_author_rewards_last_week": "Estimated author rewards last week",
-        "author_rewards_history": "Author Rewards History"
+        "estimated_author_rewards_last_week": "Perkiraan pendapatan penulis minggu lalu",
+        "author_rewards_history": "Riwayat Pendapatan Penulis"
     },
     "curationrewards_jsx": {
-        "estimated_curation_rewards_last_week": "Estimated curation rewards last week",
-        "curation_rewards_history": "Curation Rewards History"
+        "estimated_curation_rewards_last_week": "Perkiraan pendapatan kurasi minggu lalu",
+        "curation_rewards_history": "Riwayat Pendapatan Kurasi"
     },
     "post_jsx": {
-        "now_showing_comments_with_low_ratings": "Now showing comments with low ratings",
-        "sort_order": "Sort Order",
-        "comments_were_hidden_due_to_low_ratings": "Comments were hidden due to low ratings"
+        "now_showing_comments_with_low_ratings": "Sedang menampilkan komentar dengan peringkat rendah",
+        "sort_order": "Pesanan singkat",
+        "comments_were_hidden_due_to_low_ratings": "Komentar tersembunyi karena peringkat rendah"
     },
     "voting_jsx": {
-        "flagging_post_can_remove_rewards_the_flag_should_be_used_for_the_following": "Flagging a post can remove rewards and make this material less visible. Some common reasons to flag",
-        "disagreement_on_rewards": "Disagreement on rewards",
-        "fraud_or_plagiarism": "Fraud or Plagiarism",
+        "flagging_post_can_remove_rewards_the_flag_should_be_used_for_the_following": "Menandai sebuah posting bisa menghilangkan hadiah dan membuat materi ini kurang terlihat. Beberapa alasan umum untuk menandai",
+        "disagreement_on_rewards": "Perselisihan pendapat pada penghargaan",
+        "fraud_or_plagiarism": "Penipuan atau plagiarisme",
         "hate_speech_or_internet_trolling": "Hate Speech or Internet Trolling",
         "intentional_miss_categorized_content_or_spam": "Intentional miss-categorized content or Spam",
         "pending_payout": "Pending Payout $%(value)s",

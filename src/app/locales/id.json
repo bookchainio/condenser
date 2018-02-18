@@ -329,12 +329,12 @@
         "login_with_social_media_to_verify_identity": "Silahkan masuk dengan %(provider)s untuk memverifikasi identitas anda",
         "enter_email_toverify_identity": "Kami perlu untuk memverifikasi identitas anda. Silahkan masukkan alamat surel anda di bawah ini untuk memulai verifikasi.",
         "continue_with_email": "Lanjutkan dengan Surel",
-        "thanks_for_submitting_request_for_account_recovery": "Thanks for submitting your request for Account Recovery using %(APP_NAME)s's blockchain-based multi factor authentication. We will respond to you as quickly as possible, however, please expect there may be some delay in response due to high volume of emails. Please be prepared to verify your identity.",
-        "recovering_account": "Recovering account",
-        "recover_account": "Recover Account",
+        "thanks_for_submitting_request_for_account_recovery": "Terima kasih telah mengirimkan permintaan Anda untuk pemulihan akun menggunakan %(APP_NAME)s' s blockchain-based multi faktor otentikasi. Kami akan merespon Anda secepat mungkin, namun harap dimaklumi akan kemungkinan adanya beberapa keterlambatan dalam merespon, karena banyaknya email yang masuk. Harap bersiaplah untuk memverifikasi identitas Anda.",
+        "recovering_account": "Sedang memulihkan akun",
+        "recover_account": "Memulihkan akun",
         "checking_account_owner": "Memeriksa akun pemilik",
-        "sending_recovery_request": "Sending recovery request",
-        "cant_confirm_account_ownership": "We can't confirm account ownership. Check your password",
+        "sending_recovery_request": "Sedang mengirimkan permintaan pemulihan",
+        "cant_confirm_account_ownership": "Kami tidak dapat mengkonfirmasi kepemilikan account. Harap periksa password Anda",
         "account_recovery_request_not_confirmed": "Account recovery request is not confirmed yet, please get back later, thank you for your patience."
     },
     "user_profile": {

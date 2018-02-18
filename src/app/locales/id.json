@@ -414,11 +414,11 @@
         "you_can_vote_for_maximum_of_witnesses": "Anda dapat memilih maksimal 30 Saksi",
         "witness": "Saksi",
         "information": "Informasi",
-        "if_you_want_to_vote_outside_of_top_enter_account_name": "If you would like to vote for a witness outside of the top 50, enter the account name below to cast a vote",
-        "set_witness_proxy": "You can also choose a proxy that will vote for witnesses for you. This will reset your current witness selection.",
-        "witness_set": "You have set a voting proxy. If you would like to re-enable manual voting, please clear your proxy.",
-        "witness_proxy_current": "Your current proxy is",
-        "witness_proxy_set": "Set proxy",
+        "if_you_want_to_vote_outside_of_top_enter_account_name": "Jika Anda hendak memilih seorang saksi diluar dari daftar 50 teratas, silahkan masukkan nama akun yang bersangkutan ke kotak dibawah ini untuk memberikan suara",
+        "set_witness_proxy": "Anda juga bisa memilih proxy yang akan memilih saksi untuk Anda. Ini akan mengatur ulang pilihan saksi Anda saat ini.",
+        "witness_set": "Anda telah menetapkan voting proxy. Jika Anda ingin mengaktifkan ulang pemungutan suara manual, Mohon hapus proxy.",
+        "witness_proxy_current": "Proxy Anda saat ini adalah",
+        "witness_proxy_set": "Menetapkan proxy",
         "witness_proxy_clear": "Clear proxy",
         "proxy_update_error": "Your proxy was not updated"
     },
@@ -493,17 +493,17 @@
     "posts_index": {
         "empty_feed_1": "Looks like you haven't followed anything yet",
         "empty_feed_2": "If you recently added new users to follow, your personalized feed will populate once new content is available",
-        "empty_feed_3": "Explore Trending Articles",
-        "empty_feed_4": "Read The Quick Start Guide",
-        "empty_feed_5": "Browse The FAQ"
+        "empty_feed_3": "Jelajahi artikel yang sedang ngetren",
+        "empty_feed_4": "Baca Panduan Ringkas",
+        "empty_feed_5": "Jelajahi Daftar Pertanyaan yang Sering Diajukan"
     },
     "transferhistoryrow_jsx": {
-        "to_savings": "to savings",
-        "from_savings": "from savings",
-        "cancel_transfer_from_savings": "Cancel transfer from savings",
-        "stop_power_down": "Stop power down",
-        "start_power_down_of": "Start power down of",
-        "receive_interest_of": "Receive interest of"
+        "to_savings": "ke Tabungan",
+        "from_savings": "dari Tabungan",
+        "cancel_transfer_from_savings": "Membatalkan transfer dari tabungan",
+        "stop_power_down": "Menghentikan proses Power Down",
+        "start_power_down_of": "Memulai proses Power Down dari",
+        "receive_interest_of": "Menerima bunga dari"
     },
     "savingswithdrawhistory_jsx": {
         "cancel_this_withdraw_request": "Cancel this withdraw request?",

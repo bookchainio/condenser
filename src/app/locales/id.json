@@ -503,29 +503,29 @@
         "cancel_transfer_from_savings": "Membatalkan transfer dari tabungan",
         "stop_power_down": "Menghentikan proses Power Down",
         "start_power_down_of": "Memulai proses Power Down dari",
-        "receive_interest_of": "Menerima bunga dari"
+        "receive_interest_of": "Menerima keuntungan dari"
     },
     "savingswithdrawhistory_jsx": {
-        "cancel_this_withdraw_request": "Cancel this withdraw request?",
-        "pending_savings_withdrawals": "PENDING SAVINGS WITHDRAWS",
-        "withdraw": "Withdraw %(amount)s",
-        "to": "to %(to)s",
-        "from_to": "from %(from)s to %(to)s"
+        "cancel_this_withdraw_request": "Membatalkan permintaan pencairan ini?",
+        "pending_savings_withdrawals": "PENCAIRAN TABUNGAN TERTUNDA",
+        "withdraw": "Mencairkan %(amount)s",
+        "to": "kepada %(to)s",
+        "from_to": "dari %(from)s kepada %(to)s"
     },
     "explorepost_jsx": {
-        "copied": "Copied!",
-        "copy": "COPY",
-        "alternative_sources": "Alternative Sources"
+        "copied": "Tersalin!",
+        "copy": "SALIN",
+        "alternative_sources": "Sumber Alternatif"
     },
     "header_jsx": {
-        "home": "home",
-        "create_a_post": "Create a post",
-        "change_account_password": "Change Account Password",
-        "create_account": "Create Account",
-        "stolen_account_recovery": "Stolen Account Recovery",
-        "people_following": "People following",
-        "people_followed_by": "People followed by",
-        "curation_rewards_by": "Curation rewards by",
+        "home": "beranda",
+        "create_a_post": "Buat sebuah postingan",
+        "change_account_password": "Ubah sandi Akun",
+        "create_account": "Buat Akun",
+        "stolen_account_recovery": "Pemulihan akun yang dicuri",
+        "people_following": "Orang-orang yang mengikuti",
+        "people_followed_by": "Orang-orang yang diikuti oleh",
+        "curation_rewards_by": "Pendapatan Kurasi oleh",
         "author_rewards_by": "Author rewards by",
         "replies_to": "Replies to",
         "comments_by": "Comments by"

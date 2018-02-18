@@ -492,36 +492,36 @@
     },
     "posts_index": {
         "empty_feed_1": "看來你還沒有發布任何消息",
-        "empty_feed_2": "If you recently added new users to follow, your personalized feed will populate once new content is available",
-        "empty_feed_3": "Explore Trending Articles",
-        "empty_feed_4": "Read The Quick Start Guide",
-        "empty_feed_5": "Browse The FAQ"
+        "empty_feed_2": "如果您最近添加了新使用者, 您的個人化提要將在新內容可用後填充",
+        "empty_feed_3": "瀏覽趨勢文章",
+        "empty_feed_4": "閱讀快速入門指南",
+        "empty_feed_5": "瀏覽常見問題"
     },
     "transferhistoryrow_jsx": {
-        "to_savings": "to savings",
-        "from_savings": "from savings",
-        "cancel_transfer_from_savings": "Cancel transfer from savings",
-        "stop_power_down": "Stop power down",
-        "start_power_down_of": "Start power down of",
-        "receive_interest_of": "Receive interest of"
+        "to_savings": "到儲蓄",
+        "from_savings": "到儲蓄",
+        "cancel_transfer_from_savings": "取消從儲蓄轉移",
+        "stop_power_down": "停止電源關閉",
+        "start_power_down_of": "啟動電源",
+        "receive_interest_of": "收到的利息"
     },
     "savingswithdrawhistory_jsx": {
-        "cancel_this_withdraw_request": "Cancel this withdraw request?",
-        "pending_savings_withdrawals": "PENDING SAVINGS WITHDRAWS",
+        "cancel_this_withdraw_request": "取消撤回請求？",
+        "pending_savings_withdrawals": "未決節餘撤回",
         "withdraw": "Withdraw %(amount)s",
         "to": "to %(to)s",
-        "from_to": "from %(from)s to %(to)s"
+        "from_to": "從 %(from)s到 %(to)s"
     },
     "explorepost_jsx": {
-        "copied": "Copied!",
-        "copy": "COPY",
-        "alternative_sources": "Alternative Sources"
+        "copied": "已拷貝！",
+        "copy": "複製",
+        "alternative_sources": "候選"
     },
     "header_jsx": {
-        "home": "home",
-        "create_a_post": "Create a post",
-        "change_account_password": "Change Account Password",
-        "create_account": "Create Account",
+        "home": "我家",
+        "create_a_post": "創建貼子",
+        "change_account_password": "更改帳戶密碼",
+        "create_account": "創建帳戶",
         "stolen_account_recovery": "Stolen Account Recovery",
         "people_following": "People following",
         "people_followed_by": "People followed by",

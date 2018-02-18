@@ -644,13 +644,13 @@
         "delegating": "Anda mendelegasikan %(AMOUNT)s %(LIQUID_TICKER)s. Jumlah tersebut dikunci dan tidak tersedia untuk dilakukan power down hingga delegasi tersebut dihapus dan satu periode Penghargaan penuh telah terlampaui.",
         "per_week": "Itulah ~%(AMOUNT)s %(LIQUID_TICKER)s per minggu.",
         "warning": "Tersisa kurang daripada %(AMOUNT)s %(VESTING_TOKEN)s dalam akun ini tidak dianjurkan dan dapat meninggalkan akun Anda dalam keadaan yang tidak dapat digunakan.",
-        "error": "Unable to power down (ERROR: %(MESSAGE)s)"
+        "error": "Tidak dapat melakukan Power Down (kesalahan: %(MESSAGE)s)"
     },
     "checkloginowner_jsx": {
-        "your_password_permissions_were_reduced": "Your password permissions were reduced",
-        "if_you_did_not_make_this_change": "If you did not make this change please",
-        "ownership_changed_on": "Ownership Changed On ",
-        "deadline_for_recovery_is": "Deadline for recovery is",
-        "i_understand_dont_show_again": "I understand, don't show me again"
+        "your_password_permissions_were_reduced": "Izin kata sandi Anda menurun",
+        "if_you_did_not_make_this_change": "Jika Anda tidak melakukan perubahan ini silahkan",
+        "ownership_changed_on": "Kepemilikan berubah pada ",
+        "deadline_for_recovery_is": "Tenggat waktu untuk pemulihan adalah",
+        "i_understand_dont_show_again": "Saya mengerti, jangan tunjukkan saya lagi"
     }
 }

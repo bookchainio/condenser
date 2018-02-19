@@ -162,7 +162,7 @@
         "account_name_should_start_with_a_letter": "Имя аккаунта должно начинаться с буквы.",
         "account_name_should_be_shorter": "Имя аккаунта должно быть короче.",
         "account_name_should_be_longer": "Имя аккаунта должно быть длиннее.",
-        "account_name_should_have_only_letters_digits_or_dashes": "Имя аккаунта должно должно состоять только из букв, цифр или дефисов.",
+        "account_name_should_have_only_letters_digits_or_dashes": "Имя аккаунта должно состоять только из букв, цифр, точек или дефисов.",
         "cannot_increase_reward_of_post_within_the_last_minute_before_payout": "Не удается увеличить вознаграждение за пост в последнюю минуту перед выплатой",
         "vote_currently_exists_user_must_be_indicate_a_to_reject_witness": "голос уже существует, вероятно пользователь желает убрать делегата",
         "only_one_APP_NAME_account_allowed_per_ip_address_every_10_minutes": "Только один Steem аккаунт разрешен с одного IP адреса каждые десять минут",
@@ -464,7 +464,7 @@
         "estimated_value": "Сметная стоимость основана на среднем значении %(LIQUID_TOKEN)s в долларах США.",
         "non_transferable": "%(VESTING_TOKEN)s - не ликвидные токены, требуется три месяца (13 еженедальных выплат) чтобы сконвертировать их в ликвидные токены %(LIQUID_TOKEN)s.",
         "converted_VESTING_TOKEN_can_be_sent_to_yourself_but_can_not_transfer_again": "Конвертированные %(VESTING_TOKEN)s токены могут быть отправлены себе или кому-либо еще, но не могут быть переданы вновь без конвертации в %(LIQUID_TOKEN)s.",
-        "part_of_your_steem_power_is_currently_delegated": "Часть STEEM POWER вам делегирована, это увеличивает ваше влияние на платформе. Количество делегированных токенов со временем может изменяться."
+        "part_of_your_steem_power_is_currently_delegated": "Часть STEEM POWER %(user_name)s делегирована. Делегация дается чтобы увеличить влияние или чтобы помочь новым пользователям совершать действия на Steemit. Количество делегированных токенов может меняться."
     },
     "promote_post_jsx": {
         "promote_post": "Продвинуть пост",
@@ -616,7 +616,7 @@
         "asset_currently_collecting": "начисляемые годовые на %(asset)s: %(interest)s%%.",
         "beware_of_spam_and_phishing_links": "Остерегайтесь спама и фишинговых ссылок в примечаниях. Не открывайте ссылки от пользователей, которым вы не доверяете. Не предоставляйте свои личные ключи третьим сторонам.",
         "autocomplete_previous_transfers": "предыдущие переводы",
-        "autocomplete_user_following": "подписки"
+        "autocomplete_user_following": "подписка"
     },
     "userwallet_jsx": {
         "conversion_complete_tip": "Будет завершено",

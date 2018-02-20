@@ -351,23 +351,23 @@
         "followers": "अनुयायी",
         "this_is_users_reputations_score_it_is_based_on_history_of_votes": "यह लोकमत स्कोर है %(name)s का|\n\nलोकमत स्कोर आधारित होता है खाता में वोट पड़ने की इतिहास पर, और उपयोग होता है निम्न श्रेणी अवयव को छुपाने में|",
         "follower_count": {
-            "zero": "No followers",
-            "one": "1 follower",
-            "other": "%(count)s followers"
+            "zero": "कोई अनुयायी नहीं",
+            "one": "१ अनुयायी",
+            "other": "%(count)s अनुयायियों"
         },
         "followed_count": {
-            "zero": "Not following anybody",
-            "one": "1 following",
-            "other": "%(count)s following"
+            "zero": "किसी का अनुशरण नहीं कर रहा है",
+            "one": "१ अनुशरण करने वाला",
+            "other": "%(count)s अनुशरण कर रहा है"
         },
         "post_count": {
-            "zero": "No posts",
-            "one": "1 post",
-            "other": "%(count)s posts"
+            "zero": "कोई पोस्ट नहीं",
+            "one": "१ पोस्ट",
+            "other": "%(count)s पोस्टें"
         }
     },
     "authorrewards_jsx": {
-        "estimated_author_rewards_last_week": "Estimated author rewards last week",
+        "estimated_author_rewards_last_week": "पिछले सप्ताह का अनुमानित इनाम",
         "author_rewards_history": "Author Rewards History"
     },
     "curationrewards_jsx": {

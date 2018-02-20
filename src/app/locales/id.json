@@ -419,14 +419,14 @@
         "witness_set": "Anda telah menetapkan voting proxy. Jika Anda ingin mengaktifkan ulang pemungutan suara manual, Mohon hapus proxy.",
         "witness_proxy_current": "Proxy Anda saat ini adalah",
         "witness_proxy_set": "Menetapkan proxy",
-        "witness_proxy_clear": "Clear proxy",
-        "proxy_update_error": "Your proxy was not updated"
+        "witness_proxy_clear": "Hapus proxy",
+        "proxy_update_error": "Proxy Anda tidak diperbarui"
     },
     "votesandcomments_jsx": {
-        "no_responses_yet_click_to_respond": "No responses yet. Click to respond.",
+        "no_responses_yet_click_to_respond": "Belum ada tanggapan. Klik untuk merespon.",
         "response_count_tooltip": {
-            "zero": "no responses. Click to respond.",
-            "one": "1 response. Click to respond.",
+            "zero": "belum ada tanggapan. Klik untuk merespon.",
+            "one": "1 respon. Klik untuk merespon.",
             "other": "%(count)s responses. Click to respond."
         },
         "vote_count": {

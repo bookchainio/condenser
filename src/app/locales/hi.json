@@ -348,8 +348,8 @@
         "explore_trending_articles": "खोजें प्रचलित लेखों को",
         "read_the_quick_start_guide": "जल्दी पढ़ लें शुरुवात करने की गाइड को",
         "browse_the_faq": "अकसर पूछे जाने वाले सवाल ब्राउज़ करें",
-        "followers": "Followers",
-        "this_is_users_reputations_score_it_is_based_on_history_of_votes": "This is %(name)s's reputation score.\n\nThe reputation score is based on the history of votes received by the account, and is used to hide low quality content.",
+        "followers": "अनुयायी",
+        "this_is_users_reputations_score_it_is_based_on_history_of_votes": "यह लोकमत स्कोर है %(name)s का|\n\nलोकमत स्कोर आधारित होता है खाता में वोट पड़ने की इतिहास पर, और उपयोग होता है निम्न श्रेणी अवयव को छुपाने में|",
         "follower_count": {
             "zero": "No followers",
             "one": "1 follower",

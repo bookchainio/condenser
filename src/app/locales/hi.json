@@ -328,7 +328,7 @@
         "login_with_facebook_or_reddit_media_to_verify_identity": "अपनी पहचान की पुष्टि के लिए फेसबुक या रेड्डिट से प्रवेश / लॉगिन करिए",
         "login_with_social_media_to_verify_identity": "अपनी पहचान की पुष्टि के लिए %(provider)s से प्रवेश / लॉगिन करिए",
         "enter_email_toverify_identity": "हमें आपकी पहचान परखने की जरुरत है| कृपया अपना ईमेल पता निचे डालें जाँच शुरू करने के लिए|",
-        "continue_with_email": "Continue with Email",
+        "continue_with_email": "ईमेल के साथ जारी रखें",
         "thanks_for_submitting_request_for_account_recovery": "Thanks for submitting your request for Account Recovery using %(APP_NAME)s's blockchain-based multi factor authentication. We will respond to you as quickly as possible, however, please expect there may be some delay in response due to high volume of emails. Please be prepared to verify your identity.",
         "recovering_account": "Recovering account",
         "recover_account": "Recover Account",

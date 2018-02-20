@@ -309,12 +309,12 @@
         "open_orders": "खुला आदेश",
         "sell_amount_for_atleast": "बेंचो %(amount_to_sell)s कम से कम %(min_to_receive)s (%(effectivePrice)s) में",
         "buy_atleast_amount_for": "कम से कम खरीदो %(min_to_receive)s बदले में %(amount_to_sell)s (%(effectivePrice)s)",
-        "price_warning_above": "This price is well above the current market price of %(marketPrice)s, are you sure?",
-        "price_warning_below": "This price is well below the current market price of %(marketPrice)s, are you sure?",
-        "order_cancel_confirm": "Cancel order %(order_id)s from %(user)s?",
-        "order_cancelled": "Order %(order_id)s cancelled.",
-        "higher": "Higher",
-        "lower": "Lower",
+        "price_warning_above": "यह भाव अच्छी उछाल में है वर्तमान बाजार भाव %(marketPrice)s से, क्या आप आस्वस्त हैं?",
+        "price_warning_below": "यह भाव अच्छी गिरावट में है वर्तमान बाजार भाव %(marketPrice)s से, क्या आप आस्वस्त हैं?",
+        "order_cancel_confirm": "क्या %(order_id)s आर्डर रद्द करे %(user)s से?",
+        "order_cancelled": "आर्डर %(order_id)s रद्द हुवा|",
+        "higher": "उच्चतर",
+        "lower": "निचली",
         "total_DEBT_TOKEN_SHORT_CURRENCY_SIGN": "Total %(DEBT_TOKEN_SHORT)s (%(CURRENCY_SIGN)s)"
     },
     "recoveraccountstep1_jsx": {

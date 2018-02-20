@@ -315,13 +315,13 @@
         "order_cancelled": "आर्डर %(order_id)s रद्द हुवा|",
         "higher": "उच्चतर",
         "lower": "निचली",
-        "total_DEBT_TOKEN_SHORT_CURRENCY_SIGN": "Total %(DEBT_TOKEN_SHORT)s (%(CURRENCY_SIGN)s)"
+        "total_DEBT_TOKEN_SHORT_CURRENCY_SIGN": "कुल %(DEBT_TOKEN_SHORT)s (%(CURRENCY_SIGN)s)"
     },
     "recoveraccountstep1_jsx": {
-        "begin_recovery": "Begin Recovery",
-        "not_valid": "Not valid",
-        "account_name_is_not_found": "Account name is not found",
-        "unable_to_recover_account_not_change_ownership_recently": "We are unable to recover this account, it has not changed ownership recently.",
+        "begin_recovery": "उगाही शुरू",
+        "not_valid": "मान्य नहीं",
+        "account_name_is_not_found": "खाता का नाम नहीं मिला",
+        "unable_to_recover_account_not_change_ownership_recently": "हम असमर्थ हैं इस खाते को पुनः प्राप्त करने में, इसने अपना स्वामित्व नहीं बदला था|",
         "password_not_used_in_last_days": "This password was not used on this account in the last 30 days.",
         "request_already_submitted_contact_support": "Your request has been already submitted and we are working on it. Please contact %(SUPPORT_EMAIL)s for the status of your request.",
         "recover_account_intro": "From time to time, a Steemian's owner key may be compromised. Stolen Account Recovery gives the rightful account owner 30 days to recover their account from the moment the thief changed their owner key. Stolen Account Recovery can only be used on %(APP_URL)s if the account owner had previously listed '%(APP_NAME)s' as their account trustee and complied with %(APP_NAME)s's Terms of Service.",

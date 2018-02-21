@@ -454,8 +454,8 @@
     },
     "converttosteem_jsx": {
         "your_existing_DEBT_TOKEN_are_liquid_and_transferable": "आपका मौजूदा %(DEBT_TOKEN)s द्रव्य हैं और स्थान्तरण के लायक हैं| इसके बजाय आप कारोबार कर सकते हैं %(DEBT_TOKEN)s सीधा यहीं से %(link)s के अंदर या स्थान्तरण करें बाहरी बाजार में|",
-        "this_is_a_price_feed_conversion": "This is a price feed conversion. The 3.5 day delay is necessary to prevent abuse from gaming the price feed average",
-        "convert_to_LIQUID_TOKEN": "Convert to %(LIQUID_TOKEN)s",
+        "this_is_a_price_feed_conversion": "यह एक कीमत फ़ीड रूपांतरण है । ३. ५ दिन देरी अनिवार्य है दुरुपयोग रोकने के लिए जुवा से कीमत फ़ीड औसत को",
+        "convert_to_LIQUID_TOKEN": "%(LIQUID_TOKEN)s में बदलें",
         "DEBT_TOKEN_will_be_unavailable": "This action will take place 3.5 days from now and can not be canceled. These %(DEBT_TOKEN)s will immediately become unavailable"
     },
     "tips_js": {

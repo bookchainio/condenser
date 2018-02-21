@@ -462,14 +462,14 @@
         "liquid_token": "कारोबार लायक टोकंस कहीं भी किसी भी समय स्थान्तरण हो सकता है|एक विधि जो शक्तिप्रापक / क्षमता ऊपर कहलाता है जिसमे <br/>%(LIQUID_TOKEN)s बदल सकता है %(VESTING_TOKEN)s",
         "influence_token": "प्रभावी टोकंस जो आपको देता है अधीक नियंत्रण पोस्ट भुक्तान पर और अनुमति देती है कमाने का उपपादरी इनामें|",
         "estimated_value": "अनुमानित भाव/कीमत आधारित होता है %(LIQUID_TOKEN)s का औसत कीमत पर US / उएस डॉलर में|",
-        "non_transferable": "%(VESTING_TOKEN)s is non-transferable and requires 3 months (13 payments) to convert back to %(LIQUID_TOKEN)s.",
+        "non_transferable": "%(VESTING_TOKEN)s स्थान्तरण लायक नहीं है और ३ महीने (१३ भुक्तान) लगते हैं पुनः %(LIQUID_TOKEN)s में बदलने के लिए|",
         "converted_VESTING_TOKEN_can_be_sent_to_yourself_but_can_not_transfer_again": "Converted %(VESTING_TOKEN)s can be sent to yourself or someone else but can not transfer again without converting back to %(LIQUID_TOKEN)s.",
         "part_of_your_steem_power_is_currently_delegated": "Part of %(user_name)s's STEEM POWER is currently delegated. Delegation is donated for influence or to help new users perform actions on steemit. Your delegation amount can fluctuate."
     },
     "promote_post_jsx": {
         "promote_post": "Promote Post",
         "spend_your_DEBT_TOKEN_to_advertise_this_post": "Spend your %(DEBT_TOKEN)s's to advertise this post in the promoted content section",
-        "you_successfully_promoted_this_post": "You successfully promoted this post",
+        "you_successfully_promoted_this_post": "आपने सही तरीके से इस पोस्ट का विज्ञापन किया",
         "this_post_was_hidden_due_to_low_ratings": "This post was hidden due to low ratings"
     },
     "about_jsx": {

@@ -423,21 +423,21 @@
         "proxy_update_error": "आपका प्रतिनिधि सक्रिय नहीं हुवा था"
     },
     "votesandcomments_jsx": {
-        "no_responses_yet_click_to_respond": "No responses yet. Click to respond.",
+        "no_responses_yet_click_to_respond": "अभी तक कोई जबाब नहीं| क्लिक करें जबाब के लिए|",
         "response_count_tooltip": {
-            "zero": "no responses. Click to respond.",
-            "one": "1 response. Click to respond.",
-            "other": "%(count)s responses. Click to respond."
+            "zero": "कोई अनुक्रियाएँ नहीं| क्लिक करें अनुक्रिया के लिए|",
+            "one": "१ अनुक्रिया| क्लिक करें जबाब के लिए|",
+            "other": "%(count)s अनुक्रियाएँ | जबाब के लिए क्लिक करें|"
         },
         "vote_count": {
-            "zero": "no votes",
-            "one": "1 vote",
-            "other": "%(count)s votes"
+            "zero": "कोई मत नहीं",
+            "one": "१ वोट",
+            "other": "%(count)s वोटें"
         }
     },
     "userkeys_jsx": {
-        "public": "Public",
-        "private": "Private",
+        "public": "सार्वजनिक",
+        "private": "निजी",
         "public_something_key": "Public %(key)s Key",
         "private_something_key": "Private %(key)s Key",
         "posting_key_is_required_it_should_be_different": "The posting key is used for posting and voting. It should be different from the active and owner keys.",

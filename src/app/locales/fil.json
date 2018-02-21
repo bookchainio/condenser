@@ -453,10 +453,10 @@
         "after_printing_write_down_your_user_name": "Matapos iprinta, isulat ang iyong user name"
     },
     "converttosteem_jsx": {
-        "your_existing_DEBT_TOKEN_are_liquid_and_transferable": "Your existing %(DEBT_TOKEN)s are liquid and transferable. Instead you may wish to trade %(DEBT_TOKEN)s directly in this site under %(link)s or transfer to an external market.",
-        "this_is_a_price_feed_conversion": "This is a price feed conversion. The 3.5 day delay is necessary to prevent abuse from gaming the price feed average",
-        "convert_to_LIQUID_TOKEN": "Convert to %(LIQUID_TOKEN)s",
-        "DEBT_TOKEN_will_be_unavailable": "This action will take place 3.5 days from now and can not be canceled. These %(DEBT_TOKEN)s will immediately become unavailable"
+        "your_existing_DEBT_TOKEN_are_liquid_and_transferable": "Ang iyong kasalukuyang %(DEBT_TOKEN)s ay mga liquid at maaaring i-transfer. sa halip maaari mong i-trade ang %(DEBT_TOKEN)s ng deretso sa site na ito %(link)s or i-transfer sa external market.",
+        "this_is_a_price_feed_conversion": "Ito ay isang price feed conversion. Ang pagpapaliban ng 3.5 na araw ay kinakailangan upang maiwasan ang pang-aabuso mula sa paglalaro ng price feed average",
+        "convert_to_LIQUID_TOKEN": "I-Convert sa %(LIQUID_TOKEN)s",
+        "DEBT_TOKEN_will_be_unavailable": "Ang aksiyong ito ay matatapos sa loob ng 3.5 na araw mula ngayon at hindi maaaring makansela. Ang %(DEBT_TOKEN)s ay agad magiging hindi na available"
     },
     "tips_js": {
         "liquid_token": "Tradeable tokens that may be transferred anywhere at anytime.<br/>%(LIQUID_TOKEN)s can be converted to %(VESTING_TOKEN)s in a process called powering up.",

@@ -368,16 +368,16 @@
     },
     "authorrewards_jsx": {
         "estimated_author_rewards_last_week": "पिछले सप्ताह का अनुमानित इनाम",
-        "author_rewards_history": "Author Rewards History"
+        "author_rewards_history": "लेखक के इनाम का विवरण"
     },
     "curationrewards_jsx": {
-        "estimated_curation_rewards_last_week": "Estimated curation rewards last week",
-        "curation_rewards_history": "Curation Rewards History"
+        "estimated_curation_rewards_last_week": "पिछले सप्ताह का अनुमानित उपपादरी इनामें",
+        "curation_rewards_history": "उपपादरी इनामों का विवरण"
     },
     "post_jsx": {
-        "now_showing_comments_with_low_ratings": "Now showing comments with low ratings",
-        "sort_order": "Sort Order",
-        "comments_were_hidden_due_to_low_ratings": "Comments were hidden due to low ratings"
+        "now_showing_comments_with_low_ratings": "अब टिप्पणियाँ निम्न दरों से दिखाया जा रहा है",
+        "sort_order": "क्रम व्यवस्था",
+        "comments_were_hidden_due_to_low_ratings": "टिप्पणियां कम रेटिंग / दरों के कारण छुपे हुए थे"
     },
     "voting_jsx": {
         "flagging_post_can_remove_rewards_the_flag_should_be_used_for_the_following": "Flagging a post can remove rewards and make this material less visible. Some common reasons to flag",

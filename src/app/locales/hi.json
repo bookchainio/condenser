@@ -409,13 +409,13 @@
         "you_have_votes_remaining": {
             "zero": "आपके पास कोई वोट शेष नहीं है",
             "one": "आपके पास 1 वोट शेष है",
-            "other": "You have %(count)s votes remaining"
+            "other": "आपका पास %(count)s वोट शेष है"
         },
-        "you_can_vote_for_maximum_of_witnesses": "You can vote for a maximum of 30 witnesses",
-        "witness": "Witness",
-        "information": "Information",
-        "if_you_want_to_vote_outside_of_top_enter_account_name": "If you would like to vote for a witness outside of the top 50, enter the account name below to cast a vote",
-        "set_witness_proxy": "You can also choose a proxy that will vote for witnesses for you. This will reset your current witness selection.",
+        "you_can_vote_for_maximum_of_witnesses": "आप अधिकतम ३० गवाहों को समर्थन वोट कर सकते हैं",
+        "witness": "गवाह",
+        "information": "सुचना",
+        "if_you_want_to_vote_outside_of_top_enter_account_name": "५० सर्वश्रेष्ठ गवाहों के अलावे यदि आप किसी गवाह को वोट करना चाहते हैं तो निचे उनका नाम लिखें और वोट दें",
+        "set_witness_proxy": "आपक किसी को प्रतिनिधि बना सकते हैं जो आपके बदले वोट करेगा| लेकिन इससे आपका वर्तमान गवाह चयन बदल जायेगा|",
         "witness_set": "You have set a voting proxy. If you would like to re-enable manual voting, please clear your proxy.",
         "witness_proxy_current": "Your current proxy is",
         "witness_proxy_set": "Set proxy",

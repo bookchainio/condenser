@@ -346,19 +346,19 @@
         "looks_like_you_havent_posted_anything_yet": "Mukhang wala pa kayong nai-post na kahit ano man.",
         "create_a_post": "Gumawa ng Artikulo",
         "explore_trending_articles": "Galugarin ang mga Trending na mga post",
-        "read_the_quick_start_guide": "Read The Quick Start Guide",
-        "browse_the_faq": "Browse The FAQ",
-        "followers": "Followers",
-        "this_is_users_reputations_score_it_is_based_on_history_of_votes": "This is %(name)s's reputation score.\n\nThe reputation score is based on the history of votes received by the account, and is used to hide low quality content.",
+        "read_the_quick_start_guide": "Basahin ang mga Gabay sa madaling pagsisimula",
+        "browse_the_faq": "I-browse ang FAQ",
+        "followers": "Mga Tagasunod",
+        "this_is_users_reputations_score_it_is_based_on_history_of_votes": "Ito ang puntos ng reputasyon ni %(name)s'. \n\nAng mga puntos ng reputasyon ay batay sa kasaysayan ng boto na natanggap ng ng acount, at ito ay ginagamit upang itago ang mababang kalidad ng nilalaman.",
         "follower_count": {
-            "zero": "No followers",
-            "one": "1 follower",
-            "other": "%(count)s followers"
+            "zero": "Walang mga tagasunod",
+            "one": "1 Tagasunod",
+            "other": "%(count)s Mga tagasunod"
         },
         "followed_count": {
-            "zero": "Not following anybody",
-            "one": "1 following",
-            "other": "%(count)s following"
+            "zero": "Walang sinusonod na account",
+            "one": "1 Sinusundan",
+            "other": "%(count)s Mga tagasunod"
         },
         "post_count": {
             "zero": "Walang mga post",
@@ -431,17 +431,17 @@
         },
         "vote_count": {
             "zero": "walang mga boto",
-            "one": "1 vote",
-            "other": "%(count)s votes"
+            "one": "1 Boto",
+            "other": "%(count)s Mga boto"
         }
     },
     "userkeys_jsx": {
-        "public": "Public",
-        "private": "Private",
-        "public_something_key": "Public %(key)s Key",
-        "private_something_key": "Private %(key)s Key",
-        "posting_key_is_required_it_should_be_different": "The posting key is used for posting and voting. It should be different from the active and owner keys.",
-        "the_active_key_is_used_to_make_transfers_and_place_orders": "The active key is used to make transfers and place orders in the internal market.",
+        "public": "Pampubliko",
+        "private": "Pribado",
+        "public_something_key": "Pampublikong %(key)s Susi",
+        "private_something_key": "Pribadong %(key)s Susi",
+        "posting_key_is_required_it_should_be_different": "Ang posting key ay ginagamit sa pag-popost at pagboto. Dapat iba ito sa active at owner keys.",
+        "the_active_key_is_used_to_make_transfers_and_place_orders": "Ang active key ay ginagamit sa paglipat at paglagay ng order sa internal na merkado.",
         "the_owner_key_is_required_to_change_other_keys": "Ang susi ng may-ari ay siyang master na susi ng account at ito ay kailangan sa pag papalit ng iba pang susi.",
         "the_private_key_or_password_should_be_kept_offline": "The private key or password for the owner key should be kept offline as much as possible.",
         "the_memo_key_is_used_to_create_and_read_memos": "The memo key is used to create and read memos."
@@ -518,11 +518,11 @@
         "alternative_sources": "Alternative Sources"
     },
     "header_jsx": {
-        "home": "home",
-        "create_a_post": "Create a post",
-        "change_account_password": "Change Account Password",
-        "create_account": "Create Account",
-        "stolen_account_recovery": "Stolen Account Recovery",
+        "home": "pahinang Bahay",
+        "create_a_post": "Gumawa ng Artikulo",
+        "change_account_password": "Baguhin Ang Password Ng Account",
+        "create_account": "Gumawa ng Account",
+        "stolen_account_recovery": "Pagbawi sa ninakaw na account",
         "people_following": "People following",
         "people_followed_by": "People followed by",
         "curation_rewards_by": "Curation rewards by",

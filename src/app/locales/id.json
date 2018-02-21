@@ -131,12 +131,12 @@
         "reset_usernames_password": "Reset %(username)s's Password",
         "this_will_update_usernames_authtype_key": "This will update %(username)s %(authType)s key",
         "passwords_do_not_match": "Passwords do not match",
-        "you_need_private_password_or_key_not_a_public_key": "You need a private password or key (not a public key)",
+        "you_need_private_password_or_key_not_a_public_key": "Anda memerlukan kata kunci atau kunci pribadi (bukan kunci publik)",
         "the_rules_of_APP_NAME": {
-            "one": "The first rule of %(APP_NAME)s is: Do not lose your password.",
-            "second": "The second rule of %(APP_NAME)s is: Do not lose your password.",
-            "third": "The third rule of %(APP_NAME)s is: We cannot recover your password.",
-            "fourth": "The fourth rule: If you can remember the password, it's not secure.",
+            "one": "Aturan pertama %(APP_NAME)s adalah: Jangan kehilangan kata sandi anda.",
+            "second": "Aturan kedua %(APP_NAME)s adalah: Jangan kehilangan kata sandi anda.",
+            "third": "Aturan ketiga %(APP_NAME)s adalah: Kami tidak dapat memulihkan kata sandi anda.",
+            "fourth": "Aturan keempat: Jika anda bisa mengingat kata sandinya, itu tidak aman.",
             "fifth": "The fifth rule: Use only randomly-generated passwords.",
             "sixth": "The sixth rule: Do not tell anyone your password.",
             "seventh": "The seventh rule: Always back up your password."
@@ -453,14 +453,14 @@
         "after_printing_write_down_your_user_name": "Setelah percetakan, menuliskan nama pengguna"
     },
     "converttosteem_jsx": {
-        "your_existing_DEBT_TOKEN_are_liquid_and_transferable": "Yang ada %(DEBT_TOKEN)s semua liquid dan tidak dapat dipindahtangankan. Sebaliknya Anda mungkin ingin perdagangan %(DEBT_TOKEN)s langsung di situs ini di bawah %(link)s atau transfer ke pasar eksternal.",
-        "this_is_a_price_feed_conversion": "Ini adalah harga konversi. Penundaan 3.5 hari ini diperlukan untuk mencegah penyalahgunaan dari permainan harga rata-rata",
+        "your_existing_DEBT_TOKEN_are_liquid_and_transferable": "Yang ada anda %(DEBT_TOKEN)s cair dan dapat dipindahtangankan. Sebagai gantinya Anda mungkin ingin melakukan perdagangan %(DEBT_TOKEN)s langsung di situs ini di bawah %(link)s atau pidahi ke pasar eksternal.",
+        "this_is_a_price_feed_conversion": "Ini adalah konversi pakan harga. Keterlambatan 3,5 hari diperlukan untuk mencegah penyalahgunaan permainan rata-rata harga pakan",
         "convert_to_LIQUID_TOKEN": "Convert to %(LIQUID_TOKEN)s",
         "DEBT_TOKEN_will_be_unavailable": "This action will take place 3.5 days from now and can not be canceled. These %(DEBT_TOKEN)s will immediately become unavailable"
     },
     "tips_js": {
         "liquid_token": "Tradeable tokens that may be transferred anywhere at anytime.<br/>%(LIQUID_TOKEN)s can be converted to %(VESTING_TOKEN)s in a process called powering up.",
-        "influence_token": "Pengaruh token yang memberi Anda lebih banyak kendali atas pembayaran di pos dan memungkinkan Anda menghasilkan hadiah pemberian curian.",
+        "influence_token": "Bukti pengaruh yang memberikan anda kontrol lebih besar atas pembayaran pos dan memungkinkan anda untuk mendapatkan pada imbalan kurasi.",
         "estimated_value": "The estimated value is based on an average value of %(LIQUID_TOKEN)s in US dollars.",
         "non_transferable": "%(VESTING_TOKEN)s is non-transferable and requires 3 months (13 payments) to convert back to %(LIQUID_TOKEN)s.",
         "converted_VESTING_TOKEN_can_be_sent_to_yourself_but_can_not_transfer_again": "Converted %(VESTING_TOKEN)s can be sent to yourself or someone else but can not transfer again without converting back to %(LIQUID_TOKEN)s.",
@@ -492,7 +492,7 @@
     },
     "posts_index": {
         "empty_feed_1": "Sepertinya Anda belum mengikuti apapun",
-        "empty_feed_2": "Jika Anda baru saja menambahkan pengguna baru untuk mengikuti, umpan yang dipersonalisasi akan terisi setelah konten baru tersedia",
+        "empty_feed_2": "Jika anda baru saja menambahkan pengguna baru untuk mengikuti, umpan yang dipersonalisasi akan terisi setelah konten baru tersedia",
         "empty_feed_3": "Jelajahi artikel yang sedang ngetren",
         "empty_feed_4": "Baca Panduan Ringkas",
         "empty_feed_5": "Jelajahi Daftar Pertanyaan yang Sering Diajukan"

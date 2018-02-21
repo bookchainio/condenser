@@ -456,7 +456,7 @@
         "your_existing_DEBT_TOKEN_are_liquid_and_transferable": "आपका मौजूदा %(DEBT_TOKEN)s द्रव्य हैं और स्थान्तरण के लायक हैं| इसके बजाय आप कारोबार कर सकते हैं %(DEBT_TOKEN)s सीधा यहीं से %(link)s के अंदर या स्थान्तरण करें बाहरी बाजार में|",
         "this_is_a_price_feed_conversion": "यह एक कीमत फ़ीड रूपांतरण है । ३. ५ दिन देरी अनिवार्य है दुरुपयोग रोकने के लिए जुवा से कीमत फ़ीड औसत को",
         "convert_to_LIQUID_TOKEN": "%(LIQUID_TOKEN)s में बदलें",
-        "DEBT_TOKEN_will_be_unavailable": "This action will take place 3.5 days from now and can not be canceled. These %(DEBT_TOKEN)s will immediately become unavailable"
+        "DEBT_TOKEN_will_be_unavailable": "इस प्रिक्रया में ३.५ दिन लगेंगे और रद्द नहीं हो सकता| ये %(DEBT_TOKEN)s तुरंत ही अदृश्य हो जायेगा"
     },
     "tips_js": {
         "liquid_token": "Tradeable tokens that may be transferred anywhere at anytime.<br/>%(LIQUID_TOKEN)s can be converted to %(VESTING_TOKEN)s in a process called powering up.",

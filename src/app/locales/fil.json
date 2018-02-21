@@ -443,14 +443,14 @@
         "posting_key_is_required_it_should_be_different": "Ang posting key ay ginagamit sa pag-popost at pagboto. Dapat iba ito sa active at owner keys.",
         "the_active_key_is_used_to_make_transfers_and_place_orders": "Ang active key ay ginagamit sa paglipat at paglagay ng order sa internal na merkado.",
         "the_owner_key_is_required_to_change_other_keys": "Ang susi ng may-ari ay siyang master na susi ng account at ito ay kailangan sa pag papalit ng iba pang susi.",
-        "the_private_key_or_password_should_be_kept_offline": "The private key or password for the owner key should be kept offline as much as possible.",
-        "the_memo_key_is_used_to_create_and_read_memos": "The memo key is used to create and read memos."
+        "the_private_key_or_password_should_be_kept_offline": "Ang private key o password para sa mga owner key ay dapat panatilihing offline hanggat maaari.",
+        "the_memo_key_is_used_to_create_and_read_memos": "Ang memo key ay ginagamit sa paggawa at pagbasa ng mga memos."
     },
     "suggestpassword_jsx": {
-        "APP_NAME_cannot_recover_passwords_keep_this_page_in_a_secure_location": "%(APP_NAME)s cannot recover passwords. Keep this page in a secure location, such as a fireproof safe or safety deposit box.",
-        "APP_NAME_password_backup": "%(APP_NAME)s Password Backup",
-        "APP_NAME_password_backup_required": "%(APP_NAME)s Password Backup (required)",
-        "after_printing_write_down_your_user_name": "After printing, write down your user name"
+        "APP_NAME_cannot_recover_passwords_keep_this_page_in_a_secure_location": "Hindi maaaring mabawi ang password ni %(APP_NAME)s. Panatilihin ang mga pahinang ito sa isang ligtas na lokasyon, tulad ng isang fireproof safe o safety deposit box.",
+        "APP_NAME_password_backup": "Backup na password ni %(APP_NAME)s",
+        "APP_NAME_password_backup_required": "Backup na password ni %(APP_NAME)s (required)",
+        "after_printing_write_down_your_user_name": "Matapos iprinta, isulat ang iyong user name"
     },
     "converttosteem_jsx": {
         "your_existing_DEBT_TOKEN_are_liquid_and_transferable": "Your existing %(DEBT_TOKEN)s are liquid and transferable. Instead you may wish to trade %(DEBT_TOKEN)s directly in this site under %(link)s or transfer to an external market.",

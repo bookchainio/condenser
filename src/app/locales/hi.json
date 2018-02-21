@@ -416,11 +416,11 @@
         "information": "सुचना",
         "if_you_want_to_vote_outside_of_top_enter_account_name": "५० सर्वश्रेष्ठ गवाहों के अलावे यदि आप किसी गवाह को वोट करना चाहते हैं तो निचे उनका नाम लिखें और वोट दें",
         "set_witness_proxy": "आपक किसी को प्रतिनिधि बना सकते हैं जो आपके बदले वोट करेगा| लेकिन इससे आपका वर्तमान गवाह चयन बदल जायेगा|",
-        "witness_set": "You have set a voting proxy. If you would like to re-enable manual voting, please clear your proxy.",
-        "witness_proxy_current": "Your current proxy is",
-        "witness_proxy_set": "Set proxy",
-        "witness_proxy_clear": "Clear proxy",
-        "proxy_update_error": "Your proxy was not updated"
+        "witness_set": "आपने एक प्रतिनिधि सेट किया हैं| यदि आप पुनः खुद से वोट करना चाहते हैं, तो प्रतिनिधि को हटा दें|",
+        "witness_proxy_current": "आपका वर्तमान प्रतिनिधि हैं",
+        "witness_proxy_set": "प्रतिनिधि सेट करें",
+        "witness_proxy_clear": "प्रतिनिधि हटा दें",
+        "proxy_update_error": "आपका प्रतिनिधि सक्रिय नहीं हुवा था"
     },
     "votesandcomments_jsx": {
         "no_responses_yet_click_to_respond": "No responses yet. Click to respond.",

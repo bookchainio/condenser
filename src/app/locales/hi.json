@@ -397,18 +397,18 @@
         "changing_to_an_upvote": "अप-वोट में बदल रहा है",
         "changing_to_a_downvote": "डाउन-वोट में बदल रहा है",
         "confirm_flag": "फ्लैग की पुष्टि करें",
-        "and_more": "and %(count)s more",
+        "and_more": "और %(count)s अधीक",
         "votes_plural": {
-            "one": "%(count)s vote",
-            "other": "%(count)s votes"
+            "one": "%(count)s वोट",
+            "other": "%(count)s वोटों"
         }
     },
     "witnesses_jsx": {
-        "witness_thread": "witness thread",
-        "top_witnesses": "Witness Voting",
+        "witness_thread": "गवाह कड़ी / सूत्र",
+        "top_witnesses": "गवाह के समर्थन में वोट",
         "you_have_votes_remaining": {
-            "zero": "You have no votes remaining",
-            "one": "You have 1 vote remaining",
+            "zero": "आपके पास कोई वोट शेष नहीं है",
+            "one": "आपके पास 1 वोट शेष है",
             "other": "You have %(count)s votes remaining"
         },
         "you_can_vote_for_maximum_of_witnesses": "You can vote for a maximum of 30 witnesses",

@@ -459,9 +459,9 @@
         "DEBT_TOKEN_will_be_unavailable": "इस प्रिक्रया में ३.५ दिन लगेंगे और रद्द नहीं हो सकता| ये %(DEBT_TOKEN)s तुरंत ही अदृश्य हो जायेगा"
     },
     "tips_js": {
-        "liquid_token": "Tradeable tokens that may be transferred anywhere at anytime.<br/>%(LIQUID_TOKEN)s can be converted to %(VESTING_TOKEN)s in a process called powering up.",
-        "influence_token": "Influence tokens which give you more control over post payouts and allow you to earn on curation rewards.",
-        "estimated_value": "The estimated value is based on an average value of %(LIQUID_TOKEN)s in US dollars.",
+        "liquid_token": "कारोबार लायक टोकंस कहीं भी किसी भी समय स्थान्तरण हो सकता है|एक विधि जो शक्तिप्रापक / क्षमता ऊपर कहलाता है जिसमे <br/>%(LIQUID_TOKEN)s बदल सकता है %(VESTING_TOKEN)s",
+        "influence_token": "प्रभावी टोकंस जो आपको देता है अधीक नियंत्रण पोस्ट भुक्तान पर और अनुमति देती है कमाने का उपपादरी इनामें|",
+        "estimated_value": "अनुमानित भाव/कीमत आधारित होता है %(LIQUID_TOKEN)s का औसत कीमत पर US / उएस डॉलर में|",
         "non_transferable": "%(VESTING_TOKEN)s is non-transferable and requires 3 months (13 payments) to convert back to %(LIQUID_TOKEN)s.",
         "converted_VESTING_TOKEN_can_be_sent_to_yourself_but_can_not_transfer_again": "Converted %(VESTING_TOKEN)s can be sent to yourself or someone else but can not transfer again without converting back to %(LIQUID_TOKEN)s.",
         "part_of_your_steem_power_is_currently_delegated": "Part of %(user_name)s's STEEM POWER is currently delegated. Delegation is donated for influence or to help new users perform actions on steemit. Your delegation amount can fluctuate."

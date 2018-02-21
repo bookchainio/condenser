@@ -380,10 +380,10 @@
         "comments_were_hidden_due_to_low_ratings": "टिप्पणियां कम रेटिंग / दरों के कारण छुपे हुए थे"
     },
     "voting_jsx": {
-        "flagging_post_can_remove_rewards_the_flag_should_be_used_for_the_following": "Flagging a post can remove rewards and make this material less visible. Some common reasons to flag",
-        "disagreement_on_rewards": "Disagreement on rewards",
-        "fraud_or_plagiarism": "Fraud or Plagiarism",
-        "hate_speech_or_internet_trolling": "Hate Speech or Internet Trolling",
+        "flagging_post_can_remove_rewards_the_flag_should_be_used_for_the_following": "पोस्ट को फ्लैग करने से इनाम हट सकता है और यह पोस्ट नहीं के बराबर दीखता है| कुछ सामान्य कारन होते हैं फ्लैग का|",
+        "disagreement_on_rewards": "इनामों में भिन्नता",
+        "fraud_or_plagiarism": "नकली या साहित्य चोरी",
+        "hate_speech_or_internet_trolling": "नापसंद कथन या इंटरनेट का चक्कर / ट्रॉल्लिंग",
         "intentional_miss_categorized_content_or_spam": "Intentional miss-categorized content or Spam",
         "pending_payout": "Pending Payout $%(value)s",
         "payout_declined": "Payout Declined",

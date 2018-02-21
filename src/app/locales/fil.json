@@ -307,7 +307,7 @@
         "sell_orders": "Magbenta Ng Mga Orders",
         "trade_history": "Kasaysayan ng kalakalan",
         "open_orders": "Nakabukas Na Mga Order",
-        "sell_amount_for_atleast": "Sell %(amount_to_sell)s for at least %(min_to_receive)s (%(effectivePrice)s)",
+        "sell_amount_for_atleast": "Magbenta ng %(amount_to_sell)s ng hindi bababa sa %(min_to_receive)s (%(effectivePrice)s)",
         "buy_atleast_amount_for": "Buy at least %(min_to_receive)s for %(amount_to_sell)s (%(effectivePrice)s)",
         "price_warning_above": "This price is well above the current market price of %(marketPrice)s, are you sure?",
         "price_warning_below": "Ang presyo na ito ay mababa sa kasalukuyang presyo sa merkado of %(marketPrice)s, sigurado ka ba?",

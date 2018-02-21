@@ -644,13 +644,13 @@
         "delegating": "Ikaw ay nagtatalaga ng %(AMOUNT)s %(LIQUID_TICKER)s. Ang halagang iyon ay naka-lock up at hindi ma power down hanggang ang delegasyon ay tinanggal at lumipas na ang panahon ng isng buong reward period.",
         "per_week": "Iyan ay ~%(AMOUNT)s %(LIQUID_TICKER)s kada linggo.",
         "warning": "Mag-iwan ng masmababa pa sa %(AMOUNT)s %(VESTING_TOKEN)s sa iyung account ay hindi inirerekomenda at maaring mag-iwan sa iyong account na hindi magamit na estado.",
-        "error": "Unable to power down (ERROR: %(MESSAGE)s)"
+        "error": "Hindi makaka-power down (ERROR: %(MESSAGE)s)"
     },
     "checkloginowner_jsx": {
-        "your_password_permissions_were_reduced": "Your password permissions were reduced",
-        "if_you_did_not_make_this_change": "If you did not make this change please",
-        "ownership_changed_on": "Ownership Changed On ",
+        "your_password_permissions_were_reduced": "Ang iyong password permissions ay na reduced",
+        "if_you_did_not_make_this_change": "Kung hindi ka gumawa ng pagbabagong ito mangyaring",
+        "ownership_changed_on": "Nagbago ang pagmamay-ari noong ",
         "deadline_for_recovery_is": "Deadline para sa pagbawi ay",
-        "i_understand_dont_show_again": "I understand, don't show me again"
+        "i_understand_dont_show_again": "Naiintindihan ko, wag muling ipakita sa akin"
     }
 }

@@ -444,13 +444,13 @@
         "the_active_key_is_used_to_make_transfers_and_place_orders": "सक्रिय कुंजी का उपयोग स्थान्तरण और आर्डर देने के लिए किया जाता आतंरिक बाजार में|",
         "the_owner_key_is_required_to_change_other_keys": "मालिक कुंजी खाते का मुख्या कुंजी होता हैं और इसका जरुरत होता हैं दूसरे कुंजियों को बदलने में|",
         "the_private_key_or_password_should_be_kept_offline": "मालिकाना कुंजी का निजी कुंजी या पासवर्ड को जितना संभव हो ऑफलाइन रखना चाहिए|",
-        "the_memo_key_is_used_to_create_and_read_memos": "The memo key is used to create and read memos."
+        "the_memo_key_is_used_to_create_and_read_memos": "ज्ञापन कुंजी का उपयोग ज्ञापन बनाने और पढ़ने में उपयोग होता हैं|"
     },
     "suggestpassword_jsx": {
-        "APP_NAME_cannot_recover_passwords_keep_this_page_in_a_secure_location": "%(APP_NAME)s cannot recover passwords. Keep this page in a secure location, such as a fireproof safe or safety deposit box.",
-        "APP_NAME_password_backup": "%(APP_NAME)s Password Backup",
-        "APP_NAME_password_backup_required": "%(APP_NAME)s Password Backup (required)",
-        "after_printing_write_down_your_user_name": "After printing, write down your user name"
+        "APP_NAME_cannot_recover_passwords_keep_this_page_in_a_secure_location": "%(APP_NAME)s पासवर्ड दुबारा हासिल नहीं कर सकता| इस पृष्ठ को सुरक्षित स्थान में रखें, जैसे की अग्निरोधक सुरक्षा या सुरक्षा बॉक्स|",
+        "APP_NAME_password_backup": "%(APP_NAME)s पासवर्ड बैकअप",
+        "APP_NAME_password_backup_required": "%(APP_NAME)s पासवर्ड बैकअप की (जरुरत)",
+        "after_printing_write_down_your_user_name": "प्रिंट के बाद अपना प्रयोक्ता नाम लिख लें"
     },
     "converttosteem_jsx": {
         "your_existing_DEBT_TOKEN_are_liquid_and_transferable": "Your existing %(DEBT_TOKEN)s are liquid and transferable. Instead you may wish to trade %(DEBT_TOKEN)s directly in this site under %(link)s or transfer to an external market.",

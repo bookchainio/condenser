@@ -241,7 +241,7 @@
         "smt_whitepaper": "Whitepaper Ng SMT",
         "whitepaper": "Whitepaper Ng Steem",
         "intro_tagline": "Usapang Pera",
-        "intro_paragraph": "Your voice is worth something. Join the community that pays you to post and curate high quality content."
+        "intro_paragraph": "Ang iyong boses ay nagkakahalaga ng isang bagay. Sumali sa komunidad na nagbabayad sa iyo upang mag-post at mag-koadyutor ng mataas na kalidad na nilalaman."
     },
     "main_menu": {
         "hot": "maapoy",
@@ -302,11 +302,11 @@
         "total": "Kabuuan",
         "available": "Mga pwedeng magamit",
         "lowest_ask": "Pinakamababang tanong",
-        "highest_bid": "Highest bid",
-        "buy_orders": "Buy Orders",
-        "sell_orders": "Sell Orders",
-        "trade_history": "Trade History",
-        "open_orders": "Open Orders",
+        "highest_bid": "Pinakamataas Na Bid",
+        "buy_orders": "Bumili ng Mga Orders",
+        "sell_orders": "Magbenta Ng Mga Orders",
+        "trade_history": "Kasaysayan ng kalakalan",
+        "open_orders": "Nakabukas Na Mga Order",
         "sell_amount_for_atleast": "Sell %(amount_to_sell)s for at least %(min_to_receive)s (%(effectivePrice)s)",
         "buy_atleast_amount_for": "Buy at least %(min_to_receive)s for %(amount_to_sell)s (%(effectivePrice)s)",
         "price_warning_above": "This price is well above the current market price of %(marketPrice)s, are you sure?",

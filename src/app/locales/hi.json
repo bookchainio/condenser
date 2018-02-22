@@ -494,19 +494,19 @@
         "empty_feed_1": "ऐसा लगता है कि आप अभी तक किसी का पीछा नहीं किये हैं",
         "empty_feed_2": "यदि आपने अभी किसी का पीछा किया / अनुशरण किया है, तो आपके फीड में दिखाई देगा जब नया विषय वस्तु उपलबध होगा|",
         "empty_feed_3": "खोजें प्रचलित लेखों को",
-        "empty_feed_4": "Read The Quick Start Guide",
-        "empty_feed_5": "Browse The FAQ"
+        "empty_feed_4": "पढ़ लें जल्द शुरुवात करने की गाइड को",
+        "empty_feed_5": "अकसर पूछे जाने वाले सवाल ब्राउज़ करें"
     },
     "transferhistoryrow_jsx": {
-        "to_savings": "to savings",
-        "from_savings": "from savings",
-        "cancel_transfer_from_savings": "Cancel transfer from savings",
-        "stop_power_down": "Stop power down",
-        "start_power_down_of": "Start power down of",
-        "receive_interest_of": "Receive interest of"
+        "to_savings": "बचत में",
+        "from_savings": "बचत से",
+        "cancel_transfer_from_savings": "बचत से स्थान्तरण रद्द करें",
+        "stop_power_down": "पावर डाउन रोकें",
+        "start_power_down_of": "पावर डाउन शुरू करें का",
+        "receive_interest_of": "का ब्याज प्राप्त किया"
     },
     "savingswithdrawhistory_jsx": {
-        "cancel_this_withdraw_request": "Cancel this withdraw request?",
+        "cancel_this_withdraw_request": "क्या निकासी अनुरोध रद्द करें?",
         "pending_savings_withdrawals": "PENDING SAVINGS WITHDRAWS",
         "withdraw": "Withdraw %(amount)s",
         "to": "to %(to)s",

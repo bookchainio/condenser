@@ -463,7 +463,7 @@
         "influence_token": "प्रभावी टोकंस जो आपको देता है अधीक नियंत्रण पोस्ट भुक्तान पर और अनुमति देती है कमाने का उपपादरी इनामें|",
         "estimated_value": "अनुमानित भाव/कीमत आधारित होता है %(LIQUID_TOKEN)s का औसत कीमत पर US / उएस डॉलर में|",
         "non_transferable": "%(VESTING_TOKEN)s स्थान्तरण लायक नहीं है और ३ महीने (१३ भुक्तान) लगते हैं पुनः %(LIQUID_TOKEN)s में बदलने के लिए|",
-        "converted_VESTING_TOKEN_can_be_sent_to_yourself_but_can_not_transfer_again": "Converted %(VESTING_TOKEN)s can be sent to yourself or someone else but can not transfer again without converting back to %(LIQUID_TOKEN)s.",
+        "converted_VESTING_TOKEN_can_be_sent_to_yourself_but_can_not_transfer_again": "परिवर्तित %(VESTING_TOKEN)s को खुद को भेजा जा सकता है या तो किसी और को लेकिन नहीं भेजा जा सकता दुबारा बिना परिवर्तन किये %(LIQUID_TOKEN)s में|",
         "part_of_your_steem_power_is_currently_delegated": "Part of %(user_name)s's STEEM POWER is currently delegated. Delegation is donated for influence or to help new users perform actions on steemit. Your delegation amount can fluctuate."
     },
     "promote_post_jsx": {

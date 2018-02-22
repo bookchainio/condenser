@@ -632,15 +632,15 @@
         "savings": "बचत",
         "estimated_account_value": "खाते का अनुमानित कीमत",
         "next_power_down_is_scheduled_to_happen": "अगला क्षमता कम करना निर्धारित होना है",
-        "transfers_are_temporary_disabled": "Transfers are temporary disabled.",
-        "history": "HISTORY",
-        "redeem_rewards": "Redeem Rewards (Transfer to Balance)",
-        "buy_steem_or_steem_power": "Buy STEEM or STEEM POWER"
+        "transfers_are_temporary_disabled": "स्थानांतरण अस्थाई रूप से अक्षम हैं|",
+        "history": "विवरण / इतिहास",
+        "redeem_rewards": "इनाम छुड़ा लें (शेष में स्थान्तरण करें)",
+        "buy_steem_or_steem_power": "स्टीम या स्टीम शक्ति खरीदें"
     },
     "powerdown_jsx": {
         "power_down": "Power Down",
         "amount": "Amount",
-        "already_power_down": "You are already powering down %(AMOUNT)s %(LIQUID_TICKER)s (%(WITHDRAWN)s %(LIQUID_TICKER)s paid out so far). Note that if you change the power down amount the payout schedule will reset.",
+        "already_power_down": "आपने पहले हे शक्ती कम कर ली है %(AMOUNT)s %(LIQUID_TICKER)s (अभी तक भुक्तान किया गया %(LIQUID_TICKER)s %(WITHDRAWN)s)|कृपया नोट कर लें यदि आप शक्ती कम करने की रकम को बदलते हैं तो निर्धारित भुक्तान भी बदल जायेगा|",
         "delegating": "You are delegating %(AMOUNT)s %(LIQUID_TICKER)s. That amount is locked up and not available to power down until the delegation is removed and a full reward period has passed.",
         "per_week": "That's ~%(AMOUNT)s %(LIQUID_TICKER)s per week.",
         "warning": "Leaving less than %(AMOUNT)s %(VESTING_TOKEN)s in your account is not recommended and can leave your account in a unusable state.",

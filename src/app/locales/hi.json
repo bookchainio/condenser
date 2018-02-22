@@ -560,15 +560,15 @@
         "to_comment_and_reward_others": " टिप्पणी और दूसरों के इनामों के लिए|",
         "signup_button": "अभी साईन अप करें कमाने के लिए ",
         "signup_button_emphasis": "मुफ्त में स्टीम!",
-        "sign_up_get_steem": "Sign up. Get STEEM",
-        "returning_users": "Returning Users: ",
-        "join_our": "Join our"
+        "sign_up_get_steem": "साईन अप| स्टीम पायें",
+        "returning_users": "लौटनेवाले उपयोगकर्ता: ",
+        "join_our": "हमसे जुड़ें"
     },
     "chainvalidation_js": {
-        "account_name_should": "Account name should ",
-        "not_be_empty": "not be empty.",
-        "be_longer": "be longer.",
-        "be_shorter": "be shorter.",
+        "account_name_should": "खाता का नाम होना चाहिए ",
+        "not_be_empty": "खाली नहीं|",
+        "be_longer": "लम्बे समय तक रहें|",
+        "be_shorter": "कम समय तक रहें|",
         "each_account_segment_should": "Each account segment should ",
         "start_with_a_letter": "start with a letter.",
         "have_only_letters_digits_or_dashes": "have only letters, digits, or dashes.",

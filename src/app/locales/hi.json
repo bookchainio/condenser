@@ -491,9 +491,9 @@
         "to_save_your_preferences": "अपनी प्राथमिकताओं को सहेजने के लिए"
     },
     "posts_index": {
-        "empty_feed_1": "Looks like you haven't followed anything yet",
-        "empty_feed_2": "If you recently added new users to follow, your personalized feed will populate once new content is available",
-        "empty_feed_3": "Explore Trending Articles",
+        "empty_feed_1": "ऐसा लगता है कि आप अभी तक किसी का पीछा नहीं किये हैं",
+        "empty_feed_2": "यदि आपने अभी किसी का पीछा किया / अनुशरण किया है, तो आपके फीड में दिखाई देगा जब नया विषय वस्तु उपलबध होगा|",
+        "empty_feed_3": "खोजें प्रचलित लेखों को",
         "empty_feed_4": "Read The Quick Start Guide",
         "empty_feed_5": "Browse The FAQ"
     },

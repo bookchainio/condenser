@@ -508,23 +508,23 @@
     "savingswithdrawhistory_jsx": {
         "cancel_this_withdraw_request": "क्या निकासी अनुरोध रद्द करें?",
         "pending_savings_withdrawals": "लंबित बचत निकासी",
-        "withdraw": "Withdraw %(amount)s",
-        "to": "to %(to)s",
-        "from_to": "from %(from)s to %(to)s"
+        "withdraw": "निकासी %(amount)s",
+        "to": "%(to)s तक",
+        "from_to": "%(from)s से %(to)s तक"
     },
     "explorepost_jsx": {
-        "copied": "Copied!",
-        "copy": "COPY",
-        "alternative_sources": "Alternative Sources"
+        "copied": "प्रतिलिपि बनाई गई!",
+        "copy": "प्रतिलिपि",
+        "alternative_sources": "अतिरिक्त साधनें"
     },
     "header_jsx": {
-        "home": "home",
-        "create_a_post": "Create a post",
-        "change_account_password": "Change Account Password",
-        "create_account": "Create Account",
-        "stolen_account_recovery": "Stolen Account Recovery",
-        "people_following": "People following",
-        "people_followed_by": "People followed by",
+        "home": "घर",
+        "create_a_post": "पोस्ट तैयार करें",
+        "change_account_password": "खता का पासवर्ड बदलें",
+        "create_account": "खाता खोलें",
+        "stolen_account_recovery": "चोरी हुवे खातों की पुनः प्राप्ती",
+        "people_following": "लोग अनुशरण कर रहे हैं",
+        "people_followed_by": "लोग अनुशरण किये गए द्वारा",
         "curation_rewards_by": "Curation rewards by",
         "author_rewards_by": "Author rewards by",
         "replies_to": "Replies to",

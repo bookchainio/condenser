@@ -641,8 +641,8 @@
         "power_down": "Power Down",
         "amount": "Amount",
         "already_power_down": "आपने पहले हे शक्ती कम कर ली है %(AMOUNT)s %(LIQUID_TICKER)s (अभी तक भुक्तान किया गया %(LIQUID_TICKER)s %(WITHDRAWN)s)|कृपया नोट कर लें यदि आप शक्ती कम करने की रकम को बदलते हैं तो निर्धारित भुक्तान भी बदल जायेगा|",
-        "delegating": "You are delegating %(AMOUNT)s %(LIQUID_TICKER)s. That amount is locked up and not available to power down until the delegation is removed and a full reward period has passed.",
-        "per_week": "That's ~%(AMOUNT)s %(LIQUID_TICKER)s per week.",
+        "delegating": "%(AMOUNT)s %(LIQUID_TICKER)s का आप प्रतिनिधित्तव कर रहे है| वह रकम में ताला लग जायेगा जबतक प्रतिनिधित्तव हटाया नहीं जाता और पूरी इनाम अवधी ख़तम होने तक तक आप शक्ती कम भी नहीं कर सकते|",
+        "per_week": "वह है ~ %(AMOUNT)s %(LIQUID_TICKER)s प्रत्येक सप्ताह|",
         "warning": "Leaving less than %(AMOUNT)s %(VESTING_TOKEN)s in your account is not recommended and can leave your account in a unusable state.",
         "error": "Unable to power down (ERROR: %(MESSAGE)s)"
     },

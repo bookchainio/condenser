@@ -479,16 +479,16 @@
         "resources": "संसाधनों"
     },
     "markdownviewer_jsx": {
-        "images_were_hidden_due_to_low_ratings": "Images were hidden due to low ratings."
+        "images_were_hidden_due_to_low_ratings": "छवियां कम मूल्यांकन के कारण छुपी हुई थीं।"
     },
     "postsummary_jsx": {
-        "resteemed": "resteemed",
-        "resteemed_by": "Resteemed by",
-        "reveal_it": "Reveal this post",
-        "adjust_your": "adjust your",
-        "display_preferences": "display preferences",
-        "create_an_account": "create an account",
-        "to_save_your_preferences": "to save your preferences"
+        "resteemed": "रिस्टीम हुवा",
+        "resteemed_by": "रिस्टीम के द्वारा हुवा",
+        "reveal_it": "इस पोस्ट को प्रत्यक्ष करें",
+        "adjust_your": "अपना समायोजन",
+        "display_preferences": "डिस्प्ले / प्रदर्शन प्राथमिकताएं",
+        "create_an_account": "नया खाता बनाएँ",
+        "to_save_your_preferences": "अपनी प्राथमिकताओं को सहेजने के लिए"
     },
     "posts_index": {
         "empty_feed_1": "Looks like you haven't followed anything yet",

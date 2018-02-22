@@ -643,14 +643,14 @@
         "already_power_down": "आपने पहले हे शक्ती कम कर ली है %(AMOUNT)s %(LIQUID_TICKER)s (अभी तक भुक्तान किया गया %(LIQUID_TICKER)s %(WITHDRAWN)s)|कृपया नोट कर लें यदि आप शक्ती कम करने की रकम को बदलते हैं तो निर्धारित भुक्तान भी बदल जायेगा|",
         "delegating": "%(AMOUNT)s %(LIQUID_TICKER)s का आप प्रतिनिधित्तव कर रहे है| वह रकम में ताला लग जायेगा जबतक प्रतिनिधित्तव हटाया नहीं जाता और पूरी इनाम अवधी ख़तम होने तक तक आप शक्ती कम भी नहीं कर सकते|",
         "per_week": "वह है ~ %(AMOUNT)s %(LIQUID_TICKER)s प्रत्येक सप्ताह|",
-        "warning": "Leaving less than %(AMOUNT)s %(VESTING_TOKEN)s in your account is not recommended and can leave your account in a unusable state.",
-        "error": "Unable to power down (ERROR: %(MESSAGE)s)"
+        "warning": "%(AMOUNT)s %(VESTING_TOKEN)s से कम रकम अपने खाता में छोड़ना अनुसंशित नहीं है और इस तरह आपका खाता उपयोग नहीं करने लायक अवस्था में हो सकता है|",
+        "error": "शक्ती कम करने में अशमर्थ (त्रुटि: %(MESSAGE)s)"
     },
     "checkloginowner_jsx": {
-        "your_password_permissions_were_reduced": "Your password permissions were reduced",
-        "if_you_did_not_make_this_change": "If you did not make this change please",
-        "ownership_changed_on": "Ownership Changed On ",
-        "deadline_for_recovery_is": "Deadline for recovery is",
-        "i_understand_dont_show_again": "I understand, don't show me again"
+        "your_password_permissions_were_reduced": "आपकी पासवर्ड अनुमतियों को कम किया गया",
+        "if_you_did_not_make_this_change": "कृपया बताएं यदि आपने यह परिवर्तन नहीं किया है",
+        "ownership_changed_on": "मालिकाना बदली हुवा था में ",
+        "deadline_for_recovery_is": "पुनः प्राप्ती की अंतिम तिथि है",
+        "i_understand_dont_show_again": "मैं समझता हूं, मुझे दुबारा न दिखाएँ"
     }
 }

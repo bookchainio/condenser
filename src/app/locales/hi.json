@@ -464,10 +464,10 @@
         "estimated_value": "अनुमानित भाव/कीमत आधारित होता है %(LIQUID_TOKEN)s का औसत कीमत पर US / उएस डॉलर में|",
         "non_transferable": "%(VESTING_TOKEN)s स्थान्तरण लायक नहीं है और ३ महीने (१३ भुक्तान) लगते हैं पुनः %(LIQUID_TOKEN)s में बदलने के लिए|",
         "converted_VESTING_TOKEN_can_be_sent_to_yourself_but_can_not_transfer_again": "परिवर्तित %(VESTING_TOKEN)s को खुद को भेजा जा सकता है या तो किसी और को लेकिन नहीं भेजा जा सकता दुबारा बिना परिवर्तन किये %(LIQUID_TOKEN)s में|",
-        "part_of_your_steem_power_is_currently_delegated": "Part of %(user_name)s's STEEM POWER is currently delegated. Delegation is donated for influence or to help new users perform actions on steemit. Your delegation amount can fluctuate."
+        "part_of_your_steem_power_is_currently_delegated": "%(user_name)s के स्टीम पावर का कुछ भाग अभी डेलिगेट / प्रत्यायुक्त हुवा है| प्रत्यायोजन दान दिया जाता है प्रभाव के लिए या नए उपयोगकर्ता के क्रियाकलाप को मदद के लिए स्टीमिट में| आपका प्रत्यायोजन/डेलीगेशन मात्रा कम बेसी हो सकता है|"
     },
     "promote_post_jsx": {
-        "promote_post": "Promote Post",
+        "promote_post": "पोस्ट का प्रचार करें",
         "spend_your_DEBT_TOKEN_to_advertise_this_post": "Spend your %(DEBT_TOKEN)s's to advertise this post in the promoted content section",
         "you_successfully_promoted_this_post": "आपने सही तरीके से इस पोस्ट का विज्ञापन किया",
         "this_post_was_hidden_due_to_low_ratings": "This post was hidden due to low ratings"

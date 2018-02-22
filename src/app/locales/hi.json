@@ -507,7 +507,7 @@
     },
     "savingswithdrawhistory_jsx": {
         "cancel_this_withdraw_request": "क्या निकासी अनुरोध रद्द करें?",
-        "pending_savings_withdrawals": "PENDING SAVINGS WITHDRAWS",
+        "pending_savings_withdrawals": "लंबित बचत निकासी",
         "withdraw": "Withdraw %(amount)s",
         "to": "to %(to)s",
         "from_to": "from %(from)s to %(to)s"

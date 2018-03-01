@@ -196,8 +196,8 @@
             "value_posts": "निम्न कीमत वाली पोस्टें"
         },
         "read_only_mode": "सर्वर की रख-रखाव के कारन अभी सिर्फ पढ़ने की सूरत में परिचालन हो रहे हैं| हमलोग क्षमा चाहते हैं किसी भी असुविधा के लिए|",
-        "tags_and_topics": "वाक्यांश / लेबलें",
-        "show_more_topics": "सभी वाक्यांश देखें",
+        "tags_and_topics": "लेबलें",
+        "show_more_topics": "सभी लेबलें देखें",
         "basic": "बुनियादी",
         "advanced": "उन्नत",
         "views": {
@@ -232,7 +232,7 @@
         "sign_up": "जुड़ें",
         "learn_more": "अधीक सीखें",
         "welcome": "स्वागत है",
-        "faq": "हमेशा पूछे जाने वाले प्रश्न / FAQ",
+        "faq": "हमेशा पूछे जाने वाले प्रश्न",
         "shop": "स्टीमिट दुकान",
         "chat": "स्टीमिट चैट",
         "app_center": "स्टीमिट एप्प केंद्र",
@@ -240,19 +240,19 @@
         "bluepaper": "स्टीम नीलापत्र",
         "smt_whitepaper": "SMT श्वेतपत्र",
         "whitepaper": "स्टीम श्वेतपत्र",
-        "intro_tagline": "मुद्रा विचार वार्ता",
+        "intro_tagline": "मुद्रा वार्ता",
         "intro_paragraph": "आपका आवाज कुछ अच्छा है| समुदाय से जुड़ें जो भुगतान करता है आपके पोस्ट और उपपादरी करती है उच्चतम गुण वाली विषय को|"
     },
     "main_menu": {
-        "hot": "गरम / उत्तेजक",
-        "trending": "लोकप्रिय / प्रचलित"
+        "hot": "सफल",
+        "trending": "प्रचलित"
     },
     "reply_editor": {
         "shorten_title": "शीर्षक छोटा रखें",
         "exceeds_maximum_length": "(%(maxKb)s केबी) अधिकतम लम्बाई पर कर चुकी है",
         "including_the_category": " (%(rootCategory)s\" श्रेणियों को शामिल करते हुए)",
         "use_limited_amount_of_tags": "आपके पास है कुल लेबलें हैं %(tagsLength)s %(includingCategory)s| कृपया ५ का ही उपयोग करें अपने पोस्ट और श्रेणी रेखा में|",
-        "are_you_sure_you_want_to_clear_this_form": "क्या आप सच में चाहते हैं इस अभिरुप को खली करना?",
+        "are_you_sure_you_want_to_clear_this_form": "क्या आप सच में चाहते हैं इस अभिरुप को खाली करना?",
         "uploading": "अपलोड हो रही है",
         "draft_saved": "प्रलेख रक्षित हुवा|",
         "editor": "संपादक",
@@ -260,18 +260,18 @@
         "pasting_from_the_clipboard": "क्लिपबोर्ड से चिपकाएँ, ",
         "selecting_them": "उनका चयन हो रहा है",
         "image_upload": "छवि अपलोड",
-        "power_up_100": "क्षमता १००%% हुवा",
+        "power_up_100": "क्षमता १००%% करें",
         "default_50_50": "वितथ रूप से (५०%% / ५०%%)",
         "decline_payout": "भुगतान अस्वीकार करें",
         "check_this_to_auto_upvote_your_post": "इसे चिन्हित करें स्व-अपवोट के लिए",
-        "markdown_styling_guide": "मार्कडाउन अंदाज संचालक / गाइड",
+        "markdown_styling_guide": "मार्कडाउन अंदाज गाइड",
         "or_by": "या द्वारा",
         "title": "शीर्षक",
         "update_post": "पोस्ट नवनीकरण करें",
-        "markdown_not_supported": "मार्कडाउन काम नहीं कर रहा यहाँ"
+        "markdown_not_supported": "यहाँ मार्कडाउन काम नहीं कर रहा"
     },
     "category_selector_jsx": {
-        "tag_your_story": "लेबल करें (५ लेबलों तक), पहला लेबल मुख्या श्रेणी होता है|",
+        "tag_your_story": "लेबल करें (५ लेबलों तक), पहला लेबल मुख्य श्रेणी होता है|",
         "select_a_tag": "लेबल चयनित करें",
         "maximum_tag_length_is_24_characters": "अधिकतम लेबल लम्बाई २४ अक्षरों का होता है",
         "use_limited_amount_of_categories": "कृपया सिर्फ उपयोग करें %(amount)s श्रेणियां",

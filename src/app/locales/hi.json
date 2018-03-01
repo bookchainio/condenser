@@ -176,8 +176,8 @@
         "login_to_show": "दिखने के लिए लॉगिन करें",
         "not_valid_email": "ईमेल मान्य नहीं है",
         "thank_you_for_being_an_early_visitor_to_APP_NAME": "%(APP_NAME)s में पहला दर्शक होने के लिए धन्यवाद| हमलोग वापस आएँगे आपके पास जितनी जल्दी संभावित मौका मिल जाए|",
-        "author_rewards": "रचियता इनामें / मालिकाना इनामें",
-        "curation_rewards": "Curation rewards",
+        "author_rewards": "रचियता इनामें इनामें",
+        "curation_rewards": "उपपादरी इनामें",
         "sorry_your_reddit_account_doesnt_have_enough_karma": "क्षमा करें, आपके रेड्डिट खाते में प्रयाप्त रेड्डिट कर्म नहीं है निशुल्क साईनअप के लिए| कृपया प्रतिछालय वाली जगह पे अपना ईमेल जोड़ दें",
         "register_with_facebook": "फेसबुक से प्रवेश करें",
         "or_click_the_button_below_to_register_with_facebook": "या नीची दिए गए बटन में क्लिक करें फेसबुक से जुड़ने के के लिए",
@@ -185,8 +185,8 @@
         "APP_NAME_support": "%(APP_NAME)s मदद",
         "please_email_questions_to": "कृपया प्रश्न को ईमेल करें",
         "next_7_strings_single_block": {
-            "authors_get_paid_when_people_like_you_upvote_their_post": "Authors get paid when people like you upvote their post",
-            "if_you_enjoyed_what_you_read_earn_amount": "यदि आप आनंदित हो रहें हैं पढ़ कर यहाँ, तो आज हे अपना खता खोलें और मुफ्त में स्टीम कमाएँ!",
+            "authors_get_paid_when_people_like_you_upvote_their_post": "लेखक भुगतान पते हैं जब लोग उनका पोस्ट को पसंद और अपवोट करते हैं",
+            "if_you_enjoyed_what_you_read_earn_amount": "यदि आप आनंदित हो रहें हैं पढ़ कर यहाँ, तो आज ही अपना खता खोलें और मुफ्त में स्टीम कमाएँ!",
             "free_steem": "मुफ्त में स्टीम!",
             "sign_up_earn_steem": "अभी साईनअप करें "
         },

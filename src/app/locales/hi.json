@@ -377,21 +377,21 @@
     "post_jsx": {
         "now_showing_comments_with_low_ratings": "अब टिप्पणियाँ निम्न दरों से दिखाया जा रहा है",
         "sort_order": "क्रम व्यवस्था",
-        "comments_were_hidden_due_to_low_ratings": "टिप्पणियां कम रेटिंग / दरों के कारण छुपे हुए थे"
+        "comments_were_hidden_due_to_low_ratings": "टिप्पणियां कम रेटिंग के कारण छुपे हुए थे"
     },
     "voting_jsx": {
         "flagging_post_can_remove_rewards_the_flag_should_be_used_for_the_following": "पोस्ट को फ्लैग करने से इनाम हट सकता है और यह पोस्ट नहीं के बराबर दीखता है| कुछ सामान्य कारन होते हैं फ्लैग का|",
         "disagreement_on_rewards": "इनामों में भिन्नता",
         "fraud_or_plagiarism": "नकली या साहित्य चोरी",
-        "hate_speech_or_internet_trolling": "नापसंद कथन या इंटरनेट का चक्कर / ट्रॉल्लिंग",
+        "hate_speech_or_internet_trolling": "नापसंद कथन या इंटरनेट का ट्रॉल्लिंग",
         "intentional_miss_categorized_content_or_spam": "जानबूझकर गलत-श्रेणी का अयवव या अवांछनीय अवयव",
-        "pending_payout": "बकाया भुक्तान $%(value)s",
+        "pending_payout": "बकाया भुगतान $%(value)s",
         "payout_declined": "भुगतान अस्वीकृत",
         "max_accepted_payout": "अधिकतम स्वीकृत किया गया भुक्तान $%(value)s",
         "promotion_cost": "विज्ञापन खर्च $%(value)s",
         "past_payouts": "पिछले भुकतानें $%(value)s",
         "past_payouts_author": " - लेखक $%(value)s",
-        "past_payouts_curators": " - उपपादरी $%(value)s",
+        "past_payouts_curators": " - निरीक्षक $%(value)s",
         "we_will_reset_curation_rewards_for_this_post": "इस पोस्ट के लिए आपका उपपादरी इनाम रिसेट होगा",
         "removing_your_vote": "आपका वोट हटाया जा रहा है",
         "changing_to_an_upvote": "अप-वोट में बदल रहा है",

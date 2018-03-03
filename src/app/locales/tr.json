@@ -162,10 +162,10 @@
         "account_name_should_start_with_a_letter": "Hesap ismi bir harf ile başlamalıdır.",
         "account_name_should_be_shorter": "Hesap ismi daha kısa olmalıdır.",
         "account_name_should_be_longer": "Hesap ismi daha uzun olmalıdır.",
-        "account_name_should_have_only_letters_digits_or_dashes": "Account name should have only letters, digits, periods or dashes.",
-        "cannot_increase_reward_of_post_within_the_last_minute_before_payout": "Cannot increase reward of post within the last minute before payout",
+        "account_name_should_have_only_letters_digits_or_dashes": "Hesap adı yalnızca harfler, rakamlar, noktalar veya tireler içermelidir.",
+        "cannot_increase_reward_of_post_within_the_last_minute_before_payout": "Ödemeden önceki son dakika içinde gönderinin ödülü artırılamaz",
         "vote_currently_exists_user_must_be_indicate_a_to_reject_witness": "vote currently exists, user must be indicate a desire to reject witness",
-        "only_one_APP_NAME_account_allowed_per_ip_address_every_10_minutes": "Only one Steem account allowed per IP address every 10 minutes",
+        "only_one_APP_NAME_account_allowed_per_ip_address_every_10_minutes": "Her IP adresi için her 10 dakikada 1 Steem hesabına izin verilir",
         "resteem_this_post": "Resteem This Post",
         "reblog": "Resteem",
         "write_your_story": "Write your story",
@@ -202,8 +202,8 @@
         "advanced": "Advanced",
         "views": {
             "zero": "No Views",
-            "one": "%(count)s View",
-            "other": "%(count)s Views"
+            "one": "%(count)s Görüntülenme",
+            "other": "%(count)s Görüntülenme"
         },
         "responses": {
             "zero": "No Responses",

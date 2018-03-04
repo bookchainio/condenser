@@ -166,9 +166,9 @@
         "cannot_increase_reward_of_post_within_the_last_minute_before_payout": "Ödemeden önceki son dakika içinde gönderinin ödülü artırılamaz",
         "vote_currently_exists_user_must_be_indicate_a_to_reject_witness": "vote currently exists, user must be indicate a desire to reject witness",
         "only_one_APP_NAME_account_allowed_per_ip_address_every_10_minutes": "Her IP adresi için her 10 dakikada 1 Steem hesabına izin verilir",
-        "resteem_this_post": "Resteem This Post",
+        "resteem_this_post": "Bu Gönderiyi Resteem'le",
         "reblog": "Resteem",
-        "write_your_story": "Write your story",
+        "write_your_story": "Kendi hikayenizi yazın",
         "remember_voting_and_posting_key": "Remember voting & posting key",
         "auto_login_question_mark": "Auto login?",
         "hide_private_key": "Özel anahtarı gizle",
@@ -206,12 +206,12 @@
             "other": "%(count)s Görüntülenme"
         },
         "responses": {
-            "zero": "No Responses",
-            "one": "%(count)s Response",
+            "zero": "Hiç yanıt yok",
+            "one": "%(count)s Yanıt",
             "other": "%(count)s Responses"
         },
         "post_key_warning": {
-            "confirm": "You are about to publish a STEEM private key or master password. You will probably lose control of the associated account and all its funds.",
+            "confirm": "Bir STEEM özel anahtarı veya ana şifresi yayımlamak üzeresiniz. Muhtemelen ilgili hesabın kontrolünü ve bütün varlıklarını kaybedersiniz.",
             "warning": "Legitimate users, including employees of Steemit Inc., will never ask you for a private key or master password.",
             "checkbox": "I understand"
         }

@@ -407,23 +407,23 @@
         "witness_thread": "witness thread",
         "top_witnesses": "Witness Voting",
         "you_have_votes_remaining": {
-            "zero": "You have no votes remaining",
-            "one": "You have 1 vote remaining",
-            "other": "You have %(count)s votes remaining"
+            "zero": "Hiç oy hakkınız kalmadı",
+            "one": "1 oy hakkınız kaldı",
+            "other": "%(count)s oy hakkınız kaldı"
         },
-        "you_can_vote_for_maximum_of_witnesses": "You can vote for a maximum of 30 witnesses",
+        "you_can_vote_for_maximum_of_witnesses": "En fazla 30 witness oylayabilirsiniz",
         "witness": "Witness",
         "information": "Information",
-        "if_you_want_to_vote_outside_of_top_enter_account_name": "If you would like to vote for a witness outside of the top 50, enter the account name below to cast a vote",
-        "set_witness_proxy": "You can also choose a proxy that will vote for witnesses for you. This will reset your current witness selection.",
-        "witness_set": "You have set a voting proxy. If you would like to re-enable manual voting, please clear your proxy.",
-        "witness_proxy_current": "Your current proxy is",
-        "witness_proxy_set": "Set proxy",
-        "witness_proxy_clear": "Clear proxy",
-        "proxy_update_error": "Your proxy was not updated"
+        "if_you_want_to_vote_outside_of_top_enter_account_name": "Eğer ilk 50 dışında bir witness'a oy vermek isterseniz, bir oy vermek için hesap ismini aşağıya giriniz",
+        "set_witness_proxy": "Ayrıca sizin için witness'ları oylayacak bir proxy seçebilirsiniz. Bu, mevcut witness seçiminizi sıfırlayacaktır.",
+        "witness_set": "Bir oylama proxy'si ayarladınız. Eğer manuel oylamayı yeniden açmak isterseniz, lütfen proxy'nizi temizleyiniz.",
+        "witness_proxy_current": "Mevcut proxy'niz",
+        "witness_proxy_set": "Proxy ayarla",
+        "witness_proxy_clear": "Proxy'i temizle",
+        "proxy_update_error": "Proxy'niz güncellenmemiş"
     },
     "votesandcomments_jsx": {
-        "no_responses_yet_click_to_respond": "No responses yet. Click to respond.",
+        "no_responses_yet_click_to_respond": "Hiçbir cevap yok. Cevap vermek için tıkla.",
         "response_count_tooltip": {
             "zero": "no responses. Click to respond.",
             "one": "1 response. Click to respond.",

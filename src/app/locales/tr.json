@@ -233,10 +233,10 @@
         "learn_more": "Learn More",
         "welcome": "Welcome",
         "faq": "FAQ",
-        "shop": "The Steemit Shop",
+        "shop": "Steemit Mağazası",
         "chat": "Steemit Chat",
         "app_center": "Steemit Uygulama Merkezi",
-        "api_docs": "Steemit API Docs",
+        "api_docs": "Steemit API Dokümanları",
         "bluepaper": "Steem Bluepaper",
         "smt_whitepaper": "SMT Whitepaper",
         "whitepaper": "Steem Whitepaper",
@@ -245,7 +245,7 @@
     },
     "main_menu": {
         "hot": "hot",
-        "trending": "trending"
+        "trending": "trendler"
     },
     "reply_editor": {
         "shorten_title": "Shorten title",
@@ -305,7 +305,7 @@
         "highest_bid": "En yüksek talep",
         "buy_orders": "Buy Orders",
         "sell_orders": "Sell Orders",
-        "trade_history": "Trade History",
+        "trade_history": "Ticaret Geçmişi",
         "open_orders": "Open Orders",
         "sell_amount_for_atleast": "Sell %(amount_to_sell)s for at least %(min_to_receive)s (%(effectivePrice)s)",
         "buy_atleast_amount_for": "Buy at least %(min_to_receive)s for %(amount_to_sell)s (%(effectivePrice)s)",

@@ -444,12 +444,12 @@
         "the_active_key_is_used_to_make_transfers_and_place_orders": "Aktif anahtar, para transferi yapmak ve dahili borsada emir vermek için kullanılır.",
         "the_owner_key_is_required_to_change_other_keys": "The owner key is the master key for the account and is required to change the other keys.",
         "the_private_key_or_password_should_be_kept_offline": "The private key or password for the owner key should be kept offline as much as possible.",
-        "the_memo_key_is_used_to_create_and_read_memos": "The memo key is used to create and read memos."
+        "the_memo_key_is_used_to_create_and_read_memos": "Not anahtarı, not oluşturmak ve okumak için kullanılır."
     },
     "suggestpassword_jsx": {
-        "APP_NAME_cannot_recover_passwords_keep_this_page_in_a_secure_location": "%(APP_NAME)s cannot recover passwords. Keep this page in a secure location, such as a fireproof safe or safety deposit box.",
-        "APP_NAME_password_backup": "%(APP_NAME)s Password Backup",
-        "APP_NAME_password_backup_required": "%(APP_NAME)s Password Backup (required)",
+        "APP_NAME_cannot_recover_passwords_keep_this_page_in_a_secure_location": "%(APP_NAME)s şifreleri kurtaramaz. Bu sayfayı, arkadaşınızın ateşe dayanıklı kasası veya emanet kasası gibi güvenli bir yerde saklayınız.",
+        "APP_NAME_password_backup": "%(APP_NAME)s Şifre Yedekleme",
+        "APP_NAME_password_backup_required": "%(APP_NAME)s Şifre Yedekleme (gerekli)",
         "after_printing_write_down_your_user_name": "After printing, write down your user name"
     },
     "converttosteem_jsx": {

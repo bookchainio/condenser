@@ -464,10 +464,10 @@
         "estimated_value": "Tahmini değer, %(LIQUID_TOKEN)s'lerin ABD doları cinsinden ortalama değerine göre belirlenir.",
         "non_transferable": "%(VESTING_TOKEN)s transfer edilemezdir ve %(LIQUID_TOKEN)s'e geri çevirmek için 3 ay (13 ödeme) gerektirir.",
         "converted_VESTING_TOKEN_can_be_sent_to_yourself_but_can_not_transfer_again": "Converted %(VESTING_TOKEN)s can be sent to yourself or someone else but can not transfer again without converting back to %(LIQUID_TOKEN)s.",
-        "part_of_your_steem_power_is_currently_delegated": "Part of %(user_name)s's STEEM POWER is currently delegated. Delegation is donated for influence or to help new users perform actions on steemit. Your delegation amount can fluctuate."
+        "part_of_your_steem_power_is_currently_delegated": "%(user_name)s'in STEEM POWER'ının bir kısmı şuanda delege edilmiş durumda. Delegasyon, etki oluşturmak için veya yeni kullanıcıların steemit'te eylem gerçekleştirebilmeleri için bağışlanır. Delegasyon miktarınızda dalgalanma olabilir."
     },
     "promote_post_jsx": {
-        "promote_post": "Promote Post",
+        "promote_post": "Gönderiyi Öne Çıkar",
         "spend_your_DEBT_TOKEN_to_advertise_this_post": "Spend your %(DEBT_TOKEN)s's to advertise this post in the promoted content section",
         "you_successfully_promoted_this_post": "You successfully promoted this post",
         "this_post_was_hidden_due_to_low_ratings": "This post was hidden due to low ratings"

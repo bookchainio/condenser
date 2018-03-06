@@ -454,12 +454,12 @@
     },
     "converttosteem_jsx": {
         "your_existing_DEBT_TOKEN_are_liquid_and_transferable": "Mevcut %(DEBT_TOKEN)s'lerınız likit halde ve transfer edilebilirdir. Bunun yerine, %(DEBT_TOKEN)s'lerinizi direkt olarak bu sitedeki %(link)s'den alım satım yapmayı veya harici bir markete transfer etmeyi tercih edebilirsiniz.",
-        "this_is_a_price_feed_conversion": "This is a price feed conversion. The 3.5 day delay is necessary to prevent abuse from gaming the price feed average",
-        "convert_to_LIQUID_TOKEN": "Convert to %(LIQUID_TOKEN)s",
-        "DEBT_TOKEN_will_be_unavailable": "This action will take place 3.5 days from now and can not be canceled. These %(DEBT_TOKEN)s will immediately become unavailable"
+        "this_is_a_price_feed_conversion": "Bu, bir fiyat eğrisi dönüşümüdür. 3,5 günlük gecikme, fiyat eğrisi ortalamasıyla oynama yoluyla kötüye kullanımı önlemek için gereklidir",
+        "convert_to_LIQUID_TOKEN": "%(LIQUID_TOKEN)s'e dönüştür",
+        "DEBT_TOKEN_will_be_unavailable": "Bu eylem bugünden itibaren 3.5 gün alacaktır ve iptal edilemez. Bu %(DEBT_TOKEN)sler anında kullanılamaz olacaktır"
     },
     "tips_js": {
-        "liquid_token": "Tradeable tokens that may be transferred anywhere at anytime.<br/>%(LIQUID_TOKEN)s can be converted to %(VESTING_TOKEN)s in a process called powering up.",
+        "liquid_token": "Her zaman her yere transfer edilebilen, alım satımı yapılabilen tokenlar.<br/>%(LIQUID_TOKEN)sler, güçlendirme adı verilen bir işlem ile %(VESTING_TOKEN)s'a çevirilebilir.",
         "influence_token": "Influence tokens which give you more control over post payouts and allow you to earn on curation rewards.",
         "estimated_value": "The estimated value is based on an average value of %(LIQUID_TOKEN)s in US dollars.",
         "non_transferable": "%(VESTING_TOKEN)s is non-transferable and requires 3 months (13 payments) to convert back to %(LIQUID_TOKEN)s.",

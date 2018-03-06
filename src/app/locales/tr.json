@@ -450,10 +450,10 @@
         "APP_NAME_cannot_recover_passwords_keep_this_page_in_a_secure_location": "%(APP_NAME)s şifreleri kurtaramaz. Bu sayfayı, arkadaşınızın ateşe dayanıklı kasası veya emanet kasası gibi güvenli bir yerde saklayınız.",
         "APP_NAME_password_backup": "%(APP_NAME)s Şifre Yedekleme",
         "APP_NAME_password_backup_required": "%(APP_NAME)s Şifre Yedekleme (gerekli)",
-        "after_printing_write_down_your_user_name": "After printing, write down your user name"
+        "after_printing_write_down_your_user_name": "Yazdırdıktan sonra, kullanıcı adınızı not alınız"
     },
     "converttosteem_jsx": {
-        "your_existing_DEBT_TOKEN_are_liquid_and_transferable": "Your existing %(DEBT_TOKEN)s are liquid and transferable. Instead you may wish to trade %(DEBT_TOKEN)s directly in this site under %(link)s or transfer to an external market.",
+        "your_existing_DEBT_TOKEN_are_liquid_and_transferable": "Mevcut %(DEBT_TOKEN)s'lerınız likit halde ve transfer edilebilirdir. Bunun yerine, %(DEBT_TOKEN)s'lerinizi direkt olarak bu sitedeki %(link)s'den alım satım yapmayı veya harici bir markete transfer etmeyi tercih edebilirsiniz.",
         "this_is_a_price_feed_conversion": "This is a price feed conversion. The 3.5 day delay is necessary to prevent abuse from gaming the price feed average",
         "convert_to_LIQUID_TOKEN": "Convert to %(LIQUID_TOKEN)s",
         "DEBT_TOKEN_will_be_unavailable": "This action will take place 3.5 days from now and can not be canceled. These %(DEBT_TOKEN)s will immediately become unavailable"

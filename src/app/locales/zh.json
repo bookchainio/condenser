@@ -508,7 +508,7 @@
     "savingswithdrawhistory_jsx": {
         "cancel_this_withdraw_request": "取消撤回請求？",
         "pending_savings_withdrawals": "未決節餘撤回",
-        "withdraw": "Withdraw %(amount)s",
+        "withdraw": "撤回 %(amount)s",
         "to": "至 %(to)s",
         "from_to": "從 %(from)s到 %(to)s"
     },

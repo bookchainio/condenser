@@ -2,7 +2,7 @@
     "g": {
         "age": "年齡",
         "amount": "數量",
-        "and": "和",
+        "and": "以及",
         "are_you_sure": "你確定嗎？",
         "ask": "詢問",
         "balance": "餘額",
@@ -473,7 +473,7 @@
         "this_post_was_hidden_due_to_low_ratings": "由於評分過低，此帖已被隱藏"
     },
     "about_jsx": {
-        "about_app": "About %(APP_NAME)s",
+        "about_app": "關於 %(APP_NAME)s",
         "about_app_details": "%(APP_NAME)s是一個社會媒體平臺, 每個人都得到了創造和策劃內容的報酬。它利用了一個穩健的數位點系統, 稱為蒸汽, 通過市場價格發現和流動性支援數位獎勵的真正價值。",
         "learn_more_at_app_url": "瞭解更多在 %(APP_URL)s",
         "resources": "資源"
@@ -509,7 +509,7 @@
         "cancel_this_withdraw_request": "取消撤回請求？",
         "pending_savings_withdrawals": "未決節餘撤回",
         "withdraw": "Withdraw %(amount)s",
-        "to": "to %(to)s",
+        "to": "至 %(to)s",
         "from_to": "從 %(from)s到 %(to)s"
     },
     "explorepost_jsx": {
@@ -528,7 +528,7 @@
         "curation_rewards_by": "審查獎勵",
         "author_rewards_by": "作者獎勵",
         "replies_to": "回复我",
-        "comments_by": "Comments by"
+        "comments_by": "評論來自"
     },
     "loginform_jsx": {
         "you_need_a_private_password_or_key": "你需要一個私人密碼或密鑰(而不是公鑰)",
@@ -562,7 +562,7 @@
         "signup_button_emphasis": "免費的Steem代幣！",
         "sign_up_get_steem": "登記。得到蒸汽",
         "returning_users": "返回的用戶？ ",
-        "join_our": "Join our"
+        "join_our": "加入我們的"
     },
     "chainvalidation_js": {
         "account_name_should": "帳戶名稱已更改 ",
@@ -587,7 +587,7 @@
         "private_post_display_settings": "Private Post Display Settings",
         "not_safe_for_work_nsfw_content": "Not safe for work (NSFW) content",
         "always_hide": "永遠隱藏",
-        "always_warn": "Always warn",
+        "always_warn": "一直警告",
         "always_show": "總是顯示",
         "muted_users": "静音用户",
         "update": "更新",
@@ -651,6 +651,6 @@
         "if_you_did_not_make_this_change": "If you did not make this change please",
         "ownership_changed_on": "Ownership Changed On ",
         "deadline_for_recovery_is": "Deadline for recovery is",
-        "i_understand_dont_show_again": "I understand, don't show me again"
+        "i_understand_dont_show_again": "我懂了，不要再顯示"
     }
 }

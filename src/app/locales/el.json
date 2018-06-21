@@ -341,43 +341,43 @@
         "unknown_account": "Άγνωστος Λογαριασμός",
         "user_hasnt_made_any_posts_yet": "Φαίνεται ότι ο χρήστης %(name)s δεν έχει δημοσιεύσει κάτι ακόμα!",
         "user_hasnt_started_bloggin_yet": "Φαίνεται ότι ο χρήστης %(name)s δεν έχει ξεκινήσει να δημοσιεύει ακόμα!",
-        "user_hasnt_followed_anything_yet": "Looks like %(name)s might not be following anyone yet! If %(name)s recently added new users to follow, their personalized feed will populate once new content is available.",
-        "user_hasnt_had_any_replies_yet": "%(name)s hasn't had any replies yet",
-        "looks_like_you_havent_posted_anything_yet": "Looks like you haven't posted anything yet.",
-        "create_a_post": "Create a Post",
-        "explore_trending_articles": "Explore Trending Articles",
-        "read_the_quick_start_guide": "Read The Quick Start Guide",
-        "browse_the_faq": "Browse The FAQ",
-        "followers": "Followers",
+        "user_hasnt_followed_anything_yet": "Φαίνεται ότι ο χρήστης %(name)s δεν ακολουθεί κάποιον ακόμα! Αν ο χρήστης %(name)s ακολούθησε πρόσφατα κάποιους χρήστες, η προσωποποιημένη ροή τους θα αρχίσει να γεμίζει όταν υπάρχει νέο περιεχόμενο.",
+        "user_hasnt_had_any_replies_yet": "Ο χρήστης %(name)s δεν έχει απαντήσεις από τρίτους ακόμα",
+        "looks_like_you_havent_posted_anything_yet": "Φαίνεται ότι δεν έχετε δημοσιεύσει κάτι ακόμα.",
+        "create_a_post": "Δημιουργία Ανάρτησης",
+        "explore_trending_articles": "Εξερευνήστε τις Δημοφιλείς Αναρτήσεις",
+        "read_the_quick_start_guide": "Διαβάστε τον Οδηγό Γρήγορης Εκκίνησης",
+        "browse_the_faq": "Περιηγηθείτε στις Συχνές Ερωτήσεις",
+        "followers": "Ακόλουθοι",
         "this_is_users_reputations_score_it_is_based_on_history_of_votes": "This is %(name)s's reputation score.\n\nThe reputation score is based on the history of votes received by the account, and is used to hide low quality content.",
         "follower_count": {
-            "zero": "No followers",
-            "one": "1 follower",
-            "other": "%(count)s followers"
+            "zero": "Χωρίς Ακόλουθους",
+            "one": "1 Ακόλουθος",
+            "other": "%(count)s Ακόλουθοι"
         },
         "followed_count": {
-            "zero": "Not following anybody",
-            "one": "1 following",
-            "other": "%(count)s following"
+            "zero": "Δεν ακολουθεί κάποιον",
+            "one": "Ακολουθεί 1",
+            "other": "Ακολουθεί %(count)s"
         },
         "post_count": {
-            "zero": "No posts",
-            "one": "1 post",
-            "other": "%(count)s posts"
+            "zero": "Καμία Ανάρτηση",
+            "one": "1 Ανάρτηση",
+            "other": "%(count)s Αναρτήσεις"
         }
     },
     "authorrewards_jsx": {
-        "estimated_author_rewards_last_week": "Estimated author rewards last week",
-        "author_rewards_history": "Author Rewards History"
+        "estimated_author_rewards_last_week": "Εκτιμώμενες ανταμοιβές δημιουργού την τελευταία εβδομάδα",
+        "author_rewards_history": "Ιστορικό Ανταμοιβών Δημιουργού"
     },
     "curationrewards_jsx": {
-        "estimated_curation_rewards_last_week": "Estimated curation rewards last week",
-        "curation_rewards_history": "Curation Rewards History"
+        "estimated_curation_rewards_last_week": "Εκτιμώμενες ανταμοιβές επιμελητή την τελευταία εβδομάδα",
+        "curation_rewards_history": "Ιστορικό Ανταμοιβών Επιμελητή"
     },
     "post_jsx": {
-        "now_showing_comments_with_low_ratings": "Now showing comments with low ratings",
-        "sort_order": "Sort Order",
-        "comments_were_hidden_due_to_low_ratings": "Comments were hidden due to low ratings"
+        "now_showing_comments_with_low_ratings": "Τα σχόλια με χαμηλή βαθμολογία είναι φανερά",
+        "sort_order": "Σειρά Ταξινόμησης",
+        "comments_were_hidden_due_to_low_ratings": "Κάποια σχόλια έχουν αποκρυφτεί λόγω χαμηλών βαθμολογιών"
     },
     "voting_jsx": {
         "flagging_post_can_remove_rewards_the_flag_should_be_used_for_the_following": "Flagging a post can remove rewards and make this material less visible. Some common reasons to flag",

@@ -392,24 +392,24 @@
         "past_payouts": "Ολοκληρωμένες Πληρωμές $%(value)s",
         "past_payouts_author": " - Δημιουργός $%(value)s",
         "past_payouts_curators": " - Επιμελητές $%(value)s",
-        "we_will_reset_curation_rewards_for_this_post": "will reset your curation rewards for this post",
-        "removing_your_vote": "Removing your vote",
+        "we_will_reset_curation_rewards_for_this_post": "θα μηδενίσει την ανταμοιβή επιμελητή για την ανάρτηση",
+        "removing_your_vote": "Αφαίρεση της ψήφου σας",
         "changing_to_an_upvote": "Changing to an Up-Vote",
         "changing_to_a_downvote": "Changing to a Down-Vote",
         "confirm_flag": "Confirm Flag",
-        "and_more": "and %(count)s more",
+        "and_more": "και %(count)s ακόμα",
         "votes_plural": {
-            "one": "%(count)s vote",
-            "other": "%(count)s votes"
+            "one": "%(count)s ψήφος",
+            "other": "%(count)s ψήφοι"
         }
     },
     "witnesses_jsx": {
         "witness_thread": "witness thread",
         "top_witnesses": "Witness Voting",
         "you_have_votes_remaining": {
-            "zero": "You have no votes remaining",
-            "one": "You have 1 vote remaining",
-            "other": "You have %(count)s votes remaining"
+            "zero": "Δεν σας απομένουν ψήφοι",
+            "one": "Σας απομένει 1 ψήφος",
+            "other": "Σας απομένουν %(count)s ψήφοι"
         },
         "you_can_vote_for_maximum_of_witnesses": "You can vote for a maximum of 30 witnesses",
         "witness": "Witness",

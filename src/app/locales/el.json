@@ -240,7 +240,7 @@
         "bluepaper": "Steem Bluepaper",
         "smt_whitepaper": "SMT Whitepaper",
         "whitepaper": "Steem Whitepaper",
-        "intro_tagline": "Money talks",
+        "intro_tagline": "Το χρήμα \"μιλάει\"",
         "intro_paragraph": "Η γνώμη σας αξίζει κάτι. Εγγραφείτε στην κοινότητα που σας πληρώνει να γράψετε και να επιμεληθείτε περιεχόμενο υψηλής ποιότητας."
     },
     "main_menu": {
@@ -339,8 +339,8 @@
     },
     "user_profile": {
         "unknown_account": "Άγνωστος Λογαριασμός",
-        "user_hasnt_made_any_posts_yet": "Looks like %(name)s hasn't made any posts yet!",
-        "user_hasnt_started_bloggin_yet": "Looks like %(name)s hasn't started blogging yet!",
+        "user_hasnt_made_any_posts_yet": "Φαίνεται ότι ο χρήστης %(name)s δεν έχει δημοσιεύσει κάτι ακόμα!",
+        "user_hasnt_started_bloggin_yet": "Φαίνεται ότι ο χρήστης %(name)s δεν έχει ξεκινήσει να δημοσιεύει ακόμα!",
         "user_hasnt_followed_anything_yet": "Looks like %(name)s might not be following anyone yet! If %(name)s recently added new users to follow, their personalized feed will populate once new content is available.",
         "user_hasnt_had_any_replies_yet": "%(name)s hasn't had any replies yet",
         "looks_like_you_havent_posted_anything_yet": "Looks like you haven't posted anything yet.",

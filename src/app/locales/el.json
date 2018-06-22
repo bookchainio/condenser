@@ -162,7 +162,7 @@
         "account_name_should_start_with_a_letter": "Το όνομα χρήστη πρέπει να ξεκινάει με γράμμα.",
         "account_name_should_be_shorter": "Το όνομα χρήστη πρέπει να είναι μικρότερο.",
         "account_name_should_be_longer": "Το όνομα χρήστη πρέπει να είναι μεγαλύτερο.",
-        "account_name_should_have_only_letters_digits_or_dashes": "Το όνομα χρήστη πρέπει να αποτελείται μόνο από γράμματα, αριθμοί, τελείες ή παύλες.",
+        "account_name_should_have_only_letters_digits_or_dashes": "Το όνομα χρήστη πρέπει να αποτελείται μόνο από γράμματα, αριθμούς, τελείες ή παύλες.",
         "cannot_increase_reward_of_post_within_the_last_minute_before_payout": "Αδυναμία αύξησης ανταμοιβής της ανάρτησης εντός του τελευταίου λεπτού πριν την πληρωμή",
         "vote_currently_exists_user_must_be_indicate_a_to_reject_witness": "vote currently exists, user must be indicate a desire to reject witness",
         "only_one_APP_NAME_account_allowed_per_ip_address_every_10_minutes": "Μόνο ένας λογαριασμός Steem επιτρέπεται ανά διεύθυνση IP ανά 10 λεπτά",
@@ -264,10 +264,10 @@
         "default_50_50": "Default (50%% / 50%%)",
         "decline_payout": "Απόρριψη Πληρωμής",
         "check_this_to_auto_upvote_your_post": "Επιλέξτε αυτό για αυτόματη ψήφο της ανάρτησής σας",
-        "markdown_styling_guide": "Οδηγός Στυλ Markdown",
+        "markdown_styling_guide": "Οδηγός Μορφοποίησης Markdown",
         "or_by": "ή από",
         "title": "Τίτλος",
-        "update_post": "Ενημέρωση Άρθρου",
+        "update_post": "Ενημέρωση Ανάρτησης",
         "markdown_not_supported": "Το Markdown δεν υποστηρίζεται εδώ"
     },
     "category_selector_jsx": {
@@ -306,7 +306,7 @@
         "buy_orders": "Εντολές Αγοράς",
         "sell_orders": "Εντολές Πώλησης",
         "trade_history": "Ιστορικό Συναλλαγών",
-        "open_orders": "Ανοιχτές Εντολές",
+        "open_orders": "Ανοιχτές Παραγγελίες",
         "sell_amount_for_atleast": "Πουλήστε %(amount_to_sell)s για τουλάχιστον %(min_to_receive)s (%(effectivePrice)s)",
         "buy_atleast_amount_for": "Αγοράστε τουλάχιστον %(min_to_receive)s για %(amount_to_sell)s (%(effectivePrice)s)",
         "price_warning_above": "Η ορισμένη τιμή είναι αρκετά υψηλότερη από την τρέχουσα τιμή συναλλάγματος του %(marketPrice)s, είστε σίγουρος;",
@@ -351,7 +351,7 @@
         "followers": "Ακόλουθοι",
         "this_is_users_reputations_score_it_is_based_on_history_of_votes": "This is %(name)s's reputation score.\n\nThe reputation score is based on the history of votes received by the account, and is used to hide low quality content.",
         "follower_count": {
-            "zero": "Χωρίς Ακόλουθους",
+            "zero": "Κανένας Ακόλουθος",
             "one": "1 Ακόλουθος",
             "other": "%(count)s Ακόλουθοι"
         },
@@ -389,7 +389,7 @@
         "payout_declined": "Άρνηση Πληρωμής",
         "max_accepted_payout": "Μέγιστη Αποδεκτή Πληρωμή $%(value)s",
         "promotion_cost": "Κόστος Προώθησης $%(value)s",
-        "past_payouts": "Ολοκληρωμένες Πληρωμές $%(value)s",
+        "past_payouts": "Καταβεβλημένες Πληρωμές $%(value)s",
         "past_payouts_author": " - Δημιουργός $%(value)s",
         "past_payouts_curators": " - Επιμελητές $%(value)s",
         "we_will_reset_curation_rewards_for_this_post": "θα μηδενίσει την ανταμοιβή επιμελητή για την ανάρτηση",

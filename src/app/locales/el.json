@@ -392,7 +392,7 @@
         "past_payouts": "Καταβεβλημένες Πληρωμές $%(value)s",
         "past_payouts_author": " - Δημιουργός $%(value)s",
         "past_payouts_curators": " - Επιμελητές $%(value)s",
-        "we_will_reset_curation_rewards_for_this_post": "θα μηδενίσει την ανταμοιβή επιμελητή για την ανάρτηση",
+        "we_will_reset_curation_rewards_for_this_post": "θα επαναφέρει την ανταμοιβή επιμελητή για την ανάρτηση",
         "removing_your_vote": "Αφαίρεση της ψήφου σας",
         "changing_to_an_upvote": "Changing to an Up-Vote",
         "changing_to_a_downvote": "Changing to a Down-Vote",

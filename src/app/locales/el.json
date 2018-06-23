@@ -415,36 +415,36 @@
         "witness": "Witness",
         "information": "Πληροφορίες",
         "if_you_want_to_vote_outside_of_top_enter_account_name": "Αν θέλετε να ψηφίσετε κάποιον witness που δεν βρίσκεται στους 50 κορυφαίους, παρακαλούμε εισάγετε το όνομα του λογαριασμού παρακάτω",
-        "set_witness_proxy": "You can also choose a proxy that will vote for witnesses for you. This will reset your current witness selection.",
-        "witness_set": "You have set a voting proxy. If you would like to re-enable manual voting, please clear your proxy.",
-        "witness_proxy_current": "Your current proxy is",
-        "witness_proxy_set": "Set proxy",
-        "witness_proxy_clear": "Clear proxy",
-        "proxy_update_error": "Your proxy was not updated"
+        "set_witness_proxy": "Μπορείτε επίσης να επιλέξετε έναν μεσολαβητή για τις ψήφους σας. Αν το κάνετε, θα επαναφέρει τις τρέχουσες σας επιλογές witness.",
+        "witness_set": "Έχετε ορίσει μεσολαβητή. Αν θέλετε να ψηφίζετε μόνοι σας για witness, παρακαλούμε αφαιρέστε τον μεσολαβητή σας.",
+        "witness_proxy_current": "Ο τρέχων μεσολαβητής σας είναι ο",
+        "witness_proxy_set": "Ορισμός μεσολαβητή",
+        "witness_proxy_clear": "Αφαίρεση μεσολαβητή",
+        "proxy_update_error": "Ο μεσολαβητής σας δεν ενημερώθηκε"
     },
     "votesandcomments_jsx": {
-        "no_responses_yet_click_to_respond": "No responses yet. Click to respond.",
+        "no_responses_yet_click_to_respond": "Καμία απάντηση ακόμα. Κάντε κλικ για να απαντήσετε.",
         "response_count_tooltip": {
-            "zero": "no responses. Click to respond.",
-            "one": "1 response. Click to respond.",
-            "other": "%(count)s responses. Click to respond."
+            "zero": "καμία απάντηση. Κάντε κλικ για να απαντήσετε.",
+            "one": "1 απάντηση. Κάντε κλικ για να απαντήσετε.",
+            "other": "%(count)s απαντήσεις. Κάντε κλικ για να απαντήσετε."
         },
         "vote_count": {
-            "zero": "no votes",
-            "one": "1 vote",
+            "zero": "καμία ψήφος",
+            "one": "1 ψήφος",
             "other": "%(count)s votes"
         }
     },
     "userkeys_jsx": {
-        "public": "Public",
-        "private": "Private",
-        "public_something_key": "Public %(key)s Key",
-        "private_something_key": "Private %(key)s Key",
-        "posting_key_is_required_it_should_be_different": "The posting key is used for posting and voting. It should be different from the active and owner keys.",
-        "the_active_key_is_used_to_make_transfers_and_place_orders": "The active key is used to make transfers and place orders in the internal market.",
-        "the_owner_key_is_required_to_change_other_keys": "The owner key is the master key for the account and is required to change the other keys.",
-        "the_private_key_or_password_should_be_kept_offline": "The private key or password for the owner key should be kept offline as much as possible.",
-        "the_memo_key_is_used_to_create_and_read_memos": "The memo key is used to create and read memos."
+        "public": "Δημόσιο",
+        "private": "Ιδιωτικό",
+        "public_something_key": "Δημόσιο Κλειδί %(key)s",
+        "private_something_key": "Ιδιωτικό Κλειδί %(key)s",
+        "posting_key_is_required_it_should_be_different": "Το κλειδί ανάρτησης χρησιμοποιείται για δημοσίευση αναρτήσεων και ψήφους. Θα πρέπει να είναι διαφορετικό από το ενεργό κλειδί και το κλειδί ιδιοκτήτη.",
+        "the_active_key_is_used_to_make_transfers_and_place_orders": "Το ενεργό κλειδί χρησιμοποιείται για μεταφορές και αγοραπωλησίες στο εσωτερικό ανταλλακτήριο.",
+        "the_owner_key_is_required_to_change_other_keys": "Το κλειδί ιδιοκτήτη είναι το κυρίως κλειδί του λογαριασμού και είναι απαραίτητο για να αλλάξουν τα άλλα κλειδιά.",
+        "the_private_key_or_password_should_be_kept_offline": "Το ιδιωτικό κλειδί και ο κωδικός για το κλειδί ιδιοκτήτη θα πρέπει να διατηρούνται όσο περισσότερο γίνεται εκτός σύνδεσης.",
+        "the_memo_key_is_used_to_create_and_read_memos": "Το κλειδί μηνυμάτων χρησιμοποιείται για δημιουργία και ανάγνωση μηνυμάτων."
     },
     "suggestpassword_jsx": {
         "APP_NAME_cannot_recover_passwords_keep_this_page_in_a_secure_location": "%(APP_NAME)s cannot recover passwords. Keep this page in a secure location, such as a fireproof safe or safety deposit box.",

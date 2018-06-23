@@ -450,12 +450,12 @@
         "APP_NAME_cannot_recover_passwords_keep_this_page_in_a_secure_location": "%(APP_NAME)s cannot recover passwords. Keep this page in a secure location, such as a fireproof safe or safety deposit box.",
         "APP_NAME_password_backup": "%(APP_NAME)s Password Backup",
         "APP_NAME_password_backup_required": "%(APP_NAME)s Password Backup (required)",
-        "after_printing_write_down_your_user_name": "After printing, write down your user name"
+        "after_printing_write_down_your_user_name": "Αφού εκτυπωθεί, γράψτε το όνομα χρήστη σας"
     },
     "converttosteem_jsx": {
         "your_existing_DEBT_TOKEN_are_liquid_and_transferable": "Your existing %(DEBT_TOKEN)s are liquid and transferable. Instead you may wish to trade %(DEBT_TOKEN)s directly in this site under %(link)s or transfer to an external market.",
         "this_is_a_price_feed_conversion": "This is a price feed conversion. The 3.5 day delay is necessary to prevent abuse from gaming the price feed average",
-        "convert_to_LIQUID_TOKEN": "Convert to %(LIQUID_TOKEN)s",
+        "convert_to_LIQUID_TOKEN": "Μετατροπή σε %(LIQUID_TOKEN)s",
         "DEBT_TOKEN_will_be_unavailable": "This action will take place 3.5 days from now and can not be canceled. These %(DEBT_TOKEN)s will immediately become unavailable"
     },
     "tips_js": {
@@ -473,9 +473,9 @@
         "this_post_was_hidden_due_to_low_ratings": "This post was hidden due to low ratings"
     },
     "about_jsx": {
-        "about_app": "About %(APP_NAME)s",
-        "about_app_details": "%(APP_NAME)s is a social media platform where everyone gets paid for creating and curating content. It leverages a robust digital points system, called Steem, that supports real value for digital rewards through market price discovery and liquidity.",
-        "learn_more_at_app_url": "Learn more at %(APP_URL)s",
+        "about_app": "Σχετικά με το %(APP_NAME)s",
+        "about_app_details": "Το %(APP_NAME)s είναι μια πλατφόρμα κοινωνικής δικτύωσης όπου όλοι πληρώνονται για την δημοσίευση και την επιμέλεια περιεχομένου. Αξιοποιεί ένα ισχυρό σύστημα ψηφιακών πόντων, που ονομάζεται Steem, και στηρίζει την πραγματική αξία για ψηφιακές ανταμοιβές μέσω τιμής στην αγορά αλλά και την ρευστότητα.",
+        "learn_more_at_app_url": "Μάθετε περισσότερα στο %(APP_URL)s",
         "resources": "Πόροι"
     },
     "markdownviewer_jsx": {
@@ -493,9 +493,9 @@
     "posts_index": {
         "empty_feed_1": "Φαίνεται πως δεν ακολουθείτε κάποιον ακόμα",
         "empty_feed_2": "Αν ακολουθήσατε πρόσφατα νέους χρήστες, η προσωποποιημένη σας ροή θα γεμίσει μόλις γίνει διαθέσιμο νέο περιεχόμενο",
-        "empty_feed_3": "Explore Trending Articles",
-        "empty_feed_4": "Read The Quick Start Guide",
-        "empty_feed_5": "Browse The FAQ"
+        "empty_feed_3": "Εξερευνήστε Δημοφιλείς Αναρτήσεις",
+        "empty_feed_4": "Διαβάστε τον Οδηγό Γρήγορης Εκκίνησης",
+        "empty_feed_5": "Περιηγηθείτε στις Συχνές Ερωτήσεις"
     },
     "transferhistoryrow_jsx": {
         "to_savings": "to savings",

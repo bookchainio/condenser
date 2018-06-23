@@ -476,23 +476,23 @@
         "about_app": "About %(APP_NAME)s",
         "about_app_details": "%(APP_NAME)s is a social media platform where everyone gets paid for creating and curating content. It leverages a robust digital points system, called Steem, that supports real value for digital rewards through market price discovery and liquidity.",
         "learn_more_at_app_url": "Learn more at %(APP_URL)s",
-        "resources": "Resources"
+        "resources": "Πόροι"
     },
     "markdownviewer_jsx": {
-        "images_were_hidden_due_to_low_ratings": "Images were hidden due to low ratings."
+        "images_were_hidden_due_to_low_ratings": "Οι εικόνες έχουν κρυφτεί λόγω χαμηλής βαθμολογίας."
     },
     "postsummary_jsx": {
-        "resteemed": "resteemed",
-        "resteemed_by": "Resteemed by",
-        "reveal_it": "Reveal this post",
-        "adjust_your": "adjust your",
-        "display_preferences": "display preferences",
-        "create_an_account": "create an account",
-        "to_save_your_preferences": "to save your preferences"
+        "resteemed": "έγινε resteem",
+        "resteemed_by": "Resteem από",
+        "reveal_it": "Εμφάνιση της ανάρτησης",
+        "adjust_your": "ρυθμίστε τις",
+        "display_preferences": "επιλογές προβολής σας",
+        "create_an_account": "δημιουργήστε λογαριασμό",
+        "to_save_your_preferences": "για να αποθηκεύσετε τις προτιμήσεις σας"
     },
     "posts_index": {
-        "empty_feed_1": "Looks like you haven't followed anything yet",
-        "empty_feed_2": "If you recently added new users to follow, your personalized feed will populate once new content is available",
+        "empty_feed_1": "Φαίνεται πως δεν ακολουθείτε κάποιον ακόμα",
+        "empty_feed_2": "Αν ακολουθήσατε πρόσφατα νέους χρήστες, η προσωποποιημένη σας ροή θα γεμίσει μόλις γίνει διαθέσιμο νέο περιεχόμενο",
         "empty_feed_3": "Explore Trending Articles",
         "empty_feed_4": "Read The Quick Start Guide",
         "empty_feed_5": "Browse The FAQ"
@@ -581,15 +581,15 @@
         "name_is_too_long": "Name is too long",
         "name_must_not_begin_with": "Name must not begin with @",
         "about_is_too_long": "About is too long",
-        "location_is_too_long": "Location is too long",
-        "website_url_is_too_long": "Website URL is too long",
-        "public_profile_settings": "Public Profile Settings",
-        "private_post_display_settings": "Private Post Display Settings",
-        "not_safe_for_work_nsfw_content": "Not safe for work (NSFW) content",
-        "always_hide": "Always hide",
-        "always_warn": "Always warn",
-        "always_show": "Always show",
-        "muted_users": "Muted Users",
+        "location_is_too_long": "Η τοποθεσία είναι πολύ μεγάλη",
+        "website_url_is_too_long": "Η διεύθυνση URL είναι πολύ μεγάλη",
+        "public_profile_settings": "Ρυθμίσεις Δημοσίου Προφίλ",
+        "private_post_display_settings": "Ρυθμίσεις Εμφάνισης Ιδιωτικών Αναρτήσεων",
+        "not_safe_for_work_nsfw_content": "Περιεχόμενο μη-ασφαλές για εργασιακό περιβάλλον (NSFW)",
+        "always_hide": "Πάντα απόκρυψη",
+        "always_warn": "Πάντα προειδοποίηση",
+        "always_show": "Πάντα εμφάνιση",
+        "muted_users": "Χρήστες σε Σίγαση",
         "update": "Update",
         "profile_image_url": "Profile picture url",
         "cover_image_url": "Cover image url",

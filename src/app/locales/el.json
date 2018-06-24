@@ -459,8 +459,8 @@
         "DEBT_TOKEN_will_be_unavailable": "Αυτή η ενέργεια θα γίνει σε 3,5 ημέρες από τώρα και δε μπορεί να ακυρωθεί. Τα %(DEBT_TOKEN)s θα γίνουν μη διαθέσιμα άμεσα"
     },
     "tips_js": {
-        "liquid_token": "Tradeable tokens that may be transferred anywhere at anytime.<br/>%(LIQUID_TOKEN)s can be converted to %(VESTING_TOKEN)s in a process called powering up.",
-        "influence_token": "Influence tokens which give you more control over post payouts and allow you to earn on curation rewards.",
+        "liquid_token": "Ανταλλασσόμενο νόμισμα που μπορεί να μεταφερθεί οποτεδήποτε και οπουδήποτε.<br/>Τα %(LIQUID_TOKEN)s μπορούν να μετατραπούν σε %(VESTING_TOKEN)s μέσω της διαδικασίας Power Up.",
+        "influence_token": "Νόμισμα που σας δίνει μεγαλύτερο έλεγχο πάνω στις επιβραβεύσεις μιας ανάρτησης αλλά και σας επιτρέπει να κερδίσετε περισσότερες ανταμοιβές επιμελητή.",
         "estimated_value": "The estimated value is based on an average value of %(LIQUID_TOKEN)s in US dollars.",
         "non_transferable": "%(VESTING_TOKEN)s is non-transferable and requires 3 months (13 payments) to convert back to %(LIQUID_TOKEN)s.",
         "converted_VESTING_TOKEN_can_be_sent_to_yourself_but_can_not_transfer_again": "Converted %(VESTING_TOKEN)s can be sent to yourself or someone else but can not transfer again without converting back to %(LIQUID_TOKEN)s.",
@@ -615,7 +615,7 @@
         "to": "Προς",
         "asset_currently_collecting": "%(asset)s currently collecting %(interest)s%% APR.",
         "beware_of_spam_and_phishing_links": "Beware of spam and phishing links in transfer memos. Do not open links from users you do not trust. Do not provide your private keys to any third party websites.",
-        "autocomplete_previous_transfers": "previous transfers",
+        "autocomplete_previous_transfers": "προηγούμενες μεταφορές",
         "autocomplete_user_following": "ακολουθείτε"
     },
     "userwallet_jsx": {
@@ -644,11 +644,11 @@
         "delegating": "You are delegating %(AMOUNT)s %(LIQUID_TICKER)s. That amount is locked up and not available to power down until the delegation is removed and a full reward period has passed.",
         "per_week": "That's ~%(AMOUNT)s %(LIQUID_TICKER)s per week.",
         "warning": "Leaving less than %(AMOUNT)s %(VESTING_TOKEN)s in your account is not recommended and can leave your account in a unusable state.",
-        "error": "Unable to power down (ERROR: %(MESSAGE)s)"
+        "error": "Αδυναμία Power Down (ΣΦΑΛΜΑ: %(MESSAGE)s)"
     },
     "checkloginowner_jsx": {
         "your_password_permissions_were_reduced": "Your password permissions were reduced",
-        "if_you_did_not_make_this_change": "If you did not make this change please",
+        "if_you_did_not_make_this_change": "Αν δεν κάνατε αυτή την αλλαγή",
         "ownership_changed_on": "Η Ιδιοκτησία Άλλαξες στις ",
         "deadline_for_recovery_is": "Η προθεσμία για ανάκτηση λογαριασμού είναι",
         "i_understand_dont_show_again": "Το κατάλαβα, μη μου το ξαναδείξετε"

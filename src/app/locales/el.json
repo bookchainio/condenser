@@ -453,7 +453,7 @@
         "after_printing_write_down_your_user_name": "Αφού εκτυπωθεί, γράψτε το όνομα χρήστη σας"
     },
     "converttosteem_jsx": {
-        "your_existing_DEBT_TOKEN_are_liquid_and_transferable": "Your existing %(DEBT_TOKEN)s are liquid and transferable. Instead you may wish to trade %(DEBT_TOKEN)s directly in this site under %(link)s or transfer to an external market.",
+        "your_existing_DEBT_TOKEN_are_liquid_and_transferable": "Τα τρέχοντα %(DEBT_TOKEN)s είναι ρευστά και μεταφερόμενα. Αντί αυτού, μπορείτε να ανταλλάξετε %(DEBT_TOKEN)s απ'ευθείας από το site στο %(link)s ή να τα μεταφέρετε σε κάποιο εξωτερικό ανταλλακτήριο.",
         "this_is_a_price_feed_conversion": "Αυτή είναι μια μετατροπή ροής τιμών. Η καθυστέρηση των 3,5 ημερών είναι αναγκαία για να μη γίνει κατάχρηση του μέσου όρου της ροής τιμών",
         "convert_to_LIQUID_TOKEN": "Μετατροπή σε %(LIQUID_TOKEN)s",
         "DEBT_TOKEN_will_be_unavailable": "Αυτή η ενέργεια θα γίνει σε 3,5 ημέρες από τώρα και δε μπορεί να ακυρωθεί. Τα %(DEBT_TOKEN)s θα γίνουν μη διαθέσιμα άμεσα"
@@ -463,8 +463,8 @@
         "influence_token": "Νόμισμα που σας δίνει μεγαλύτερο έλεγχο πάνω στις επιβραβεύσεις μιας ανάρτησης αλλά και σας επιτρέπει να κερδίσετε περισσότερες ανταμοιβές επιμελητή.",
         "estimated_value": "Η εκτιμώμενη αξία είναι βασισμένη στην μέση αξία του %(LIQUID_TOKEN)s σε Δολάρια Η.Π.Α.",
         "non_transferable": "Τα %(VESTING_TOKEN)s είναι μη-μεταφερόμενα και απαιτούν 3 μήνες (13 πληρωμές) για να μετατραπούν σε %(LIQUID_TOKEN)s.",
-        "converted_VESTING_TOKEN_can_be_sent_to_yourself_but_can_not_transfer_again": "Converted %(VESTING_TOKEN)s can be sent to yourself or someone else but can not transfer again without converting back to %(LIQUID_TOKEN)s.",
-        "part_of_your_steem_power_is_currently_delegated": "Part of %(user_name)s's STEEM POWER is currently delegated. Delegation is donated for influence or to help new users perform actions on steemit. Your delegation amount can fluctuate."
+        "converted_VESTING_TOKEN_can_be_sent_to_yourself_but_can_not_transfer_again": "Τα μετατρεπόμενα %(VESTING_TOKEN)s μπορούν να αποσταλούν στον εαυτό σας ή σε κάποιον άλλο, αλλά δε μπορούν να ξαναμεταφερθούν αν δεν μετατραπούν πρώτα σε %(LIQUID_TOKEN)s.",
+        "part_of_your_steem_power_is_currently_delegated": "Μέρος του STEEM POWER του χρήστη %(user_name)s είναι δανεισμένο. Ο δανεισμός χρησιμοποιείται για να αυξημένη επιρροή ή για να βοηθήσει τους νέους χρήστες του Steemit να εκτελέσουν περισσότερες ενέργειες. Το ποσό δανεισμού μπορεί να παρουσιάσει διακυμάνσεις."
     },
     "promote_post_jsx": {
         "promote_post": "Προώθηση Ανάρτησης",
@@ -613,8 +613,8 @@
         "withdraw_funds_after_the_required_3_day_waiting_period": "Κάνετε ανάληψη των χρημάτων σας μετά από τις απαιτούμενες 3 ημέρες αναμονής.",
         "from": "Από",
         "to": "Προς",
-        "asset_currently_collecting": "%(asset)s currently collecting %(interest)s%% APR.",
-        "beware_of_spam_and_phishing_links": "Beware of spam and phishing links in transfer memos. Do not open links from users you do not trust. Do not provide your private keys to any third party websites.",
+        "asset_currently_collecting": "%(asset)s που τοκίζονται με %(interest)s%% ετησίως.",
+        "beware_of_spam_and_phishing_links": "Προσοχή σε ανεπιθύμητα και σε πιθανές προσπάθειες απάτης μέσα στα σημειώματα. Μην ανοίγετε συνδέσμους από χρήστες που δεν εμπιστεύεστε. Μην δίνετε τα ιδιωτικά σας κλειδιά σε τρίτα site.",
         "autocomplete_previous_transfers": "προηγούμενες μεταφορές",
         "autocomplete_user_following": "ακολουθείτε"
     },
@@ -641,7 +641,7 @@
         "power_down": "Power Down",
         "amount": "Ποσό",
         "already_power_down": "Κάνετε ήδη power down %(AMOUNT)s %(LIQUID_TICKER)s (έχουν ήδη μεταφερθεί %(WITHDRAWN)s %(LIQUID_TICKER)s στο λογαριασμό σας). Σημειώστε πως αν αλλάξετε το ποσό προς Power Down, θα αλλάξει και το χρονοδιάγραμμα πληρωμών.",
-        "delegating": "You are delegating %(AMOUNT)s %(LIQUID_TICKER)s. That amount is locked up and not available to power down until the delegation is removed and a full reward period has passed.",
+        "delegating": "Έχετε δανείσει %(AMOUNT)s %(LIQUID_TICKER)s. Αυτό το ποσό είναι κλειδωμένο και δεν μπορεί να γίνει Power Down μέχρι να λήξει ο δανεισμός και να περάσει μια πλήρης περίοδος ανταμοιβών.",
         "per_week": "Αυτό είναι ~%(AMOUNT)s %(LIQUID_TICKER)s την εβδομάδα.",
         "warning": "Αφήνει υπόλοιπο μικρότερο από %(AMOUNT)s %(VESTING_TOKEN)s στο λογαριασμό σας, που δεν συνίσταται και μπορεί να κάνει το λογαριασμό σας άχρηστο.",
         "error": "Αδυναμία Power Down (ΣΦΑΛΜΑ: %(MESSAGE)s)"

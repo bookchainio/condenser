@@ -468,9 +468,9 @@
     },
     "promote_post_jsx": {
         "promote_post": "Προώθηση Ανάρτησης",
-        "spend_your_DEBT_TOKEN_to_advertise_this_post": "Ξοδέψτε τα %(DEBT_TOKEN)s σας για να διαφημίσετε την ανάρτησή σας στην ενότητα προωθημένου περιεχομένου",
-        "you_successfully_promoted_this_post": "You successfully promoted this post",
-        "this_post_was_hidden_due_to_low_ratings": "This post was hidden due to low ratings"
+        "spend_your_DEBT_TOKEN_to_advertise_this_post": "Ξοδέψτε τα %(DEBT_TOKEN)s σας για να διαφημίσετε αυτή την ανάρτησή στην ενότητα προωθημένου περιεχομένου",
+        "you_successfully_promoted_this_post": "Προωθήσατε αυτή την ανάρτηση επιτυχώς",
+        "this_post_was_hidden_due_to_low_ratings": "Η ανάρτηση έχει αποκρυφτεί λόγω χαμηλής βαθμολογίας"
     },
     "about_jsx": {
         "about_app": "Σχετικά με το %(APP_NAME)s",
@@ -498,42 +498,42 @@
         "empty_feed_5": "Περιηγηθείτε στις Συχνές Ερωτήσεις"
     },
     "transferhistoryrow_jsx": {
-        "to_savings": "to savings",
-        "from_savings": "from savings",
-        "cancel_transfer_from_savings": "Cancel transfer from savings",
-        "stop_power_down": "Stop power down",
-        "start_power_down_of": "Start power down of",
-        "receive_interest_of": "Receive interest of"
+        "to_savings": "στην αποταμίευση",
+        "from_savings": "από την αποταμίευση",
+        "cancel_transfer_from_savings": "Ακύρωση μεταφοράς από την αποταμίευση",
+        "stop_power_down": "Ακύρωση Power Down",
+        "start_power_down_of": "Εκκίνηση Power Down",
+        "receive_interest_of": "Λάβετε επιτόκιο"
     },
     "savingswithdrawhistory_jsx": {
-        "cancel_this_withdraw_request": "Cancel this withdraw request?",
-        "pending_savings_withdrawals": "PENDING SAVINGS WITHDRAWS",
-        "withdraw": "Withdraw %(amount)s",
-        "to": "to %(to)s",
-        "from_to": "from %(from)s to %(to)s"
+        "cancel_this_withdraw_request": "Ακύρωση του αιτήματος ανάληψης;",
+        "pending_savings_withdrawals": "ΑΝΑΛΗΨΕΙΣ ΑΠΟΤΑΜΙΕΥΣΕΩΝ ΣΕ ΑΝΑΜΟΝΗ",
+        "withdraw": "Ανάληψη %(amount)s",
+        "to": "σε %(to)s",
+        "from_to": "από %(from)s σε %(to)s"
     },
     "explorepost_jsx": {
-        "copied": "Copied!",
-        "copy": "COPY",
-        "alternative_sources": "Alternative Sources"
+        "copied": "Αντιγράφηκε!",
+        "copy": "ΑΝΤΙΓΡΑΦΗ",
+        "alternative_sources": "Εναλλακτικές Πηγές"
     },
     "header_jsx": {
-        "home": "home",
-        "create_a_post": "Create a post",
-        "change_account_password": "Change Account Password",
-        "create_account": "Create Account",
-        "stolen_account_recovery": "Stolen Account Recovery",
-        "people_following": "People following",
-        "people_followed_by": "People followed by",
-        "curation_rewards_by": "Curation rewards by",
-        "author_rewards_by": "Author rewards by",
-        "replies_to": "Replies to",
-        "comments_by": "Comments by"
+        "home": "αρχική",
+        "create_a_post": "Δημιουργία ανάρτησης",
+        "change_account_password": "Αλλαγή Κωδικού Πρόσβασης Λογαριασμού",
+        "create_account": "Δημιουργία λογαριασμού",
+        "stolen_account_recovery": "Ανάκτηση Κλεμμένου Λογαριασμού",
+        "people_following": "Άνθρωποι που ακολουθούν τον/την",
+        "people_followed_by": "Άνθρωποι που ακολουθούνται από",
+        "curation_rewards_by": "Ανταμοιβές επιμέλειας από",
+        "author_rewards_by": "Ανταμοιβές δημιουργού από",
+        "replies_to": "Απαντήσεις προς",
+        "comments_by": "Σχόλια από"
     },
     "loginform_jsx": {
-        "you_need_a_private_password_or_key": "You need a private password or key (not a public key)",
-        "cryptography_test_failed": "Cryptography test failed",
-        "unable_to_log_you_in": "We will be unable to log you in with this browser.",
+        "you_need_a_private_password_or_key": "Χρειάζεστε τον κωδικό ή ιδιωτικό κλειδί (όχι το δημόσιο κλειδί)",
+        "cryptography_test_failed": "Η δοκιμή κρυπτογράφησης απέτυχε",
+        "unable_to_log_you_in": "Δεν μπορούμε να σας επιτρέψουμε την είσοδο από αυτό το πρόγραμμα περιήγησης.",
         "the_latest_versions_of": "The latest versions of ",
         "are_well_tested_and_known_to_work_with": "are well tested and known to work with %(APP_URL)s.",
         "due_to_server_maintenance": "Due to server maintenance we are running in read only mode. We are sorry for the inconvenience.",

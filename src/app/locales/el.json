@@ -381,9 +381,9 @@
     },
     "voting_jsx": {
         "flagging_post_can_remove_rewards_the_flag_should_be_used_for_the_following": "Η επισήμανση μιας ανάρτησης μπορεί να αφαιρέσει τις ανταμοιβές και να κάνει την ανάρτηση λιγότερο ορατή. Κάποιοι συχνοί λόγοι για επισήμανση",
-        "disagreement_on_rewards": "Ασυμφωνία ανταμοιβών",
+        "disagreement_on_rewards": "Ασυμφωνία επί των ανταμοιβών",
         "fraud_or_plagiarism": "Απάτη ή κλοπή",
-        "hate_speech_or_internet_trolling": "Ρητορική Μίσους ή Κοροϊδεία",
+        "hate_speech_or_internet_trolling": "Ρητορική Μίσους ή Κοροϊδία",
         "intentional_miss_categorized_content_or_spam": "Λάθος κατηγοριοποίηση από πρόθεση ή Ανεπιθύμητο περιεχόμενο",
         "pending_payout": "Πληρωμή σε Εκκρεμότητα $%(value)s",
         "payout_declined": "Άρνηση Πληρωμής",
@@ -444,7 +444,7 @@
         "the_active_key_is_used_to_make_transfers_and_place_orders": "Το ενεργό κλειδί χρησιμοποιείται για μεταφορές και αγοραπωλησίες στο εσωτερικό ανταλλακτήριο.",
         "the_owner_key_is_required_to_change_other_keys": "Το κλειδί ιδιοκτήτη είναι το κυρίως κλειδί του λογαριασμού και είναι απαραίτητο για να αλλάξουν τα άλλα κλειδιά.",
         "the_private_key_or_password_should_be_kept_offline": "Το ιδιωτικό κλειδί και ο κωδικός για το κλειδί ιδιοκτήτη θα πρέπει να διατηρούνται όσο περισσότερο γίνεται εκτός σύνδεσης.",
-        "the_memo_key_is_used_to_create_and_read_memos": "Το κλειδί μηνυμάτων χρησιμοποιείται για δημιουργία και ανάγνωση μηνυμάτων."
+        "the_memo_key_is_used_to_create_and_read_memos": "Το κλειδί σημειωμάτων χρησιμοποιείται για δημιουργία και ανάγνωση μηνυμάτων."
     },
     "suggestpassword_jsx": {
         "APP_NAME_cannot_recover_passwords_keep_this_page_in_a_secure_location": "Το %(APP_NAME)s δεν μπορεί να ανακτήσει κωδικούς πρόσβασης. Κρατήστε την σελίδα σε ένα ασφαλές σημείο, όπως για παράδειγμα ένα πυρίμαχο χρηματοκιβώτιο ή μια θυρίδα ασφαλείας.",
@@ -461,8 +461,8 @@
     "tips_js": {
         "liquid_token": "Ανταλλασσόμενο νόμισμα που μπορεί να μεταφερθεί οποτεδήποτε και οπουδήποτε.<br/>Τα %(LIQUID_TOKEN)s μπορούν να μετατραπούν σε %(VESTING_TOKEN)s μέσω της διαδικασίας Power Up.",
         "influence_token": "Νόμισμα που σας δίνει μεγαλύτερο έλεγχο πάνω στις επιβραβεύσεις μιας ανάρτησης αλλά και σας επιτρέπει να κερδίσετε περισσότερες ανταμοιβές επιμελητή.",
-        "estimated_value": "The estimated value is based on an average value of %(LIQUID_TOKEN)s in US dollars.",
-        "non_transferable": "%(VESTING_TOKEN)s is non-transferable and requires 3 months (13 payments) to convert back to %(LIQUID_TOKEN)s.",
+        "estimated_value": "Η εκτιμώμενη αξία είναι βασισμένη στην μέση αξία του %(LIQUID_TOKEN)s σε Δολάρια Η.Π.Α.",
+        "non_transferable": "Τα %(VESTING_TOKEN)s είναι μη-μεταφερόμενα και απαιτούν 3 μήνες (13 πληρωμές) για να μετατραπούν σε %(LIQUID_TOKEN)s.",
         "converted_VESTING_TOKEN_can_be_sent_to_yourself_but_can_not_transfer_again": "Converted %(VESTING_TOKEN)s can be sent to yourself or someone else but can not transfer again without converting back to %(LIQUID_TOKEN)s.",
         "part_of_your_steem_power_is_currently_delegated": "Part of %(user_name)s's STEEM POWER is currently delegated. Delegation is donated for influence or to help new users perform actions on steemit. Your delegation amount can fluctuate."
     },
@@ -574,7 +574,7 @@
         "have_only_letters_digits_or_dashes": "να έχει μόνο γράμματα, αριθμούς ή παύλες.",
         "have_only_one_dash_in_a_row": "να μην έχει πάνω από μια συνεχόμενες πάυλες.",
         "end_with_a_letter_or_digit": "τελειώνει με γράμμα ή αριθμό.",
-        "verified_exchange_no_memo": "You must include a memo for your exchange transfer."
+        "verified_exchange_no_memo": "Πρέπει να συμπληρώσετε ένα σημείωμα για την μεταφορά προς ανταλλαγή."
     },
     "settings_jsx": {
         "invalid_url": "Μη έγκυρη διεύθυνση URL",
@@ -604,13 +604,13 @@
         "use_only_3_digits_of_precison": "Χρησιμοποιήστε μόνο 3 ψηφία ακριβείας",
         "send_to_account": "Αποστολή στο λογαριασμό",
         "asset": "Στοιχείο",
-        "this_memo_is_private": "Το μήνυμα είναι ιδιωτικό",
-        "this_memo_is_public": "Το μήνυμα είναι δημόσιο",
+        "this_memo_is_private": "Το σημείωμα είναι ιδιωτικό",
+        "this_memo_is_public": "Το σημείωμα είναι δημόσιο",
         "convert_to_VESTING_TOKEN": "Μετατροπή σε %(VESTING_TOKEN)s",
         "balance_subject_to_3_day_withdraw_waiting_period": "Διαθέσιμο υπόλοιπο που υπόκειται σε χρόνο αναμονής ανάληψης 3 ημερών,",
         "move_funds_to_another_account": "Μεταφέρετε κεφάλαιο σε έναν άλλο λογαριασμό %(APP_NAME)s.",
         "protect_funds_by_requiring_a_3_day_withdraw_waiting_period": "Προστατέψτε το κεφάλαιό σας με χρόνο αναμονής ανάληψης 3 ημερών.",
-        "withdraw_funds_after_the_required_3_day_waiting_period": "Withdraw funds after the required 3 day waiting period.",
+        "withdraw_funds_after_the_required_3_day_waiting_period": "Κάνετε ανάληψη των χρημάτων σας μετά από τις απαιτούμενες 3 ημέρες αναμονής.",
         "from": "Από",
         "to": "Προς",
         "asset_currently_collecting": "%(asset)s currently collecting %(interest)s%% APR.",
@@ -642,12 +642,12 @@
         "amount": "Ποσό",
         "already_power_down": "Κάνετε ήδη power down %(AMOUNT)s %(LIQUID_TICKER)s (έχουν ήδη μεταφερθεί %(WITHDRAWN)s %(LIQUID_TICKER)s στο λογαριασμό σας). Σημειώστε πως αν αλλάξετε το ποσό προς Power Down, θα αλλάξει και το χρονοδιάγραμμα πληρωμών.",
         "delegating": "You are delegating %(AMOUNT)s %(LIQUID_TICKER)s. That amount is locked up and not available to power down until the delegation is removed and a full reward period has passed.",
-        "per_week": "That's ~%(AMOUNT)s %(LIQUID_TICKER)s per week.",
-        "warning": "Leaving less than %(AMOUNT)s %(VESTING_TOKEN)s in your account is not recommended and can leave your account in a unusable state.",
+        "per_week": "Αυτό είναι ~%(AMOUNT)s %(LIQUID_TICKER)s την εβδομάδα.",
+        "warning": "Αφήνει υπόλοιπο μικρότερο από %(AMOUNT)s %(VESTING_TOKEN)s στο λογαριασμό σας, που δεν συνίσταται και μπορεί να κάνει το λογαριασμό σας άχρηστο.",
         "error": "Αδυναμία Power Down (ΣΦΑΛΜΑ: %(MESSAGE)s)"
     },
     "checkloginowner_jsx": {
-        "your_password_permissions_were_reduced": "Your password permissions were reduced",
+        "your_password_permissions_were_reduced": "Τα δικαιώματα του κωδικού σας έχον μειωθεί",
         "if_you_did_not_make_this_change": "Αν δεν κάνατε αυτή την αλλαγή",
         "ownership_changed_on": "Η Ιδιοκτησία Άλλαξες στις ",
         "deadline_for_recovery_is": "Η προθεσμία για ανάκτηση λογαριασμού είναι",

@@ -380,7 +380,7 @@
         "comments_were_hidden_due_to_low_ratings": "Κάποια σχόλια έχουν αποκρυφτεί λόγω χαμηλών βαθμολογιών"
     },
     "voting_jsx": {
-        "flagging_post_can_remove_rewards_the_flag_should_be_used_for_the_following": "Flagging a post can remove rewards and make this material less visible. Some common reasons to flag",
+        "flagging_post_can_remove_rewards_the_flag_should_be_used_for_the_following": "Η επισήμανση μιας ανάρτησης μπορεί να αφαιρέσει τις ανταμοιβές και να κάνει την ανάρτηση λιγότερο ορατή. Κάποιοι συχνοί λόγοι για επισήμανση",
         "disagreement_on_rewards": "Ασυμφωνία ανταμοιβών",
         "fraud_or_plagiarism": "Απάτη ή κλοπή",
         "hate_speech_or_internet_trolling": "Ρητορική Μίσους ή Κοροϊδεία",
@@ -396,7 +396,7 @@
         "removing_your_vote": "Αφαίρεση της ψήφου σας",
         "changing_to_an_upvote": "Εναλλαγή σε Ψήφο",
         "changing_to_a_downvote": "Εναλλαγή σε Καταψήφιση",
-        "confirm_flag": "Confirm Flag",
+        "confirm_flag": "Επιβεβαίωση Επισήμανσης",
         "and_more": "και %(count)s ακόμα",
         "votes_plural": {
             "one": "%(count)s ψήφος",
@@ -432,7 +432,7 @@
         "vote_count": {
             "zero": "καμία ψήφος",
             "one": "1 ψήφος",
-            "other": "%(count)s votes"
+            "other": "%(count)s ψήφοι"
         }
     },
     "userkeys_jsx": {
@@ -447,16 +447,16 @@
         "the_memo_key_is_used_to_create_and_read_memos": "Το κλειδί μηνυμάτων χρησιμοποιείται για δημιουργία και ανάγνωση μηνυμάτων."
     },
     "suggestpassword_jsx": {
-        "APP_NAME_cannot_recover_passwords_keep_this_page_in_a_secure_location": "%(APP_NAME)s cannot recover passwords. Keep this page in a secure location, such as a fireproof safe or safety deposit box.",
-        "APP_NAME_password_backup": "%(APP_NAME)s Password Backup",
-        "APP_NAME_password_backup_required": "%(APP_NAME)s Password Backup (required)",
+        "APP_NAME_cannot_recover_passwords_keep_this_page_in_a_secure_location": "Το %(APP_NAME)s δεν μπορεί να ανακτήσει κωδικούς πρόσβασης. Κρατήστε την σελίδα σε ένα ασφαλές σημείο, όπως για παράδειγμα ένα πυρίμαχο χρηματοκιβώτιο ή μια θυρίδα ασφαλείας.",
+        "APP_NAME_password_backup": "%(APP_NAME)s Αντίγραφο Ασφαλείας Κωδικού",
+        "APP_NAME_password_backup_required": "%(APP_NAME)s Αντίγραφο Ασφαλείας Κωδικού (απαιτείται)",
         "after_printing_write_down_your_user_name": "Αφού εκτυπωθεί, γράψτε το όνομα χρήστη σας"
     },
     "converttosteem_jsx": {
         "your_existing_DEBT_TOKEN_are_liquid_and_transferable": "Your existing %(DEBT_TOKEN)s are liquid and transferable. Instead you may wish to trade %(DEBT_TOKEN)s directly in this site under %(link)s or transfer to an external market.",
-        "this_is_a_price_feed_conversion": "This is a price feed conversion. The 3.5 day delay is necessary to prevent abuse from gaming the price feed average",
+        "this_is_a_price_feed_conversion": "Αυτή είναι μια μετατροπή ροής τιμών. Η καθυστέρηση των 3,5 ημερών είναι αναγκαία για να μη γίνει κατάχρηση του μέσου όρου της ροής τιμών",
         "convert_to_LIQUID_TOKEN": "Μετατροπή σε %(LIQUID_TOKEN)s",
-        "DEBT_TOKEN_will_be_unavailable": "This action will take place 3.5 days from now and can not be canceled. These %(DEBT_TOKEN)s will immediately become unavailable"
+        "DEBT_TOKEN_will_be_unavailable": "Αυτή η ενέργεια θα γίνει σε 3,5 ημέρες από τώρα και δε μπορεί να ακυρωθεί. Τα %(DEBT_TOKEN)s θα γίνουν μη διαθέσιμα άμεσα"
     },
     "tips_js": {
         "liquid_token": "Tradeable tokens that may be transferred anywhere at anytime.<br/>%(LIQUID_TOKEN)s can be converted to %(VESTING_TOKEN)s in a process called powering up.",
@@ -467,8 +467,8 @@
         "part_of_your_steem_power_is_currently_delegated": "Part of %(user_name)s's STEEM POWER is currently delegated. Delegation is donated for influence or to help new users perform actions on steemit. Your delegation amount can fluctuate."
     },
     "promote_post_jsx": {
-        "promote_post": "Promote Post",
-        "spend_your_DEBT_TOKEN_to_advertise_this_post": "Spend your %(DEBT_TOKEN)s's to advertise this post in the promoted content section",
+        "promote_post": "Προώθηση Ανάρτησης",
+        "spend_your_DEBT_TOKEN_to_advertise_this_post": "Ξοδέψτε τα %(DEBT_TOKEN)s σας για να διαφημίσετε την ανάρτησή σας στην ενότητα προωθημένου περιεχομένου",
         "you_successfully_promoted_this_post": "You successfully promoted this post",
         "this_post_was_hidden_due_to_low_ratings": "This post was hidden due to low ratings"
     },

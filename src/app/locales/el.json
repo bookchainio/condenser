@@ -635,11 +635,11 @@
         "transfers_are_temporary_disabled": "Οι μεταφορές είναι προσωρινά απενεργοποιημένες.",
         "history": "ΙΣΤΟΡΙΚΟ",
         "redeem_rewards": "Εξαργύρωση Ανταμοιβών (Μεταφορά στο Υπόλοιπο)",
-        "buy_steem_or_steem_power": "Buy STEEM or STEEM POWER"
+        "buy_steem_or_steem_power": "Αγορά STEEM ή STEEM POWER"
     },
     "powerdown_jsx": {
         "power_down": "Power Down",
-        "amount": "Amount",
+        "amount": "Ποσό",
         "already_power_down": "You are already powering down %(AMOUNT)s %(LIQUID_TICKER)s (%(WITHDRAWN)s %(LIQUID_TICKER)s paid out so far). Note that if you change the power down amount the payout schedule will reset.",
         "delegating": "You are delegating %(AMOUNT)s %(LIQUID_TICKER)s. That amount is locked up and not available to power down until the delegation is removed and a full reward period has passed.",
         "per_week": "That's ~%(AMOUNT)s %(LIQUID_TICKER)s per week.",

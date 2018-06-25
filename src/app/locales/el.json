@@ -572,7 +572,7 @@
         "each_account_segment_should": "Κάθε τμήμα του λογαριασμού πρέπει ",
         "start_with_a_letter": "να ξεκινάει με γράμμα.",
         "have_only_letters_digits_or_dashes": "να έχει μόνο γράμματα, αριθμούς ή παύλες.",
-        "have_only_one_dash_in_a_row": "να μην έχει πάνω από μια συνεχόμενες πάυλες.",
+        "have_only_one_dash_in_a_row": "να μην έχει πάνω από μια συνεχόμενες παύλες.",
         "end_with_a_letter_or_digit": "τελειώνει με γράμμα ή αριθμό.",
         "verified_exchange_no_memo": "Πρέπει να συμπληρώσετε ένα σημείωμα για την μεταφορά προς ανταλλαγή."
     },
@@ -643,12 +643,12 @@
         "already_power_down": "Κάνετε ήδη power down %(AMOUNT)s %(LIQUID_TICKER)s (έχουν ήδη μεταφερθεί %(WITHDRAWN)s %(LIQUID_TICKER)s στο λογαριασμό σας). Σημειώστε πως αν αλλάξετε το ποσό προς Power Down, θα αλλάξει και το χρονοδιάγραμμα πληρωμών.",
         "delegating": "Έχετε δανείσει %(AMOUNT)s %(LIQUID_TICKER)s. Αυτό το ποσό είναι κλειδωμένο και δεν μπορεί να γίνει Power Down μέχρι να λήξει ο δανεισμός και να περάσει μια πλήρης περίοδος ανταμοιβών.",
         "per_week": "Αυτό είναι ~%(AMOUNT)s %(LIQUID_TICKER)s την εβδομάδα.",
-        "warning": "Αφήνει υπόλοιπο μικρότερο από %(AMOUNT)s %(VESTING_TOKEN)s στο λογαριασμό σας, που δεν συνίσταται και μπορεί να κάνει το λογαριασμό σας άχρηστο.",
+        "warning": "Το να αφήσετε υπόλοιπο μικρότερο από %(AMOUNT)s %(VESTING_TOKEN)s στο λογαριασμό σας δε συνίσταται και μπορεί να τον καταστήσει άχρηστο.",
         "error": "Αδυναμία Power Down (ΣΦΑΛΜΑ: %(MESSAGE)s)"
     },
     "checkloginowner_jsx": {
-        "your_password_permissions_were_reduced": "Τα δικαιώματα του κωδικού σας έχον μειωθεί",
-        "if_you_did_not_make_this_change": "Αν δεν κάνατε αυτή την αλλαγή",
+        "your_password_permissions_were_reduced": "Τα δικαιώματα του κωδικού σας έχουν μειωθεί",
+        "if_you_did_not_make_this_change": "Αν δεν κάνατε αυτή την αλλαγή παρακαλώ",
         "ownership_changed_on": "Η Ιδιοκτησία Άλλαξες στις ",
         "deadline_for_recovery_is": "Η προθεσμία για ανάκτηση λογαριασμού είναι",
         "i_understand_dont_show_again": "Το κατάλαβα, μη μου το ξαναδείξετε"

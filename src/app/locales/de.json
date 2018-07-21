@@ -211,7 +211,7 @@
             "other": "%(count)s Antworten"
         },
         "post_key_warning": {
-            "confirm": "Sie sind gerade dabei Ihren STEEM-Private-Key oder Ihr Master-Passwort zu veröffentlichen. Damit werden Sie voraussichtlich Zugang zu dem dazugehörigen Account und seinem Guthaben verlieren.",
+            "confirm": "Sie sind gerade dabei Ihren Steem-Private-Key oder Ihr Master-Passwort zu veröffentlichen. Damit werden Sie voraussichtlich Zugang zu dem dazugehörigen Account und seinem Guthaben verlieren.",
             "warning": "Seriöse User, einschließlich Angestellte von Steemit Inc., werden niemals nach Ihrem Private-Key oder Master-Passwort fragen.",
             "checkbox": "Verstanden"
         }
@@ -220,8 +220,8 @@
         "about": "Über uns",
         "explore": "Entdecken",
         "APP_NAME_whitepaper": "%(APP_NAME)s Whitepaper",
-        "buy_LIQUID_TOKEN": "Buy %(LIQUID_TOKEN)s",
-        "sell_LIQUID_TOKEN": "Sell %(LIQUID_TOKEN)s",
+        "buy_LIQUID_TOKEN": "Kaufe %(LIQUID_TOKEN)s",
+        "sell_LIQUID_TOKEN": "Verkaufe %(LIQUID_TOKEN)s",
         "currency_market": "Currency Market",
         "stolen_account_recovery": "Stolen Accounts Recovery",
         "change_account_password": "Change Account Password",
@@ -233,7 +233,7 @@
         "learn_more": "Learn More",
         "welcome": "Welcome",
         "faq": "FAQ",
-        "shop": "The Steemit Shop",
+        "shop": "Der Steemit Shop",
         "chat": "Steemit Chat",
         "app_center": "Steemit App Center",
         "api_docs": "Steemit API Docs",
@@ -252,23 +252,23 @@
         "exceeds_maximum_length": "Exceeds maximum length (%(maxKb)sKB)",
         "including_the_category": " (including the category '%(rootCategory)s')",
         "use_limited_amount_of_tags": "You have %(tagsLength)s tags total%(includingCategory)s. Please use only 5 in your post and category line.",
-        "are_you_sure_you_want_to_clear_this_form": "Are you sure you want to clear this form?",
-        "uploading": "Uploading",
-        "draft_saved": "Draft saved.",
+        "are_you_sure_you_want_to_clear_this_form": "Sind Sie sicher, dass Sie den Inhalt der Eingabemaske löschen möchten?",
+        "uploading": "Wird hochgeladen",
+        "draft_saved": "Entwurf gespeichert.",
         "editor": "Editor",
         "insert_images_by_dragging_dropping": "Insert images by dragging & dropping, ",
         "pasting_from_the_clipboard": "pasting from the clipboard, ",
         "selecting_them": "selecting them",
         "image_upload": "Image upload",
         "power_up_100": "Power Up 100%%",
-        "default_50_50": "Default (50%% / 50%%)",
+        "default_50_50": "Standard (50%% / 50%%)",
         "decline_payout": "Decline Payout",
         "check_this_to_auto_upvote_your_post": "Check this to auto-upvote your post",
         "markdown_styling_guide": "Markdown Styling Guide",
         "or_by": "or by",
-        "title": "Title",
+        "title": "Titel",
         "update_post": "Update Post",
-        "markdown_not_supported": "Markdown is not supported here"
+        "markdown_not_supported": "Markdown wird hier nicht unterstützt"
     },
     "category_selector_jsx": {
         "tag_your_story": "Tag (up to 5 tags), the first tag is your main category.",

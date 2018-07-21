@@ -160,15 +160,15 @@
         "incorrect_password": "falsches Passwort",
         "username_does_not_exist": "Benutzername existiert nicht",
         "account_name_should_start_with_a_letter": "Der Account-Name sollte mit einem Buchstaben beginnen.",
-        "account_name_should_be_shorter": "Account name should be shorter.",
-        "account_name_should_be_longer": "Account name should be longer.",
+        "account_name_should_be_shorter": "Der Account-Name sollte kürzer sein.",
+        "account_name_should_be_longer": "Der Account-Name sollte länger sein.",
         "account_name_should_have_only_letters_digits_or_dashes": "Account name should have only letters, digits, periods or dashes.",
         "cannot_increase_reward_of_post_within_the_last_minute_before_payout": "Cannot increase reward of post within the last minute before payout",
         "vote_currently_exists_user_must_be_indicate_a_to_reject_witness": "vote currently exists, user must be indicate a desire to reject witness",
         "only_one_APP_NAME_account_allowed_per_ip_address_every_10_minutes": "Only one Steem account allowed per IP address every 10 minutes",
         "resteem_this_post": "Resteem This Post",
         "reblog": "Resteem",
-        "write_your_story": "Write your story",
+        "write_your_story": "Verfassen Sie Ihre Geschichte",
         "remember_voting_and_posting_key": "Remember voting & posting key",
         "auto_login_question_mark": "Auto login?",
         "hide_private_key": "Hide private key",
@@ -206,19 +206,19 @@
             "other": "%(count)s Views"
         },
         "responses": {
-            "zero": "No Responses",
-            "one": "%(count)s Response",
-            "other": "%(count)s Responses"
+            "zero": "Keine Antworten",
+            "one": "%(count)s Antwort",
+            "other": "%(count)s Antworten"
         },
         "post_key_warning": {
-            "confirm": "You are about to publish a STEEM private key or master password. You will probably lose control of the associated account and all its funds.",
-            "warning": "Legitimate users, including employees of Steemit Inc., will never ask you for a private key or master password.",
-            "checkbox": "I understand"
+            "confirm": "Sie sind gerade dabei Ihren STEEM-Private-Key oder Ihr Master-Passwort zu veröffentlichen. Damit werden Sie voraussichtlich Zugang zu dem dazugehörigen Account und seinem Guthaben verlieren.",
+            "warning": "Seriöse User, einschließlich Angestellte von Steemit Inc., werden niemals nach Ihrem Private-Key oder Master-Passwort fragen.",
+            "checkbox": "Verstanden"
         }
     },
     "navigation": {
-        "about": "About",
-        "explore": "Explore",
+        "about": "Über uns",
+        "explore": "Entdecken",
         "APP_NAME_whitepaper": "%(APP_NAME)s Whitepaper",
         "buy_LIQUID_TOKEN": "Buy %(LIQUID_TOKEN)s",
         "sell_LIQUID_TOKEN": "Sell %(LIQUID_TOKEN)s",

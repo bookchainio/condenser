@@ -185,7 +185,7 @@
         "APP_NAME_support": "%(APP_NAME)s Support",
         "please_email_questions_to": "Bitte stellen Sie Ihre Fragen an",
         "next_7_strings_single_block": {
-            "authors_get_paid_when_people_like_you_upvote_their_post": "Autoren werden bezahlt wenn Menschen wie du ihren Beitrag upvoten",
+            "authors_get_paid_when_people_like_you_upvote_their_post": "Autoren werden bezahlt wenn Menschen wie Sie ihren Beitrag upvoten",
             "if_you_enjoyed_what_you_read_earn_amount": "Wenn Ihnen Steemit gefällt, registrieren Sie sich noch heute und verdienen Sie kostenlos STEEM!",
             "free_steem": "KOSTENLOSES STEEM!",
             "sign_up_earn_steem": "Sign up now to earn "
@@ -371,7 +371,7 @@
         "author_rewards_history": "Author Rewards History"
     },
     "curationrewards_jsx": {
-        "estimated_curation_rewards_last_week": "Geschätzte Kurator Belohnungen der letzten Woche",
+        "estimated_curation_rewards_last_week": "Geschätzte Kurator-Belohnungen der letzten Woche",
         "curation_rewards_history": "Curation Rewards History"
     },
     "post_jsx": {

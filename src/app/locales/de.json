@@ -186,20 +186,20 @@
         "please_email_questions_to": "Bitte stellen Sie Ihre Fragen an",
         "next_7_strings_single_block": {
             "authors_get_paid_when_people_like_you_upvote_their_post": "Autoren werden bezahlt wenn Menschen wie du ihren Beitrag upvoten",
-            "if_you_enjoyed_what_you_read_earn_amount": "If you enjoyed what you read here, create your account today and start earning FREE STEEM!",
-            "free_steem": "FREE STEEM!",
+            "if_you_enjoyed_what_you_read_earn_amount": "Wenn Ihnen Steemit gefällt, registrieren Sie sich noch heute und verdienen Sie kostenlos STEEM!",
+            "free_steem": "KOSTENLOSES STEEM!",
             "sign_up_earn_steem": "Sign up now to earn "
         },
         "next_3_strings_together": {
-            "show_more": "Show more",
-            "show_less": "Show fewer",
+            "show_more": "Mehr anzeigen",
+            "show_less": "Weniger anzeigen",
             "value_posts": "low value posts"
         },
-        "read_only_mode": "Due to server maintenance we are running in read only mode. We are sorry for the inconvenience.",
+        "read_only_mode": "Aufgrund von Wartungsarbeiten wird der schreibgeschützte Modus ausgeführt. Wir entschuldigen uns für die Unannehmlichkeiten.",
         "tags_and_topics": "Tags",
-        "show_more_topics": "View all tags",
-        "basic": "Basic",
-        "advanced": "Advanced",
+        "show_more_topics": "Alle Tags anzeigen",
+        "basic": "Einfach",
+        "advanced": "Fortgeschritten",
         "views": {
             "zero": "No Views",
             "one": "%(count)s View",
@@ -346,8 +346,8 @@
         "looks_like_you_havent_posted_anything_yet": "Looks like you haven't posted anything yet.",
         "create_a_post": "Create a Post",
         "explore_trending_articles": "Explore Trending Articles",
-        "read_the_quick_start_guide": "Read The Quick Start Guide",
-        "browse_the_faq": "Browse The FAQ",
+        "read_the_quick_start_guide": "Lesen Sie das Schnell-Start-Handbuch",
+        "browse_the_faq": "Durchsuchen Sie die FAQ",
         "followers": "Followers",
         "this_is_users_reputations_score_it_is_based_on_history_of_votes": "This is %(name)s's reputation score.\n\nThe reputation score is based on the history of votes received by the account, and is used to hide low quality content.",
         "follower_count": {

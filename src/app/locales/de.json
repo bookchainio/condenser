@@ -185,7 +185,7 @@
         "APP_NAME_support": "%(APP_NAME)s Support",
         "please_email_questions_to": "Bitte stellen Sie Ihre Fragen an",
         "next_7_strings_single_block": {
-            "authors_get_paid_when_people_like_you_upvote_their_post": "Autoren werden bezahlt wenn Menschen wie Sie ihren Beitrag upvoten",
+            "authors_get_paid_when_people_like_you_upvote_their_post": "Autoren werden bezahlt, wenn Menschen wie Sie ihren Beitrag upvoten",
             "if_you_enjoyed_what_you_read_earn_amount": "Wenn Ihnen Steemit gefällt, registrieren Sie sich noch heute und verdienen Sie kostenlos STEEM!",
             "free_steem": "KOSTENLOSES STEEM!",
             "sign_up_earn_steem": "Sign up now to earn "
@@ -211,7 +211,7 @@
             "other": "%(count)s Antworten"
         },
         "post_key_warning": {
-            "confirm": "Sie sind gerade dabei Ihren Steem-Private-Key oder Ihr Master-Passwort zu veröffentlichen. Damit werden Sie voraussichtlich Zugang zu dem dazugehörigen Account und seinem Guthaben verlieren.",
+            "confirm": "Sie sind gerade dabei, Ihren Steem-Private-Key oder Ihr Master-Passwort zu veröffentlichen. Damit werden Sie voraussichtlich Zugang zu dem dazugehörigen Account und seinem Guthaben verlieren.",
             "warning": "Seriöse User, einschließlich Angestellte von Steemit Inc., werden niemals nach Ihrem Private-Key oder Master-Passwort fragen.",
             "checkbox": "Verstanden"
         }
@@ -233,13 +233,13 @@
         "learn_more": "Learn More",
         "welcome": "Welcome",
         "faq": "FAQ",
-        "shop": "Der Steemit Shop",
-        "chat": "Steemit Chat",
-        "app_center": "Steemit App Center",
+        "shop": "Der Steemit-Shop",
+        "chat": "Steemit-Chat",
+        "app_center": "Steemit-App-Center",
         "api_docs": "Steemit API Docs",
         "bluepaper": "Steem Bluepaper",
         "smt_whitepaper": "SMT Whitepaper",
-        "whitepaper": "Steem Whitepaper",
+        "whitepaper": "Steem-Whitepaper",
         "intro_tagline": "Money talks",
         "intro_paragraph": "Your voice is worth something. Join the community that pays you to post and curate high quality content."
     },
@@ -491,10 +491,10 @@
         "to_save_your_preferences": "to save your preferences"
     },
     "posts_index": {
-        "empty_feed_1": "Sieht so aus, als würden Sie bis jetzt keinem folgen",
-        "empty_feed_2": "Wenn Sie seit kurzem neuen Usern folgen, wird Ihr persönlicher Feed neue Inhalte anzeigen, sobald diese verfügbar sind",
+        "empty_feed_1": "Sieht so aus, als würden Sie bis jetzt niemandem folgen",
+        "empty_feed_2": "Wenn Sie seit Kurzem neuen Usern folgen, wird Ihr persönlicher Feed neue Inhalte anzeigen, sobald diese verfügbar sind",
         "empty_feed_3": "Entdecken Sie beliebte Beiträge",
-        "empty_feed_4": "Lesen Sie das Schnell-Start-Handbuch",
+        "empty_feed_4": "Lesen Sie das Schnellstart-Handbuch",
         "empty_feed_5": "Durchsuchen Sie die FAQ"
     },
     "transferhistoryrow_jsx": {

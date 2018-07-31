@@ -348,36 +348,36 @@
         "explore_trending_articles": "Entdecken Sie beliebte Beiträge",
         "read_the_quick_start_guide": "Lesen Sie das Schnellstart-Handbuch",
         "browse_the_faq": "Durchsuchen Sie die FAQ",
-        "followers": "Follower",
+        "followers": "Abonnenten",
         "this_is_users_reputations_score_it_is_based_on_history_of_votes": "Dies ist %(name)s's Reputationswert.\n\nDer Reputationswert wird aufgrund der erhaltenen Votes ermittelt und wird verwendet, um Inhalte von geringer Qualität auszublenden.",
         "follower_count": {
-            "zero": "Keine Follower",
-            "one": "1 Follower",
-            "other": "%(count)s Follower"
+            "zero": "Keine Abonnenten",
+            "one": "1 Abonnent",
+            "other": "%(count)s Abonnenten"
         },
         "followed_count": {
-            "zero": "Sie folgen niemanden",
-            "one": "1 following",
-            "other": "%(count)s following"
+            "zero": "Sie haben niemanden abonniert",
+            "one": "1 abonniert",
+            "other": "%(count)s abonniert"
         },
         "post_count": {
-            "zero": "No posts",
-            "one": "1 post",
-            "other": "%(count)s posts"
+            "zero": "Keine Beiträge",
+            "one": "1 Beitrag",
+            "other": "%(count)s Beiträge"
         }
     },
     "authorrewards_jsx": {
-        "estimated_author_rewards_last_week": "Estimated author rewards last week",
-        "author_rewards_history": "Author Rewards History"
+        "estimated_author_rewards_last_week": "Geschätzte Autor-Belohnungen der letzten Woche",
+        "author_rewards_history": "Autor-Belohnungen Historie"
     },
     "curationrewards_jsx": {
         "estimated_curation_rewards_last_week": "Geschätzte Kurator-Belohnungen der letzten Woche",
-        "curation_rewards_history": "Curation Rewards History"
+        "curation_rewards_history": "Kurator-Belohnungen Historie"
     },
     "post_jsx": {
-        "now_showing_comments_with_low_ratings": "Now showing comments with low ratings",
+        "now_showing_comments_with_low_ratings": "Kommentare mit niedriger Bewertung werden nicht angezeigt",
         "sort_order": "Sort Order",
-        "comments_were_hidden_due_to_low_ratings": "Comments were hidden due to low ratings"
+        "comments_were_hidden_due_to_low_ratings": "Kommentare wurden aufgrund niedriger Bewertung ausgeblendet"
     },
     "voting_jsx": {
         "flagging_post_can_remove_rewards_the_flag_should_be_used_for_the_following": "Flagging a post can remove rewards and make this material less visible. Some common reasons to flag",

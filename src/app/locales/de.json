@@ -290,7 +290,7 @@
         "recent_password": "Aktuelles Passwort",
         "in_week_convert_DEBT_TOKEN_to_LIQUID_TOKEN": "In 3,5 Tagen werden %(amount)s %(DEBT_TOKEN)s in %(LIQUID_TOKEN)s umgewandelt",
         "view_the_full_context": "Kompletten Inhalt anzeigen",
-        "view_the_direct_parent": "Vorheriges Kommentar anzeigen",
+        "view_the_direct_parent": "Vorherigen Kommentar anzeigen",
         "you_are_viewing_a_single_comments_thread_from": "Sie sehen den Thread eines einzelnen Kommentares von"
     },
     "market_jsx": {
@@ -298,7 +298,7 @@
         "date_created": "Erstellungsdatum",
         "last_price": "Letzter Preis",
         "24h_volume": "24h-Volumen",
-        "spread": "Spread",
+        "spread": "Streuung",
         "total": "Gesamt",
         "available": "Verfügbar",
         "lowest_ask": "Niedrigstes Verkaufsangebot",
@@ -323,8 +323,8 @@
         "account_name_is_not_found": "Account-Name wurde nicht gefunden",
         "unable_to_recover_account_not_change_ownership_recently": "Wir sind nicht in der Lage diesen Account wiederherzustellen, da er vor kurzem den Besitzer nicht gewechselt hat.",
         "password_not_used_in_last_days": "Dieses Passwort wurde in den letzten 30 Tagen bei diesem Account nicht verwendet.",
-        "request_already_submitted_contact_support": "Wir haben Ihre Anfrage bereits erhalten und arbeiten daran. Bitte kontaktieren Sie %(SUPPORT_EMAIL)s um den Status Ihrer Anfrage abzurufen.",
-        "recover_account_intro": "Von Zeit zu Zeit kann der Besitzer-Key eines Steemian gefährdet sein. Die Wiederherstellung eines gestohlenen Accounts gibt dem rechtmäßigen Account-Besitzer ab dem Zeitpunkt der Änderung des Besitzer-Keys durch den Dieb 30 Tage Zeit, um den Account wiederherzustellen. Die Wiederherstellung eines gestohlenen Accounts kann nur bei %(APP_URL)s erfolgen, wenn der Account-Besitzer zuvor %(APP_NAME)s als ihren Account-Verwalter aufgeführt hat und den Allgemeinen Geschäftsbedingungen von %(APP_NAME)s zugestimmt hat.",
+        "request_already_submitted_contact_support": "Wir haben Ihre Anfrage bereits erhalten und arbeiten daran. Bitte kontaktieren Sie %(SUPPORT_EMAIL)s, um den Status Ihrer Anfrage abzurufen.",
+        "recover_account_intro": "Von Zeit zu Zeit kann der Besitzer-Key eines Steemians gefährdet sein. Die Wiederherstellung eines gestohlenen Accounts gibt dem rechtmäßigen Account-Besitzer ab dem Zeitpunkt der Änderung des Besitzer-Keys durch den Dieb 30 Tage Zeit, um den Account wiederherzustellen. Die Wiederherstellung eines gestohlenen Accounts kann nur bei %(APP_URL)s erfolgen, wenn der Account-Besitzer zuvor %(APP_NAME)s als ihre Account-Verwalter aufgeführt hat und den Allgemeinen Geschäftsbedingungen von %(APP_NAME)s zugestimmt hat.",
         "login_with_facebook_or_reddit_media_to_verify_identity": "Bitte loggen Sie sich mit Facebook oder Reddit ein, um Ihre Identität zu bestätigen",
         "login_with_social_media_to_verify_identity": "Bitte loggen Sie sich mit %(provider)s ein, um ihre Identität zu bestätigen",
         "enter_email_toverify_identity": "Wir müssen Ihre Identität bestätigen. Bitte geben Sie darunter Ihre E-Mail Adresse ein, um die Verifizierung zu starten.",

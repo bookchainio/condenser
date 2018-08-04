@@ -240,24 +240,24 @@
         "bluepaper": "Steem-Bluepaper",
         "smt_whitepaper": "SMT Whitepaper",
         "whitepaper": "Steem-Whitepaper",
-        "intro_tagline": "Money talks",
-        "intro_paragraph": "Your voice is worth something. Join the community that pays you to post and curate high quality content."
+        "intro_tagline": "Geld ist Macht",
+        "intro_paragraph": "Ihre Stimme zählt. Treten Sie der Community bei, die Sie für das Veröffentlichen und Bewerten von hochqualitativen Beiträgen bezahlt."
     },
     "main_menu": {
         "hot": "hot",
-        "trending": "trending"
+        "trending": "beliebt"
     },
     "reply_editor": {
-        "shorten_title": "Shorten title",
-        "exceeds_maximum_length": "Exceeds maximum length (%(maxKb)sKB)",
-        "including_the_category": " (including the category '%(rootCategory)s')",
-        "use_limited_amount_of_tags": "You have %(tagsLength)s tags total%(includingCategory)s. Please use only 5 in your post and category line.",
+        "shorten_title": "Titel kürzen",
+        "exceeds_maximum_length": "Überschreitet die maximale Länge (%(maxKb)sKB)",
+        "including_the_category": " (beinhaltet die Kategorie '%(rootCategory)s')",
+        "use_limited_amount_of_tags": "Sie haben %(tagsLength)s Tags gesamt%(includingCategory)s. Bitte verwenden Sie nur 5 in Ihrem Beitrag und Kategorielinie.",
         "are_you_sure_you_want_to_clear_this_form": "Sind Sie sicher, dass Sie den Inhalt der Eingabemaske löschen möchten?",
         "uploading": "Wird hochgeladen",
         "draft_saved": "Entwurf gespeichert.",
         "editor": "Editor",
-        "insert_images_by_dragging_dropping": "Insert images by dragging & dropping, ",
-        "pasting_from_the_clipboard": "pasting from the clipboard, ",
+        "insert_images_by_dragging_dropping": "Bilder per Drag & Drop einfügen, ",
+        "pasting_from_the_clipboard": "aus der Zwischenablage einfügen, ",
         "selecting_them": "selecting them",
         "image_upload": "Image upload",
         "power_up_100": "Power Up 100%%",

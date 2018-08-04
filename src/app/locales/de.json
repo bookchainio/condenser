@@ -258,20 +258,20 @@
         "editor": "Editor",
         "insert_images_by_dragging_dropping": "Bilder per Drag & Drop einfügen, ",
         "pasting_from_the_clipboard": "aus der Zwischenablage einfügen, ",
-        "selecting_them": "selecting them",
-        "image_upload": "Image upload",
+        "selecting_them": "indem man sie auswählt",
+        "image_upload": "Bild hochladen",
         "power_up_100": "Power Up 100%%",
         "default_50_50": "Standard (50%% / 50%%)",
         "decline_payout": "Auf die Auszahlung verzichten",
         "check_this_to_auto_upvote_your_post": "Klicken Sie hier, um Ihren Beitrag automatisch upzuvoten",
         "markdown_styling_guide": "Markdown Styling Handbuch",
         "or_by": "oder durch",
-        "title": "Title",
+        "title": "Titel",
         "update_post": "Beitrag aktualisieren",
         "markdown_not_supported": "Markdown wird hier nicht unterstützt"
     },
     "category_selector_jsx": {
-        "tag_your_story": "Tag (up to 5 tags), the first tag is your main category.",
+        "tag_your_story": "Tag (bis zu 5 Tags), der erste Tag ist Ihre Hauptkategorie.",
         "select_a_tag": "Tag auswählen",
         "maximum_tag_length_is_24_characters": "Maximale Tag-Länge beträgt 24 Zeichen",
         "use_limited_amount_of_categories": "Bitte verwenden Sie nur %(amount)s Kategorien",
@@ -376,11 +376,11 @@
     },
     "post_jsx": {
         "now_showing_comments_with_low_ratings": "Kommentare mit niedriger Bewertung werden nicht angezeigt",
-        "sort_order": "Sort Order",
+        "sort_order": "Reihenfolge",
         "comments_were_hidden_due_to_low_ratings": "Kommentare wurden aufgrund niedriger Bewertung ausgeblendet"
     },
     "voting_jsx": {
-        "flagging_post_can_remove_rewards_the_flag_should_be_used_for_the_following": "Flagging a post can remove rewards and make this material less visible. Some common reasons to flag",
+        "flagging_post_can_remove_rewards_the_flag_should_be_used_for_the_following": "Einen Beitrag zu flaggen verringert die Belohnungen und macht den Inhalt des Beitrages auf Steemit weniger sichtbar. Einige häufige Gründe um zu flaggen",
         "disagreement_on_rewards": "Uneinigkeit über Belohnungen",
         "fraud_or_plagiarism": "Betrug oder Plagiat",
         "hate_speech_or_internet_trolling": "Hassrede oder Internet-Trolling",
@@ -394,13 +394,13 @@
         "past_payouts_curators": " - Kuratoren $%(value)s",
         "we_will_reset_curation_rewards_for_this_post": "setzt Ihre Kurator-Belohnungen für diesen Beitrag zurück",
         "removing_your_vote": "Entfernt Ihren Vote",
-        "changing_to_an_upvote": "Changing to an Up-Vote",
-        "changing_to_a_downvote": "Changing to a Down-Vote",
-        "confirm_flag": "Confirm Flag",
-        "and_more": "and %(count)s more",
+        "changing_to_an_upvote": "Zu einem Upvote wechseln",
+        "changing_to_a_downvote": "Zu einem Downvote wechseln",
+        "confirm_flag": "Flag bestätigen",
+        "and_more": "und %(count)s mehr",
         "votes_plural": {
-            "one": "%(count)s vote",
-            "other": "%(count)s votes"
+            "one": "%(count)s Vote",
+            "other": "%(count)s Votes"
         }
     },
     "witnesses_jsx": {

@@ -455,8 +455,8 @@
     "converttosteem_jsx": {
         "your_existing_DEBT_TOKEN_are_liquid_and_transferable": "Ihre bestehenden %(DEBT_TOKEN)s sind liquide und übertragbar. Stattdessen können Sie %(DEBT_TOKEN)s direkt auf dieser Seite unter %(link)s handeln oder auf einen externen Markt transferieren.",
         "this_is_a_price_feed_conversion": "Dies ist eine Preis-Feed-Umstellung. Die 3,5-Tage-Verzögerung ist erforderlich, um Missbrauch durch die Ausnützung des Preis-Feed-Durchschnitts zu verhindern",
-        "convert_to_LIQUID_TOKEN": "Convert to %(LIQUID_TOKEN)s",
-        "DEBT_TOKEN_will_be_unavailable": "This action will take place 3.5 days from now and can not be canceled. These %(DEBT_TOKEN)s will immediately become unavailable"
+        "convert_to_LIQUID_TOKEN": "Umwandeln in %(LIQUID_TOKEN)s",
+        "DEBT_TOKEN_will_be_unavailable": "Dieser Vorgang wird 3,5 Tage andauern und kann nicht abgebrochen werden. Diese %(DEBT_TOKEN)s sind sofort nicht mehr verfügbar"
     },
     "tips_js": {
         "liquid_token": "Tradeable tokens that may be transferred anywhere at anytime.<br/>%(LIQUID_TOKEN)s can be converted to %(VESTING_TOKEN)s in a process called powering up.",

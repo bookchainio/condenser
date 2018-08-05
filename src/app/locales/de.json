@@ -164,7 +164,7 @@
         "account_name_should_be_longer": "Der Account-Name sollte länger sein.",
         "account_name_should_have_only_letters_digits_or_dashes": "Der Account-Name sollte nur Buchstaben, Zahlen, Punkte oder Bindestriche haben.",
         "cannot_increase_reward_of_post_within_the_last_minute_before_payout": "Innerhalb der letzten Minute vor der Auszahlung kann die Belohnung des Beitrages nicht mehr erhöht werden",
-        "vote_currently_exists_user_must_be_indicate_a_to_reject_witness": "derzeit existiert der Vote, der User muss den Wunsch haben, den Witness abzulehnen",
+        "vote_currently_exists_user_must_be_indicate_a_to_reject_witness": "derzeit besteht ein Vote, der User muss den Wunsch haben, den Witness abzulehnen",
         "only_one_APP_NAME_account_allowed_per_ip_address_every_10_minutes": "Das Erstellen eines Steem-Accounts ist nur alle 10 Minuten pro IP-Adresse möglich",
         "resteem_this_post": "Diesem Beitrag resteemen",
         "reblog": "Resteem",

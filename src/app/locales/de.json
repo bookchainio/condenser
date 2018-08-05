@@ -441,8 +441,8 @@
         "public_something_key": "Öffentlicher %(key)s Key",
         "private_something_key": "Privater %(key)s Key",
         "posting_key_is_required_it_should_be_different": "Der Posting-Key wird für das Posten und Voten verwendet. Dieser sollte sich vom Aktiv- und Besitzer-Key unterscheiden.",
-        "the_active_key_is_used_to_make_transfers_and_place_orders": "The active key is used to make transfers and place orders in the internal market.",
-        "the_owner_key_is_required_to_change_other_keys": "The owner key is the master key for the account and is required to change the other keys.",
+        "the_active_key_is_used_to_make_transfers_and_place_orders": "Der Aktive-Key wird benutzt, um Überweisungen durchzuführen oder Aufträge auf dem internen Markt zu platzieren.",
+        "the_owner_key_is_required_to_change_other_keys": "Der Owner-Key ist der Hauptschlüssel für den Account und wird für das Ändern der anderen Keys verwendet.",
         "the_private_key_or_password_should_be_kept_offline": "The private key or password for the owner key should be kept offline as much as possible.",
         "the_memo_key_is_used_to_create_and_read_memos": "The memo key is used to create and read memos."
     },

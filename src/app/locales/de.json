@@ -416,7 +416,7 @@
         "information": "Informationen",
         "if_you_want_to_vote_outside_of_top_enter_account_name": "Wenn Sie für einen Witness, der sich nicht unter den Top 50 befindet, voten wollen, geben Sie dafür bitte darunter den Account-Namen ein",
         "set_witness_proxy": "Sie können auch einen Stellvertreter auswählen, der für Sie Witnesses wählt. Dadurch wird allerdings Ihre aktuelle Witness-Auswahl zurückgesetzt.",
-        "witness_set": "Sie haben einen Voting-Stellvertreter eingestellt. Wenn Sie die manuelle Abstimmung wieder aktivieren möchten, löschen Sie bitte Ihre Vollmacht.",
+        "witness_set": "Sie haben einen Voting-Stellvertreter eingestellt. Wenn Sie das manuelle Voten wieder aktivieren möchten, löschen Sie bitte Ihre Vollmacht.",
         "witness_proxy_current": "Ihr aktueller Stellvertreter ist",
         "witness_proxy_set": "Stellvertreter auswählen",
         "witness_proxy_clear": "Vollmacht löschen",
@@ -450,13 +450,13 @@
         "APP_NAME_cannot_recover_passwords_keep_this_page_in_a_secure_location": "%(APP_NAME)s kann die Passwörter nicht wiederherstellen. Bewahren Sie diese Seite an einem sicheren Platz auf, wie zum Beispiel einem feuerfesten Tresor oder einem Bankschließfach.",
         "APP_NAME_password_backup": "%(APP_NAME)s Passwort-Sicherung",
         "APP_NAME_password_backup_required": "%(APP_NAME)s Passwort-Sicherung (erforderlich)",
-        "after_printing_write_down_your_user_name": "Nach dem Ausdrucken, notieren Sie sich Ihren User-Namen"
+        "after_printing_write_down_your_user_name": "Nach dem Ausdrucken, notieren Sie sich Ihren Usernamen"
     },
     "converttosteem_jsx": {
         "your_existing_DEBT_TOKEN_are_liquid_and_transferable": "Ihre bestehenden %(DEBT_TOKEN)s sind liquide und übertragbar. Stattdessen können Sie %(DEBT_TOKEN)s direkt auf dieser Seite unter %(link)s handeln oder auf einen externen Markt transferieren.",
         "this_is_a_price_feed_conversion": "Dies ist eine Preis-Feed-Umstellung. Die 3,5-Tage-Verzögerung ist erforderlich, um Missbrauch durch die Ausnützung des Preis-Feed-Durchschnitts zu verhindern",
         "convert_to_LIQUID_TOKEN": "Umwandeln in %(LIQUID_TOKEN)s",
-        "DEBT_TOKEN_will_be_unavailable": "Dieser Vorgang wird 3,5 Tage andauern und kann nicht abgebrochen werden. Diese %(DEBT_TOKEN)s sind sofort nicht mehr verfügbar"
+        "DEBT_TOKEN_will_be_unavailable": "Dieser Vorgang wird 3,5 Tage andauern und kann nicht abgebrochen werden. Diese %(DEBT_TOKEN)s sind absofort nicht mehr verfügbar"
     },
     "tips_js": {
         "liquid_token": "Handelbare Tokens die jederzeit und überall übertragen werden können.<br/>%(LIQUID_TOKEN)s können mittels Power-Up in %(VESTING_TOKEN)s konvertiert werden.",

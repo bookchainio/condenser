@@ -416,11 +416,11 @@
         "information": "Informationen",
         "if_you_want_to_vote_outside_of_top_enter_account_name": "Wenn Sie für einen Witness, der sich nicht unter den Top 50 befindet, voten wollen, geben Sie dafür bitte unten den Account-Namen ein",
         "set_witness_proxy": "Sie können auch einen Stellvertreter auswählen, der für Sie Witnesses wählt. Dadurch wird allerdings Ihre aktuelle Witness-Auswahl zurückgesetzt.",
-        "witness_set": "Sie haben einen Voting-Stellvertreter gewählt. Wenn Sie das manuelle Voten wieder aktivieren möchten, löschen Sie bitte Ihre Vollmacht.",
-        "witness_proxy_current": "Ihr aktueller Stellvertreter ist",
-        "witness_proxy_set": "Stellvertreter auswählen",
-        "witness_proxy_clear": "Vollmacht löschen",
-        "proxy_update_error": "Ihre Vollmacht wurde nicht aktualisiert"
+        "witness_set": "Sie haben einen Voting-Proxy gewählt. Wenn Sie das manuelle Voten wieder aktivieren möchten, löschen Sie bitte Ihre Vollmacht.",
+        "witness_proxy_current": "Ihr aktueller Proxy ist",
+        "witness_proxy_set": "Proxy auswählen",
+        "witness_proxy_clear": "Proxy löschen",
+        "proxy_update_error": "Ihr Proxy wurde nicht aktualisiert"
     },
     "votesandcomments_jsx": {
         "no_responses_yet_click_to_respond": "Noch keine Antworten. Klicken Sie, um zu antworten.",
@@ -441,7 +441,7 @@
         "public_something_key": "Öffentlicher %(key)s Key",
         "private_something_key": "Privater %(key)s Key",
         "posting_key_is_required_it_should_be_different": "Der Posting-Key wird für das Posten und Voten verwendet. Dieser sollte sich vom Aktiv- und Besitzer-Key unterscheiden.",
-        "the_active_key_is_used_to_make_transfers_and_place_orders": "Der Aktive-Key wird benutzt, um Überweisungen durchzuführen oder Aufträge auf dem internen Markt zu platzieren.",
+        "the_active_key_is_used_to_make_transfers_and_place_orders": "Der Active-Key wird benutzt, um Überweisungen durchzuführen oder Aufträge auf dem internen Markt zu platzieren.",
         "the_owner_key_is_required_to_change_other_keys": "Der Owner-Key ist der Hauptschlüssel für den Account und wird für das Ändern der anderen Keys verwendet.",
         "the_private_key_or_password_should_be_kept_offline": "Der Private-Key oder das Passwort für den Owner-Key sollte so weit wie möglich offline gehalten werden.",
         "the_memo_key_is_used_to_create_and_read_memos": "Der Memo-Key wird verwendet, um Memos zu erstellen und zu lesen."

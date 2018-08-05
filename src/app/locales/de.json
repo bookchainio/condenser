@@ -462,12 +462,12 @@
         "liquid_token": "Handelbare Tokens die jederzeit und überall übertragen werden können.<br/>%(LIQUID_TOKEN)s können mittels Power-Up in %(VESTING_TOKEN)s konvertiert werden.",
         "influence_token": "Influence-Tokens die Ihnen mehr Kontrolle über Beitrags-Auszahlungen geben und Ihnen ermöglichen Kuration-Belohnungen zu erhalten.",
         "estimated_value": "Der geschätzte Wert basiert auf dem Durchschnitt von %(LIQUID_TOKEN)s in US-Dollar.",
-        "non_transferable": "%(VESTING_TOKEN)s is non-transferable and requires 3 months (13 payments) to convert back to %(LIQUID_TOKEN)s.",
-        "converted_VESTING_TOKEN_can_be_sent_to_yourself_but_can_not_transfer_again": "Converted %(VESTING_TOKEN)s can be sent to yourself or someone else but can not transfer again without converting back to %(LIQUID_TOKEN)s.",
-        "part_of_your_steem_power_is_currently_delegated": "Part of %(user_name)s's STEEM POWER is currently delegated. Delegation is donated for influence or to help new users perform actions on steemit. Your delegation amount can fluctuate."
+        "non_transferable": "%(VESTING_TOKEN)s ist nicht übertragbar und benötigt eine Dauer von 3 Monaten (13 Zahlungen), um wieder in %(LIQUID_TOKEN)s umgewandelt zu werden.",
+        "converted_VESTING_TOKEN_can_be_sent_to_yourself_but_can_not_transfer_again": "Umgewandelte %(VESTING_TOKEN)s können Sie sich selbst oder jemand anderen senden, können aber nicht erneut übertragen werden, ohne dass sie in %(LIQUID_TOKEN)s umgewandelt werden.",
+        "part_of_your_steem_power_is_currently_delegated": "Ein Teil von %(user_name)ss STEEM POWER ist zurzeit delegiert. Delegationen werden für Einfluss vergeben oder um neuen Usern zu helfen, Aktionen auf Steemit durchzuführen. Ihr Delegations-Beitrag kann schwanken."
     },
     "promote_post_jsx": {
-        "promote_post": "Promote Post",
+        "promote_post": "Beitrag bewerben",
         "spend_your_DEBT_TOKEN_to_advertise_this_post": "Spend your %(DEBT_TOKEN)s's to advertise this post in the promoted content section",
         "you_successfully_promoted_this_post": "You successfully promoted this post",
         "this_post_was_hidden_due_to_low_ratings": "This post was hidden due to low ratings"

@@ -76,7 +76,7 @@
         "remove_vote": "Vote entfernen",
         "replied_to": "antwortete auf %(account)s",
         "replies": "Antworten",
-        "reply": "Antworten",
+        "reply": "Antwort",
         "reply_count": {
             "zero": "keine Antworten",
             "one": "1 Antwort",

@@ -415,24 +415,24 @@
         "witness": "Witness",
         "information": "Informationen",
         "if_you_want_to_vote_outside_of_top_enter_account_name": "Wenn Sie für einen Witness, der sich nicht unter den Top 50 befindet, voten wollen, geben Sie dafür bitte darunter den Account-Namen ein",
-        "set_witness_proxy": "Sie können auch einen Proxy auswählen, der für Sie Witnesses wählt. Dadurch wird allerdings Ihre aktuelle Witness-Auswahl zurückgesetzt.",
-        "witness_set": "You have set a voting proxy. If you would like to re-enable manual voting, please clear your proxy.",
-        "witness_proxy_current": "Your current proxy is",
-        "witness_proxy_set": "Set proxy",
-        "witness_proxy_clear": "Clear proxy",
-        "proxy_update_error": "Your proxy was not updated"
+        "set_witness_proxy": "Sie können auch einen Stellvertreter auswählen, der für Sie Witnesses wählt. Dadurch wird allerdings Ihre aktuelle Witness-Auswahl zurückgesetzt.",
+        "witness_set": "Sie haben einen Voting-Stellvertreter eingestellt. Wenn Sie die manuelle Abstimmung wieder aktivieren möchten, löschen Sie bitte Ihre Vollmacht.",
+        "witness_proxy_current": "Ihr aktueller Stellvertreter ist",
+        "witness_proxy_set": "Stellvertreter auswählen",
+        "witness_proxy_clear": "Vollmacht löschen",
+        "proxy_update_error": "Ihre Vollmacht wurde nicht aktualisiert"
     },
     "votesandcomments_jsx": {
-        "no_responses_yet_click_to_respond": "No responses yet. Click to respond.",
+        "no_responses_yet_click_to_respond": "Noch keine Antworten. Klicken Sie, um zu antworten.",
         "response_count_tooltip": {
-            "zero": "no responses. Click to respond.",
-            "one": "1 response. Click to respond.",
-            "other": "%(count)s responses. Click to respond."
+            "zero": "keine Antworten. Klicken Sie, um zu antworten.",
+            "one": "1 Antwort. Klicken Sie, um zu antworten.",
+            "other": "%(count)s Antworten. Klicken Sie, um zu antworten."
         },
         "vote_count": {
-            "zero": "no votes",
-            "one": "1 vote",
-            "other": "%(count)s votes"
+            "zero": "keine Votes",
+            "one": "1 Vote",
+            "other": "%(count)s Votes"
         }
     },
     "userkeys_jsx": {

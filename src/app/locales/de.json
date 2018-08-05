@@ -443,14 +443,14 @@
         "posting_key_is_required_it_should_be_different": "Der Posting-Key wird für das Posten und Voten verwendet. Dieser sollte sich vom Aktiv- und Besitzer-Key unterscheiden.",
         "the_active_key_is_used_to_make_transfers_and_place_orders": "Der Aktive-Key wird benutzt, um Überweisungen durchzuführen oder Aufträge auf dem internen Markt zu platzieren.",
         "the_owner_key_is_required_to_change_other_keys": "Der Owner-Key ist der Hauptschlüssel für den Account und wird für das Ändern der anderen Keys verwendet.",
-        "the_private_key_or_password_should_be_kept_offline": "The private key or password for the owner key should be kept offline as much as possible.",
-        "the_memo_key_is_used_to_create_and_read_memos": "The memo key is used to create and read memos."
+        "the_private_key_or_password_should_be_kept_offline": "Der Private-Key oder das Passwort für den Owner-Key sollte so weit wie möglich offline gehalten werden.",
+        "the_memo_key_is_used_to_create_and_read_memos": "Der Memo-Key wird verwendet, um Memos zu erstellen und zu lesen."
     },
     "suggestpassword_jsx": {
-        "APP_NAME_cannot_recover_passwords_keep_this_page_in_a_secure_location": "%(APP_NAME)s cannot recover passwords. Keep this page in a secure location, such as a fireproof safe or safety deposit box.",
-        "APP_NAME_password_backup": "%(APP_NAME)s Password Backup",
-        "APP_NAME_password_backup_required": "%(APP_NAME)s Password Backup (required)",
-        "after_printing_write_down_your_user_name": "After printing, write down your user name"
+        "APP_NAME_cannot_recover_passwords_keep_this_page_in_a_secure_location": "%(APP_NAME)s kann die Passwörter nicht wiederherstellen. Bewahren Sie diese Seite an einem sicheren Platz auf, wie zum Beispiel einem feuerfesten Tresor oder einem Bankschließfach.",
+        "APP_NAME_password_backup": "%(APP_NAME)s Passwort-Sicherung",
+        "APP_NAME_password_backup_required": "%(APP_NAME)s Passwort-Sicherung (erforderlich)",
+        "after_printing_write_down_your_user_name": "Nach dem Ausdrucken, notieren Sie sich Ihren User-Namen"
     },
     "converttosteem_jsx": {
         "your_existing_DEBT_TOKEN_are_liquid_and_transferable": "Your existing %(DEBT_TOKEN)s are liquid and transferable. Instead you may wish to trade %(DEBT_TOKEN)s directly in this site under %(link)s or transfer to an external market.",

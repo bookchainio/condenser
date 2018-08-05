@@ -454,13 +454,13 @@
     },
     "converttosteem_jsx": {
         "your_existing_DEBT_TOKEN_are_liquid_and_transferable": "Ihre bestehenden %(DEBT_TOKEN)s sind liquide und übertragbar. Stattdessen können Sie %(DEBT_TOKEN)s direkt auf dieser Seite unter %(link)s handeln oder auf einen externen Markt transferieren.",
-        "this_is_a_price_feed_conversion": "Dies ist eine Preis-Feed-Umstellung. Die 3,5-Tage-Verzögerung ist erforderlich, um Missbrauch durch die Ausnützung des Preis-Feed-Durchschnitts zu verhindern",
+        "this_is_a_price_feed_conversion": "Dies ist eine Preis-Feed-Umstellung. Die 3,5-Tage-Verzögerung ist erforderlich, um Missbrauch durch die Ausnutzung des Preis-Feed-Durchschnitts zu verhindern",
         "convert_to_LIQUID_TOKEN": "Umwandeln in %(LIQUID_TOKEN)s",
-        "DEBT_TOKEN_will_be_unavailable": "Dieser Vorgang wird 3,5 Tage andauern und kann nicht abgebrochen werden. Diese %(DEBT_TOKEN)s sind absofort nicht mehr verfügbar"
+        "DEBT_TOKEN_will_be_unavailable": "Dieser Vorgang wird 3,5 Tage andauern und kann nicht abgebrochen werden. Diese %(DEBT_TOKEN)s sind ab sofort nicht mehr verfügbar"
     },
     "tips_js": {
-        "liquid_token": "Handelbare Tokens die jederzeit und überall übertragen werden können.<br/>%(LIQUID_TOKEN)s können mittels Power-Up in %(VESTING_TOKEN)s konvertiert werden.",
-        "influence_token": "Influence-Tokens die Ihnen mehr Kontrolle über Beitrags-Auszahlungen geben und Ihnen ermöglichen Kuration-Belohnungen zu erhalten.",
+        "liquid_token": "Handelbare Tokens, die jederzeit und überall übertragen werden können.<br/>%(LIQUID_TOKEN)s können mittels Power-Up in %(VESTING_TOKEN)s konvertiert werden.",
+        "influence_token": "Influence-Tokens, die Ihnen mehr Kontrolle über Beitrags-Auszahlungen geben und Ihnen ermöglichen Kurationsbelohnungen zu erhalten.",
         "estimated_value": "Der geschätzte Wert basiert auf dem Durchschnitt von %(LIQUID_TOKEN)s in US-Dollar.",
         "non_transferable": "%(VESTING_TOKEN)s ist nicht übertragbar und benötigt eine Dauer von 3 Monaten (13 Zahlungen), um wieder in %(LIQUID_TOKEN)s umgewandelt zu werden.",
         "converted_VESTING_TOKEN_can_be_sent_to_yourself_but_can_not_transfer_again": "Umgewandelte %(VESTING_TOKEN)s können Sie sich selbst oder jemand anderen senden, können aber nicht erneut übertragen werden, ohne dass sie in %(LIQUID_TOKEN)s umgewandelt werden.",

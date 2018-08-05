@@ -463,8 +463,8 @@
         "influence_token": "Influence-Tokens, die Ihnen mehr Kontrolle über Beitrags-Auszahlungen geben und Ihnen ermöglichen Kurationsbelohnungen zu erhalten.",
         "estimated_value": "Der geschätzte Wert basiert auf dem Durchschnitt von %(LIQUID_TOKEN)s in US-Dollar.",
         "non_transferable": "%(VESTING_TOKEN)s ist nicht übertragbar und benötigt eine Dauer von 3 Monaten (13 Zahlungen), um wieder in %(LIQUID_TOKEN)s umgewandelt zu werden.",
-        "converted_VESTING_TOKEN_can_be_sent_to_yourself_but_can_not_transfer_again": "Umgewandelte %(VESTING_TOKEN)s können Sie sich selbst oder jemand anderen senden, können aber nicht erneut übertragen werden, ohne dass sie in %(LIQUID_TOKEN)s umgewandelt werden.",
-        "part_of_your_steem_power_is_currently_delegated": "Ein Teil von %(user_name)ss STEEM POWER ist zurzeit delegiert. Delegationen werden für Einfluss vergeben oder um neuen Usern zu helfen, Aktionen auf Steemit durchzuführen. Ihr Delegations-Beitrag kann schwanken."
+        "converted_VESTING_TOKEN_can_be_sent_to_yourself_but_can_not_transfer_again": "Umgewandelte %(VESTING_TOKEN)s können Sie an sich selbst oder jemand anderen senden, können aber nicht erneut übertragen werden, ohne dass sie in %(LIQUID_TOKEN)s umgewandelt werden.",
+        "part_of_your_steem_power_is_currently_delegated": "Ein Teil von %(user_name)ss STEEM POWER ist zurzeit delegiert. Delegationen werden für Einfluss vergeben oder, um neuen Usern zu helfen, Aktionen auf Steemit durchzuführen. Ihr Delegations-Beitrag kann schwanken."
     },
     "promote_post_jsx": {
         "promote_post": "Beitrag bewerben",
@@ -483,7 +483,7 @@
     },
     "postsummary_jsx": {
         "resteemed": "resteemed",
-        "resteemed_by": "Resteemed by",
+        "resteemed_by": "Resteemed von",
         "reveal_it": "Diesen Beitrag anzeigen",
         "adjust_your": "Passen Sie Ihre",
         "display_preferences": "Anzeigeeinstellungen an",

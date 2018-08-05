@@ -109,14 +109,14 @@
         "trending_topics": "Beliebte Themen",
         "type": "Type",
         "unfollow": "Entfolgen",
-        "unmute": "Lautschalten",
+        "unmute": "Stummschaltung aufheben",
         "unknown": "Unbekannt",
         "upvote": "Upvote",
         "upvote_post": "Beitrag upvoten",
         "username": "Username",
         "version": "Version",
         "vote": "Vote",
-        "votes": "votes",
+        "votes": "Votes",
         "wallet": "Wallet",
         "warning": "Warnung",
         "yes": "Ja",
@@ -188,7 +188,7 @@
             "authors_get_paid_when_people_like_you_upvote_their_post": "Autoren werden bezahlt, wenn Menschen wie Sie ihren Beitrag upvoten",
             "if_you_enjoyed_what_you_read_earn_amount": "Wenn Ihnen Steemit gefällt, registrieren Sie sich noch heute und verdienen Sie kostenlos STEEM!",
             "free_steem": "KOSTENLOSES STEEM!",
-            "sign_up_earn_steem": "Jetzt anmelden um zu verdienen "
+            "sign_up_earn_steem": "Jetzt anmelden, um zu verdienen "
         },
         "next_3_strings_together": {
             "show_more": "Mehr anzeigen",

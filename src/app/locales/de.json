@@ -528,13 +528,13 @@
         "curation_rewards_by": "Curation rewards by",
         "author_rewards_by": "Author rewards by",
         "replies_to": "Replies to",
-        "comments_by": "Comments by"
+        "comments_by": "Kommentare von"
     },
     "loginform_jsx": {
-        "you_need_a_private_password_or_key": "You need a private password or key (not a public key)",
-        "cryptography_test_failed": "Cryptography test failed",
-        "unable_to_log_you_in": "We will be unable to log you in with this browser.",
-        "the_latest_versions_of": "The latest versions of ",
+        "you_need_a_private_password_or_key": "Sie benötigen ein privates Passwort oder Key (keinen öffentlichen Key)",
+        "cryptography_test_failed": "Kryptography-Test nicht bestanden",
+        "unable_to_log_you_in": "Uns ist es leider nicht möglich, Sie in diesem Browser anzumelden.",
+        "the_latest_versions_of": "Die neueste Version von ",
         "are_well_tested_and_known_to_work_with": "are well tested and known to work with %(APP_URL)s.",
         "due_to_server_maintenance": "Due to server maintenance we are running in read only mode. We are sorry for the inconvenience.",
         "login_to_vote": "Login to Vote",

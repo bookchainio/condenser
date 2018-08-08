@@ -244,8 +244,8 @@
         "intro_paragraph": "La tua voce vale qualcosa. Entra nella comunità che ti pagare per pubblicare e curare contenuti di alta qualità."
     },
     "main_menu": {
-        "hot": "hot",
-        "trending": "trending"
+        "hot": "caldo",
+        "trending": "di tendenza"
     },
     "reply_editor": {
         "shorten_title": "Titolo breve",
@@ -255,7 +255,7 @@
         "are_you_sure_you_want_to_clear_this_form": "Sicuro di voler cancellare questo form?",
         "uploading": "Caricamento",
         "draft_saved": "Bozza salvata",
-        "editor": "Editor",
+        "editor": "Editore",
         "insert_images_by_dragging_dropping": "Per inserire le immagini, trascinale qui",
         "pasting_from_the_clipboard": "incollando dagli appunti,",
         "selecting_them": "selezionandole. ",
@@ -342,10 +342,10 @@
         "user_hasnt_made_any_posts_yet": "Sembra che %(name)snon abbia ancora pubblicato nessun post! ",
         "user_hasnt_started_bloggin_yet": "Sembra che %(name)s non abbia ancora iniziato a scrivere!",
         "user_hasnt_followed_anything_yet": "Sembra che %(name)snon stia seguendo ancora nessuno! Se %(name)sha aggiunto di recente nuovi utenti da seguire, il feed personalizzato si riempirà di contenuti non appena ce ne saranno di nuovi. ",
-        "user_hasnt_had_any_replies_yet": "%(name)s hasn't had any replies yet",
-        "looks_like_you_havent_posted_anything_yet": "Looks like you haven't posted anything yet.",
-        "create_a_post": "Create a Post",
-        "explore_trending_articles": "Explore Trending Articles",
+        "user_hasnt_had_any_replies_yet": "%(name)s non ha ancora ricevuto risposta",
+        "looks_like_you_havent_posted_anything_yet": "Sembra che tu non abbia ancora pubblicato.",
+        "create_a_post": "Crea un Post",
+        "explore_trending_articles": "Dai un'occhiata agli articoli di tendenza",
         "read_the_quick_start_guide": "Read The Quick Start Guide",
         "browse_the_faq": "Browse The FAQ",
         "followers": "Followers",

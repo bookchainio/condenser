@@ -346,9 +346,9 @@
         "looks_like_you_havent_posted_anything_yet": "Sembra che tu non abbia ancora pubblicato.",
         "create_a_post": "Crea un Post",
         "explore_trending_articles": "Dai un'occhiata agli articoli di tendenza",
-        "read_the_quick_start_guide": "Read The Quick Start Guide",
-        "browse_the_faq": "Browse The FAQ",
-        "followers": "Followers",
+        "read_the_quick_start_guide": "Leggi la Guida di Avvio Rapido",
+        "browse_the_faq": "Leggi le Domande Frequenti",
+        "followers": "Follower",
         "this_is_users_reputations_score_it_is_based_on_history_of_votes": "Questo è il livello di reputazione di %(name)s. \n\nIl livello di reputazione si basa sulla storia dei voti ricevuti dall'account e viene utilizzato per nascondere contenuti di scarsa qualità. ",
         "follower_count": {
             "zero": "Nessun follower",
@@ -404,7 +404,7 @@
         }
     },
     "witnesses_jsx": {
-        "witness_thread": "witness thread",
+        "witness_thread": "thread del witness",
         "top_witnesses": "Voto Witness ",
         "you_have_votes_remaining": {
             "zero": "Non hai voti residui",
@@ -473,7 +473,7 @@
         "this_post_was_hidden_due_to_low_ratings": "Questo post è stato nascosto a causa della bassa reputazione"
     },
     "about_jsx": {
-        "about_app": "About %(APP_NAME)s",
+        "about_app": "A proposito di %(APP_NAME)s",
         "about_app_details": "%(APP_NAME)s è una piattaforma di social media dove tutti vengono ricompensati per la creazione e la cura di contenuti. Utilizza un complesso sistema a punti digitali, chiamato Steem che possiede un valore effettivo per le ricompense digitali attraverso la scoperta dei prezzi di mercato e la liquidità. ",
         "learn_more_at_app_url": "Scopri di più  %(APP_URL)s",
         "resources": "Risorse"
@@ -558,9 +558,9 @@
         "keep_me_logged_in": "Voglio restare connesso",
         "amazing_community": "una comunità incredibile",
         "to_comment_and_reward_others": "per commentare e premiare gli altri. ",
-        "signup_button": "Sign up now to earn ",
-        "signup_button_emphasis": "FREE STEEM!",
-        "sign_up_get_steem": "Sign up. Get STEEM",
+        "signup_button": "Registrati ora per guadagnare ",
+        "signup_button_emphasis": "STEEM GRATIS!",
+        "sign_up_get_steem": "Registrati. Ottieni STEEM",
         "returning_users": "Utenti di ritorno:",
         "join_our": "Unisciti al nostro"
     },
@@ -594,7 +594,7 @@
         "profile_image_url": "Url immagine profilo",
         "cover_image_url": "Url immagine di copertina",
         "profile_name": "Mostra nome",
-        "profile_about": "About",
+        "profile_about": "Info su",
         "profile_location": "Località",
         "profile_website": "Sito"
     },

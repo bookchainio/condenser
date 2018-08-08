@@ -614,8 +614,8 @@
         "from": "Da",
         "to": "A",
         "asset_currently_collecting": "%(asset)s attualmente percepiscono %(interest)s%% ISC.",
-        "beware_of_spam_and_phishing_links": "Beware of spam and phishing links in transfer memos. Do not open links from users you do not trust. Do not provide your private keys to any third party websites.",
-        "autocomplete_previous_transfers": "previous transfers",
+        "beware_of_spam_and_phishing_links": "Diffida dai link di spam e phishing nei transfer memo. Non aprire link che provengono da utenti di cui non ti fidi. Non fornire le tue chiavi private a nessun sito web di terze parti.",
+        "autocomplete_previous_transfers": "trasferimenti precedenti",
         "autocomplete_user_following": "following"
     },
     "userwallet_jsx": {
@@ -624,7 +624,7 @@
         "transfer_to_savings": "Sposta nei Risparmi",
         "power_up": "Power Up",
         "power_down": "Power Down",
-        "market": "Market",
+        "market": "Mercato",
         "convert_to_LIQUID_TOKEN": "Converti in %(LIQUID_TOKEN)s",
         "withdraw_LIQUID_TOKEN": "Preleva %(LIQUID_TOKEN)s",
         "withdraw_DEBT_TOKENS": "Preleva %(DEBT_TOKENS)s",

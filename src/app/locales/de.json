@@ -628,9 +628,9 @@
         "convert_to_LIQUID_TOKEN": "Umwandeln in %(LIQUID_TOKEN)s",
         "withdraw_LIQUID_TOKEN": "%(LIQUID_TOKEN)s abheben",
         "withdraw_DEBT_TOKENS": "%(DEBT_TOKENS)s abheben",
-        "tokens_worth_about_1_of_LIQUID_TICKER": "Tokens worth about $1.00 of %(LIQUID_TICKER)s, currently collecting %(sbdInterest)s%% APR.",
-        "savings": "SAVINGS",
-        "estimated_account_value": "Estimated Account Value",
+        "tokens_worth_about_1_of_LIQUID_TICKER": "Tokens im Wert von ungefähr $1.00 von %(LIQUID_TICKER)s, sammelt derzeit %(sbdInterest)s%% APR.",
+        "savings": "ERSPARNISSE",
+        "estimated_account_value": "Geschätzter Accountwert",
         "next_power_down_is_scheduled_to_happen": "Der nächste Power-Down ist geplant",
         "transfers_are_temporary_disabled": "Überweisungen sind vorübergehend deaktiviert.",
         "history": "VERLAUF",
@@ -640,16 +640,16 @@
     "powerdown_jsx": {
         "power_down": "Power Down",
         "amount": "Betrag",
-        "already_power_down": "You are already powering down %(AMOUNT)s %(LIQUID_TICKER)s (%(WITHDRAWN)s %(LIQUID_TICKER)s paid out so far). Note that if you change the power down amount the payout schedule will reset.",
-        "delegating": "You are delegating %(AMOUNT)s %(LIQUID_TICKER)s. That amount is locked up and not available to power down until the delegation is removed and a full reward period has passed.",
-        "per_week": "That's ~%(AMOUNT)s %(LIQUID_TICKER)s per week.",
-        "warning": "Leaving less than %(AMOUNT)s %(VESTING_TOKEN)s in your account is not recommended and can leave your account in a unusable state.",
+        "already_power_down": "Sie powern bereits down %(AMOUNT)s %(LIQUID_TICKER)s (%(WITHDRAWN)s %(LIQUID_TICKER)s bisher ausbezahlt). Beachten Sie, dass der Auszahlungsplan zurückgesetzt wird, wenn Sie den Power-Down-Betrag ändern.",
+        "delegating": "Sie delegieren %(AMOUNT)s %(LIQUID_TICKER)s. Dieser Betrag ist gesperrt und nicht für einen Power-Down verfügbar bis die Delegation zurückgezogen wurde und eine volle Reward-Frist (7 Tage) vergangen ist.",
+        "per_week": "Das sind ungefähr %(AMOUNT)s %(LIQUID_TICKER)s pro Woche.",
+        "warning": "Es wird nicht empfohlen, weniger als %(AMOUNT)s %(VESTING_TOKEN)s in Ihrem Account zu behalten, denn dies kann zu einem unbrauchbaren Zustand Ihres Accounts führen.",
         "error": "Power-Down nicht möglich (ERROR: %(MESSAGE)s)"
     },
     "checkloginowner_jsx": {
         "your_password_permissions_were_reduced": "Ihre Passwort Berechtigungen wurden eingeschränkt",
         "if_you_did_not_make_this_change": "Falls Sie diese Änderungen nicht vorgenommen haben",
-        "ownership_changed_on": "Ownership Changed On ",
+        "ownership_changed_on": "Besitzer gewechselt auf ",
         "deadline_for_recovery_is": "Frist für die Wiederherstellung ist",
         "i_understand_dont_show_again": "Ich verstehe, nicht noch einmal anzeigen"
     }

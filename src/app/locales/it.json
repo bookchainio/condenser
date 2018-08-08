@@ -211,15 +211,15 @@
             "other": "%(count)s Risposte"
         },
         "post_key_warning": {
-            "confirm": "You are about to publish a STEEM private key or master password. You will probably lose control of the associated account and all its funds.",
-            "warning": "Legitimate users, including employees of Steemit Inc., will never ask you for a private key or master password.",
-            "checkbox": "I understand"
+            "confirm": "Stai per pubblicare una chiave privata o una master password di steemit. Potresti perdere il controllo dell'account collegato e di tutti i suoi fondi.",
+            "warning": "Gli utenti autorizzati, compresi i dipendenti di Steemit Inc., non vi chiederanno mai informazioni riguardo a chiavi private o master password.",
+            "checkbox": "Ho capito"
         }
     },
     "navigation": {
         "about": "Circa",
         "explore": "Esplora",
-        "APP_NAME_whitepaper": "%(APP_NAME)s Whitepaper",
+        "APP_NAME_whitepaper": "Whitepaper %(APP_NAME)s",
         "buy_LIQUID_TOKEN": "Compra %(LIQUID_TOKEN)s",
         "sell_LIQUID_TOKEN": "Vendi %(LIQUID_TOKEN)s",
         "currency_market": "Mercato della valuta",
@@ -227,7 +227,7 @@
         "change_account_password": "Cambia la password dell'account",
         "witnesses": "Witness",
         "vote_for_witnesses": "Vota per i Witness",
-        "privacy_policy": "Privacy Policy",
+        "privacy_policy": "Informativa Privacy",
         "terms_of_service": "Condizioni di servizio",
         "sign_up": "Entra",
         "learn_more": "Scopri di più",

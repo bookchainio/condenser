@@ -474,7 +474,7 @@
     },
     "about_jsx": {
         "about_app": "Über %(APP_NAME)s",
-        "about_app_details": "%(APP_NAME)s ist eine Social-Media-Plattform bei der jeder für das Erstellen und das Voten von Beiträgen belohnt wird. Es nutzt ein robustes digitales Punktesystem, genannt Steem, das durch Marktpreisermittlung und Liquidität einen echten Mehrwert für digitale Rewards bietet.",
+        "about_app_details": "%(APP_NAME)s ist eine Social-Media-Plattform, bei der jeder für das Erstellen und das Voten von Beiträgen belohnt wird. Es nutzt ein robustes digitales Punktesystem, genannt Steem, das durch Marktpreisermittlung und Liquidität einen echten Mehrwert für digitale Belohnungen bietet.",
         "learn_more_at_app_url": "Erfahren Sie mehr unter %(APP_URL)s",
         "resources": "Quellen"
     },
@@ -523,7 +523,7 @@
         "change_account_password": "Account-Passwort ändern",
         "create_account": "Account erstellen",
         "stolen_account_recovery": "Wiederherstellung eines gestohlenen Accounts",
-        "people_following": "Personen abonniert",
+        "people_following": "Personen, die folgen",
         "people_followed_by": "Personen, die abonniert wurden von",
         "curation_rewards_by": "Kuration-Belohnungen von",
         "author_rewards_by": "Autor-Belohnungen von",
@@ -532,7 +532,7 @@
     },
     "loginform_jsx": {
         "you_need_a_private_password_or_key": "Sie benötigen ein privates Passwort oder Key (keinen öffentlichen Key)",
-        "cryptography_test_failed": "Kryptography-Test nicht bestanden",
+        "cryptography_test_failed": "Kryptographie-Test nicht bestanden",
         "unable_to_log_you_in": "Uns ist es leider nicht möglich, Sie in diesem Browser anzumelden.",
         "the_latest_versions_of": "Die neueste Version von ",
         "are_well_tested_and_known_to_work_with": "sind gut getestet und arbeiten mit %(APP_URL)s.",
@@ -543,9 +543,9 @@
         "posting": "Posten",
         "active_or_owner": "Aktiv oder Owner",
         "this_password_is_bound_to_your_account_owner_key": "Dieses Passwort ist an den Owner-Key des Accounts gebunden und kann nicht verwendet werden, um sich auf dieser Seite einzuloggen.",
-        "however_you_can_use_it_to": "Allerdings können Sie es verwenden für ",
+        "however_you_can_use_it_to": "Allerdings können Sie es verwenden, ",
         "update_your_password": "Ihr Passwort ändern",
-        "to_obtain_a_more_secure_set_of_keys": "um einen sichereren Sammlung von Keys zu erhalten.",
+        "to_obtain_a_more_secure_set_of_keys": "um einen sichereren Satz von Keys zu erhalten.",
         "this_password_is_bound_to_your_account_active_key": "Dieses Passwort ist an den Aktiv-Key des Accounts gebunden und kann nicht verwendet werden, um sich auf dieser Seite einzuloggen.",
         "you_may_use_this_active_key_on_other_more": "Sie können diesen Aktiv-Key auf anderen sichereren Seiten wie der Wallet oder den Markt-Seiten verwenden.",
         "you_account_has_been_successfully_created": "Ihr Account wurde erfolgreich erstellt!",

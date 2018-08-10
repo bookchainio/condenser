@@ -468,7 +468,7 @@
     },
     "promote_post_jsx": {
         "promote_post": "Beitrag bewerben",
-        "spend_your_DEBT_TOKEN_to_advertise_this_post": "Verwenden Sie Ihre %(DEBT_TOKEN)ss um Ihren Beitrag in der beworbenen Content-Sektion zu bewerben",
+        "spend_your_DEBT_TOKEN_to_advertise_this_post": "Verwenden Sie Ihre %(DEBT_TOKEN)ss, um Ihren Beitrag in der beworbenen Content-Sektion zu bewerben",
         "you_successfully_promoted_this_post": "Sie haben den Beitrag erfolgreich beworben",
         "this_post_was_hidden_due_to_low_ratings": "Dieser Beitrag wird wegen niedriger Bewertung ausgeblendet"
     },

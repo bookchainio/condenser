@@ -628,7 +628,7 @@
         "convert_to_LIQUID_TOKEN": "Umwandeln in %(LIQUID_TOKEN)s",
         "withdraw_LIQUID_TOKEN": "%(LIQUID_TOKEN)s abheben",
         "withdraw_DEBT_TOKENS": "%(DEBT_TOKENS)s abheben",
-        "tokens_worth_about_1_of_LIQUID_TICKER": "Tokens im Wert von ungefähr $1.00 von %(LIQUID_TICKER)s, sammelt derzeit %(sbdInterest)s%% APR.",
+        "tokens_worth_about_1_of_LIQUID_TICKER": "Tokens im Wert von ungefähr $1.00 von %(LIQUID_TICKER)s, sammeln derzeit %(sbdInterest)s%% APR.",
         "savings": "ERSPARNISSE",
         "estimated_account_value": "Geschätzter Accountwert",
         "next_power_down_is_scheduled_to_happen": "Der nächste Power-Down ist geplant",

@@ -574,7 +574,7 @@
         "have_only_letters_digits_or_dashes": "nur Buchstaben, Ziffern oder Bindestriche enthalten.",
         "have_only_one_dash_in_a_row": "nur einen Bindestrich in einer Reihe haben.",
         "end_with_a_letter_or_digit": "mit einem Buchstaben oder einer Ziffer enden.",
-        "verified_exchange_no_memo": "Sie müssen eine Memo für Ihre Überweisung inkludieren."
+        "verified_exchange_no_memo": "Sie müssen ein Memo für Ihre Überweisung hinzufügen."
     },
     "settings_jsx": {
         "invalid_url": "Ungültige URL",
@@ -589,12 +589,12 @@
         "always_hide": "Immer verbergen",
         "always_warn": "Immer warnen",
         "always_show": "Immer anzeigen",
-        "muted_users": "Stummgeschaltene User",
+        "muted_users": "Stummgeschaltete User",
         "update": "Aktualisieren",
         "profile_image_url": "Profilbild-URL",
         "cover_image_url": "Titelbild-URL",
         "profile_name": "Angezeigter Name",
-        "profile_about": "Über uns",
+        "profile_about": "Über mich",
         "profile_location": "Standort",
         "profile_website": "Website"
     },

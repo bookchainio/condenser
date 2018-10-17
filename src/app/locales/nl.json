@@ -199,26 +199,26 @@
         "tags_and_topics": "Tags",
         "show_more_topics": "View all tags",
         "basic": "Basic",
-        "advanced": "Advanced",
+        "advanced": "Geavanceerd",
         "views": {
             "zero": "No Views",
             "one": "%(count)s View",
             "other": "%(count)s Views"
         },
         "responses": {
-            "zero": "No Responses",
-            "one": "%(count)s Response",
-            "other": "%(count)s Responses"
+            "zero": "Geen antwoorden",
+            "one": "%(count)s antwoord",
+            "other": "%(count)s antwoorden"
         },
         "post_key_warning": {
             "confirm": "You are about to publish a STEEM private key or master password. You will probably lose control of the associated account and all its funds.",
             "warning": "Legitimate users, including employees of Steemit Inc., will never ask you for a private key or master password.",
-            "checkbox": "I understand"
+            "checkbox": "Ik begrijp het"
         }
     },
     "navigation": {
-        "about": "About",
-        "explore": "Explore",
+        "about": "Over",
+        "explore": "Verkennen",
         "APP_NAME_whitepaper": "%(APP_NAME)s Whitepaper",
         "buy_LIQUID_TOKEN": "Buy %(LIQUID_TOKEN)s",
         "sell_LIQUID_TOKEN": "Sell %(LIQUID_TOKEN)s",
@@ -248,26 +248,26 @@
         "trending": "trending"
     },
     "reply_editor": {
-        "shorten_title": "Shorten title",
-        "exceeds_maximum_length": "Exceeds maximum length (%(maxKb)sKB)",
-        "including_the_category": " (including the category '%(rootCategory)s')",
+        "shorten_title": "Titel verkorten",
+        "exceeds_maximum_length": "Overschrijdt de maximale lengte (%(maxKb)sKB)",
+        "including_the_category": " (de categorie inbegrepen '%(rootCategory)s')",
         "use_limited_amount_of_tags": "You have %(tagsLength)s tags total%(includingCategory)s. Please use only 5 in your post and category line.",
         "are_you_sure_you_want_to_clear_this_form": "Are you sure you want to clear this form?",
-        "uploading": "Uploading",
-        "draft_saved": "Draft saved.",
+        "uploading": "Uploaden",
+        "draft_saved": "Concept opgeslagen.",
         "editor": "Editor",
-        "insert_images_by_dragging_dropping": "Insert images by dragging & dropping, ",
-        "pasting_from_the_clipboard": "pasting from the clipboard, ",
+        "insert_images_by_dragging_dropping": "Afbeeldingen toevoegen door te slepen & neerzetten, ",
+        "pasting_from_the_clipboard": "plakken vanuit het klembord, ",
         "selecting_them": "selecting them",
-        "image_upload": "Image upload",
+        "image_upload": "Afbeelding uploaden",
         "power_up_100": "Power Up 100%%",
-        "default_50_50": "Default (50%% / 50%%)",
-        "decline_payout": "Decline Payout",
+        "default_50_50": "Standaard (50%% / 50%%)",
+        "decline_payout": "Betaling afwijzen",
         "check_this_to_auto_upvote_your_post": "Check this to auto-upvote your post",
         "markdown_styling_guide": "Markdown Styling Guide",
-        "or_by": "or by",
-        "title": "Title",
-        "update_post": "Update Post",
+        "or_by": "of door",
+        "title": "Titel",
+        "update_post": "Bericht bijwerken",
         "markdown_not_supported": "Markdown is not supported here"
     },
     "category_selector_jsx": {

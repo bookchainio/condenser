@@ -483,12 +483,12 @@
     },
     "postsummary_jsx": {
         "resteemed": "resteemed",
-        "resteemed_by": "Resteemed by",
-        "reveal_it": "Reveal this post",
+        "resteemed_by": "Resteemed door",
+        "reveal_it": "Deze post onthullen",
         "adjust_your": "adjust your",
-        "display_preferences": "display preferences",
+        "display_preferences": "weergavevoorkeuren",
         "create_an_account": "account aanmaken",
-        "to_save_your_preferences": "to save your preferences"
+        "to_save_your_preferences": "opslaan van uw voorkeuren"
     },
     "posts_index": {
         "empty_feed_1": "Looks like you haven't followed anything yet",
@@ -509,13 +509,13 @@
         "cancel_this_withdraw_request": "Cancel this withdraw request?",
         "pending_savings_withdrawals": "PENDING SAVINGS WITHDRAWS",
         "withdraw": "Withdraw %(amount)s",
-        "to": "to %(to)s",
-        "from_to": "from %(from)s to %(to)s"
+        "to": "naar %(to)s",
+        "from_to": "van %(from)s naar %(to)s"
     },
     "explorepost_jsx": {
         "copied": "Gekopieerd!",
         "copy": "KOPIE",
-        "alternative_sources": "Alternative Sources"
+        "alternative_sources": "Alternatieve bronnen"
     },
     "header_jsx": {
         "home": "home",
@@ -526,20 +526,20 @@
         "people_following": "Mensen die ik volg",
         "people_followed_by": "Mensen die gevolgd worden door",
         "curation_rewards_by": "Curatie beloningen",
-        "author_rewards_by": "Author rewards by",
-        "replies_to": "Replies to",
-        "comments_by": "Comments by"
+        "author_rewards_by": "Auteur beloningen door",
+        "replies_to": "Antwoorden op",
+        "comments_by": "Opmerkingen door"
     },
     "loginform_jsx": {
         "you_need_a_private_password_or_key": "You need a private password or key (not a public key)",
         "cryptography_test_failed": "Cryptography test failed",
         "unable_to_log_you_in": "We will be unable to log you in with this browser.",
-        "the_latest_versions_of": "The latest versions of ",
+        "the_latest_versions_of": "De nieuwste versies van ",
         "are_well_tested_and_known_to_work_with": "are well tested and known to work with %(APP_URL)s.",
         "due_to_server_maintenance": "Due to server maintenance we are running in read only mode. We are sorry for the inconvenience.",
-        "login_to_vote": "Login to Vote",
+        "login_to_vote": "Log in om te stemmen",
         "login_to_post": "Login to Post",
-        "login_to_comment": "Login to Comment",
+        "login_to_comment": "Login om een opmerking te plaatsen",
         "posting": "Posting",
         "active_or_owner": "Active or Owner",
         "this_password_is_bound_to_your_account_owner_key": "This password is bound to your account's owner key and can not be used to login to this site.",
@@ -590,23 +590,23 @@
         "always_warn": "Altijd waarschuwen",
         "always_show": "Altijd tonen",
         "muted_users": "Gedempte gebruikers",
-        "update": "Update",
-        "profile_image_url": "Profile picture url",
-        "cover_image_url": "Cover image url",
-        "profile_name": "Display Name",
-        "profile_about": "About",
-        "profile_location": "Location",
+        "update": "Bijwerken",
+        "profile_image_url": "Profielfoto url",
+        "cover_image_url": "Omslagfoto url",
+        "profile_name": "Weergavenaam",
+        "profile_about": "Over",
+        "profile_location": "Locatie",
         "profile_website": "Website"
     },
     "transfer_jsx": {
         "amount_is_in_form": "Amount is in the form 99999.999",
-        "insufficient_funds": "Insufficient funds",
+        "insufficient_funds": "Onvoldoende fondsen",
         "use_only_3_digits_of_precison": "Use only 3 digits of precison",
-        "send_to_account": "Send to account",
+        "send_to_account": "Verzenden naar account",
         "asset": "Asset",
-        "this_memo_is_private": "This memo is private",
-        "this_memo_is_public": "This memo is public",
-        "convert_to_VESTING_TOKEN": "Convert to %(VESTING_TOKEN)s",
+        "this_memo_is_private": "Dit memo is privé",
+        "this_memo_is_public": "Deze memo is openbaar",
+        "convert_to_VESTING_TOKEN": "Converteren naar %(VESTING_TOKEN)s",
         "balance_subject_to_3_day_withdraw_waiting_period": "Balance subject to 3 day withdraw waiting period,",
         "move_funds_to_another_account": "Move funds to another %(APP_NAME)s account.",
         "protect_funds_by_requiring_a_3_day_withdraw_waiting_period": "Protect funds by requiring a 3 day withdraw waiting period.",

@@ -635,11 +635,11 @@
         "transfers_are_temporary_disabled": "Transfers are temporary disabled.",
         "history": "GESCHIEDENIS",
         "redeem_rewards": "Redeem Rewards (Transfer to Balance)",
-        "buy_steem_or_steem_power": "Buy STEEM or STEEM POWER"
+        "buy_steem_or_steem_power": "Koop STEEM of STEEM POWER"
     },
     "powerdown_jsx": {
         "power_down": "Power down",
-        "amount": "Amount",
+        "amount": "Hoeveelheid",
         "already_power_down": "You are already powering down %(AMOUNT)s %(LIQUID_TICKER)s (%(WITHDRAWN)s %(LIQUID_TICKER)s paid out so far). Note that if you change the power down amount the payout schedule will reset.",
         "delegating": "You are delegating %(AMOUNT)s %(LIQUID_TICKER)s. That amount is locked up and not available to power down until the delegation is removed and a full reward period has passed.",
         "per_week": "That's ~%(AMOUNT)s %(LIQUID_TICKER)s per week.",
@@ -647,8 +647,8 @@
         "error": "Unable to power down (ERROR: %(MESSAGE)s)"
     },
     "checkloginowner_jsx": {
-        "your_password_permissions_were_reduced": "Your password permissions were reduced",
-        "if_you_did_not_make_this_change": "If you did not make this change please",
+        "your_password_permissions_were_reduced": "Uw wachtwoord machtigingen zijn verlaagd",
+        "if_you_did_not_make_this_change": "Als u deze wijziging niet heeft gemaakt, aub",
         "ownership_changed_on": "Ownership Changed On ",
         "deadline_for_recovery_is": "Deadline voor herstel is",
         "i_understand_dont_show_again": "Ik begrijp het, dit niet opnieuw tonen"

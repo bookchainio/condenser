@@ -284,17 +284,17 @@
     },
     "postfull_jsx": {
         "this_post_is_not_available_due_to_a_copyright_claim": "This post is not available due to a copyright claim.",
-        "share_on_facebook": "Share on Facebook",
-        "share_on_twitter": "Share on Twitter",
-        "share_on_linkedin": "Share on Linkedin",
-        "recent_password": "Recent Password",
+        "share_on_facebook": "Deel op Facebook",
+        "share_on_twitter": "Deel op Twitter",
+        "share_on_linkedin": "Deel op Linkedin",
+        "recent_password": "Recent wachtwoord",
         "in_week_convert_DEBT_TOKEN_to_LIQUID_TOKEN": "In 3.5 days, convert %(amount)s %(DEBT_TOKEN)s into %(LIQUID_TOKEN)s",
         "view_the_full_context": "View the full context",
         "view_the_direct_parent": "View the direct parent",
         "you_are_viewing_a_single_comments_thread_from": "You are viewing a single comment's thread from"
     },
     "market_jsx": {
-        "action": "Action",
+        "action": "Actie",
         "date_created": "Datum aangemaakt",
         "last_price": "Laatste prijs",
         "24h_volume": "24u volume",
@@ -345,18 +345,18 @@
         "user_hasnt_had_any_replies_yet": "%(name)s hasn't had any replies yet",
         "looks_like_you_havent_posted_anything_yet": "Looks like you haven't posted anything yet.",
         "create_a_post": "Een bericht maken",
-        "explore_trending_articles": "Explore Trending Articles",
+        "explore_trending_articles": "Verken populaire artikelen",
         "read_the_quick_start_guide": "Read The Quick Start Guide",
         "browse_the_faq": "Browse The FAQ",
         "followers": "Volgers",
         "this_is_users_reputations_score_it_is_based_on_history_of_votes": "This is %(name)s's reputation score.\n\nThe reputation score is based on the history of votes received by the account, and is used to hide low quality content.",
         "follower_count": {
-            "zero": "No followers",
-            "one": "1 follower",
-            "other": "%(count)s followers"
+            "zero": "Geen volgers",
+            "one": "1 volger",
+            "other": "%(count)s volgers"
         },
         "followed_count": {
-            "zero": "Not following anybody",
+            "zero": "Volgt niemand",
             "one": "1 following",
             "other": "%(count)s following"
         },
@@ -386,7 +386,7 @@
         "hate_speech_or_internet_trolling": "Hate Speech or Internet Trolling",
         "intentional_miss_categorized_content_or_spam": "Intentional miss-categorized content or Spam",
         "pending_payout": "Pending Payout $%(value)s",
-        "payout_declined": "Payout Declined",
+        "payout_declined": "Uitbetaling geweigerd",
         "max_accepted_payout": "Max Accepted Payout $%(value)s",
         "promotion_cost": "Promotion Cost $%(value)s",
         "past_payouts": "Past Payouts $%(value)s",
@@ -397,19 +397,19 @@
         "changing_to_an_upvote": "Changing to an Up-Vote",
         "changing_to_a_downvote": "Changing to a Down-Vote",
         "confirm_flag": "Confirm Flag",
-        "and_more": "and %(count)s more",
+        "and_more": "en %(count)s meer",
         "votes_plural": {
-            "one": "%(count)s vote",
-            "other": "%(count)s votes"
+            "one": "%(count)s stem",
+            "other": "%(count)s stemmen"
         }
     },
     "witnesses_jsx": {
         "witness_thread": "witness thread",
         "top_witnesses": "Witness Voting",
         "you_have_votes_remaining": {
-            "zero": "You have no votes remaining",
-            "one": "You have 1 vote remaining",
-            "other": "You have %(count)s votes remaining"
+            "zero": "U heeft geen resterende stemmen",
+            "one": "U heeft 1 resterende stem",
+            "other": "U heeft %(count)s resterende stemmen"
         },
         "you_can_vote_for_maximum_of_witnesses": "You can vote for a maximum of 30 witnesses",
         "witness": "Witness",
@@ -450,7 +450,7 @@
         "APP_NAME_cannot_recover_passwords_keep_this_page_in_a_secure_location": "%(APP_NAME)s cannot recover passwords. Keep this page in a secure location, such as a fireproof safe or safety deposit box.",
         "APP_NAME_password_backup": "%(APP_NAME)s Password Backup",
         "APP_NAME_password_backup_required": "%(APP_NAME)s Password Backup (required)",
-        "after_printing_write_down_your_user_name": "After printing, write down your user name"
+        "after_printing_write_down_your_user_name": "Noteer uw gebruikersnaam na het afdrukken"
     },
     "converttosteem_jsx": {
         "your_existing_DEBT_TOKEN_are_liquid_and_transferable": "Your existing %(DEBT_TOKEN)s are liquid and transferable. Instead you may wish to trade %(DEBT_TOKEN)s directly in this site under %(link)s or transfer to an external market.",
@@ -487,13 +487,13 @@
         "reveal_it": "Reveal this post",
         "adjust_your": "adjust your",
         "display_preferences": "display preferences",
-        "create_an_account": "create an account",
+        "create_an_account": "account aanmaken",
         "to_save_your_preferences": "to save your preferences"
     },
     "posts_index": {
         "empty_feed_1": "Looks like you haven't followed anything yet",
         "empty_feed_2": "If you recently added new users to follow, your personalized feed will populate once new content is available",
-        "empty_feed_3": "Explore Trending Articles",
+        "empty_feed_3": "Verken populaire artikelen",
         "empty_feed_4": "Read The Quick Start Guide",
         "empty_feed_5": "Browse The FAQ"
     },
@@ -513,19 +513,19 @@
         "from_to": "from %(from)s to %(to)s"
     },
     "explorepost_jsx": {
-        "copied": "Copied!",
-        "copy": "COPY",
+        "copied": "Gekopieerd!",
+        "copy": "KOPIE",
         "alternative_sources": "Alternative Sources"
     },
     "header_jsx": {
         "home": "home",
-        "create_a_post": "Create a post",
-        "change_account_password": "Change Account Password",
-        "create_account": "Create Account",
+        "create_a_post": "Een bericht maken",
+        "change_account_password": "Verander account wachtwoord",
+        "create_account": "Account aanmaken",
         "stolen_account_recovery": "Stolen Account Recovery",
-        "people_following": "People following",
-        "people_followed_by": "People followed by",
-        "curation_rewards_by": "Curation rewards by",
+        "people_following": "Mensen die ik volg",
+        "people_followed_by": "Mensen die gevolgd worden door",
+        "curation_rewards_by": "Curatie beloningen",
         "author_rewards_by": "Author rewards by",
         "replies_to": "Replies to",
         "comments_by": "Comments by"
@@ -552,7 +552,7 @@
         "you_account_has_been_successfully_recovered": "You account has been successfully recovered!",
         "password_update_succes": "The password for %(accountName)s was successfully updated",
         "password_info": "This password or private key was entered incorrectly.  There is probably a handwriting or data-entry error.  Hint: A password or private key generated by Steemit will never contain 0 (zero), O (capital o), I (capital i) and l (lower case L) characters.",
-        "enter_your_username": "Enter your username",
+        "enter_your_username": "Voer uw gebruikersnaam in",
         "password_or_wif": "Password or WIF",
         "this_operation_requires_your_key_or_master_password": "This operation requires your %(authType)s key or Master password.",
         "keep_me_logged_in": "Keep me logged in",
@@ -561,14 +561,14 @@
         "signup_button": "Sign up now to earn ",
         "signup_button_emphasis": "FREE STEEM!",
         "sign_up_get_steem": "Sign up. Get STEEM",
-        "returning_users": "Returning Users: ",
+        "returning_users": "Terugkerende gebruikers: ",
         "join_our": "Join our"
     },
     "chainvalidation_js": {
-        "account_name_should": "Account name should ",
-        "not_be_empty": "not be empty.",
-        "be_longer": "be longer.",
-        "be_shorter": "be shorter.",
+        "account_name_should": "Accountnaam zou ",
+        "not_be_empty": "niet leeg mogen zijn.",
+        "be_longer": "langer moeten zijn.",
+        "be_shorter": "korter moeten zijn.",
         "each_account_segment_should": "Each account segment should ",
         "start_with_a_letter": "start with a letter.",
         "have_only_letters_digits_or_dashes": "have only letters, digits, or dashes.",

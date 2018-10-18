@@ -106,7 +106,7 @@
         "toggle_nightmode": "Nachtmodus inschakelen",
         "all_tags": "All tags",
         "transfer": "Overschrijving ",
-        "trending_topics": "Trending Topics",
+        "trending_topics": "Populaire onderwerpen",
         "type": "Typen",
         "unfollow": "Ontvolgen",
         "unmute": "Geluid aan",
@@ -142,14 +142,14 @@
             "seventh": "The seventh rule: Always back up your password."
         },
         "recover_password": "Recover Account",
-        "current_password": "Current Password",
-        "generated_password": "Generated Password",
+        "current_password": "Huidig wachtwoord",
+        "generated_password": "Gegenereerde wachtwoord",
         "backup_password_by_storing_it": "Back it up by storing in your password manager or a text file",
         "enter_account_show_password": "Enter a valid account name to show the password",
         "click_to_generate_password": "Klik om een wachtwoord te genereren",
         "re_enter_generate_password": "Gegenereerde wachtwoord opnieuw invoeren",
         "understand_that_APP_NAME_cannot_recover_password": "I understand that %(APP_NAME)s cannot recover lost passwords",
-        "i_saved_password": "I have securely saved my generated password",
+        "i_saved_password": "Ik heb mijn gegenereerde wachtwoord veilig opgeslagen",
         "update_password": "Wachtwoord bijwerken",
         "confirm_password": "Bevestig wachtwoord",
         "account_updated": "Account bijgewerkt",
@@ -161,7 +161,7 @@
         "username_does_not_exist": "Gebruikersnaam bestaat niet",
         "account_name_should_start_with_a_letter": "De accountnaam moet beginnen met een letter.",
         "account_name_should_be_shorter": "De accountnaam moet korter zijn.",
-        "account_name_should_be_longer": "Account name should be longer.",
+        "account_name_should_be_longer": "Accountnaam zou langer moeten zijn.",
         "account_name_should_have_only_letters_digits_or_dashes": "Account name should have only letters, digits, periods or dashes.",
         "cannot_increase_reward_of_post_within_the_last_minute_before_payout": "Cannot increase reward of post within the last minute before payout",
         "vote_currently_exists_user_must_be_indicate_a_to_reject_witness": "vote currently exists, user must be indicate a desire to reject witness",
@@ -183,7 +183,7 @@
         "or_click_the_button_below_to_register_with_facebook": "Of klik op de knop hieronder om te registreren met Facebook",
         "server_returned_error": "server returned error",
         "APP_NAME_support": "%(APP_NAME)s Support",
-        "please_email_questions_to": "Please email your questions to",
+        "please_email_questions_to": "Stuur uw vragen per e-mail naar",
         "next_7_strings_single_block": {
             "authors_get_paid_when_people_like_you_upvote_their_post": "Authors get paid when people like you upvote their post",
             "if_you_enjoyed_what_you_read_earn_amount": "If you enjoyed what you read here, create your account today and start earning FREE STEEM!",
@@ -245,7 +245,7 @@
     },
     "main_menu": {
         "hot": "hot",
-        "trending": "trending"
+        "trending": "populair"
     },
     "reply_editor": {
         "shorten_title": "Titel verkorten",

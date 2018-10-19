@@ -83,7 +83,7 @@
             "other": "%(count)s antwoorden"
         },
         "reputation": "Reputatie",
-        "reveal_comment": "Reveal Comment",
+        "reveal_comment": "Commentaar onthullen",
         "request": "verzoek",
         "required": "Vereist",
         "rewards": "Beloningen",
@@ -117,7 +117,7 @@
         "version": "Versie",
         "vote": "Stem",
         "votes": "votes",
-        "wallet": "Wallet",
+        "wallet": "Portefeuille",
         "warning": "waarschuwing",
         "yes": "Ja",
         "posting": "Posting",
@@ -559,8 +559,8 @@
         "amazing_community": "amazing community",
         "to_comment_and_reward_others": " to comment and reward others.",
         "signup_button": "Sign up now to earn ",
-        "signup_button_emphasis": "FREE STEEM!",
-        "sign_up_get_steem": "Sign up. Get STEEM",
+        "signup_button_emphasis": "GRATIS STEEM!",
+        "sign_up_get_steem": "Aanmelden. Ontvang STEEM",
         "returning_users": "Terugkerende gebruikers: ",
         "join_our": "Join our"
     },

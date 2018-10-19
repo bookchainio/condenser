@@ -58,9 +58,9 @@
         "payouts": "Uitbetalingen",
         "permissions": "Toestemmingen",
         "phishy_message": "Link uitgebreid naar tekst zonder opmaak; pas op voor een mogelijke phishing-poging",
-        "post": "Bericht",
-        "post_as": "Posten als",
-        "posts": "Berichten",
+        "post": "Artikel",
+        "post_as": "Plaatsen als",
+        "posts": "Artikelen",
         "powered_up_100": "Powered Up 100%%",
         "preview": "Voorbeeld",
         "previous": "Vorige",
@@ -99,7 +99,7 @@
         "since": "sinds",
         "submit": "Versturen",
         "power_up": "Power up",
-        "submit_a_story": "Bericht",
+        "submit_a_story": "Artikel",
         "tag": "Tag",
         "to": " to ",
         "topics": "Onderwerpen",
@@ -115,7 +115,7 @@
         "upvote_post": "Upvote post",
         "username": "Gebruikersnaam",
         "version": "Versie",
-        "vote": "Stem",
+        "vote": "Stem (vote)",
         "votes": "votes",
         "wallet": "Portefeuille",
         "warning": "waarschuwing",
@@ -166,7 +166,7 @@
         "cannot_increase_reward_of_post_within_the_last_minute_before_payout": "Cannot increase reward of post within the last minute before payout",
         "vote_currently_exists_user_must_be_indicate_a_to_reject_witness": "vote currently exists, user must be indicate a desire to reject witness",
         "only_one_APP_NAME_account_allowed_per_ip_address_every_10_minutes": "Only one Steem account allowed per IP address every 10 minutes",
-        "resteem_this_post": "Resteem dit bericht",
+        "resteem_this_post": "Resteem dit artikel",
         "reblog": "Resteem",
         "write_your_story": "Schrijf je verhaal",
         "remember_voting_and_posting_key": "Remember voting & posting key",
@@ -267,7 +267,7 @@
         "markdown_styling_guide": "Markdown Styling Guide",
         "or_by": "of door",
         "title": "Titel",
-        "update_post": "Bericht bijwerken",
+        "update_post": "Artikel bijwerken",
         "markdown_not_supported": "Markdown is not supported here"
     },
     "category_selector_jsx": {
@@ -344,7 +344,7 @@
         "user_hasnt_followed_anything_yet": "Looks like %(name)s might not be following anyone yet! If %(name)s recently added new users to follow, their personalized feed will populate once new content is available.",
         "user_hasnt_had_any_replies_yet": "%(name)s hasn't had any replies yet",
         "looks_like_you_havent_posted_anything_yet": "Looks like you haven't posted anything yet.",
-        "create_a_post": "Een bericht maken",
+        "create_a_post": "Een artikel maken",
         "explore_trending_articles": "Verken populaire artikelen",
         "read_the_quick_start_guide": "Read The Quick Start Guide",
         "browse_the_faq": "Browse The FAQ",
@@ -361,9 +361,9 @@
             "other": "%(count)s volgend"
         },
         "post_count": {
-            "zero": "Geen berichten",
-            "one": "1 bericht",
-            "other": "%(count)s berichten"
+            "zero": "Geen artikelen",
+            "one": "1 artikel",
+            "other": "%(count)s artikelen"
         }
     },
     "authorrewards_jsx": {
@@ -467,9 +467,9 @@
         "part_of_your_steem_power_is_currently_delegated": "Part of %(user_name)s's STEEM POWER is currently delegated. Delegation is donated for influence or to help new users perform actions on steemit. Your delegation amount can fluctuate."
     },
     "promote_post_jsx": {
-        "promote_post": "Bericht promoten",
+        "promote_post": "Artikel promoten",
         "spend_your_DEBT_TOKEN_to_advertise_this_post": "Spend your %(DEBT_TOKEN)s's to advertise this post in the promoted content section",
-        "you_successfully_promoted_this_post": "U heeft dit bericht succevol gepromoot",
+        "you_successfully_promoted_this_post": "U heeft dit artikel succevol gepromoot",
         "this_post_was_hidden_due_to_low_ratings": "This post was hidden due to low ratings"
     },
     "about_jsx": {
@@ -519,7 +519,7 @@
     },
     "header_jsx": {
         "home": "home",
-        "create_a_post": "Een bericht maken",
+        "create_a_post": "Een artikel maken",
         "change_account_password": "Verander account wachtwoord",
         "create_account": "Account aanmaken",
         "stolen_account_recovery": "Stolen Account Recovery",
@@ -629,7 +629,7 @@
         "withdraw_LIQUID_TOKEN": "Withdraw %(LIQUID_TOKEN)s",
         "withdraw_DEBT_TOKENS": "Withdraw %(DEBT_TOKENS)s",
         "tokens_worth_about_1_of_LIQUID_TICKER": "Tokens worth about $1.00 of %(LIQUID_TICKER)s, currently collecting %(sbdInterest)s%% APR.",
-        "savings": "SAVINGS",
+        "savings": "SPAARGELD",
         "estimated_account_value": "Geschatte accountwaarde",
         "next_power_down_is_scheduled_to_happen": "The next power down is scheduled to happen",
         "transfers_are_temporary_disabled": "Overboekingen zijn tijdelijk uitgeschakeld.",

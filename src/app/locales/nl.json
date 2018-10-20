@@ -594,7 +594,7 @@
         "profile_image_url": "Profielfoto url",
         "cover_image_url": "Omslagfoto url",
         "profile_name": "Weergavenaam",
-        "profile_about": "Over",
+        "profile_about": "Over mij",
         "profile_location": "Locatie",
         "profile_website": "Website"
     },
@@ -604,7 +604,7 @@
         "use_only_3_digits_of_precison": "Use only 3 digits of precison",
         "send_to_account": "Verzenden naar account",
         "asset": "Asset",
-        "this_memo_is_private": "Dit memo is privé",
+        "this_memo_is_private": "Deze memo is privé",
         "this_memo_is_public": "Deze memo is openbaar",
         "convert_to_VESTING_TOKEN": "Converteren naar %(VESTING_TOKEN)s",
         "balance_subject_to_3_day_withdraw_waiting_period": "Balance subject to 3 day withdraw waiting period,",
@@ -634,7 +634,7 @@
         "next_power_down_is_scheduled_to_happen": "De volgende power down is ingepland op",
         "transfers_are_temporary_disabled": "Overboekingen zijn tijdelijk uitgeschakeld.",
         "history": "GESCHIEDENIS",
-        "redeem_rewards": "Beloningen inwisselen (overboeken naar saldo)",
+        "redeem_rewards": "Beloningen inwisselen (Overboeken naar Saldo)",
         "buy_steem_or_steem_power": "Koop STEEM of STEEM POWER"
     },
     "powerdown_jsx": {
@@ -647,7 +647,7 @@
         "error": "Unable to power down (ERROR: %(MESSAGE)s)"
     },
     "checkloginowner_jsx": {
-        "your_password_permissions_were_reduced": "Uw wachtwoord machtigingen zijn verlaagd",
+        "your_password_permissions_were_reduced": "Je wachtwoord machtigingen zijn verlaagd",
         "if_you_did_not_make_this_change": "Als je deze wijziging niet hebt gemaakt, aub",
         "ownership_changed_on": "Ownership Changed On ",
         "deadline_for_recovery_is": "Deadline voor herstel is",

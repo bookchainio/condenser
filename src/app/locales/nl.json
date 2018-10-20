@@ -648,7 +648,7 @@
     },
     "checkloginowner_jsx": {
         "your_password_permissions_were_reduced": "Je wachtwoord machtigingen zijn verlaagd",
-        "if_you_did_not_make_this_change": "Als je deze wijziging niet hebt gemaakt, aub",
+        "if_you_did_not_make_this_change": "Als je deze wijziging niet hebt gemaakt, alsjeblieft",
         "ownership_changed_on": "Ownership Changed On ",
         "deadline_for_recovery_is": "Deadline voor herstel is",
         "i_understand_dont_show_again": "Ik begrijp het, dit niet opnieuw tonen"

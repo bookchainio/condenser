@@ -207,8 +207,8 @@
         },
         "responses": {
             "zero": "Geen antwoorden",
-            "one": "%(count)s antwoord",
-            "other": "%(count)s antwoorden"
+            "one": "%(count)s Antwoord",
+            "other": "%(count)s Antwoorden"
         },
         "post_key_warning": {
             "confirm": "You are about to publish a STEEM private key or master password. You will probably lose control of the associated account and all its funds.",
@@ -263,7 +263,7 @@
         "power_up_100": "Power Up 100%%",
         "default_50_50": "Standaard (50%% / 50%%)",
         "decline_payout": "Betaling afwijzen",
-        "check_this_to_auto_upvote_your_post": "Vink dit aan om automatisch op uw artikel te stemmen",
+        "check_this_to_auto_upvote_your_post": "Vink dit aan om automatisch op je artikel te stemmen",
         "markdown_styling_guide": "Markdown Styling Guide",
         "or_by": "of door",
         "title": "Titel",
@@ -309,8 +309,8 @@
         "open_orders": "Openstaande orders",
         "sell_amount_for_atleast": "Sell %(amount_to_sell)s for at least %(min_to_receive)s (%(effectivePrice)s)",
         "buy_atleast_amount_for": "Koop ten minste %(min_to_receive)s voor %(amount_to_sell)s (%(effectivePrice)s)",
-        "price_warning_above": "Deze prijs is ruim boven de huidige marktprijs van %(marketPrice)s, weet u het zeker?",
-        "price_warning_below": "Deze prijs is ver onder de huidige marktprijs van %(marketPrice)s, weet u het zeker?",
+        "price_warning_above": "Deze prijs is ruim boven de huidige marktprijs van %(marketPrice)s, weet je het zeker?",
+        "price_warning_below": "Deze prijs is ver onder de huidige marktprijs van %(marketPrice)s, weet je het zeker?",
         "order_cancel_confirm": "Order annuleren %(order_id)s van %(user)s?",
         "order_cancelled": "Order %(order_id)s geannuleerd.",
         "higher": "Hoger",
@@ -328,7 +328,7 @@
         "login_with_facebook_or_reddit_media_to_verify_identity": "Please login with Facebook or Reddit to verify your identity",
         "login_with_social_media_to_verify_identity": "Please login with %(provider)s to verify your identity",
         "enter_email_toverify_identity": "We need to verify your identity. Please enter your email address below to begin the verification.",
-        "continue_with_email": "Doorgaan via e-mail",
+        "continue_with_email": "Doorgaan via E-mail",
         "thanks_for_submitting_request_for_account_recovery": "Thanks for submitting your request for Account Recovery using %(APP_NAME)s's blockchain-based multi factor authentication. We will respond to you as quickly as possible, however, please expect there may be some delay in response due to high volume of emails. Please be prepared to verify your identity.",
         "recovering_account": "Account herstellen",
         "recover_account": "Herstel account",
@@ -420,7 +420,7 @@
         "witness_proxy_current": "Je huidige proxy is",
         "witness_proxy_set": "Proxy instellen",
         "witness_proxy_clear": "Proxy wissen",
-        "proxy_update_error": "Uw proxy is niet bijgewerkt"
+        "proxy_update_error": "Je proxy is niet bijgewerkt"
     },
     "votesandcomments_jsx": {
         "no_responses_yet_click_to_respond": "Nog geen reacties. Klik om te reageren.",
@@ -450,7 +450,7 @@
         "APP_NAME_cannot_recover_passwords_keep_this_page_in_a_secure_location": "%(APP_NAME)s cannot recover passwords. Keep this page in a secure location, such as a fireproof safe or safety deposit box.",
         "APP_NAME_password_backup": "%(APP_NAME)s Password Backup",
         "APP_NAME_password_backup_required": "%(APP_NAME)s Password Backup (required)",
-        "after_printing_write_down_your_user_name": "Noteer uw gebruikersnaam na het afdrukken"
+        "after_printing_write_down_your_user_name": "Noteer je gebruikersnaam na het afdrukken"
     },
     "converttosteem_jsx": {
         "your_existing_DEBT_TOKEN_are_liquid_and_transferable": "Your existing %(DEBT_TOKEN)s are liquid and transferable. Instead you may wish to trade %(DEBT_TOKEN)s directly in this site under %(link)s or transfer to an external market.",
@@ -488,7 +488,7 @@
         "adjust_your": "adjust your",
         "display_preferences": "weergavevoorkeuren",
         "create_an_account": "account aanmaken",
-        "to_save_your_preferences": "opslaan van uw voorkeuren"
+        "to_save_your_preferences": "opslaan van je voorkeuren"
     },
     "posts_index": {
         "empty_feed_1": "Looks like you haven't followed anything yet",
@@ -523,9 +523,9 @@
         "change_account_password": "Verander account wachtwoord",
         "create_account": "Account aanmaken",
         "stolen_account_recovery": "Gestolen account herstellen",
-        "people_following": "Mensen die ik volg",
+        "people_following": "Mensen die volgen",
         "people_followed_by": "Mensen die gevolgd worden door",
-        "curation_rewards_by": "Curatie beloningen",
+        "curation_rewards_by": "Curatie beloningen door",
         "author_rewards_by": "Auteur beloningen door",
         "replies_to": "Antwoorden op",
         "comments_by": "Opmerkingen door"
@@ -552,13 +552,13 @@
         "you_account_has_been_successfully_recovered": "You account has been successfully recovered!",
         "password_update_succes": "The password for %(accountName)s was successfully updated",
         "password_info": "This password or private key was entered incorrectly.  There is probably a handwriting or data-entry error.  Hint: A password or private key generated by Steemit will never contain 0 (zero), O (capital o), I (capital i) and l (lower case L) characters.",
-        "enter_your_username": "Voer uw gebruikersnaam in",
+        "enter_your_username": "Voer je gebruikersnaam in",
         "password_or_wif": "Password or WIF",
         "this_operation_requires_your_key_or_master_password": "This operation requires your %(authType)s key or Master password.",
         "keep_me_logged_in": "Ingelogd blijven",
         "amazing_community": "amazing community",
         "to_comment_and_reward_others": " to comment and reward others.",
-        "signup_button": "Meld u nu aan om te verdienen ",
+        "signup_button": "Meld je nu aan om te verdienen ",
         "signup_button_emphasis": "GRATIS STEEM!",
         "sign_up_get_steem": "Aanmelden. Ontvang STEEM",
         "returning_users": "Terugkerende gebruikers: ",
@@ -570,7 +570,7 @@
         "be_longer": "langer moeten zijn.",
         "be_shorter": "korter moeten zijn.",
         "each_account_segment_should": "Each account segment should ",
-        "start_with_a_letter": "begint met een letter.",
+        "start_with_a_letter": "moeten beginnen met een letter.",
         "have_only_letters_digits_or_dashes": "have only letters, digits, or dashes.",
         "have_only_one_dash_in_a_row": "have only one dash in a row.",
         "end_with_a_letter_or_digit": "end with a letter or digit.",

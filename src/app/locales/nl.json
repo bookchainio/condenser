@@ -3,7 +3,7 @@
         "age": "leeftijd",
         "amount": "Amount",
         "and": "en",
-        "are_you_sure": "Weet je het zeker?",
+        "are_you_sure": "Zeker weten?",
         "ask": "Vraag",
         "balance": "Saldo",
         "balances": "Saldi",
@@ -127,7 +127,7 @@
         "this_is_wrong_password": "Dit is het verkeerde wachtwoord",
         "do_you_need_to": "Do you need to",
         "account_name": "Accountnaam",
-        "recover_your_account": "uw account herstellen",
+        "recover_your_account": "herstel je account",
         "reset_usernames_password": "Herstel %(username)s's wachtwoord",
         "this_will_update_usernames_authtype_key": "This will update %(username)s %(authType)s key",
         "passwords_do_not_match": "Wachtwoorden komen niet overeen",
@@ -393,7 +393,7 @@
         "past_payouts_author": " - Auteur $%(value)s",
         "past_payouts_curators": " - Curatoren $%(value)s",
         "we_will_reset_curation_rewards_for_this_post": "will reset your curation rewards for this post",
-        "removing_your_vote": "Uw stem verwijderen",
+        "removing_your_vote": "Verwijder je stem",
         "changing_to_an_upvote": "Changing to an Up-Vote",
         "changing_to_a_downvote": "Changing to a Down-Vote",
         "confirm_flag": "Confirm Flag",
@@ -407,9 +407,9 @@
         "witness_thread": "witness thread",
         "top_witnesses": "Witness Voting",
         "you_have_votes_remaining": {
-            "zero": "U heeft geen resterende stemmen",
-            "one": "U heeft 1 resterende stem",
-            "other": "U heeft %(count)s resterende stemmen"
+            "zero": "Je hebt geen resterende stemmen",
+            "one": "Je hebt 1 resterende stem",
+            "other": "Je hebt %(count)s resterende stemmen"
         },
         "you_can_vote_for_maximum_of_witnesses": "You can vote for a maximum of 30 witnesses",
         "witness": "Witness",
@@ -417,7 +417,7 @@
         "if_you_want_to_vote_outside_of_top_enter_account_name": "If you would like to vote for a witness outside of the top 50, enter the account name below to cast a vote",
         "set_witness_proxy": "You can also choose a proxy that will vote for witnesses for you. This will reset your current witness selection.",
         "witness_set": "You have set a voting proxy. If you would like to re-enable manual voting, please clear your proxy.",
-        "witness_proxy_current": "Uw huidige proxy is",
+        "witness_proxy_current": "Je huidige proxy is",
         "witness_proxy_set": "Proxy instellen",
         "witness_proxy_clear": "Proxy wissen",
         "proxy_update_error": "Uw proxy is niet bijgewerkt"
@@ -469,7 +469,7 @@
     "promote_post_jsx": {
         "promote_post": "Artikel promoten",
         "spend_your_DEBT_TOKEN_to_advertise_this_post": "Spend your %(DEBT_TOKEN)s's to advertise this post in the promoted content section",
-        "you_successfully_promoted_this_post": "U heeft dit artikel succevol gepromoot",
+        "you_successfully_promoted_this_post": "Je hebt dit artikel succevol gepromoot",
         "this_post_was_hidden_due_to_low_ratings": "This post was hidden due to low ratings"
     },
     "about_jsx": {
@@ -648,7 +648,7 @@
     },
     "checkloginowner_jsx": {
         "your_password_permissions_were_reduced": "Uw wachtwoord machtigingen zijn verlaagd",
-        "if_you_did_not_make_this_change": "Als u deze wijziging niet heeft gemaakt, aub",
+        "if_you_did_not_make_this_change": "Als je deze wijziging niet hebt gemaakt, aub",
         "ownership_changed_on": "Ownership Changed On ",
         "deadline_for_recovery_is": "Deadline voor herstel is",
         "i_understand_dont_show_again": "Ik begrijp het, dit niet opnieuw tonen"

@@ -182,11 +182,11 @@
         "register_with_facebook": "Registreren met Facebook",
         "or_click_the_button_below_to_register_with_facebook": "Of klik op de knop hieronder om te registreren met Facebook",
         "server_returned_error": "server returned error",
-        "APP_NAME_support": "%(APP_NAME)s Support",
+        "APP_NAME_support": "%(APP_NAME)s Ondersteuning",
         "please_email_questions_to": "Stuur je vragen per e-mail naar",
         "next_7_strings_single_block": {
-            "authors_get_paid_when_people_like_you_upvote_their_post": "Authors get paid when people like you upvote their post",
-            "if_you_enjoyed_what_you_read_earn_amount": "If you enjoyed what you read here, create your account today and start earning FREE STEEM!",
+            "authors_get_paid_when_people_like_you_upvote_their_post": "Auteurs krijgen betaald wanneer mensen zoals jij op hun artikel stemmen",
+            "if_you_enjoyed_what_you_read_earn_amount": "Als je hebt genoten van wat je hier leest, maak vandaag nog een account aan en begin met het verdienen van GRATIS STEEM!",
             "free_steem": "GRATIS STEEM!",
             "sign_up_earn_steem": "Meld je nu aan om te verdienen "
         },
@@ -236,7 +236,7 @@
         "shop": "De Steemit winkel",
         "chat": "Steemit chat",
         "app_center": "Steemit App Center",
-        "api_docs": "Steemit API Docs",
+        "api_docs": "Steemit API documenten",
         "bluepaper": "Steem Bluepaper",
         "smt_whitepaper": "SMT Whitepaper",
         "whitepaper": "Steem Whitepaper",

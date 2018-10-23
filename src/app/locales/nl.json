@@ -225,8 +225,8 @@
         "currency_market": "Valuta markt",
         "stolen_account_recovery": "Gestolen accounts herstellen",
         "change_account_password": "Verander account wachtwoord",
-        "witnesses": "Witnesses",
-        "vote_for_witnesses": "Vote for Witnesses",
+        "witnesses": "Getuigen",
+        "vote_for_witnesses": "Stem voor getuigen",
         "privacy_policy": "Privacybeleid",
         "terms_of_service": "Servicevoorwaarden",
         "sign_up": "Lid worden",
@@ -271,7 +271,7 @@
         "markdown_not_supported": "Markdown is not supported here"
     },
     "category_selector_jsx": {
-        "tag_your_story": "Tag (up to 5 tags), the first tag is your main category.",
+        "tag_your_story": "Label (maximaal 5 labels), het eerste label is je hoofdcategorie.",
         "select_a_tag": "Selecteer een label",
         "maximum_tag_length_is_24_characters": "Maximale labellengte is 24 tekens",
         "use_limited_amount_of_categories": "Gebruik alleen %(amount)s categorieën",

@@ -381,9 +381,9 @@
     },
     "voting_jsx": {
         "flagging_post_can_remove_rewards_the_flag_should_be_used_for_the_following": "Flagging a post can remove rewards and make this material less visible. Some common reasons to flag",
-        "disagreement_on_rewards": "Disagreement on rewards",
+        "disagreement_on_rewards": "Onenigheid over beloningen",
         "fraud_or_plagiarism": "Fraude of plagiaat",
-        "hate_speech_or_internet_trolling": "Hate Speech or Internet Trolling",
+        "hate_speech_or_internet_trolling": "Haat spraak of internet trollen",
         "intentional_miss_categorized_content_or_spam": "Intentional miss-categorized content or Spam",
         "pending_payout": "Pending Payout $%(value)s",
         "payout_declined": "Uitbetaling geweigerd",

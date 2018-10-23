@@ -283,14 +283,14 @@
         "must_end_with_a_letter_or_number": "Moet eindigen met een letter of cijfer"
     },
     "postfull_jsx": {
-        "this_post_is_not_available_due_to_a_copyright_claim": "This post is not available due to a copyright claim.",
+        "this_post_is_not_available_due_to_a_copyright_claim": "Dit artikel is niet geschikbaar vanwege een copyright-claim.",
         "share_on_facebook": "Deel op Facebook",
         "share_on_twitter": "Deel op Twitter",
         "share_on_linkedin": "Deel op Linkedin",
         "recent_password": "Recent wachtwoord",
         "in_week_convert_DEBT_TOKEN_to_LIQUID_TOKEN": "In 3.5 days, convert %(amount)s %(DEBT_TOKEN)s into %(LIQUID_TOKEN)s",
-        "view_the_full_context": "View the full context",
-        "view_the_direct_parent": "View the direct parent",
+        "view_the_full_context": "Bekijk de volledige context",
+        "view_the_direct_parent": "De direct bovenliggende weergeven",
         "you_are_viewing_a_single_comments_thread_from": "You are viewing a single comment's thread from"
     },
     "market_jsx": {

@@ -223,14 +223,14 @@
         "buy_LIQUID_TOKEN": "Koop %(LIQUID_TOKEN)s",
         "sell_LIQUID_TOKEN": "Verkoop %(LIQUID_TOKEN)s",
         "currency_market": "Valuta markt",
-        "stolen_account_recovery": "Stolen Accounts Recovery",
+        "stolen_account_recovery": "Gestolen accounts herstellen",
         "change_account_password": "Verander account wachtwoord",
         "witnesses": "Witnesses",
         "vote_for_witnesses": "Vote for Witnesses",
         "privacy_policy": "Privacybeleid",
         "terms_of_service": "Servicevoorwaarden",
         "sign_up": "Lid worden",
-        "learn_more": "Learn More",
+        "learn_more": "Kom meer te weten",
         "welcome": "Welkom",
         "faq": "FAQ",
         "shop": "De Steemit winkel",
@@ -252,7 +252,7 @@
         "exceeds_maximum_length": "Overschrijdt de maximale lengte (%(maxKb)sKB)",
         "including_the_category": " (de categorie inbegrepen '%(rootCategory)s')",
         "use_limited_amount_of_tags": "You have %(tagsLength)s tags total%(includingCategory)s. Please use only 5 in your post and category line.",
-        "are_you_sure_you_want_to_clear_this_form": "Are you sure you want to clear this form?",
+        "are_you_sure_you_want_to_clear_this_form": "Weet je zeker dat je dit formulier wilt wissen?",
         "uploading": "Uploaden",
         "draft_saved": "Concept opgeslagen.",
         "editor": "Editor",
@@ -272,7 +272,7 @@
     },
     "category_selector_jsx": {
         "tag_your_story": "Tag (up to 5 tags), the first tag is your main category.",
-        "select_a_tag": "Select a tag",
+        "select_a_tag": "Selecteer een label",
         "maximum_tag_length_is_24_characters": "Maximum tag length is 24 characters",
         "use_limited_amount_of_categories": "Gebruik alleen %(amount)s categorieën",
         "use_only_lowercase_letters": "Gebruik alleen kleine letters",
@@ -375,8 +375,8 @@
         "curation_rewards_history": "Curation Rewards History"
     },
     "post_jsx": {
-        "now_showing_comments_with_low_ratings": "Now showing comments with low ratings",
-        "sort_order": "Sort Order",
+        "now_showing_comments_with_low_ratings": "Laat nu reacties zien met lage waarderingen",
+        "sort_order": "Sorteervolgorde",
         "comments_were_hidden_due_to_low_ratings": "Comments were hidden due to low ratings"
     },
     "voting_jsx": {

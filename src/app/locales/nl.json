@@ -273,7 +273,7 @@
     "category_selector_jsx": {
         "tag_your_story": "Tag (up to 5 tags), the first tag is your main category.",
         "select_a_tag": "Selecteer een label",
-        "maximum_tag_length_is_24_characters": "Maximum tag length is 24 characters",
+        "maximum_tag_length_is_24_characters": "Maximale labellengte is 24 tekens",
         "use_limited_amount_of_categories": "Gebruik alleen %(amount)s categorieën",
         "use_only_lowercase_letters": "Gebruik alleen kleine letters",
         "use_one_dash": "Slechts één streepje gebruiken",
@@ -318,7 +318,7 @@
         "total_DEBT_TOKEN_SHORT_CURRENCY_SIGN": "Totaal %(DEBT_TOKEN_SHORT)s (%(CURRENCY_SIGN)s)"
     },
     "recoveraccountstep1_jsx": {
-        "begin_recovery": "Begin Recovery",
+        "begin_recovery": "Herstel beginnen",
         "not_valid": "Ongeldig",
         "account_name_is_not_found": "Accountnaam is niet gevonden",
         "unable_to_recover_account_not_change_ownership_recently": "We zijn niet in staat dit account te herstellen, het is niet recent van eigenaar veranderd.",
@@ -508,7 +508,7 @@
     "savingswithdrawhistory_jsx": {
         "cancel_this_withdraw_request": "Dit opnameverzoek annuleren?",
         "pending_savings_withdrawals": "PENDING SAVINGS WITHDRAWS",
-        "withdraw": "Withdraw %(amount)s",
+        "withdraw": "Opnemen %(amount)s",
         "to": "naar %(to)s",
         "from_to": "van %(from)s naar %(to)s"
     },
@@ -531,7 +531,7 @@
         "comments_by": "Opmerkingen door"
     },
     "loginform_jsx": {
-        "you_need_a_private_password_or_key": "You need a private password or key (not a public key)",
+        "you_need_a_private_password_or_key": "Je hebt een privé-wachtwoord of sleutel nodig (geen openbare sleutel)",
         "cryptography_test_failed": "Cryptography test failed",
         "unable_to_log_you_in": "We will be unable to log you in with this browser.",
         "the_latest_versions_of": "De nieuwste versies van ",

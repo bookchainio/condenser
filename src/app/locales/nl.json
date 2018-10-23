@@ -1,7 +1,7 @@
 {
     "g": {
         "age": "leeftijd",
-        "amount": "Amount",
+        "amount": "Bedrag",
         "and": "en",
         "are_you_sure": "Zeker weten?",
         "ask": "Vraag",
@@ -67,7 +67,7 @@
         "price": "Prijs",
         "print": "Afdrukken",
         "promote": "Promoten",
-        "promoted": "promoted",
+        "promoted": "gepromoot",
         "re": "RE",
         "re_to": "RE: %(topic)s",
         "recent_password": "Recent wachtwoord",
@@ -532,8 +532,8 @@
     },
     "loginform_jsx": {
         "you_need_a_private_password_or_key": "Je hebt een privé-wachtwoord of sleutel nodig (geen openbare sleutel)",
-        "cryptography_test_failed": "Cryptography test failed",
-        "unable_to_log_you_in": "We will be unable to log you in with this browser.",
+        "cryptography_test_failed": "Cryptografie test mislukt",
+        "unable_to_log_you_in": "We zijn niet in staat je in te loggen met deze browser.",
         "the_latest_versions_of": "De nieuwste versies van ",
         "are_well_tested_and_known_to_work_with": "are well tested and known to work with %(APP_URL)s.",
         "due_to_server_maintenance": "Due to server maintenance we are running in read only mode. We are sorry for the inconvenience.",
@@ -542,7 +542,7 @@
         "login_to_comment": "Login om een opmerking te plaatsen",
         "posting": "Plaatsen",
         "active_or_owner": "Actieve of eigenaar",
-        "this_password_is_bound_to_your_account_owner_key": "This password is bound to your account's owner key and can not be used to login to this site.",
+        "this_password_is_bound_to_your_account_owner_key": "Dit wachtwoord is gekoppeld aan je account eigenaar sleutel en kan niet worden gebruikt om in te loggen op deze site.",
         "however_you_can_use_it_to": "However, you can use it to ",
         "update_your_password": "wachtwoord bijwerken",
         "to_obtain_a_more_secure_set_of_keys": "om een veiligere set sleutels te verkrijgen.",

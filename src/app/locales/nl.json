@@ -165,7 +165,7 @@
         "account_name_should_have_only_letters_digits_or_dashes": "Accountnaam moet bestaan uit alleen letters, cijfers, punten of streepjes.",
         "cannot_increase_reward_of_post_within_the_last_minute_before_payout": "Kan de beloning van een artikel niet binnen de laatste minuut vóór uitbetaling verhogen",
         "vote_currently_exists_user_must_be_indicate_a_to_reject_witness": "vote currently exists, user must be indicate a desire to reject witness",
-        "only_one_APP_NAME_account_allowed_per_ip_address_every_10_minutes": "Only one Steem account allowed per IP address every 10 minutes",
+        "only_one_APP_NAME_account_allowed_per_ip_address_every_10_minutes": "Slechts één Steem-account toegestaan ​​om de 10 minuten per IP-adres",
         "resteem_this_post": "Resteem dit artikel",
         "reblog": "Resteem",
         "write_your_story": "Schrijf je verhaal",
@@ -211,7 +211,7 @@
             "other": "%(count)s Antwoorden"
         },
         "post_key_warning": {
-            "confirm": "You are about to publish a STEEM private key or master password. You will probably lose control of the associated account and all its funds.",
+            "confirm": "Je staat op het punt een STEEM privé sleutel of hoofdwachtwoord te publiceren. Je verliest waarschijnlijk de controle over het gekoppelde account en al zijn fondsen.",
             "warning": "Legitimate users, including employees of Steemit Inc., will never ask you for a private key or master password.",
             "checkbox": "Ik begrijp het"
         }

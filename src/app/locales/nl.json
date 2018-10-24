@@ -212,7 +212,7 @@
         },
         "post_key_warning": {
             "confirm": "Je staat op het punt een STEEM privé sleutel of hoofdwachtwoord te publiceren. Je verliest waarschijnlijk de controle over het gekoppelde account en al zijn fondsen.",
-            "warning": "Legitimate users, including employees of Steemit Inc., will never ask you for a private key or master password.",
+            "warning": "Legitieme gebruikers, Steemit Inc. medewerkers inbegrepen, zullen je nooit vragen naar een persoonlijke sleutel of hoofdwachtwoord.",
             "checkbox": "Ik begrijp het"
         }
     },
@@ -411,12 +411,12 @@
             "one": "Je hebt 1 resterende stem",
             "other": "Je hebt %(count)s resterende stemmen"
         },
-        "you_can_vote_for_maximum_of_witnesses": "You can vote for a maximum of 30 witnesses",
+        "you_can_vote_for_maximum_of_witnesses": "Je kunt voor maximaal 30 getuigen stemmen",
         "witness": "Getuige",
         "information": "Informatie",
         "if_you_want_to_vote_outside_of_top_enter_account_name": "Als je wilt stemmen voor een getuige buiten de top 50, voer de accountnaam hieronder in om je stem uit te brengen",
-        "set_witness_proxy": "You can also choose a proxy that will vote for witnesses for you. This will reset your current witness selection.",
-        "witness_set": "You have set a voting proxy. If you would like to re-enable manual voting, please clear your proxy.",
+        "set_witness_proxy": "Je kunt ook een proxy kiezen die getuigen voor je stemt. Dit zal de huidige selectie van getuigen herstellen.",
+        "witness_set": "Je hebt een stem proxy ingesteld. Als je handmatig stemmen opnieuw wenst in te stellen, verwijder dan je proxy.",
         "witness_proxy_current": "Je huidige proxy is",
         "witness_proxy_set": "Proxy instellen",
         "witness_proxy_clear": "Proxy wissen",
@@ -440,9 +440,9 @@
         "private": "Privé",
         "public_something_key": "Openbare %(key)s sleutel",
         "private_something_key": "Privé %(key)s sleutel",
-        "posting_key_is_required_it_should_be_different": "The posting key is used for posting and voting. It should be different from the active and owner keys.",
-        "the_active_key_is_used_to_make_transfers_and_place_orders": "The active key is used to make transfers and place orders in the internal market.",
-        "the_owner_key_is_required_to_change_other_keys": "The owner key is the master key for the account and is required to change the other keys.",
+        "posting_key_is_required_it_should_be_different": "De post sleutel wordt gebruikt voor plaatsen en stemmen. Hij zou anders moeten zijn dan de actieve en eigenaar sleutel.",
+        "the_active_key_is_used_to_make_transfers_and_place_orders": "De actieve sleutel wordt gebruikt voor overschrijvingen en het plaatsen van orders op de interne markt.",
+        "the_owner_key_is_required_to_change_other_keys": "De eigenaar sleutel is de hoofdsleutel voor het account en is vereist voor het wijzigen van de andere sleutels.",
         "the_private_key_or_password_should_be_kept_offline": "The private key or password for the owner key should be kept offline as much as possible.",
         "the_memo_key_is_used_to_create_and_read_memos": "The memo key is used to create and read memos."
     },

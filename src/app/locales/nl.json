@@ -131,7 +131,7 @@
         "reset_usernames_password": "Herstel %(username)s's wachtwoord",
         "this_will_update_usernames_authtype_key": "Dit zal %(username)s %(authType)s steutel bijwerken",
         "passwords_do_not_match": "Wachtwoorden komen niet overeen",
-        "you_need_private_password_or_key_not_a_public_key": "Je hebt een privé-wachtwoord of sleutel nodig (geen openbare sleutel)",
+        "you_need_private_password_or_key_not_a_public_key": "Je hebt een geheim wachtwoord of sleutel nodig (geen openbare sleutel)",
         "the_rules_of_APP_NAME": {
             "one": "De eerste regel van %(APP_NAME)s is: Verlies je wachtwoord niet.",
             "second": "De tweede regel van %(APP_NAME)s is: Verlies je wachtwoord niet.",
@@ -154,7 +154,7 @@
         "confirm_password": "Bevestig wachtwoord",
         "account_updated": "Account bijgewerkt",
         "password_must_be_characters_or_more": "Wachtwoord moet %(amount)s tekens of meer zijn",
-        "need_password_or_key": "Je hebt een privé-wachtwoord of sleutel nodig (geen openbare sleutel)",
+        "need_password_or_key": "Je hebt een geheim wachtwoord of sleutel nodig (geen openbare sleutel)",
         "login_to_see_memo": "inloggen om memo te zien",
         "new_password": "Nieuw wachtwoord",
         "incorrect_password": "Onjuist wachtwoord",
@@ -171,8 +171,8 @@
         "write_your_story": "Schrijf je verhaal",
         "remember_voting_and_posting_key": "Onthoud stem & post sleutel",
         "auto_login_question_mark": "Automatisch inloggen?",
-        "hide_private_key": "Verberg privé sleutel",
-        "show_private_key": "Toon privé sleutel",
+        "hide_private_key": "Verberg geheime sleutel",
+        "show_private_key": "Toon geheime sleutel",
         "login_to_show": "Inloggen om te tonen",
         "not_valid_email": "Geen geldig e-mailadres",
         "thank_you_for_being_an_early_visitor_to_APP_NAME": "Bedankt dat je een vroege bezoeker bent op %(APP_NAME)s. We zullen bij de eerste mogelijkheid bij je terugkomen.",
@@ -211,7 +211,7 @@
             "other": "%(count)s Antwoorden"
         },
         "post_key_warning": {
-            "confirm": "Je staat op het punt een STEEM privé sleutel of hoofdwachtwoord te publiceren. Je verliest waarschijnlijk de controle over het gekoppelde account en al zijn fondsen.",
+            "confirm": "Je staat op het punt een STEEM geheime sleutel of hoofdwachtwoord te publiceren. Je verliest waarschijnlijk de controle over het gekoppelde account en al zijn fondsen.",
             "warning": "Legitieme gebruikers, Steemit Inc. medewerkers inbegrepen, zullen je nooit vragen naar een persoonlijke sleutel of hoofdwachtwoord.",
             "checkbox": "Ik begrijp het"
         }
@@ -443,8 +443,8 @@
         "posting_key_is_required_it_should_be_different": "De post sleutel wordt gebruikt voor plaatsen en stemmen. Hij zou anders moeten zijn dan de actieve en eigenaar sleutel.",
         "the_active_key_is_used_to_make_transfers_and_place_orders": "De actieve sleutel wordt gebruikt voor overschrijvingen en het plaatsen van orders op de interne markt.",
         "the_owner_key_is_required_to_change_other_keys": "De eigenaar sleutel is de hoofdsleutel voor het account en is vereist voor het wijzigen van de andere sleutels.",
-        "the_private_key_or_password_should_be_kept_offline": "The private key or password for the owner key should be kept offline as much as possible.",
-        "the_memo_key_is_used_to_create_and_read_memos": "The memo key is used to create and read memos."
+        "the_private_key_or_password_should_be_kept_offline": "De geheime sleutel of eigenaar sleutel moet zoveel mogelijk offline bewaard blijven.",
+        "the_memo_key_is_used_to_create_and_read_memos": "De memo sleutel wordt gebruikt om memo's te maken en lezen."
     },
     "suggestpassword_jsx": {
         "APP_NAME_cannot_recover_passwords_keep_this_page_in_a_secure_location": "%(APP_NAME)s cannot recover passwords. Keep this page in a secure location, such as a fireproof safe or safety deposit box.",

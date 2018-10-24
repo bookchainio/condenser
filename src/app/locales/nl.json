@@ -585,7 +585,7 @@
         "website_url_is_too_long": "Website URL is te lang",
         "public_profile_settings": "Openbare profielinstellingen",
         "private_post_display_settings": "Private Post Display Settings",
-        "not_safe_for_work_nsfw_content": "Not safe for work (NSFW) content",
+        "not_safe_for_work_nsfw_content": "Niet veilig voor werk (NVVW) inhoud",
         "always_hide": "Altijd verbergen",
         "always_warn": "Altijd waarschuwen",
         "always_show": "Altijd tonen",
@@ -601,7 +601,7 @@
     "transfer_jsx": {
         "amount_is_in_form": "Amount is in the form 99999.999",
         "insufficient_funds": "Onvoldoende fondsen",
-        "use_only_3_digits_of_precison": "Use only 3 digits of precison",
+        "use_only_3_digits_of_precison": "Gebruik enkel 3 cijfers nauwkeurig",
         "send_to_account": "Verzenden naar account",
         "asset": "Asset",
         "this_memo_is_private": "Deze memo is privé",
@@ -614,13 +614,13 @@
         "from": "Van",
         "to": "Naar",
         "asset_currently_collecting": "%(asset)s currently collecting %(interest)s%% APR.",
-        "beware_of_spam_and_phishing_links": "Beware of spam and phishing links in transfer memos. Do not open links from users you do not trust. Do not provide your private keys to any third party websites.",
+        "beware_of_spam_and_phishing_links": "Pas op voor spam en phishing-links in transer memo's. Open geen links van gebruikers die je niet vertrouwt. Geef je geheime sleutels nooit aan websites van derden.",
         "autocomplete_previous_transfers": "eerdere overschrijvingen",
         "autocomplete_user_following": "volgend"
     },
     "userwallet_jsx": {
         "conversion_complete_tip": "Zal voltooid zijn op",
-        "in_conversion": "%(amount)s in conversion",
+        "in_conversion": "%(amount)s in conversie",
         "transfer_to_savings": "Overschrijven naar spaargeld",
         "power_up": "Power up",
         "power_down": "Power down",
@@ -649,7 +649,7 @@
     "checkloginowner_jsx": {
         "your_password_permissions_were_reduced": "Je wachtwoord machtigingen zijn verlaagd",
         "if_you_did_not_make_this_change": "Als je deze wijziging niet hebt gemaakt, alsjeblieft",
-        "ownership_changed_on": "Ownership Changed On ",
+        "ownership_changed_on": "Eigenaar veranderd op ",
         "deadline_for_recovery_is": "Deadline voor herstel is",
         "i_understand_dont_show_again": "Ik begrijp het, dit niet opnieuw tonen"
     }

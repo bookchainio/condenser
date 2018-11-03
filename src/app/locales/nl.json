@@ -574,13 +574,13 @@
         "have_only_letters_digits_or_dashes": "alleen letters, cijfers of streepjes hebben.",
         "have_only_one_dash_in_a_row": "slechts één streepje in een rij hebben.",
         "end_with_a_letter_or_digit": "eindigen met een letter of cijfer.",
-        "verified_exchange_no_memo": "You must include a memo for your exchange transfer."
+        "verified_exchange_no_memo": "Je moet een memo toevoegen voor je exchange overboeking."
     },
     "settings_jsx": {
         "invalid_url": "Ongeldige URL",
         "name_is_too_long": "Naam is te lang",
         "name_must_not_begin_with": "Naam mag niet beginnen met @",
-        "about_is_too_long": "About is too long",
+        "about_is_too_long": "Over is te lang",
         "location_is_too_long": "Locatie is te lang",
         "website_url_is_too_long": "Website URL is te lang",
         "public_profile_settings": "Openbare profielinstellingen",
@@ -599,16 +599,16 @@
         "profile_website": "Website"
     },
     "transfer_jsx": {
-        "amount_is_in_form": "Amount is in the form 99999.999",
+        "amount_is_in_form": "Bedrag is in de vorm 99999.999",
         "insufficient_funds": "Onvoldoende fondsen",
         "use_only_3_digits_of_precison": "Gebruik enkel 3 cijfers nauwkeurig",
         "send_to_account": "Verzenden naar account",
-        "asset": "Asset",
+        "asset": "Bezitting",
         "this_memo_is_private": "Deze memo is privé",
         "this_memo_is_public": "Deze memo is openbaar",
         "convert_to_VESTING_TOKEN": "Converteren naar %(VESTING_TOKEN)s",
-        "balance_subject_to_3_day_withdraw_waiting_period": "Balance subject to 3 day withdraw waiting period,",
-        "move_funds_to_another_account": "Move funds to another %(APP_NAME)s account.",
+        "balance_subject_to_3_day_withdraw_waiting_period": "Saldo onderhevig aan wachttijd van 3 dagen voor opname,",
+        "move_funds_to_another_account": "Verplaats fondsen naar een ander %(APP_NAME)s account.",
         "protect_funds_by_requiring_a_3_day_withdraw_waiting_period": "Protect funds by requiring a 3 day withdraw waiting period.",
         "withdraw_funds_after_the_required_3_day_waiting_period": "Withdraw funds after the required 3 day waiting period.",
         "from": "Van",

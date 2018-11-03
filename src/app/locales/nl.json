@@ -101,7 +101,7 @@
         "power_up": "Power up",
         "submit_a_story": "Artikel",
         "tag": "Label",
-        "to": " to ",
+        "to": " naar ",
         "topics": "Onderwerpen",
         "toggle_nightmode": "Nachtmodus inschakelen",
         "all_tags": "Alle labels",
@@ -613,7 +613,7 @@
         "withdraw_funds_after_the_required_3_day_waiting_period": "Withdraw funds after the required 3 day waiting period.",
         "from": "Van",
         "to": "Naar",
-        "asset_currently_collecting": "%(asset)s currently collecting %(interest)s%% APR.",
+        "asset_currently_collecting": "%(asset)s ontvangen momenteel %(interest)s APR.",
         "beware_of_spam_and_phishing_links": "Pas op voor spam en phishing-links in transer memo's. Open geen links van gebruikers die je niet vertrouwt. Geef je geheime sleutels nooit aan websites van derden.",
         "autocomplete_previous_transfers": "eerdere overschrijvingen",
         "autocomplete_user_following": "volgend"
@@ -642,9 +642,9 @@
         "amount": "Hoeveelheid",
         "already_power_down": "You are already powering down %(AMOUNT)s %(LIQUID_TICKER)s (%(WITHDRAWN)s %(LIQUID_TICKER)s paid out so far). Note that if you change the power down amount the payout schedule will reset.",
         "delegating": "You are delegating %(AMOUNT)s %(LIQUID_TICKER)s. That amount is locked up and not available to power down until the delegation is removed and a full reward period has passed.",
-        "per_week": "That's ~%(AMOUNT)s %(LIQUID_TICKER)s per week.",
-        "warning": "Leaving less than %(AMOUNT)s %(VESTING_TOKEN)s in your account is not recommended and can leave your account in a unusable state.",
-        "error": "Unable to power down (ERROR: %(MESSAGE)s)"
+        "per_week": "Dat is ~%(AMOUNT)s %(LIQUID_TICKER)s per week.",
+        "warning": "Minder dan %(AMOUNT)s %(VESTING_TOKEN)s in je account laten wordt niet aanbevolen en kan je account onbruikbaar maken.",
+        "error": "Power down niet mogelijk (ERROR: %(MESSAGE)s)"
     },
     "checkloginowner_jsx": {
         "your_password_permissions_were_reduced": "Je wachtwoord machtigingen zijn verlaagd",

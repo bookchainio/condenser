@@ -569,11 +569,11 @@
         "not_be_empty": "niet leeg mogen zijn.",
         "be_longer": "langer moeten zijn.",
         "be_shorter": "korter moeten zijn.",
-        "each_account_segment_should": "Each account segment should ",
+        "each_account_segment_should": "Elke account deel zou ",
         "start_with_a_letter": "moeten beginnen met een letter.",
-        "have_only_letters_digits_or_dashes": "have only letters, digits, or dashes.",
-        "have_only_one_dash_in_a_row": "have only one dash in a row.",
-        "end_with_a_letter_or_digit": "end with a letter or digit.",
+        "have_only_letters_digits_or_dashes": "alleen letters, cijfers of streepjes hebben.",
+        "have_only_one_dash_in_a_row": "slechts één streepje in een rij hebben.",
+        "end_with_a_letter_or_digit": "eindigen met een letter of cijfer.",
         "verified_exchange_no_memo": "You must include a memo for your exchange transfer."
     },
     "settings_jsx": {
@@ -613,7 +613,7 @@
         "withdraw_funds_after_the_required_3_day_waiting_period": "Withdraw funds after the required 3 day waiting period.",
         "from": "Van",
         "to": "Naar",
-        "asset_currently_collecting": "%(asset)s ontvangen momenteel %(interest)s APR.",
+        "asset_currently_collecting": "%(asset)s ontvangen momenteel %(interest)s%% APR.",
         "beware_of_spam_and_phishing_links": "Pas op voor spam en phishing-links in transer memo's. Open geen links van gebruikers die je niet vertrouwt. Geef je geheime sleutels nooit aan websites van derden.",
         "autocomplete_previous_transfers": "eerdere overschrijvingen",
         "autocomplete_user_following": "volgend"
@@ -628,7 +628,7 @@
         "convert_to_LIQUID_TOKEN": "Converteren naar %(LIQUID_TOKEN)s",
         "withdraw_LIQUID_TOKEN": "Opnemen %(LIQUID_TOKEN)s",
         "withdraw_DEBT_TOKENS": "Opnemen %(DEBT_TOKENS)s",
-        "tokens_worth_about_1_of_LIQUID_TICKER": "Tokens worth about $1.00 of %(LIQUID_TICKER)s, currently collecting %(sbdInterest)s%% APR.",
+        "tokens_worth_about_1_of_LIQUID_TICKER": "Tokens hebben een waarde rond de $1.00 of %(LIQUID_TICKER)s, ontvangen momenteel %(sbdInterest)s%% APR.",
         "savings": "SPAARGELD",
         "estimated_account_value": "Geschatte accountwaarde",
         "next_power_down_is_scheduled_to_happen": "De volgende power down is ingepland op",
@@ -640,8 +640,8 @@
     "powerdown_jsx": {
         "power_down": "Power down",
         "amount": "Hoeveelheid",
-        "already_power_down": "You are already powering down %(AMOUNT)s %(LIQUID_TICKER)s (%(WITHDRAWN)s %(LIQUID_TICKER)s paid out so far). Note that if you change the power down amount the payout schedule will reset.",
-        "delegating": "You are delegating %(AMOUNT)s %(LIQUID_TICKER)s. That amount is locked up and not available to power down until the delegation is removed and a full reward period has passed.",
+        "already_power_down": "Je bent al een power down gestart van %(AMOUNT)s %(LIQUID_TICKER)s (%(WITHDRAWN)s %(LIQUID_TICKER)s tot nu toe uitbetaald). Hou er rekening mee dat wanneer je het bedrag van de power down verandert, de uitbetalingstabel wordt gereset.",
+        "delegating": "Je delegeert %(AMOUNT)s %(LIQUID_TICKER)s. Dat bedrag is vastgezet en niet beschikbaar voor power down tot de delegatie is verwijderd en de volledige uitbetalingsperiode (7 dagen) is verstreken.",
         "per_week": "Dat is ~%(AMOUNT)s %(LIQUID_TICKER)s per week.",
         "warning": "Minder dan %(AMOUNT)s %(VESTING_TOKEN)s in je account laten wordt niet aanbevolen en kan je account onbruikbaar maken.",
         "error": "Power down niet mogelijk (ERROR: %(MESSAGE)s)"

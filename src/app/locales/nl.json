@@ -341,7 +341,7 @@
         "unknown_account": "Onbekend account",
         "user_hasnt_made_any_posts_yet": "Het lijkt erop dat %(name)s nog geen berichten heeft gemaakt!",
         "user_hasnt_started_bloggin_yet": "Het lijkt erop dat %(name)s nog niet gestart is met bloggen!",
-        "user_hasnt_followed_anything_yet": "Looks like %(name)s might not be following anyone yet! If %(name)s recently added new users to follow, their personalized feed will populate once new content is available.",
+        "user_hasnt_followed_anything_yet": "Het lijkt erop dat %(name)s nog niemand volgt! Als %(name)s recentelijk nieuwe gebruikers heeft toegevoegd om te volgen, zal de gepersonaliseerde feed verversen zodra er nieuwe content beschikbaar is.",
         "user_hasnt_had_any_replies_yet": "%(name)s heeft nog geen reacties",
         "looks_like_you_havent_posted_anything_yet": "Het lijkt erop dat je nog niets hebt geplaatst.",
         "create_a_post": "Een artikel maken",
@@ -384,8 +384,8 @@
         "disagreement_on_rewards": "Onenigheid over beloningen",
         "fraud_or_plagiarism": "Fraude of plagiaat",
         "hate_speech_or_internet_trolling": "Haatspraak of internet trollen",
-        "intentional_miss_categorized_content_or_spam": "Intentional miss-categorized content or Spam",
-        "pending_payout": "Pending Payout $%(value)s",
+        "intentional_miss_categorized_content_or_spam": "Met opzet fout gecategoriseerde content of spam",
+        "pending_payout": "Payout in behandeling $%(value)s",
         "payout_declined": "Uitbetaling geweigerd",
         "max_accepted_payout": "Max. toegestane uitbetaling $%(value)s",
         "promotion_cost": "Promotiekosten $%(value)s",
@@ -456,14 +456,14 @@
         "your_existing_DEBT_TOKEN_are_liquid_and_transferable": "Je bestaande %(DEBT_TOKEN)s zijn luiqide en verhandelbaar. In plaats daarvan kun je %(DEBT_TOKEN)s direct op deze site onder %(link)s verhandelen of overboeken naar een externe markt.",
         "this_is_a_price_feed_conversion": "Dit is een prijsfeedconversie. De vertraging van 3.5 dagen is noodzakelijk om misbruik van bespelen van de gemiddelde prijsfeed te voorkomen",
         "convert_to_LIQUID_TOKEN": "Converteren naar %(LIQUID_TOKEN)s",
-        "DEBT_TOKEN_will_be_unavailable": "This action will take place 3.5 days from now and can not be canceled. These %(DEBT_TOKEN)s will immediately become unavailable"
+        "DEBT_TOKEN_will_be_unavailable": "Deze actie zal plaatsvinden over 3.5 dagen vanaf nu en kan niet worden geannuleerd. Deze %(DEBT_TOKEN)s zijn onmiddelijk niet meer beschikbaar"
     },
     "tips_js": {
         "liquid_token": "Tradeable tokens that may be transferred anywhere at anytime.<br/>%(LIQUID_TOKEN)s can be converted to %(VESTING_TOKEN)s in a process called powering up.",
         "influence_token": "Influence tokens which give you more control over post payouts and allow you to earn on curation rewards.",
         "estimated_value": "De geschatte waarde is gebaseerd op een gemiddelde waarde van %(LIQUID_TOKEN)s in US dollars.",
-        "non_transferable": "%(VESTING_TOKEN)s is non-transferable and requires 3 months (13 payments) to convert back to %(LIQUID_TOKEN)s.",
-        "converted_VESTING_TOKEN_can_be_sent_to_yourself_but_can_not_transfer_again": "Converted %(VESTING_TOKEN)s can be sent to yourself or someone else but can not transfer again without converting back to %(LIQUID_TOKEN)s.",
+        "non_transferable": "%(VESTING_TOKEN)s is niet overdraagbaar en vereist 3 maanden (13 betalingen) om terug te converteren naar %(LIQUID_TOKEN)s.",
+        "converted_VESTING_TOKEN_can_be_sent_to_yourself_but_can_not_transfer_again": "Geconverteerde %(VESTING_TOKEN)s kunnen naar jezelf of iemand anders worden verzonden, maar kunnen niet opnieuw geconverteerd worden naar %(LIQUID_TOKEN)s.",
         "part_of_your_steem_power_is_currently_delegated": "Part of %(user_name)s's STEEM POWER is currently delegated. Delegation is donated for influence or to help new users perform actions on steemit. Your delegation amount can fluctuate."
     },
     "promote_post_jsx": {
@@ -474,7 +474,7 @@
     },
     "about_jsx": {
         "about_app": "Over %(APP_NAME)s",
-        "about_app_details": "%(APP_NAME)s is a social media platform where everyone gets paid for creating and curating content. It leverages a robust digital points system, called Steem, that supports real value for digital rewards through market price discovery and liquidity.",
+        "about_app_details": "%(APP_NAME)s is een platform voor sociale media waarop iedereen wordt betaald voor het maken en cureren van inhoud. Het maakt gebruik van een robuust digitaal puntensysteem, genaamd Steem, dat reële waarde voor digitale beloningen ondersteunt door middel van marktprijsontdekking en liquiditeit.",
         "learn_more_at_app_url": "Leer meer over %(APP_URL)s",
         "resources": "Middelen"
     },
@@ -640,7 +640,7 @@
     "powerdown_jsx": {
         "power_down": "Power down",
         "amount": "Hoeveelheid",
-        "already_power_down": "Je bent al een power down gestart van %(AMOUNT)s %(LIQUID_TICKER)s (%(WITHDRAWN)s %(LIQUID_TICKER)s tot nu toe uitbetaald). Hou er rekening mee dat wanneer je het bedrag van de power down verandert, de uitbetalingstabel wordt gereset.",
+        "already_power_down": "Je bent al een power down gestart van %(AMOUNT)s %(LIQUID_TICKER)s (%(WITHDRAWN)s %(LIQUID_TICKER)s tot nu toe uitbetaald). Let erop dat wanneer je het bedrag van de power down verandert, de uitbetalingstabel wordt gereset.",
         "delegating": "Je delegeert %(AMOUNT)s %(LIQUID_TICKER)s. Dat bedrag is vastgezet en niet beschikbaar voor power down tot de delegatie is verwijderd en de volledige uitbetalingsperiode (7 dagen) is verstreken.",
         "per_week": "Dat is ~%(AMOUNT)s %(LIQUID_TICKER)s per week.",
         "warning": "Minder dan %(AMOUNT)s %(VESTING_TOKEN)s in je account laten wordt niet aanbevolen en kan je account onbruikbaar maken.",

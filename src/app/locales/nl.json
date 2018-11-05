@@ -380,7 +380,7 @@
         "comments_were_hidden_due_to_low_ratings": "Opmerkingen werden verborgen vanwege lage beoordelingen"
     },
     "voting_jsx": {
-        "flagging_post_can_remove_rewards_the_flag_should_be_used_for_the_following": "Flagging a post can remove rewards and make this material less visible. Some common reasons to flag",
+        "flagging_post_can_remove_rewards_the_flag_should_be_used_for_the_following": "Een artikel vlaggen kan beloningen verwijderen en deze content minder zichtbaar maken. Een aantal gebruikelijke redenen om te vlaggen",
         "disagreement_on_rewards": "Onenigheid over beloningen",
         "fraud_or_plagiarism": "Fraude of plagiaat",
         "hate_speech_or_internet_trolling": "Haatspraak of internet trollen",
@@ -459,8 +459,8 @@
         "DEBT_TOKEN_will_be_unavailable": "Deze actie zal plaatsvinden over 3.5 dagen vanaf nu en kan niet worden geannuleerd. Deze %(DEBT_TOKEN)s zijn onmiddelijk niet meer beschikbaar"
     },
     "tips_js": {
-        "liquid_token": "Tradeable tokens that may be transferred anywhere at anytime.<br/>%(LIQUID_TOKEN)s can be converted to %(VESTING_TOKEN)s in a process called powering up.",
-        "influence_token": "Influence tokens which give you more control over post payouts and allow you to earn on curation rewards.",
+        "liquid_token": "Verhandelbare tokens die overal en altijd kunnen worden overgedragen,<br/>%(LIQUID_TOKEN)s kunnen geconverteerd worden naar %(VESTING_TOKEN)s in een proces dat \"powering up\" wordt genoemd.",
+        "influence_token": "Invloedstokens die je meer controle geven over je artikel uitbetalingen en waarmee je kunt verdienen aan curatie beloningen.",
         "estimated_value": "De geschatte waarde is gebaseerd op een gemiddelde waarde van %(LIQUID_TOKEN)s in US dollars.",
         "non_transferable": "%(VESTING_TOKEN)s is niet overdraagbaar en vereist 3 maanden (13 betalingen) om terug te converteren naar %(LIQUID_TOKEN)s.",
         "converted_VESTING_TOKEN_can_be_sent_to_yourself_but_can_not_transfer_again": "Geconverteerde %(VESTING_TOKEN)s kunnen naar jezelf of iemand anders worden verzonden, maar kunnen niet opnieuw geconverteerd worden naar %(LIQUID_TOKEN)s.",

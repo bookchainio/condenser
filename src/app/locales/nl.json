@@ -453,8 +453,8 @@
         "after_printing_write_down_your_user_name": "Noteer je gebruikersnaam na het afdrukken"
     },
     "converttosteem_jsx": {
-        "your_existing_DEBT_TOKEN_are_liquid_and_transferable": "Your existing %(DEBT_TOKEN)s are liquid and transferable. Instead you may wish to trade %(DEBT_TOKEN)s directly in this site under %(link)s or transfer to an external market.",
-        "this_is_a_price_feed_conversion": "This is a price feed conversion. The 3.5 day delay is necessary to prevent abuse from gaming the price feed average",
+        "your_existing_DEBT_TOKEN_are_liquid_and_transferable": "Je bestaande %(DEBT_TOKEN)s zijn luiqide en verhandelbaar. In plaats daarvan kun je %(DEBT_TOKEN)s direct op deze site onder %(link)s verhandelen of overboeken naar een externe markt.",
+        "this_is_a_price_feed_conversion": "Dit is een prijsfeedconversie. De vertraging van 3.5 dagen is noodzakelijk om misbruik van bespelen van de gemiddelde prijsfeed te voorkomen",
         "convert_to_LIQUID_TOKEN": "Converteren naar %(LIQUID_TOKEN)s",
         "DEBT_TOKEN_will_be_unavailable": "This action will take place 3.5 days from now and can not be canceled. These %(DEBT_TOKEN)s will immediately become unavailable"
     },

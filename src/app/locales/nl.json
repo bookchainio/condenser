@@ -405,7 +405,7 @@
     },
     "witnesses_jsx": {
         "witness_thread": "witness thread",
-        "top_witnesses": "Witness Voting",
+        "top_witnesses": "Stem op getuigen",
         "you_have_votes_remaining": {
             "zero": "Je hebt geen resterende stemmen",
             "one": "Je hebt 1 resterende stem",
@@ -447,9 +447,9 @@
         "the_memo_key_is_used_to_create_and_read_memos": "De memo sleutel wordt gebruikt om memo's te maken en lezen."
     },
     "suggestpassword_jsx": {
-        "APP_NAME_cannot_recover_passwords_keep_this_page_in_a_secure_location": "%(APP_NAME)s cannot recover passwords. Keep this page in a secure location, such as a fireproof safe or safety deposit box.",
-        "APP_NAME_password_backup": "%(APP_NAME)s Password Backup",
-        "APP_NAME_password_backup_required": "%(APP_NAME)s Password Backup (required)",
+        "APP_NAME_cannot_recover_passwords_keep_this_page_in_a_secure_location": "%(APP_NAME)s kan geen wachtwoorden herstellen. Bewaar deze pagina op een veilige plek, zoals een brandwerende kluis of kluisje.",
+        "APP_NAME_password_backup": "%(APP_NAME)s Wachtwoord back-up",
+        "APP_NAME_password_backup_required": "%(APP_NAME)s Wachtwoord back-up (vereist)",
         "after_printing_write_down_your_user_name": "Noteer je gebruikersnaam na het afdrukken"
     },
     "converttosteem_jsx": {

@@ -334,7 +334,7 @@
         "recover_account": "Herstel account",
         "checking_account_owner": "Accounteigenaar controleren",
         "sending_recovery_request": "Herstelverzoek verzenden",
-        "cant_confirm_account_ownership": "We can't confirm account ownership. Check your password",
+        "cant_confirm_account_ownership": "We kunnen niet bevestigen dat je het account beheert. Controleer je wachtwoord",
         "account_recovery_request_not_confirmed": "Account herstelverzoek is nog niet bevestigd, kom aub later terug, bedankt voor je geduld."
     },
     "user_profile": {
@@ -346,7 +346,7 @@
         "looks_like_you_havent_posted_anything_yet": "Het lijkt erop dat je nog niets hebt geplaatst.",
         "create_a_post": "Een artikel maken",
         "explore_trending_articles": "Verken populaire artikelen",
-        "read_the_quick_start_guide": "Read The Quick Start Guide",
+        "read_the_quick_start_guide": "Het snelstart handboek lezen",
         "browse_the_faq": "Bladeren door de FAQ",
         "followers": "Volgers",
         "this_is_users_reputations_score_it_is_based_on_history_of_votes": "Dit is de reputatie score van %(name)s.\n\nDe reputatie score is gebaseerd op de geschiedenis van stemmen ontvangen door het account, en wordt gebruikt om inhoud van lage kwaliteit te verbergen.",
@@ -394,8 +394,8 @@
         "past_payouts_curators": " - Curatoren $%(value)s",
         "we_will_reset_curation_rewards_for_this_post": "zal je curatie beloningen-resetten voor dit artikel",
         "removing_your_vote": "Verwijder je stem",
-        "changing_to_an_upvote": "Changing to an Up-Vote",
-        "changing_to_a_downvote": "Changing to a Down-Vote",
+        "changing_to_an_upvote": "Veranderen in een upvote",
+        "changing_to_a_downvote": "Veranderen in een down-vote",
         "confirm_flag": "Vlag bevestigen",
         "and_more": "en %(count)s meer",
         "votes_plural": {

@@ -291,7 +291,7 @@
         "in_week_convert_DEBT_TOKEN_to_LIQUID_TOKEN": "Over 3.5 dagen wordt %(amount)s %(DEBT_TOKEN)s omgezet in %(LIQUID_TOKEN)s",
         "view_the_full_context": "Bekijk de volledige context",
         "view_the_direct_parent": "De direct bovenliggende weergeven",
-        "you_are_viewing_a_single_comments_thread_from": "Je bekijkt de draad van een enkele opmerking van"
+        "you_are_viewing_a_single_comments_thread_from": "Je bekijkt de discussie van een enkele opmerking van"
     },
     "market_jsx": {
         "action": "Actie",
@@ -404,7 +404,7 @@
         }
     },
     "witnesses_jsx": {
-        "witness_thread": "witness thread",
+        "witness_thread": "getuige discussie",
         "top_witnesses": "Stem op getuigen",
         "you_have_votes_remaining": {
             "zero": "Je hebt geen resterende stemmen",

@@ -125,7 +125,7 @@
         "active": "Actief",
         "account_not_found": "Account niet gevonden",
         "this_is_wrong_password": "Dit is het verkeerde wachtwoord",
-        "do_you_need_to": "Do you need to",
+        "do_you_need_to": "Heb je",
         "account_name": "Accountnaam",
         "recover_your_account": "herstel je account",
         "reset_usernames_password": "Herstel %(username)s's wachtwoord",
@@ -164,7 +164,7 @@
         "account_name_should_be_longer": "Accountnaam zou langer moeten zijn.",
         "account_name_should_have_only_letters_digits_or_dashes": "Accountnaam moet bestaan uit alleen letters, cijfers, punten of streepjes.",
         "cannot_increase_reward_of_post_within_the_last_minute_before_payout": "Kan de beloning van een artikel niet binnen de laatste minuut vóór uitbetaling verhogen",
-        "vote_currently_exists_user_must_be_indicate_a_to_reject_witness": "vote currently exists, user must be indicate a desire to reject witness",
+        "vote_currently_exists_user_must_be_indicate_a_to_reject_witness": "stem bestaat momenteel, de gebruiker moet aangeven dat hij de getuige wil afwijzen",
         "only_one_APP_NAME_account_allowed_per_ip_address_every_10_minutes": "Slechts één Steem-account toegestaan ​​om de 10 minuten per IP-adres",
         "resteem_this_post": "Resteem dit artikel",
         "reblog": "Resteem",
@@ -181,7 +181,7 @@
         "sorry_your_reddit_account_doesnt_have_enough_karma": "Sorry, je Reddit account heeft niet genoeg Reddit Karma om in aanmerking te komen voor een gratis aanmelding. Voeg je e-mailadres toe voor een plaats op de wachtlijst",
         "register_with_facebook": "Registreren met Facebook",
         "or_click_the_button_below_to_register_with_facebook": "Of klik op de knop hieronder om te registreren met Facebook",
-        "server_returned_error": "server returned error",
+        "server_returned_error": "server geretourneerde fout",
         "APP_NAME_support": "%(APP_NAME)s Ondersteuning",
         "please_email_questions_to": "Stuur je vragen per e-mail naar",
         "next_7_strings_single_block": {
@@ -240,8 +240,8 @@
         "bluepaper": "Steem Bluepaper",
         "smt_whitepaper": "SMT Whitepaper",
         "whitepaper": "Steem Whitepaper",
-        "intro_tagline": "Money talks",
-        "intro_paragraph": "Your voice is worth something. Join the community that pays you to post and curate high quality content."
+        "intro_tagline": "Geld praat",
+        "intro_paragraph": "Je stem is iets waard. Word lid van de gemeenschap die je betaalt om te publiceren en hoge kwaliteit content te cureren."
     },
     "main_menu": {
         "hot": "hot",

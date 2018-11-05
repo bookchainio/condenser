@@ -329,7 +329,7 @@
         "login_with_social_media_to_verify_identity": "Log aub in met %(provider)s om je identiteit te verifiëren",
         "enter_email_toverify_identity": "Wij moeten je identiteit verifiëren. Voer je e-mailadres hieronder in om te beginnen de verificatie.",
         "continue_with_email": "Doorgaan via E-mail",
-        "thanks_for_submitting_request_for_account_recovery": "Thanks for submitting your request for Account Recovery using %(APP_NAME)s's blockchain-based multi factor authentication. We will respond to you as quickly as possible, however, please expect there may be some delay in response due to high volume of emails. Please be prepared to verify your identity.",
+        "thanks_for_submitting_request_for_account_recovery": "Bedankt voor het indienen van je aanvraag voor accountherstel met behulp van %(APP_NAME)s's op blockchain gebaseerde multi-factor authenticatie. We zullen zo snel mogelijk reageren, maar verwacht alsjeblieft dat er enige vertraging optreedt als gevolg van het grote aantal e-mails. Wees alsjeblieft voorbereid om je identiteit te verifiëren.",
         "recovering_account": "Account herstellen",
         "recover_account": "Herstel account",
         "checking_account_owner": "Accounteigenaar controleren",

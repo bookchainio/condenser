@@ -251,7 +251,7 @@
         "shorten_title": "Titel verkorten",
         "exceeds_maximum_length": "Overschrijdt de maximale lengte (%(maxKb)sKB)",
         "including_the_category": " (de categorie inbegrepen '%(rootCategory)s')",
-        "use_limited_amount_of_tags": "You have %(tagsLength)s tags total%(includingCategory)s. Please use only 5 in your post and category line.",
+        "use_limited_amount_of_tags": "Je hebt in totaal %(tagsLength)s labels %(includingCategory)s. Gebruik er enkel 5 in je post en categorielijn.",
         "are_you_sure_you_want_to_clear_this_form": "Weet je zeker dat je dit formulier wilt wissen?",
         "uploading": "Uploaden",
         "draft_saved": "Concept opgeslagen.",
@@ -264,11 +264,11 @@
         "default_50_50": "Standaard (50%% / 50%%)",
         "decline_payout": "Betaling afwijzen",
         "check_this_to_auto_upvote_your_post": "Vink dit aan om automatisch op je artikel te stemmen",
-        "markdown_styling_guide": "Markdown Styling Guide",
+        "markdown_styling_guide": "Markdown styling handboek",
         "or_by": "of door",
         "title": "Titel",
         "update_post": "Artikel bijwerken",
-        "markdown_not_supported": "Markdown is not supported here"
+        "markdown_not_supported": "Markdown wordt hier niet ondersteund"
     },
     "category_selector_jsx": {
         "tag_your_story": "Label (maximaal 5 labels), het eerste label is je hoofdcategorie.",
@@ -288,7 +288,7 @@
         "share_on_twitter": "Deel op Twitter",
         "share_on_linkedin": "Deel op Linkedin",
         "recent_password": "Recent wachtwoord",
-        "in_week_convert_DEBT_TOKEN_to_LIQUID_TOKEN": "In 3.5 days, convert %(amount)s %(DEBT_TOKEN)s into %(LIQUID_TOKEN)s",
+        "in_week_convert_DEBT_TOKEN_to_LIQUID_TOKEN": "Over 3.5 dagen wordt %(amount)s %(DEBT_TOKEN)s omgezet in %(LIQUID_TOKEN)s",
         "view_the_full_context": "Bekijk de volledige context",
         "view_the_direct_parent": "De direct bovenliggende weergeven",
         "you_are_viewing_a_single_comments_thread_from": "You are viewing a single comment's thread from"

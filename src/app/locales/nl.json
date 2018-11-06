@@ -395,7 +395,7 @@
         "we_will_reset_curation_rewards_for_this_post": "zal je curatie beloningen-resetten voor dit artikel",
         "removing_your_vote": "Verwijder je stem",
         "changing_to_an_upvote": "Veranderen in een upvote",
-        "changing_to_a_downvote": "Veranderen in een down-vote",
+        "changing_to_a_downvote": "Veranderen in een downvote",
         "confirm_flag": "Vlag bevestigen",
         "and_more": "en %(count)s meer",
         "votes_plural": {
@@ -453,17 +453,17 @@
         "after_printing_write_down_your_user_name": "Noteer je gebruikersnaam na het afdrukken"
     },
     "converttosteem_jsx": {
-        "your_existing_DEBT_TOKEN_are_liquid_and_transferable": "Je bestaande %(DEBT_TOKEN)s zijn luiqide en verhandelbaar. In plaats daarvan kun je %(DEBT_TOKEN)s direct op deze site onder %(link)s verhandelen of overboeken naar een externe markt.",
+        "your_existing_DEBT_TOKEN_are_liquid_and_transferable": "Je bestaande %(DEBT_TOKEN)s zijn liquide en verhandelbaar. In plaats daarvan kun je %(DEBT_TOKEN)s direct op deze site onder %(link)s verhandelen of overboeken naar een externe markt.",
         "this_is_a_price_feed_conversion": "Dit is een prijsfeedconversie. De vertraging van 3.5 dagen is noodzakelijk om misbruik van bespelen van de gemiddelde prijsfeed te voorkomen",
         "convert_to_LIQUID_TOKEN": "Converteren naar %(LIQUID_TOKEN)s",
-        "DEBT_TOKEN_will_be_unavailable": "Deze actie zal plaatsvinden over 3.5 dagen vanaf nu en kan niet worden geannuleerd. Deze %(DEBT_TOKEN)s zijn onmiddelijk niet meer beschikbaar"
+        "DEBT_TOKEN_will_be_unavailable": "Deze actie zal plaatsvinden over 3.5 dagen vanaf nu en kan niet worden geannuleerd. Deze %(DEBT_TOKEN)s zijn onmiddellijk niet meer beschikbaar"
     },
     "tips_js": {
         "liquid_token": "Verhandelbare tokens die overal en altijd kunnen worden overgedragen,<br/>%(LIQUID_TOKEN)s kunnen geconverteerd worden naar %(VESTING_TOKEN)s in een proces dat \"powering up\" wordt genoemd.",
         "influence_token": "Invloedstokens die je meer controle geven over je artikel uitbetalingen en waarmee je kunt verdienen aan curatie beloningen.",
         "estimated_value": "De geschatte waarde is gebaseerd op een gemiddelde waarde van %(LIQUID_TOKEN)s in US dollars.",
         "non_transferable": "%(VESTING_TOKEN)s is niet overdraagbaar en vereist 3 maanden (13 betalingen) om terug te converteren naar %(LIQUID_TOKEN)s.",
-        "converted_VESTING_TOKEN_can_be_sent_to_yourself_but_can_not_transfer_again": "Geconverteerde %(VESTING_TOKEN)s kunnen naar jezelf of iemand anders worden verzonden, maar kunnen niet opnieuw geconverteerd worden naar %(LIQUID_TOKEN)s.",
+        "converted_VESTING_TOKEN_can_be_sent_to_yourself_but_can_not_transfer_again": "Geconverteerde %(VESTING_TOKEN)s kunnen naar jezelf of iemand anders worden verzonden, ze kunnen niet opnieuw worden overgedragen zonder terug te worden geconverteerd naar %(LIQUID_TOKEN)s.",
         "part_of_your_steem_power_is_currently_delegated": "Een gedeelte van %(user_name)s's STEEM POWER wordt momenteel gedelegeerd. Delegatie wordt gedoneerd voor invloed of om nieuwe gebruikers te helpen om acties uit te voeren op steemit. Het bedrag van je delegatie kan fluctueren."
     },
     "promote_post_jsx": {

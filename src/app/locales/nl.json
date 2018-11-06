@@ -468,14 +468,14 @@
     },
     "promote_post_jsx": {
         "promote_post": "Artikel promoten",
-        "spend_your_DEBT_TOKEN_to_advertise_this_post": "Spendeer je %(DEBT_TOKEN)s's om met dit artikel te adverteren in het gedeelte met gepromote inhoud",
+        "spend_your_DEBT_TOKEN_to_advertise_this_post": "Spendeer je %(DEBT_TOKEN)s's om met dit artikel te adverteren in het gedeelte gepromote inhoud",
         "you_successfully_promoted_this_post": "Je hebt dit artikel succevol gepromoot",
         "this_post_was_hidden_due_to_low_ratings": "Dit artikel is verborgen door lage beoordelingen"
     },
     "about_jsx": {
         "about_app": "Over %(APP_NAME)s",
         "about_app_details": "%(APP_NAME)s is een platform voor sociale media waarop iedereen wordt betaald voor het maken en cureren van inhoud. Het maakt gebruik van een robuust digitaal puntensysteem, genaamd Steem, dat reële waarde voor digitale beloningen ondersteunt door middel van marktprijs ontdekking en liquiditeit.",
-        "learn_more_at_app_url": "Leer meer over %(APP_URL)s",
+        "learn_more_at_app_url": "Leer meer op %(APP_URL)s",
         "resources": "Middelen"
     },
     "markdownviewer_jsx": {
@@ -494,7 +494,7 @@
         "empty_feed_1": "Het lijkt erop dat je nog niemand bent gaan volgen",
         "empty_feed_2": "Als je recentelijk nieuwe gebruikers hebt toegevoegd om te volgen, zal je gepersonaliseerde feed nieuwe inhoud tonen zodra deze beschikbaar is",
         "empty_feed_3": "Verken populaire artikelen",
-        "empty_feed_4": "Lees het snelstart handboek",
+        "empty_feed_4": "Lees het Snelstart Handboek",
         "empty_feed_5": "Bladeren door de FAQ"
     },
     "transferhistoryrow_jsx": {
@@ -543,7 +543,7 @@
         "posting": "Plaatsen",
         "active_or_owner": "Actieve of eigenaar",
         "this_password_is_bound_to_your_account_owner_key": "Dit wachtwoord is gekoppeld aan je account eigenaar sleutel en kan niet worden gebruikt om in te loggen op deze site.",
-        "however_you_can_use_it_to": "Ze kunnen het echter gebruiken om ",
+        "however_you_can_use_it_to": "Je kan het echter gebruiken om te ",
         "update_your_password": "wachtwoord bijwerken",
         "to_obtain_a_more_secure_set_of_keys": "om een veiligere set sleutels te verkrijgen.",
         "this_password_is_bound_to_your_account_active_key": "Dit wachtwoord is gekoppeld aan je account's actieve sleutel en kan niet worden gebruikt om in te loggen op deze pagina.",
@@ -571,9 +571,9 @@
         "be_shorter": "korter moeten zijn.",
         "each_account_segment_should": "Elke account deel zou ",
         "start_with_a_letter": "moeten beginnen met een letter.",
-        "have_only_letters_digits_or_dashes": "alleen letters, cijfers of streepjes hebben.",
-        "have_only_one_dash_in_a_row": "slechts één streepje in een rij hebben.",
-        "end_with_a_letter_or_digit": "eindigen met een letter of cijfer.",
+        "have_only_letters_digits_or_dashes": "alleen letters, cijfers of streepjes moeten bevatten.",
+        "have_only_one_dash_in_a_row": "slechts één streepje in achter elkaar moeten hebben.",
+        "end_with_a_letter_or_digit": "moeten eindigen met een letter of cijfer.",
         "verified_exchange_no_memo": "Je moet een memo toevoegen voor je exchange overboeking."
     },
     "settings_jsx": {
@@ -628,7 +628,7 @@
         "convert_to_LIQUID_TOKEN": "Converteren naar %(LIQUID_TOKEN)s",
         "withdraw_LIQUID_TOKEN": "Opnemen %(LIQUID_TOKEN)s",
         "withdraw_DEBT_TOKENS": "Opnemen %(DEBT_TOKENS)s",
-        "tokens_worth_about_1_of_LIQUID_TICKER": "Tokens hebben een waarde rond de $1.00 of %(LIQUID_TICKER)s, ontvangen momenteel %(sbdInterest)s%% APR.",
+        "tokens_worth_about_1_of_LIQUID_TICKER": "Tokens hebben een waarde rond de $1.00 van %(LIQUID_TICKER)s, momenteel ontvangen ze %(sbdInterest)s%% APR.",
         "savings": "SPAARGELD",
         "estimated_account_value": "Geschatte accountwaarde",
         "next_power_down_is_scheduled_to_happen": "De volgende power down is ingepland op",

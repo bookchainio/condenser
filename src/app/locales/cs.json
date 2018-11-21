@@ -163,7 +163,7 @@
         "account_name_should_be_shorter": "Název účtu by měl být kratší.",
         "account_name_should_be_longer": "Název účtu by měl být delší.",
         "account_name_should_have_only_letters_digits_or_dashes": "Název účtu by měl mít pouze písmena, číslice, tečky nebo pomlčky.",
-        "cannot_increase_reward_of_post_within_the_last_minute_before_payout": "Nelze zvýšit odměnu post v poslední chvíli před výplatou",
+        "cannot_increase_reward_of_post_within_the_last_minute_before_payout": "Nelze zvýšit odměnu příspěvku v poslední chvíli před výplatou",
         "vote_currently_exists_user_must_be_indicate_a_to_reject_witness": "hlas již byl uděle, uživatel musí dát najevo touhu svědka odmítnout",
         "only_one_APP_NAME_account_allowed_per_ip_address_every_10_minutes": "Povolen je pouze jeden Steem účet na IP adresu a 10 minut",
         "resteem_this_post": "Sdílet tento článek",

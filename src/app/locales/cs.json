@@ -404,17 +404,17 @@
         }
     },
     "witnesses_jsx": {
-        "witness_thread": "svědecké vlákno",
-        "top_witnesses": "Volba svědků",
+        "witness_thread": "ručitelské vlákno",
+        "top_witnesses": "Volba ručitelů",
         "you_have_votes_remaining": {
             "zero": "Nemáte žádný další hlas",
-            "one": "Máte ještě 1 hlas",
-            "other": "Máte ještě %(count)s hlasů"
+            "one": "Zbývá pouze 1 hlas",
+            "other": "Zbývá vám %(count)s hlasů"
         },
-        "you_can_vote_for_maximum_of_witnesses": "Můžete volit až 30 svědků",
-        "witness": "Svědek",
+        "you_can_vote_for_maximum_of_witnesses": "Můžete volit až 30 ručitelů",
+        "witness": "Ručitel",
         "information": "Informace",
-        "if_you_want_to_vote_outside_of_top_enter_account_name": "Chcete-li volit svědka, který není mezi top 50, zadejte jeho jméno do pole níže",
+        "if_you_want_to_vote_outside_of_top_enter_account_name": "Chcete-li volit ručitele, který není mezi top 50, zadejte jeho jméno do pole níže",
         "set_witness_proxy": "Můžete si také zvolit zástupce, který za vás bude svědky volit. To zruší vaši stávající volbu svědků.",
         "witness_set": "Nastavili jste si hlasovací prostřednictvím zástupce. Chcete-li znovu povolit manuální hlasování, smažte prosím vašeho zástupce.",
         "witness_proxy_current": "Váš aktuální zástupce je",

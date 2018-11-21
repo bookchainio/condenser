@@ -415,15 +415,15 @@
         "witness": "Ručitel",
         "information": "Informace",
         "if_you_want_to_vote_outside_of_top_enter_account_name": "Chcete-li volit ručitele, který není mezi top 50, zadejte jeho jméno do pole níže",
-        "set_witness_proxy": "Můžete si také zvolit zástupce, který za vás bude svědky volit. To zruší vaši stávající volbu svědků.",
-        "witness_set": "Nastavili jste si hlasovací prostřednictvím zástupce. Chcete-li znovu povolit manuální hlasování, smažte prosím vašeho zástupce.",
+        "set_witness_proxy": "Můžete si také zvolit zástupce, který za vás bude ručitele volit. Pokud tak učiníte, dojde ke zrušení vaší stávající volby ručitelů.",
+        "witness_set": "Nastavili jste hlasování prostřednictvím zástupce. Budete-li chtít znovu povolit manuální hlasování, odeberte vytvořeného zástupce.",
         "witness_proxy_current": "Váš aktuální zástupce je",
         "witness_proxy_set": "Nastavit zástupce",
-        "witness_proxy_clear": "Smazat zástupce",
+        "witness_proxy_clear": "Odebrat zástupce",
         "proxy_update_error": "Váš zástupce nebyl aktualizován"
     },
     "votesandcomments_jsx": {
-        "no_responses_yet_click_to_respond": "Zatím tu nejsou žádné odpovědi. Klikněte pro zadání odpovědi.",
+        "no_responses_yet_click_to_respond": "Zatím zde nejsou žádné odpovědi. Klikněte pro zadání odpovědi.",
         "response_count_tooltip": {
             "zero": "žádné odpovědi. Klikněte pro zadání odpovědi.",
             "one": "1 odpověď. Klikněte pro zadání odpovědi.",
@@ -507,7 +507,7 @@
     },
     "savingswithdrawhistory_jsx": {
         "cancel_this_withdraw_request": "Zrušit tento požadavek na výběr?",
-        "pending_savings_withdrawals": "Probíhající výběry ze spořícího účtu",
+        "pending_savings_withdrawals": "Probíhající výběry z účtu",
         "withdraw": "Vybrat %(amount)s",
         "to": "komu %(to)s",
         "from_to": "od %(from)s komu %(to)s"
@@ -523,12 +523,12 @@
         "change_account_password": "Změnit heslo k účtu",
         "create_account": "Vytvořit účet",
         "stolen_account_recovery": "Obnova ukradeného účtu",
-        "people_following": "Sledující",
-        "people_followed_by": "Sledovaní",
-        "curation_rewards_by": "Kurátorské odměny",
-        "author_rewards_by": "Autorské odměny",
-        "replies_to": "Odpovědi",
-        "comments_by": "Komentáře"
+        "people_following": "Lidé sledují",
+        "people_followed_by": "Lidé sledovaní od",
+        "curation_rewards_by": "Kurátorské odměny od",
+        "author_rewards_by": "Autorské odměny od",
+        "replies_to": "Odpovědí k",
+        "comments_by": "Komentáře k"
     },
     "loginform_jsx": {
         "you_need_a_private_password_or_key": "Potřebujete privátní heslo nebo klíč (nikoli veřejný klíč)",

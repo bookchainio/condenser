@@ -341,19 +341,19 @@
         "unknown_account": "Neznámý účet",
         "user_hasnt_made_any_posts_yet": "Zdá se, že %(name)s doposud nic nepublikoval.",
         "user_hasnt_started_bloggin_yet": "Zdá se, že %(name)s ještě nezveřejnil žádný článek.",
-        "user_hasnt_followed_anything_yet": "Zdá se, že %(name)s ještě nikoho nesleduje. Pokud si %(name)s nedávno přidal nové sledované uživatele, jejich příspěvky naplní toto vlákno, jakmile budou dostupné.",
+        "user_hasnt_followed_anything_yet": "Zdá se, že %(name)s zatím nikoho nesleduje. Pokud %(name)s začne sledovat nové uživatele, budou zde zobrazeny jejich příspěvky.",
         "user_hasnt_had_any_replies_yet": "Uživateli %(name)s zatím nikdo neodpověděl.",
         "looks_like_you_havent_posted_anything_yet": "Zdá se, že jste ještě nic nepublikovali.",
         "create_a_post": "Vytvořit článek",
         "explore_trending_articles": "Prozkoumat populární články",
         "read_the_quick_start_guide": "Přečíst průvodce pro nováčky",
-        "browse_the_faq": "Prohlédnout často kladené otázky",
+        "browse_the_faq": "Prohlédnout časté dotazy",
         "followers": "Sledující",
         "this_is_users_reputations_score_it_is_based_on_history_of_votes": "Toto je hodnocení reputace %(name)s. Hodnocení pověsti je založeno na historii obdržených hlasů a slouží ke skrytí obsahu nízké kvality.",
         "follower_count": {
             "zero": "Žádní sledující",
             "one": "1 sledující",
-            "other": "%(count)s Sledující"
+            "other": "%(count)s sledujících"
         },
         "followed_count": {
             "zero": "Nesledovat nikoho",
@@ -383,7 +383,7 @@
         "flagging_post_can_remove_rewards_the_flag_should_be_used_for_the_following": "Nahlášení příspěvku může odstranit odměny a snížit viditelnost příspěvku. Některé obvyklé důvody pro nahlášení",
         "disagreement_on_rewards": "Nesouhlas s odměnou",
         "fraud_or_plagiarism": "Podvod nebo plagiátorství",
-        "hate_speech_or_internet_trolling": "Šíření nenávisti nebo internetorvý trolling",
+        "hate_speech_or_internet_trolling": "Šíření nenávisti nebo internetový trolling",
         "intentional_miss_categorized_content_or_spam": "Nesprávně zařazený mezinárodní obsah nebo spam",
         "pending_payout": "Očekávaná odměna %(value)s",
         "payout_declined": "Odměna odmítnuta",

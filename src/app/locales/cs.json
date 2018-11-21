@@ -182,11 +182,11 @@
         "register_with_facebook": "Registrovat se přes Facebook",
         "or_click_the_button_below_to_register_with_facebook": "Nebo klikněte na tlačítko níže pro registraci přes Facebook",
         "server_returned_error": "interní chyba serveru",
-        "APP_NAME_support": "%(APP_NAME)s podpora",
-        "please_email_questions_to": "Zašlete prosím své dotazy e-mailem na",
+        "APP_NAME_support": "%(APP_NAME)s Podpora",
+        "please_email_questions_to": "Své dotazy zasílejte na e-mail",
         "next_7_strings_single_block": {
             "authors_get_paid_when_people_like_you_upvote_their_post": "Autoři dostávají zaplaceno, když pro jejich články lidé hlasují",
-            "if_you_enjoyed_what_you_read_earn_amount": "Líbí se vám, co jste se dočetli? Založte si účet ještě dnes a začnete vydělávat STEEM ZDARMA!",
+            "if_you_enjoyed_what_you_read_earn_amount": "Líbí se vám články, které si zde můžete pročítat? Založte si účet ještě dnes a začnete vydělávat STEEM ZDARMA!",
             "free_steem": "STEEM ZDARMA!",
             "sign_up_earn_steem": "Zaregistrujte se nyní a vydělávejte "
         },
@@ -196,8 +196,8 @@
             "value_posts": "články s nízkou hodnotou"
         },
         "read_only_mode": "Vzhledem k údržbě serveru je nyní stránka v režimu jen pro čtení. Za nepříjemnosti se vám omlouváme.",
-        "tags_and_topics": "Klíčová slova",
-        "show_more_topics": "Zobrazit všechna klíčová slova",
+        "tags_and_topics": "Štítky",
+        "show_more_topics": "Zobrazit všechny štítky",
         "basic": "Základní",
         "advanced": "Pokročilé",
         "views": {

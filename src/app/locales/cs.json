@@ -599,10 +599,10 @@
         "profile_website": "Webová stránka"
     },
     "transfer_jsx": {
-        "amount_is_in_form": "Částka je uvedena v podobě 99999.999",
+        "amount_is_in_form": "Částka je uvedena ve tvaru 99999.999",
         "insufficient_funds": "Nedostatek prostředků",
-        "use_only_3_digits_of_precison": "Použijte pouze 3 daná čísla",
-        "send_to_account": "Poslat na účet",
+        "use_only_3_digits_of_precison": "Použijte pouze 3 číslice preciznosti",
+        "send_to_account": "Odeslat na účet",
         "asset": "Aktivum",
         "this_memo_is_private": "Tato poznámka je soukromá",
         "this_memo_is_public": "Tato poznámka je veřejná",
@@ -620,8 +620,8 @@
     },
     "userwallet_jsx": {
         "conversion_complete_tip": "Bude dokončeno",
-        "in_conversion": "%(amount)s v převodu",
-        "transfer_to_savings": "Převést na spořící účet",
+        "in_conversion": "převádí se %(amount)s",
+        "transfer_to_savings": "Převést na účet",
         "power_up": "Zvýšit Steem Power",
         "power_down": "Snížit Steem Power",
         "market": "Směnárna",

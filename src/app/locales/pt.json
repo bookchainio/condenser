@@ -26,7 +26,7 @@
         "delete": "Apagar",
         "dismiss": "Descartar",
         "edit": "Editar",
-        "email": "Correio elétrónico",
+        "email": "Email",
         "feed": "Feed",
         "follow": "Seguir",
         "for": " para ",
@@ -135,7 +135,7 @@
         "the_rules_of_APP_NAME": {
             "one": "A primeira regra de %(APP_NAME)s é: Não percas a tua senha.",
             "second": "A segunda regra de %(APP_NAME)s é: Não percas a tua senha.",
-            "third": "A terceira regra do %(APP_NAME)s é: não podemos recuperar sua senha.",
+            "third": "A terceira regra do %(APP_NAME)s é: Não podemos recuperar sua senha.",
             "fourth": "A quarta regra: Se podes te recordar da senha, ela não é segura.",
             "fifth": "A quinta regra: Usar apenas senhas geradas aleatoriamente.",
             "sixth": "A sexta regra: não diga a ninguém a sua senha.",

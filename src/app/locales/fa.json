@@ -182,10 +182,10 @@
         "register_with_facebook": "ثبت نام از طریق فیسبوک",
         "or_click_the_button_below_to_register_with_facebook": "یا برای ثبت نام با اکانت فیسبوک روی دکمه زیر کلیک کنید",
         "server_returned_error": "server returned error",
-        "APP_NAME_support": "%(APP_NAME)s Support",
-        "please_email_questions_to": "Please email your questions to",
+        "APP_NAME_support": "پشتیبانی %(APP_NAME)s",
+        "please_email_questions_to": "لطفا سولات خود را به این آدرس ارسال کنید",
         "next_7_strings_single_block": {
-            "authors_get_paid_when_people_like_you_upvote_their_post": "Authors get paid when people like you upvote their post",
+            "authors_get_paid_when_people_like_you_upvote_their_post": "نویسنده زمانی پاداش دریافت می کند که افرادی مانند شما به پست او رای مثبت دهند",
             "if_you_enjoyed_what_you_read_earn_amount": "If you enjoyed what you read here, create your account today and start earning FREE STEEM!",
             "free_steem": "FREE STEEM!",
             "sign_up_earn_steem": "Sign up now to earn "

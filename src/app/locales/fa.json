@@ -195,20 +195,20 @@
             "show_less": "نمایش کمتر",
             "value_posts": "پست های کم ارزش"
         },
-        "read_only_mode": "Due to server maintenance we are running in read only mode. We are sorry for the inconvenience.",
-        "tags_and_topics": "Tags",
-        "show_more_topics": "View all tags",
-        "basic": "Basic",
-        "advanced": "Advanced",
+        "read_only_mode": "به منظور تعمیر و نگهداری سرور، حالت فقط خواندی فعال است. ما برای این ناراحتی به وجود آمده پوزش می طلبیم.",
+        "tags_and_topics": "برچسب ها",
+        "show_more_topics": "مشاهده همه تگ ها",
+        "basic": "پایه",
+        "advanced": "تنظیمات پیشرفته",
         "views": {
-            "zero": "No Views",
-            "one": "%(count)s View",
-            "other": "%(count)s Views"
+            "zero": "بدون بازدید",
+            "one": "%(count)s بازدید",
+            "other": "%(count)s بازدید"
         },
         "responses": {
-            "zero": "No Responses",
-            "one": "%(count)s Response",
-            "other": "%(count)s Responses"
+            "zero": "بدون پاسخ",
+            "one": "%(count)s پاسخ",
+            "other": "%(count)s پاسخ"
         },
         "post_key_warning": {
             "confirm": "You are about to publish a STEEM private key or master password. You will probably lose control of the associated account and all its funds.",

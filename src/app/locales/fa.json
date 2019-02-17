@@ -345,8 +345,8 @@
         "user_hasnt_had_any_replies_yet": "%(name)s هنوز هیچ نظر یا پاسخی ثبت نکرده است",
         "looks_like_you_havent_posted_anything_yet": "به نظر میرسد شما هنوز هیچ گونه پستی منتشر نکرده اید.",
         "create_a_post": "ایجاد پست جدید",
-        "explore_trending_articles": "Explore Trending Articles",
-        "read_the_quick_start_guide": "Read The Quick Start Guide",
+        "explore_trending_articles": "کاوش مقالات پرطرفدار",
+        "read_the_quick_start_guide": "راهنمای شروع سریع را بخوانید",
         "browse_the_faq": "Browse The FAQ",
         "followers": "Followers",
         "this_is_users_reputations_score_it_is_based_on_history_of_votes": "This is %(name)s's reputation score.\n\nThe reputation score is based on the history of votes received by the account, and is used to hide low quality content.",
@@ -417,31 +417,31 @@
         "if_you_want_to_vote_outside_of_top_enter_account_name": "If you would like to vote for a witness outside of the top 50, enter the account name below to cast a vote",
         "set_witness_proxy": "You can also choose a proxy that will vote for witnesses for you. This will reset your current witness selection.",
         "witness_set": "You have set a voting proxy. If you would like to re-enable manual voting, please clear your proxy.",
-        "witness_proxy_current": "Your current proxy is",
-        "witness_proxy_set": "Set proxy",
-        "witness_proxy_clear": "Clear proxy",
-        "proxy_update_error": "Your proxy was not updated"
+        "witness_proxy_current": "پروکسی فعال در حال حاضر",
+        "witness_proxy_set": "تنظیم پروکسی",
+        "witness_proxy_clear": "حذف پروکسی",
+        "proxy_update_error": "پروکسی شما بروز رسانی نشد"
     },
     "votesandcomments_jsx": {
-        "no_responses_yet_click_to_respond": "No responses yet. Click to respond.",
+        "no_responses_yet_click_to_respond": "هنوز پاسخی داده نشده است. برای پاسخ دادن کلیک کنید.",
         "response_count_tooltip": {
-            "zero": "no responses. Click to respond.",
-            "one": "1 response. Click to respond.",
-            "other": "%(count)s responses. Click to respond."
+            "zero": "پاسخی داده نشده است. برای پاسخ دادن کلیک کنید.",
+            "one": "۱ پاسخ. برای پاسخ دادن کلیک کنید.",
+            "other": "%(count)s پاسخ. برای پاسخ دادن کلیک کنید."
         },
         "vote_count": {
-            "zero": "no votes",
-            "one": "1 vote",
-            "other": "%(count)s votes"
+            "zero": "بدون رای",
+            "one": "۱ رای",
+            "other": "%(count)s رای"
         }
     },
     "userkeys_jsx": {
-        "public": "Public",
-        "private": "Private",
-        "public_something_key": "Public %(key)s Key",
-        "private_something_key": "Private %(key)s Key",
-        "posting_key_is_required_it_should_be_different": "The posting key is used for posting and voting. It should be different from the active and owner keys.",
-        "the_active_key_is_used_to_make_transfers_and_place_orders": "The active key is used to make transfers and place orders in the internal market.",
+        "public": "همگانی",
+        "private": "خصوصی",
+        "public_something_key": "کلید عمومی %(key)s",
+        "private_something_key": "کلید خصوصی %(key)s",
+        "posting_key_is_required_it_should_be_different": "کلید ارسال مطلب برای ارسال کردن مطلب و رأی دادن استفاده می‌شود. این کلید باید با کلید فعال و کلید های مالک متفاوت باشد.",
+        "the_active_key_is_used_to_make_transfers_and_place_orders": "کلید فعال برای نقل و انتقال و سفارش دادن در بازار داخلی استفاده می‌شود.",
         "the_owner_key_is_required_to_change_other_keys": "The owner key is the master key for the account and is required to change the other keys.",
         "the_private_key_or_password_should_be_kept_offline": "The private key or password for the owner key should be kept offline as much as possible.",
         "the_memo_key_is_used_to_create_and_read_memos": "The memo key is used to create and read memos."

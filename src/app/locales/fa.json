@@ -443,11 +443,11 @@
         "posting_key_is_required_it_should_be_different": "کلید ارسال مطلب برای ارسال کردن مطلب و رأی دادن استفاده می‌شود. این کلید باید با کلید فعال و کلید های مالک متفاوت باشد.",
         "the_active_key_is_used_to_make_transfers_and_place_orders": "کلید فعال برای نقل و انتقال و سفارش دادن در بازار داخلی استفاده می‌شود.",
         "the_owner_key_is_required_to_change_other_keys": "کلید مالک، کلید اصلی برای حساب است و برای تغییر کلید های دیگر مورد نیاز است.",
-        "the_private_key_or_password_should_be_kept_offline": "The private key or password for the owner key should be kept offline as much as possible.",
-        "the_memo_key_is_used_to_create_and_read_memos": "The memo key is used to create and read memos."
+        "the_private_key_or_password_should_be_kept_offline": "کلید خصوصی یا رمز عبور برای صاحب کلید باید تا حد ممکن به صورت آفلاین نگهداری شود.",
+        "the_memo_key_is_used_to_create_and_read_memos": "کلید یادداشت برای ایجاد و خواندن یادداشت‌ها استفاده می‌شود."
     },
     "suggestpassword_jsx": {
-        "APP_NAME_cannot_recover_passwords_keep_this_page_in_a_secure_location": "%(APP_NAME)s cannot recover passwords. Keep this page in a secure location, such as a fireproof safe or safety deposit box.",
+        "APP_NAME_cannot_recover_passwords_keep_this_page_in_a_secure_location": "%(APP_NAME)s قادر به بازیابی کلمه عبور نیست.این صفحه را در یک مکان امن مانند گاوصندوق ضد حریق و یا صندوق امانات نگهداری کنید.",
         "APP_NAME_password_backup": "%(APP_NAME)s Password Backup",
         "APP_NAME_password_backup_required": "%(APP_NAME)s Password Backup (required)",
         "after_printing_write_down_your_user_name": "After printing, write down your user name"

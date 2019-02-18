@@ -271,13 +271,13 @@
         "markdown_not_supported": "Markdown اینجا پشتیبانی نمی شود"
     },
     "category_selector_jsx": {
-        "tag_your_story": "برچسب (حداکثر تا ۵ برچسب)، اولین برچسب نشان دهنده دسته اصلی است.",
-        "select_a_tag": "Select a tag",
-        "maximum_tag_length_is_24_characters": "Maximum tag length is 24 characters",
-        "use_limited_amount_of_categories": "Please use only %(amount)s categories",
-        "use_only_lowercase_letters": "Use only lowercase letters",
-        "use_one_dash": "Use only one dash",
-        "use_spaces_to_separate_tags": "Use spaces to separate tags",
+        "tag_your_story": "تگ (حداکثر تا ۵ تگ)، اولین تگ نشان دهنده دسته اصلی است.",
+        "select_a_tag": "یک برچسب انتخاب کنید",
+        "maximum_tag_length_is_24_characters": "هر تگ حداکثر میتواند ۲۴ حرف داشته باشد",
+        "use_limited_amount_of_categories": "لطفا فقط %(amount)s تعداد دسته انتخاب کنید",
+        "use_only_lowercase_letters": "فقط از حروف کوچک استفاده کنید",
+        "use_one_dash": "فقط از یک خط تیره استفاده کنید",
+        "use_spaces_to_separate_tags": "برای جدا کردن برچسب ها از یک فاصله بین آنها استفاده کنید",
         "use_only_allowed_characters": "Use only lowercase letters, digits and one dash",
         "must_start_with_a_letter": "Must start with a letter",
         "must_end_with_a_letter_or_number": "Must end with a letter or number"

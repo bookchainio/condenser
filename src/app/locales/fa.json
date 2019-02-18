@@ -241,17 +241,17 @@
         "smt_whitepaper": "برگه سفید SMT",
         "whitepaper": "برگه سفید Steem",
         "intro_tagline": "پول حرف اول رو میزنه",
-        "intro_paragraph": "Your voice is worth something. Join the community that pays you to post and curate high quality content."
+        "intro_paragraph": "حرف های شما با ارزش هستند. به این انجمن بپیوندید و برای انتشار مطالب با کیفیتتان دستمزد دریافت کنید."
     },
     "main_menu": {
-        "hot": "hot",
-        "trending": "trending"
+        "hot": "محبوب",
+        "trending": "پرطرفدار"
     },
     "reply_editor": {
-        "shorten_title": "Shorten title",
-        "exceeds_maximum_length": "Exceeds maximum length (%(maxKb)sKB)",
-        "including_the_category": " (including the category '%(rootCategory)s')",
-        "use_limited_amount_of_tags": "You have %(tagsLength)s tags total%(includingCategory)s. Please use only 5 in your post and category line.",
+        "shorten_title": "عنوان کوتاه تر",
+        "exceeds_maximum_length": "بیش از حداکثر میزان (%(maxKb)s KB)",
+        "including_the_category": " (از جمله دسته '%(rootCategory)s ')",
+        "use_limited_amount_of_tags": "شما %(tagsLength)s برچسب و به صورت مجموع %(includingCategory)s برچسب استفاده کرده اید. لطفا فقط از ۵ برچسب در پست و محل مربوط به دسته بندی ها استفاده کنید.",
         "are_you_sure_you_want_to_clear_this_form": "Are you sure you want to clear this form?",
         "uploading": "Uploading",
         "draft_saved": "Draft saved.",

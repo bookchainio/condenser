@@ -380,7 +380,7 @@
         "comments_were_hidden_due_to_low_ratings": "نظرات به دلیل رتبه های پایین پنهان شده بودند"
     },
     "voting_jsx": {
-        "flagging_post_can_remove_rewards_the_flag_should_be_used_for_the_following": "دادن رای منفی میتواند باعث حذف پاداش های پست و کمتر دیده شدن آن شود. برخی از دلایل معمول برای دادن رای منفی",
+        "flagging_post_can_remove_rewards_the_flag_should_be_used_for_the_following": "پرچم دار کردن می تواند باعث حذف پاداش های پست و کمتر دیده شدن آن شود. برخی از دلایل معمول برای پرچم دار کردن",
         "disagreement_on_rewards": "اختلاف نظر در پاداش ها",
         "fraud_or_plagiarism": "کلاهبرداری یا سرقت ادبی",
         "hate_speech_or_internet_trolling": "سخنان تنفرآمیز یا اوباش گری اینترنتی",
@@ -395,24 +395,24 @@
         "we_will_reset_curation_rewards_for_this_post": "پاداش مشارکت شما را برای این پست تنظیم مجدد می کند",
         "removing_your_vote": "حذف رای خود",
         "changing_to_an_upvote": "تغییر دادن به رای مثبت",
-        "changing_to_a_downvote": "Changing to a Down-Vote",
-        "confirm_flag": "Confirm Flag",
-        "and_more": "and %(count)s more",
+        "changing_to_a_downvote": "تغییر دادن به رای منفی",
+        "confirm_flag": "تایید پرچم دار کردن",
+        "and_more": "و %(count)s بیشتر",
         "votes_plural": {
-            "one": "%(count)s vote",
-            "other": "%(count)s votes"
+            "one": "%(count)s رای",
+            "other": "%(count)s رای"
         }
     },
     "witnesses_jsx": {
-        "witness_thread": "witness thread",
-        "top_witnesses": "Witness Voting",
+        "witness_thread": "شاهد موضوع",
+        "top_witnesses": "رای دادن برای شهادت",
         "you_have_votes_remaining": {
-            "zero": "You have no votes remaining",
-            "one": "You have 1 vote remaining",
-            "other": "You have %(count)s votes remaining"
+            "zero": "شما هیچ رای باقی مانده ای ندارید",
+            "one": "شما ۱ رای باقی مانده دارید",
+            "other": "شما %(count)s رای باقی مانده دارید"
         },
-        "you_can_vote_for_maximum_of_witnesses": "You can vote for a maximum of 30 witnesses",
-        "witness": "Witness",
+        "you_can_vote_for_maximum_of_witnesses": "شما حداکثر می توانید ۳۰ رای شهادت دهید",
+        "witness": "شهادت",
         "information": "Information",
         "if_you_want_to_vote_outside_of_top_enter_account_name": "If you would like to vote for a witness outside of the top 50, enter the account name below to cast a vote",
         "set_witness_proxy": "You can also choose a proxy that will vote for witnesses for you. This will reset your current witness selection.",

@@ -568,7 +568,7 @@
         "account_name_should": "نام حساب کاربری باید ",
         "not_be_empty": "خالی نباشد.",
         "be_longer": "طولانی تر باشد.",
-        "be_shorter": "be shorter.",
+        "be_shorter": "کوتاه تر باشد.",
         "each_account_segment_should": "Each account segment should ",
         "start_with_a_letter": "start with a letter.",
         "have_only_letters_digits_or_dashes": "have only letters, digits, or dashes.",

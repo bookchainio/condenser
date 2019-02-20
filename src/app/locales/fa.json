@@ -569,15 +569,15 @@
         "not_be_empty": "خالی نباشد.",
         "be_longer": "طولانی تر باشد.",
         "be_shorter": "کوتاه تر باشد.",
-        "each_account_segment_should": "Each account segment should ",
-        "start_with_a_letter": "start with a letter.",
-        "have_only_letters_digits_or_dashes": "have only letters, digits, or dashes.",
-        "have_only_one_dash_in_a_row": "have only one dash in a row.",
-        "end_with_a_letter_or_digit": "end with a letter or digit.",
-        "verified_exchange_no_memo": "You must include a memo for your exchange transfer."
+        "each_account_segment_should": "هر قسمت از حساب کاربری باید ",
+        "start_with_a_letter": "با یک حرف شروع شود.",
+        "have_only_letters_digits_or_dashes": "فقط شامل حروف، اعداد و یا خط تیره باشد.",
+        "have_only_one_dash_in_a_row": "در هر ردیف فقط یک خط تیره داشته باشد.",
+        "end_with_a_letter_or_digit": "در انتها هم با یک حرف یا عدد پایان یابد.",
+        "verified_exchange_no_memo": "برای تبدیل ارز درخواست شما باید شامل یک یادداشت باشد."
     },
     "settings_jsx": {
-        "invalid_url": "Invalid URL",
+        "invalid_url": "URL اشتباه است",
         "name_is_too_long": "Name is too long",
         "name_must_not_begin_with": "Name must not begin with @",
         "about_is_too_long": "About is too long",

@@ -562,12 +562,12 @@
         "signup_button_emphasis": "FREE STEEM!",
         "sign_up_get_steem": "Sign up. Get STEEM",
         "returning_users": "Returning Users: ",
-        "join_our": "Join our"
+        "join_our": "پیوستن به ما"
     },
     "chainvalidation_js": {
-        "account_name_should": "Account name should ",
-        "not_be_empty": "not be empty.",
-        "be_longer": "be longer.",
+        "account_name_should": "نام حساب کاربری باید ",
+        "not_be_empty": "خالی نباشد.",
+        "be_longer": "طولانی تر باشد.",
         "be_shorter": "be shorter.",
         "each_account_segment_should": "Each account segment should ",
         "start_with_a_letter": "start with a letter.",

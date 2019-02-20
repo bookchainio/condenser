@@ -461,8 +461,8 @@
     "tips_js": {
         "liquid_token": "Tradeable tokens that may be transferred anywhere at anytime.<br/>%(LIQUID_TOKEN)s can be converted to %(VESTING_TOKEN)s in a process called powering up.",
         "influence_token": "نشانه قدرت نفوذ شماست، که به شما قدرت کنترل بیشتر بر پست ها و پاداش ها و میزان مشارکت در آنها را میدهد.",
-        "estimated_value": "The estimated value is based on an average value of %(LIQUID_TOKEN)s in US dollars.",
-        "non_transferable": "%(VESTING_TOKEN)s is non-transferable and requires 3 months (13 payments) to convert back to %(LIQUID_TOKEN)s.",
+        "estimated_value": "مقدار برآورد شده براساس میانگین ارزش %(LIQUID_TOKEN)s به دلار آمریکا است.",
+        "non_transferable": "%(VESTING_TOKEN)s غیر قابل انتقال است و نیازمند ۳ ماه (۱۳ پرداخت) است تا دوباره تبدیل به %(LIQUID_TOKEN)s شود‌.",
         "converted_VESTING_TOKEN_can_be_sent_to_yourself_but_can_not_transfer_again": "Converted %(VESTING_TOKEN)s can be sent to yourself or someone else but can not transfer again without converting back to %(LIQUID_TOKEN)s.",
         "part_of_your_steem_power_is_currently_delegated": "Part of %(user_name)s's STEEM POWER is currently delegated. Delegation is donated for influence or to help new users perform actions on steemit. Your delegation amount can fluctuate."
     },

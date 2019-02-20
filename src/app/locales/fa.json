@@ -487,18 +487,18 @@
         "reveal_it": "آشکار سازی این پست",
         "adjust_your": "خود را تنظیم",
         "display_preferences": "تنظیمات نمایش",
-        "create_an_account": "ایجاد حساب کاربری",
-        "to_save_your_preferences": "to save your preferences"
+        "create_an_account": "یک حساب کاربری ایجاد کنید",
+        "to_save_your_preferences": "برای ذخیره تنظیمات خود"
     },
     "posts_index": {
-        "empty_feed_1": "Looks like you haven't followed anything yet",
-        "empty_feed_2": "If you recently added new users to follow, your personalized feed will populate once new content is available",
-        "empty_feed_3": "Explore Trending Articles",
-        "empty_feed_4": "Read The Quick Start Guide",
-        "empty_feed_5": "Browse The FAQ"
+        "empty_feed_1": "به نظر میرسد شما هنوز هیچ چیزی را دنبال نکرده اید",
+        "empty_feed_2": "اگر شما اخیرا افراد جدیدی را دنبال کرده باشید، مطالب منتشر شده جدید آنها در بخش خبرنامه در دسترس خواهد بود",
+        "empty_feed_3": "کاوش مقالات پرطرفدار",
+        "empty_feed_4": "راهنمای شروع سریع را بخوانید",
+        "empty_feed_5": "سوالات متداول را کاوش کنید"
     },
     "transferhistoryrow_jsx": {
-        "to_savings": "to savings",
+        "to_savings": "به پس انداز",
         "from_savings": "from savings",
         "cancel_transfer_from_savings": "Cancel transfer from savings",
         "stop_power_down": "Stop power down",

@@ -507,14 +507,14 @@
     },
     "savingswithdrawhistory_jsx": {
         "cancel_this_withdraw_request": "لغو این درخواست برداشت؟",
-        "pending_savings_withdrawals": "PENDING SAVINGS WITHDRAWS",
-        "withdraw": "Withdraw %(amount)s",
-        "to": "to %(to)s",
-        "from_to": "from %(from)s to %(to)s"
+        "pending_savings_withdrawals": "درخواست های در حال انتظار برداشت از پس انداز",
+        "withdraw": "برداشت %(amount)s",
+        "to": "به %(to)s",
+        "from_to": "از %(from)s به %(to)s"
     },
     "explorepost_jsx": {
-        "copied": "Copied!",
-        "copy": "COPY",
+        "copied": "کپی انجام شد!",
+        "copy": "کپی",
         "alternative_sources": "Alternative Sources"
     },
     "header_jsx": {

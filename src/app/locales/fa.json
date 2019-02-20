@@ -464,18 +464,18 @@
         "estimated_value": "مقدار برآورد شده براساس میانگین ارزش %(LIQUID_TOKEN)s به دلار آمریکا است.",
         "non_transferable": "%(VESTING_TOKEN)s غیر قابل انتقال است و نیازمند ۳ ماه (۱۳ پرداخت) است تا دوباره تبدیل به %(LIQUID_TOKEN)s شود‌.",
         "converted_VESTING_TOKEN_can_be_sent_to_yourself_but_can_not_transfer_again": "%(VESTING_TOKEN)s تبدیل شده را میتوانید به خودتان یا فرد دیگری انتقال دهید ولی نمی توانید دوباره عمل انتقال را بدون تبدیل کردن به %(LIQUID_TOKEN)s انجام دهید.",
-        "part_of_your_steem_power_is_currently_delegated": "Part of %(user_name)s's STEEM POWER is currently delegated. Delegation is donated for influence or to help new users perform actions on steemit. Your delegation amount can fluctuate."
+        "part_of_your_steem_power_is_currently_delegated": "بخشی از قدرت استیم %(user_name)s در حال حاضر محول شده است. محول کردن یا اهدا کردن قدرت برای افزایش نفوذ و یا برای کمک به کاربران جدید steemit برای افزایش اقدامات آنها انجام می‌شود. این مقدار می تواند متغیر باشد."
     },
     "promote_post_jsx": {
-        "promote_post": "Promote Post",
-        "spend_your_DEBT_TOKEN_to_advertise_this_post": "Spend your %(DEBT_TOKEN)s's to advertise this post in the promoted content section",
-        "you_successfully_promoted_this_post": "You successfully promoted this post",
-        "this_post_was_hidden_due_to_low_ratings": "This post was hidden due to low ratings"
+        "promote_post": "ترویج پست",
+        "spend_your_DEBT_TOKEN_to_advertise_this_post": "%(DEBT_TOKEN)s مقدار از پس انداز خود را برای ترویج این پست صرف کنید",
+        "you_successfully_promoted_this_post": "شما با موفقیت این پست را ترویج داده اید",
+        "this_post_was_hidden_due_to_low_ratings": "این پست با توجه به رتبه پایین مخفی بود"
     },
     "about_jsx": {
-        "about_app": "About %(APP_NAME)s",
+        "about_app": "درباره %(APP_NAME)s",
         "about_app_details": "%(APP_NAME)s is a social media platform where everyone gets paid for creating and curating content. It leverages a robust digital points system, called Steem, that supports real value for digital rewards through market price discovery and liquidity.",
-        "learn_more_at_app_url": "Learn more at %(APP_URL)s",
+        "learn_more_at_app_url": "اطلاعات بیشتر در %(APP_URL)s",
         "resources": "Resources"
     },
     "markdownviewer_jsx": {

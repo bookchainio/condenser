@@ -499,14 +499,14 @@
     },
     "transferhistoryrow_jsx": {
         "to_savings": "به پس انداز",
-        "from_savings": "from savings",
-        "cancel_transfer_from_savings": "Cancel transfer from savings",
-        "stop_power_down": "Stop power down",
-        "start_power_down_of": "Start power down of",
-        "receive_interest_of": "Receive interest of"
+        "from_savings": "از پس انداز",
+        "cancel_transfer_from_savings": "لغو انتقال از پس انداز",
+        "stop_power_down": "توقف کاهش قدرت",
+        "start_power_down_of": "شروع کاهش قدرت از",
+        "receive_interest_of": "دریافت سود از"
     },
     "savingswithdrawhistory_jsx": {
-        "cancel_this_withdraw_request": "Cancel this withdraw request?",
+        "cancel_this_withdraw_request": "لغو این درخواست برداشت؟",
         "pending_savings_withdrawals": "PENDING SAVINGS WITHDRAWS",
         "withdraw": "Withdraw %(amount)s",
         "to": "to %(to)s",

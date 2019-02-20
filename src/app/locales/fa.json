@@ -613,7 +613,7 @@
         "withdraw_funds_after_the_required_3_day_waiting_period": "برداشت وجوه پس از وقفه 3 روزه.",
         "from": "از طرف",
         "to": "به",
-        "asset_currently_collecting": "%(asset)s currently collecting %(interest)s%% APR.",
+        "asset_currently_collecting": "%(asset)s در حال جمع آوری APR %(interest)s%%.",
         "beware_of_spam_and_phishing_links": "Beware of spam and phishing links in transfer memos. Do not open links from users you do not trust. Do not provide your private keys to any third party websites.",
         "autocomplete_previous_transfers": "previous transfers",
         "autocomplete_user_following": "following"

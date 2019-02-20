@@ -476,18 +476,18 @@
         "about_app": "درباره %(APP_NAME)s",
         "about_app_details": "%(APP_NAME)s is a social media platform where everyone gets paid for creating and curating content. It leverages a robust digital points system, called Steem, that supports real value for digital rewards through market price discovery and liquidity.",
         "learn_more_at_app_url": "اطلاعات بیشتر در %(APP_URL)s",
-        "resources": "Resources"
+        "resources": "منابع"
     },
     "markdownviewer_jsx": {
-        "images_were_hidden_due_to_low_ratings": "Images were hidden due to low ratings."
+        "images_were_hidden_due_to_low_ratings": "تصاویر به دلیل رتبه های پایین پنهان شده بودند."
     },
     "postsummary_jsx": {
-        "resteemed": "resteemed",
-        "resteemed_by": "Resteemed by",
-        "reveal_it": "Reveal this post",
-        "adjust_your": "adjust your",
-        "display_preferences": "display preferences",
-        "create_an_account": "create an account",
+        "resteemed": "باز نشر شده",
+        "resteemed_by": "باز نشر شده توسط",
+        "reveal_it": "آشکار سازی این پست",
+        "adjust_your": "خود را تنظیم",
+        "display_preferences": "تنظیمات نمایش",
+        "create_an_account": "ایجاد حساب کاربری",
         "to_save_your_preferences": "to save your preferences"
     },
     "posts_index": {

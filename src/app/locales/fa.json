@@ -454,7 +454,7 @@
     },
     "converttosteem_jsx": {
         "your_existing_DEBT_TOKEN_are_liquid_and_transferable": "موجودی %(DEBT_TOKEN)s شما قابل انتقال است. میتوانید %(DEBT_TOKEN)s خود را به صورت مستقیم از طریق وبسایت %(link)s معامله کنید و یا نقل و انتقالات خود را در سایت های دیگر انجام دهید.",
-        "this_is_a_price_feed_conversion": "This is a price feed conversion. The 3.5 day delay is necessary to prevent abuse from gaming the price feed average",
+        "this_is_a_price_feed_conversion": "این تغییر با قیمت بازار انجام میشود. تاخیر ۳.۵ روزه به منظور جلوگیری از دستکاری های کوتاه مدت میانگین قیمت است",
         "convert_to_LIQUID_TOKEN": "تبدیل به %(LIQUID_TOKEN)s",
         "DEBT_TOKEN_will_be_unavailable": "This action will take place 3.5 days from now and can not be canceled. These %(DEBT_TOKEN)s will immediately become unavailable"
     },

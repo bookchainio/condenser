@@ -456,7 +456,7 @@
         "your_existing_DEBT_TOKEN_are_liquid_and_transferable": "موجودی %(DEBT_TOKEN)s شما قابل انتقال است. میتوانید %(DEBT_TOKEN)s خود را به صورت مستقیم از طریق وبسایت %(link)s معامله کنید و یا نقل و انتقالات خود را در سایت های دیگر انجام دهید.",
         "this_is_a_price_feed_conversion": "این تغییر با قیمت بازار انجام میشود. تاخیر ۳.۵ روزه به منظور جلوگیری از دستکاری های کوتاه مدت میانگین قیمت است",
         "convert_to_LIQUID_TOKEN": "تبدیل به %(LIQUID_TOKEN)s",
-        "DEBT_TOKEN_will_be_unavailable": "This action will take place 3.5 days from now and can not be canceled. These %(DEBT_TOKEN)s will immediately become unavailable"
+        "DEBT_TOKEN_will_be_unavailable": "این اقدام بعد از ۳.۵ روز انجام می‌شود و غیر قابل لغو شدن است. این %(DEBT_TOKEN)s ها بلافاصله از دسترسی خارج می‌شوند"
     },
     "tips_js": {
         "liquid_token": "Tradeable tokens that may be transferred anywhere at anytime.<br/>%(LIQUID_TOKEN)s can be converted to %(VESTING_TOKEN)s in a process called powering up.",

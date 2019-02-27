@@ -561,7 +561,7 @@
         "signup_button": "همین حالا ثبت نام کنید تا دریافت کنید ",
         "signup_button_emphasis": "STEEM رایگان!",
         "sign_up_get_steem": "ثبت نام. دریافت STEEM",
-        "returning_users": "Returning Users: ",
+        "returning_users": "کاربران تکراری: ",
         "join_our": "پیوستن به ما"
     },
     "chainvalidation_js": {
@@ -614,13 +614,13 @@
         "from": "از طرف",
         "to": "به",
         "asset_currently_collecting": "%(asset)s در حال جمع آوری APR %(interest)s%%.",
-        "beware_of_spam_and_phishing_links": "Beware of spam and phishing links in transfer memos. Do not open links from users you do not trust. Do not provide your private keys to any third party websites.",
-        "autocomplete_previous_transfers": "previous transfers",
-        "autocomplete_user_following": "following"
+        "beware_of_spam_and_phishing_links": "مراقب باشید از هرزنامه و لینک های نامعتبر نوشته شده در یادداشت نقل و انتقالات (خطر احتمالی فیشینگ). لینک هایی را که از طرف کاربرانی که اعتماد ندارید باز نکنید و کلیدهای خود را به هیچ سایت دیگر ارسال نکنید.",
+        "autocomplete_previous_transfers": "نقل و انتقالات قبلی",
+        "autocomplete_user_following": "دنبال میکنید"
     },
     "userwallet_jsx": {
-        "conversion_complete_tip": "Will complete on",
-        "in_conversion": "%(amount)s in conversion",
+        "conversion_complete_tip": "تکمیل خواهد شد در",
+        "in_conversion": "%(amount)s تبدیل شده است",
         "transfer_to_savings": "Transfer to Savings",
         "power_up": "Power Up",
         "power_down": "Power Down",

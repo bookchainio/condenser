@@ -474,7 +474,7 @@
     },
     "about_jsx": {
         "about_app": "درباره %(APP_NAME)s",
-        "about_app_details": "%(APP_NAME)s is a social media platform where everyone gets paid for creating and curating content. It leverages a robust digital points system, called Steem, that supports real value for digital rewards through market price discovery and liquidity.",
+        "about_app_details": "%(APP_NAME)s یک رسانه اجتماعی است که در آن هر کس میتواند در ازای ایجاد محتوا یا مشارکت و ارتباط با دیگران پاداش دریافت کنند. یک سیستم قدرتمند متشکل از امتیازات دیجیتال که با نام Steem شناخته میشود، که با کشف قیمت بازار و نقدینگی، ارزش واقعی پاداش های دیجیتال را پشتیبانی می کند.",
         "learn_more_at_app_url": "اطلاعات بیشتر در %(APP_URL)s",
         "resources": "منابع"
     },

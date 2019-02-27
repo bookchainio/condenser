@@ -634,13 +634,13 @@
         "next_power_down_is_scheduled_to_happen": "طبق جدول زمان بندی انتظار میرود که کاهش قدرت بعدی اتفاق بیافتد",
         "transfers_are_temporary_disabled": "نقل و انتقالات موقتا غیر فعال است.",
         "history": "تاریخچه",
-        "redeem_rewards": "Redeem Rewards (Transfer to Balance)",
-        "buy_steem_or_steem_power": "Buy STEEM or STEEM POWER"
+        "redeem_rewards": "دریافت پاداش ها (انتقال به موجودی)",
+        "buy_steem_or_steem_power": "STEEM یا STEEM POWER بخرید"
     },
     "powerdown_jsx": {
-        "power_down": "Power Down",
-        "amount": "Amount",
-        "already_power_down": "You are already powering down %(AMOUNT)s %(LIQUID_TICKER)s (%(WITHDRAWN)s %(LIQUID_TICKER)s paid out so far). Note that if you change the power down amount the payout schedule will reset.",
+        "power_down": "کاهش قدرت",
+        "amount": "مقدار",
+        "already_power_down": "شما در حال حاضر %(AMOUNT)s%(LIQUID_TICKER)s کاهش قدرت را انجام داده اید(%(WITHDRAWN)s%(LIQUID_TICKER)s تا به حال پرداخت شده است). توجه داشته باشید اگر مقدار کاهش قدرت را تغییر دهید، تنظیم برنامه پرداخت بازنشانی می شود.",
         "delegating": "You are delegating %(AMOUNT)s %(LIQUID_TICKER)s. That amount is locked up and not available to power down until the delegation is removed and a full reward period has passed.",
         "per_week": "That's ~%(AMOUNT)s %(LIQUID_TICKER)s per week.",
         "warning": "Leaving less than %(AMOUNT)s %(VESTING_TOKEN)s in your account is not recommended and can leave your account in a unusable state.",

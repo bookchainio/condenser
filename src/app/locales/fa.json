@@ -464,7 +464,7 @@
         "estimated_value": "مقدار برآورد شده براساس میانگین ارزش %(LIQUID_TOKEN)s به دلار آمریکا است.",
         "non_transferable": "%(VESTING_TOKEN)s غیر قابل انتقال است و نیازمند ۳ ماه (۱۳ پرداخت) است تا دوباره تبدیل به %(LIQUID_TOKEN)s شود‌.",
         "converted_VESTING_TOKEN_can_be_sent_to_yourself_but_can_not_transfer_again": "%(VESTING_TOKEN)s تبدیل شده را میتوانید به خودتان یا فرد دیگری انتقال دهید ولی نمی توانید دوباره عمل انتقال را بدون تبدیل کردن به %(LIQUID_TOKEN)s انجام دهید.",
-        "part_of_your_steem_power_is_currently_delegated": "بخشی از قدرت استیم %(user_name)s در حال حاضر محول شده است. محول کردن یا اهدا کردن قدرت برای افزایش نفوذ و یا برای کمک به کاربران جدید steemit برای افزایش اقدامات آنها انجام می‌شود. این مقدار می تواند متغیر باشد."
+        "part_of_your_steem_power_is_currently_delegated": "بخشی از قدرت استیم %(user_name)s در حال حاضر اجاره داده است. محول کردن یا اجاره دادن قدرت برای افزایش نفوذ و یا برای کمک به کاربران جدید steemit برای افزایش اقدامات آنها انجام می‌شود. این مقدار می تواند متغیر باشد."
     },
     "promote_post_jsx": {
         "promote_post": "ترویج پست",
@@ -641,16 +641,16 @@
         "power_down": "کاهش قدرت",
         "amount": "مقدار",
         "already_power_down": "شما در حال حاضر %(AMOUNT)s%(LIQUID_TICKER)s کاهش قدرت را انجام داده اید(%(WITHDRAWN)s%(LIQUID_TICKER)s تا به حال پرداخت شده است). توجه داشته باشید اگر مقدار کاهش قدرت را تغییر دهید، تنظیم برنامه پرداخت بازنشانی می شود.",
-        "delegating": "You are delegating %(AMOUNT)s %(LIQUID_TICKER)s. That amount is locked up and not available to power down until the delegation is removed and a full reward period has passed.",
-        "per_week": "That's ~%(AMOUNT)s %(LIQUID_TICKER)s per week.",
-        "warning": "Leaving less than %(AMOUNT)s %(VESTING_TOKEN)s in your account is not recommended and can leave your account in a unusable state.",
-        "error": "Unable to power down (ERROR: %(MESSAGE)s)"
+        "delegating": "شما در حال اجاره دادن %(AMOUNT)s%(LIQUID_TICKER)s هستید. این مقدار قفل و از دسترس شما خارج میشود و قابل کاهش قدرت نیست تا زمانی که اجاره به پایان برسد و پاداش دوره کامل را طی کند.",
+        "per_week": "این ~%(AMOUNT)s %(LIQUID_TICKER)s در هر هفته است.",
+        "warning": "قرار دادن کمتر از %(AMOUNT)s %(VESTING_TOKEN)s در حساب شما توصیه نمی شود چون ممکن است باعث غیر قابل استفاده شدن حساب کاربری شما شود.",
+        "error": "امکان کاهش قدرت وجود ندارد (خطا: %(MESSAGE)s)"
     },
     "checkloginowner_jsx": {
-        "your_password_permissions_were_reduced": "Your password permissions were reduced",
-        "if_you_did_not_make_this_change": "If you did not make this change please",
-        "ownership_changed_on": "Ownership Changed On ",
-        "deadline_for_recovery_is": "Deadline for recovery is",
-        "i_understand_dont_show_again": "I understand, don't show me again"
+        "your_password_permissions_were_reduced": "مجوزهای رمز عبور شما کاهش یافته است",
+        "if_you_did_not_make_this_change": "اگر شما این تغییر را انجام نداده اید لطفا",
+        "ownership_changed_on": "تغییر مالکیت در ",
+        "deadline_for_recovery_is": "آخرین مهلت برای بازیابی",
+        "i_understand_dont_show_again": "متوجه شدم، دوباره نشان نده"
     }
 }

@@ -178,7 +178,7 @@
         "thank_you_for_being_an_early_visitor_to_APP_NAME": "%(APP_NAME)s'in erken ziyaretçilerinden biri olduğunuz için teşekkürler. Size mümkün olan en erken fırsatta geri dönüş sağlayacağız.",
         "author_rewards": "Yazar ödülleri",
         "curation_rewards": "Kürasyon ödülleri",
-        "sorry_your_reddit_account_doesnt_have_enough_karma": "Üzgünüz, Reddit hesabınız ücretsiz üyelik için hak kazanmaya yetecej kadar Reddit Karma'ya sahip değil. Lütfen bekleme listesinde yerinizi almak için e-postanızı ekleyiniz",
+        "sorry_your_reddit_account_doesnt_have_enough_karma": "Üzgünüz, Reddit hesabınız ücretsiz bir kayıt olmak için yeterli Reddit Karma'ya sahip değil. Lütfen bekleme listesindeki bir yer için e-postanı ekleyiniz",
         "register_with_facebook": "Facebook ile kaydol",
         "or_click_the_button_below_to_register_with_facebook": "Ya da Facebook ile kaydolmak için aşağıdaki butona tıklayın",
         "server_returned_error": "sunucu hata verdi",
@@ -203,16 +203,16 @@
         "views": {
             "zero": "No Views",
             "one": "%(count)s Görüntülenme",
-            "other": "%(count)s Görüntülenme"
+            "other": "%(count)s Görüntülenmeler"
         },
         "responses": {
             "zero": "Hiç yanıt yok",
-            "one": "%(count)s Yanıt",
+            "one": "%(count)s Yanıtı",
             "other": "%(count)s Responses"
         },
         "post_key_warning": {
             "confirm": "Bir STEEM özel anahtarı veya ana şifresi yayımlamak üzeresiniz. Muhtemelen ilgili hesabın kontrolünü ve bütün varlıklarını kaybedersiniz.",
-            "warning": "Steemit A.ş. çalışanları dahil meşru kullanıcılar, size hiçbir zaman bir özel anahtar veya ana şifre sormazlar.",
+            "warning": "Steemit A.Ş. çalışanları dahil meşru kullanıcılar, sizden hiçbir zaman bir özel anahtar veya ana şifre istemezler.",
             "checkbox": "I understand"
         }
     },
@@ -222,7 +222,7 @@
         "APP_NAME_whitepaper": "%(APP_NAME)s Whitepaper",
         "buy_LIQUID_TOKEN": "%(LIQUID_TOKEN)s Al",
         "sell_LIQUID_TOKEN": "%(LIQUID_TOKEN)s Sat",
-        "currency_market": "Para Borsası",
+        "currency_market": "Döviz Piyasası",
         "stolen_account_recovery": "Çalınan Hesap Kurtarma",
         "change_account_password": "Hesap Şifresini Değiştir",
         "witnesses": "Witnesses",

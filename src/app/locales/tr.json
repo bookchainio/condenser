@@ -223,7 +223,7 @@
         "buy_LIQUID_TOKEN": "%(LIQUID_TOKEN)s Al",
         "sell_LIQUID_TOKEN": "%(LIQUID_TOKEN)s Sat",
         "currency_market": "Döviz Piyasası",
-        "stolen_account_recovery": "Çalınan Hesap Kurtarma",
+        "stolen_account_recovery": "Çalıntı Hesapların Kurtarımı",
         "change_account_password": "Hesap Şifresini Değiştir",
         "witnesses": "Witnesses",
         "vote_for_witnesses": "Vote for Witnesses",
@@ -245,15 +245,15 @@
     },
     "main_menu": {
         "hot": "hot",
-        "trending": "trendler"
+        "trending": "öne çıkanlar"
     },
     "reply_editor": {
         "shorten_title": "Shorten title",
         "exceeds_maximum_length": "Maksimum uzunluğu aşıyor (%(maxKb)sKB)",
         "including_the_category": " ('%(rootCategory)s' kategorisi de dahil)",
         "use_limited_amount_of_tags": "You have %(tagsLength)s tags total%(includingCategory)s. Please use only 5 in your post and category line.",
-        "are_you_sure_you_want_to_clear_this_form": "Bu forumu silmek istediğinizden emin misiniz?",
-        "uploading": "Yükleniyor",
+        "are_you_sure_you_want_to_clear_this_form": "Bu formu silmek istediğinize emin misiniz?",
+        "uploading": "Karşıya yükleniyor",
         "draft_saved": "Draft saved.",
         "editor": "Editor",
         "insert_images_by_dragging_dropping": "Insert images by dragging & dropping, ",
@@ -263,7 +263,7 @@
         "power_up_100": "Power Up 100%%",
         "default_50_50": "Varsayılan (%%50 / %%50)",
         "decline_payout": "Ödemeyi Reddet",
-        "check_this_to_auto_upvote_your_post": "Gönderinizi otomatik upvote'lamak için bunu işaretleyiniz",
+        "check_this_to_auto_upvote_your_post": "Yayınınızı otomatik olarak oylamak için bunu işaretleyin",
         "markdown_styling_guide": "Markdown Şekillendirme Kılavuzu",
         "or_by": "or by",
         "title": "Title",
@@ -274,7 +274,7 @@
         "tag_your_story": "Etiket (en fazla 5 etiket), ilk etiket ana kategorinizdir.",
         "select_a_tag": "Bir etiket seç",
         "maximum_tag_length_is_24_characters": "Maksimum etiket uzunluğu 24 karakterdir",
-        "use_limited_amount_of_categories": "Lütfen sadece %(amount)s kategori kullanınız",
+        "use_limited_amount_of_categories": "Lütfen sadece %(amount)s kategorilerini kullanın",
         "use_only_lowercase_letters": "Sadece küçük harfler kullanınız",
         "use_one_dash": "Sadece bir tane tire kullanınız",
         "use_spaces_to_separate_tags": "Etiketleri ayırmak için boşluk kullanınız",
@@ -283,7 +283,7 @@
         "must_end_with_a_letter_or_number": "Must end with a letter or number"
     },
     "postfull_jsx": {
-        "this_post_is_not_available_due_to_a_copyright_claim": "Bu yazı, bir telif hakkı iddiası nedeniyle mevcut değil.",
+        "this_post_is_not_available_due_to_a_copyright_claim": "Bu yayın, telif hakkı talebi nedeniyle kullanılamaz.",
         "share_on_facebook": "Share on Facebook",
         "share_on_twitter": "Share on Twitter",
         "share_on_linkedin": "Share on Linkedin",
@@ -301,7 +301,7 @@
         "spread": "Spread",
         "total": "Total",
         "available": "Available",
-        "lowest_ask": "En düşük arz",
+        "lowest_ask": "En düşük teklif",
         "highest_bid": "En yüksek talep",
         "buy_orders": "Buy Orders",
         "sell_orders": "Sell Orders",
@@ -312,7 +312,7 @@
         "price_warning_above": "Bu fiyat şu anki market fiyatı olan %(marketPrice)s'dan çok daha yüksek, emin misiniz?",
         "price_warning_below": "Bu fiyat şu anki market fiyatı olan %(marketPrice)s'dan çok daha düşük, emin misiniz?",
         "order_cancel_confirm": "%(user)s tarafından verilmiş teklif %(order_id)s iptal edilsin mi?",
-        "order_cancelled": "Teklif %(order_id)s iptal edildi.",
+        "order_cancelled": "%(order_id)s siparişi iptal edildi.",
         "higher": "Higher",
         "lower": "Lower",
         "total_DEBT_TOKEN_SHORT_CURRENCY_SIGN": "Total %(DEBT_TOKEN_SHORT)s (%(CURRENCY_SIGN)s)"
@@ -345,7 +345,7 @@
         "user_hasnt_had_any_replies_yet": "%(name)s henüz hiçbir yanıt almadı",
         "looks_like_you_havent_posted_anything_yet": "Henüz hiçbir şey paylaşmamışsınız gibi görünüyor.",
         "create_a_post": "Create a Post",
-        "explore_trending_articles": "Trend Makaleleri Keşfet",
+        "explore_trending_articles": "Popüler Makaleleri Keşfedin",
         "read_the_quick_start_guide": "Read The Quick Start Guide",
         "browse_the_faq": "Browse The FAQ",
         "followers": "Followers",
@@ -358,7 +358,7 @@
         "followed_count": {
             "zero": "Kimseyi takip etmiyor",
             "one": "1 takip edilen",
-            "other": "%(count)s takip edilen"
+            "other": "%(count)s takip ediyor"
         },
         "post_count": {
             "zero": "Gönderi yok",
@@ -393,8 +393,8 @@
         "past_payouts_author": " -Yazar %(value)s$",
         "past_payouts_curators": " -Küratörler %(value)s$",
         "we_will_reset_curation_rewards_for_this_post": "bu gönderi için kürasyon ödüllerinizi sıfırlar",
-        "removing_your_vote": "Oyunuzu kaldırmanız",
-        "changing_to_an_upvote": "Bir Up-Vote'a döndürmek",
+        "removing_your_vote": "Oyunuzu kaldır",
+        "changing_to_an_upvote": "Bir Oylamayı Değiştir",
         "changing_to_a_downvote": "Bir Down-Vote'a döndürmek",
         "confirm_flag": "Bayrağı Onayla",
         "and_more": "and %(count)s more",

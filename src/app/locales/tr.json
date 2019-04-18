@@ -415,7 +415,7 @@
         "witness": "Tanık",
         "information": "Information",
         "if_you_want_to_vote_outside_of_top_enter_account_name": "İlk 50'nin dışındaki bir tanığa oy vermek isterseniz, oy vermek için aşağıdaki hesap adını girmelisiniz",
-        "set_witness_proxy": "Ayrıca tanıklara oy verecek bir vekil de seçebilirsiniz. Bu, mevcut tanık seçiminizi sıfırlar.",
+        "set_witness_proxy": "Ayrıca tanıklara oy verecek bir proxy de seçebilirsiniz. Bu, mevcut tanık seçiminizi sıfırlar.",
         "witness_set": "Bir oylama proxy'si ayarladınız. Eğer manuel oylamayı yeniden açmak isterseniz, lütfen proxy'nizi temizleyiniz.",
         "witness_proxy_current": "Mevcut proxy'niz",
         "witness_proxy_set": "Proxy ayarla",
@@ -427,7 +427,7 @@
         "response_count_tooltip": {
             "zero": "hiçbir yanıt yok. Yanıt vermek için tıklayınız.",
             "one": "1 yanıt. Yanıt vermek için tıklayınız.",
-            "other": "%(count)s yanıt. Yanıt vermek için tıklayınız."
+            "other": "%(count)s'ın yanıtı. Yanıt vermek için tıklayınız."
         },
         "vote_count": {
             "zero": "hiç oy yok",
@@ -441,7 +441,7 @@
         "public_something_key": "Genel %(key)s Anahtarı",
         "private_something_key": "Özel %(key)s Anahtarı",
         "posting_key_is_required_it_should_be_different": "The posting key is used for posting and voting. It should be different from the active and owner keys.",
-        "the_active_key_is_used_to_make_transfers_and_place_orders": "Aktif anahtar, para transferi yapmak ve dahili borsada emir vermek için kullanılır.",
+        "the_active_key_is_used_to_make_transfers_and_place_orders": "Aktif anahtar, iç piyasaya transfer yapmak ve sipariş vermek için kullanılır.",
         "the_owner_key_is_required_to_change_other_keys": "The owner key is the master key for the account and is required to change the other keys.",
         "the_private_key_or_password_should_be_kept_offline": "The private key or password for the owner key should be kept offline as much as possible.",
         "the_memo_key_is_used_to_create_and_read_memos": "Not anahtarı, not oluşturmak ve okumak için kullanılır."
@@ -461,10 +461,10 @@
     "tips_js": {
         "liquid_token": "Her zaman her yere transfer edilebilen, alım satımı yapılabilen tokenlar.<br/>%(LIQUID_TOKEN)sler, güçlendirme adı verilen bir işlem ile %(VESTING_TOKEN)s'a çevirilebilir.",
         "influence_token": "Size gönderi ödemeleri üzeinde daha fazla kontrol veren ve kürasyon ödülü almanıza olanak sağlayan etkinlik tokenlarıdır.",
-        "estimated_value": "Tahmini değer, %(LIQUID_TOKEN)s'lerin ABD doları cinsinden ortalama değerine göre belirlenir.",
-        "non_transferable": "%(VESTING_TOKEN)s transfer edilemezdir ve %(LIQUID_TOKEN)s'e geri çevirmek için 3 ay (13 ödeme) gerektirir.",
+        "estimated_value": "Tahmini değer, ortalama %(LIQUID_TOKEN)s ABD doları değerine dayanmaktadır.",
+        "non_transferable": "%(VESTING_TOKEN)s devredilemez ve %(LIQUID_TOKEN)s değerine geri dönmek için 3 ay (13 ödeme) gerekir.",
         "converted_VESTING_TOKEN_can_be_sent_to_yourself_but_can_not_transfer_again": "Converted %(VESTING_TOKEN)s can be sent to yourself or someone else but can not transfer again without converting back to %(LIQUID_TOKEN)s.",
-        "part_of_your_steem_power_is_currently_delegated": "%(user_name)s'in STEEM POWER'ının bir kısmı şuanda delege edilmiş durumda. Delegasyon, etki oluşturmak için veya yeni kullanıcıların steemit'te eylem gerçekleştirebilmeleri için bağışlanır. Delegasyon miktarınızda dalgalanma olabilir."
+        "part_of_your_steem_power_is_currently_delegated": "%(user_name)s'nın STEEM POWER'ının bir kısmı şu anda yetki verilmiş durumda. Yetkilendirme veya yeni kullanıcıların hızlı bir şekilde eylem yapmalarına yardımcı olmak için delegasyon bağışlanmıştır. Delegasyon miktarınız değişebilir."
     },
     "promote_post_jsx": {
         "promote_post": "Gönderiyi Öne Çıkar",
@@ -493,7 +493,7 @@
     "posts_index": {
         "empty_feed_1": "Henüz hiçbir şey takip etmemişsiniz gibi görünüyor",
         "empty_feed_2": "Yakın zamanda takip etmek için yeni kullanıcılar eklediyseniz, yeni içerikler geldikçe kişiselleştirilmiş yayın akışınız dolmaya başlayacaktır",
-        "empty_feed_3": "Trend Makaleleri Keşfet",
+        "empty_feed_3": "Popüler Makaleleri Keşfedin",
         "empty_feed_4": "Read The Quick Start Guide",
         "empty_feed_5": "Browse The FAQ"
     },
@@ -508,7 +508,7 @@
     "savingswithdrawhistory_jsx": {
         "cancel_this_withdraw_request": "Cancel this withdraw request?",
         "pending_savings_withdrawals": "PENDING SAVINGS WITHDRAWS",
-        "withdraw": "%(amount)s çek",
+        "withdraw": "%(amount)s tutarında para çek",
         "to": "to %(to)s",
         "from_to": "from %(from)s to %(to)s"
     },
@@ -533,7 +533,7 @@
     "loginform_jsx": {
         "you_need_a_private_password_or_key": "You need a private password or key (not a public key)",
         "cryptography_test_failed": "Cryptography test failed",
-        "unable_to_log_you_in": "Bu tarayıcı ile giriş yapmanızı sağlayamayacağız.",
+        "unable_to_log_you_in": "Bu tarayıcı ile giriş yapmanıza izin veremeyeceğiz.",
         "the_latest_versions_of": "The latest versions of ",
         "are_well_tested_and_known_to_work_with": "are well tested and known to work with %(APP_URL)s.",
         "due_to_server_maintenance": "Due to server maintenance we are running in read only mode. We are sorry for the inconvenience.",
@@ -546,10 +546,10 @@
         "however_you_can_use_it_to": "However, you can use it to ",
         "update_your_password": "update your password",
         "to_obtain_a_more_secure_set_of_keys": "to obtain a more secure set of keys.",
-        "this_password_is_bound_to_your_account_active_key": "Bu şifre, hesabınızın aktif anahtarı ile bağlıdır ve bu siteye giriş yapmak için kullanılamaz.",
-        "you_may_use_this_active_key_on_other_more": "Bu aktif anahtarı, Cüzdan veya Borsa sayfası gibi daha güvenli sayfalarda kullanabilirsiniz.",
-        "you_account_has_been_successfully_created": "Hesabınız başarı ile oluşturulmuştur!",
-        "you_account_has_been_successfully_recovered": "Hesabınız başarı ile kurtarılmıştır!",
+        "this_password_is_bound_to_your_account_active_key": "Bu şifre hesabınızın aktif anahtarına bağlıdır ve bu sayfaya giriş yapmak için kullanılamaz.",
+        "you_may_use_this_active_key_on_other_more": "Bu aktif anahtarı ancak Cüzdan veya Market sayfaları gibi daha güvenli sayfalarda kullanabilirsiniz.",
+        "you_account_has_been_successfully_created": "Hesabınız başarıyla oluşturuldu!",
+        "you_account_has_been_successfully_recovered": "Hesabınız başarıyla kurtarıldı!",
         "password_update_succes": "The password for %(accountName)s was successfully updated",
         "password_info": "This password or private key was entered incorrectly.  There is probably a handwriting or data-entry error.  Hint: A password or private key generated by Steemit will never contain 0 (zero), O (capital o), I (capital i) and l (lower case L) characters.",
         "enter_your_username": "Enter your username",

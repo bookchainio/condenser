@@ -324,14 +324,14 @@
         "unable_to_recover_account_not_change_ownership_recently": "Bu hesabı kurtaramıyoruz, yakın zamanda sahibi değişmemiş.",
         "password_not_used_in_last_days": "Bu şifre bu hesapta son 30 gün içinde kullanılmadı.",
         "request_already_submitted_contact_support": "Talebiniz zaten gönderildi ve üzerinde çalışmaktayız. Lütfen talebinizin durumu için %(SUPPORT_EMAIL)s ile iletişime geçiniz.",
-        "recover_account_intro": "From time to time, a Steemian's owner key may be compromised. Stolen Account Recovery gives the rightful account owner 30 days to recover their account from the moment the thief changed their owner key. Stolen Account Recovery can only be used on %(APP_URL)s if the account owner had previously listed '%(APP_NAME)s' as their account trustee and complied with %(APP_NAME)s's Terms of Service.",
+        "recover_account_intro": "Zaman zaman bir Steemian'ın sahibi anahtarı tehlikeye girebilir. Çalıntı Hesap Kurtarma, hak sahibinin sahibine anahtarını değiştirdiği andan itibaren hesaplarını kurtarmak için 30 gün boyunca hak sahibine verir. Çalınan Hesap Kurtarması, yalnızca hesap sahibi daha önce hesap cüzdanı olarak %(APP_NAME)s'yi listelediyse ve%(APP_NAME)s Hizmet Şartlarına uyduysa %(APP_URL)s ile kullanılabilir.",
         "login_with_facebook_or_reddit_media_to_verify_identity": "Lütfen kimliğinizi onaylamak için Facebook veya Reddit ile giriş yapınız",
         "login_with_social_media_to_verify_identity": "Lütfen kimliğinizi onaylamak için %(provider)s ile giriş yapınız",
         "enter_email_toverify_identity": "Kimliğinizi doğrulamanız gerekiyor. Doğrulamaya başlamak için, lütfen aşağıya e-posta adresinizi giriniz.",
         "continue_with_email": "E-post ile devam et",
         "thanks_for_submitting_request_for_account_recovery": "%(APP_NAME)s'in blokzincir tabanlı çok faktörlü kimlik doğrulamasını kullanarak Hesap Kurtarma talebinizi ilettiğiniz için teşekkürler. Size olabildiğince kısa sürede cevap vereceğiz, ancak çok sayıda e-posta yüzünden cevapta gecikmeler olabileceğini lütfen göz önünde bulundurunuz. Lütfen kimliğinizi doğrulamaya hazır olunuz.",
         "recovering_account": "Hesap kurtarılıyor",
-        "recover_account": "Recover Account",
+        "recover_account": "Hesabı Kurtar",
         "checking_account_owner": "Hesap sahibi kontrol ediliyor",
         "sending_recovery_request": "Kurtarma isteği gönderiliyor",
         "cant_confirm_account_ownership": "Hesap sahipliğini doğrulayamıyoruz. Parolanızı kontrol ediniz",
@@ -340,15 +340,15 @@
     "user_profile": {
         "unknown_account": "Bilinmeyen Hesap",
         "user_hasnt_made_any_posts_yet": "%(name)s henüz hiç gönderi paylaşmamış gibi görünüyor!",
-        "user_hasnt_started_bloggin_yet": "Looks like %(name)s hasn't started blogging yet!",
+        "user_hasnt_started_bloggin_yet": "%(name)s henüz bloglamaya başlamamış gibi görünüyor!",
         "user_hasnt_followed_anything_yet": "%(name)s henüz kimseyi takip etmiyor olabilir gibi görünüyor! %(name)s yakın zamanda takip etmek için kullanıcılar eklediyse, kişiselleştirilmiş yayın akışları yeni içerikler geldiğinde dolmaya başlayacaktır.",
         "user_hasnt_had_any_replies_yet": "%(name)s henüz hiçbir yanıt almadı",
         "looks_like_you_havent_posted_anything_yet": "Henüz hiçbir şey paylaşmamışsınız gibi görünüyor.",
-        "create_a_post": "Create a Post",
+        "create_a_post": "Bir Gönderi Oluştur",
         "explore_trending_articles": "Popüler Makaleleri Keşfedin",
-        "read_the_quick_start_guide": "Read The Quick Start Guide",
-        "browse_the_faq": "Browse The FAQ",
-        "followers": "Followers",
+        "read_the_quick_start_guide": "Hızlı Başlangıç Kılavuzunu Okuyun",
+        "browse_the_faq": "SSS'a Göz At",
+        "followers": "Takipçiler",
         "this_is_users_reputations_score_it_is_based_on_history_of_votes": "Bu, %(name)s'in saygınlık puanı.\n\nSaygınlık puanı, hesap tarafından alınan geçmiş oylara göre belirlenir ve düşük kaliteli içerikleri gizlemek için kullanılır.",
         "follower_count": {
             "zero": "Takipçi yok",
@@ -372,7 +372,7 @@
     },
     "curationrewards_jsx": {
         "estimated_curation_rewards_last_week": "Geçen haftaki tahmini kürasyon ödülleri",
-        "curation_rewards_history": "Curation Rewards History"
+        "curation_rewards_history": "Kürasyon Ödülleri Tarihi"
     },
     "post_jsx": {
         "now_showing_comments_with_low_ratings": "Now showing comments with low ratings",

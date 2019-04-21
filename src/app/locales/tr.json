@@ -503,35 +503,35 @@
         "cancel_transfer_from_savings": "Tasarruf transferini iptal et",
         "stop_power_down": "Gücü kes",
         "start_power_down_of": "Güç kapalı",
-        "receive_interest_of": "Receive interest of"
+        "receive_interest_of": "Faiz al"
     },
     "savingswithdrawhistory_jsx": {
-        "cancel_this_withdraw_request": "Cancel this withdraw request?",
-        "pending_savings_withdrawals": "PENDING SAVINGS WITHDRAWS",
+        "cancel_this_withdraw_request": "Bu para çekme isteği iptal edilsin mi?",
+        "pending_savings_withdrawals": "ÇEKİLEN BEKLEYEN TASARRUF",
         "withdraw": "%(amount)s tutarında para çek",
-        "to": "to %(to)s",
-        "from_to": "from %(from)s to %(to)s"
+        "to": "%(to)s için",
+        "from_to": "%(from)s'dan %(to)s'a"
     },
     "explorepost_jsx": {
-        "copied": "Copied!",
-        "copy": "COPY",
-        "alternative_sources": "Alternative Sources"
+        "copied": "Kopyalandı!",
+        "copy": "KOPYALA",
+        "alternative_sources": "Alternatif Kaynaklar"
     },
     "header_jsx": {
-        "home": "home",
-        "create_a_post": "Create a post",
-        "change_account_password": "Change Account Password",
-        "create_account": "Create Account",
-        "stolen_account_recovery": "Stolen Account Recovery",
-        "people_following": "People following",
-        "people_followed_by": "People followed by",
-        "curation_rewards_by": "Curation rewards by",
-        "author_rewards_by": "Author rewards by",
-        "replies_to": "Replies to",
-        "comments_by": "Comments by"
+        "home": "ana sayfa",
+        "create_a_post": "Bir gönderi oluştur",
+        "change_account_password": "Hesap Şifresini Değiştir",
+        "create_account": "Hesap Oluştur",
+        "stolen_account_recovery": "Çalıntı Hesap Kurtarımı",
+        "people_following": "Takip eden kişiler",
+        "people_followed_by": "Takip eden kişiler",
+        "curation_rewards_by": "Küratör tarafından verilen ödüller",
+        "author_rewards_by": "Yazar tarafından verilen ödüller",
+        "replies_to": "Yanıtlar",
+        "comments_by": "Yorumlayanlar tarafından"
     },
     "loginform_jsx": {
-        "you_need_a_private_password_or_key": "You need a private password or key (not a public key)",
+        "you_need_a_private_password_or_key": "Bir özel şifre veya anahtara ihtiyacınız var ( genel bir anahtara değil)",
         "cryptography_test_failed": "Cryptography test failed",
         "unable_to_log_you_in": "Bu tarayıcı ile giriş yapmanıza izin veremeyeceğiz.",
         "the_latest_versions_of": "The latest versions of ",

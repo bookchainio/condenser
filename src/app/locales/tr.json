@@ -641,16 +641,16 @@
         "power_down": "Güç Azaltma",
         "amount": "Tutar",
         "already_power_down": "Zaten %(AMOUNT)s %(LIQUID_TICKER)s (şimdiye kadar ödenen %(WITHDRAWN)s %(LIQUID_TICKER)s). Gücü azaltma miktarını değiştirirseniz ödeme planının sıfırlanacağını unutmayın.",
-        "delegating": "You are delegating %(AMOUNT)s %(LIQUID_TICKER)s. That amount is locked up and not available to power down until the delegation is removed and a full reward period has passed.",
-        "per_week": "That's ~%(AMOUNT)s %(LIQUID_TICKER)s per week.",
-        "warning": "Leaving less than %(AMOUNT)s %(VESTING_TOKEN)s in your account is not recommended and can leave your account in a unusable state.",
-        "error": "Unable to power down (ERROR: %(MESSAGE)s)"
+        "delegating": "%(AMOUNT)s %(LIQUID_TICKER)s yetki verdiniz. Bu miktar kilitlenir ve delegasyon kaldırılıncaya ve tam bir ödül süresi geçinceye kadar kapatılamaz.",
+        "per_week": "Haftada ~%(AMOUNT)s %(LIQUID_TICKER)s.",
+        "warning": "Hesabınızda %(AMOUNT)s %(VESTING_TOKEN)s değerinden daha az bırakmanız önerilmez ve hesabınızı kullanılamaz durumda bırakabilir.",
+        "error": "(HATA: %(MESSAGE)s) Kapatılamıyor"
     },
     "checkloginowner_jsx": {
-        "your_password_permissions_were_reduced": "Your password permissions were reduced",
-        "if_you_did_not_make_this_change": "If you did not make this change please",
-        "ownership_changed_on": "Ownership Changed On ",
-        "deadline_for_recovery_is": "Deadline for recovery is",
-        "i_understand_dont_show_again": "I understand, don't show me again"
+        "your_password_permissions_were_reduced": "Şifre izinleriniz azaltıldı",
+        "if_you_did_not_make_this_change": "Lütfen eğer bu değişikliği yapmadıysanız",
+        "ownership_changed_on": "Sahiplik Değişti ",
+        "deadline_for_recovery_is": "Kurtarma için son tarih",
+        "i_understand_dont_show_again": "Anladım, bana bir daha gösterme"
     }
 }

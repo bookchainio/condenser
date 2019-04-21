@@ -183,7 +183,7 @@
         "or_click_the_button_below_to_register_with_facebook": "Ya da Facebook ile kaydolmak için aşağıdaki butona tıklayın",
         "server_returned_error": "sunucu hata verdi",
         "APP_NAME_support": "%(APP_NAME)s Destek",
-        "please_email_questions_to": "Please email your questions to",
+        "please_email_questions_to": "Lütfen sorularınızı e-posta ile gönderin",
         "next_7_strings_single_block": {
             "authors_get_paid_when_people_like_you_upvote_their_post": "Yazarlar, sizin gibi kullanıcılar gönderilerini upvote'ladığında para kazanırlar",
             "if_you_enjoyed_what_you_read_earn_amount": "Burada okuduklarınızdan keyif aldıysanız, bugün hesabınızı oluşturarak BEDAVA STEEM kazanmaya başlayın!",
@@ -191,54 +191,54 @@
             "sign_up_earn_steem": "Kazanmak için şimdi kaydolun "
         },
         "next_3_strings_together": {
-            "show_more": "Show more",
-            "show_less": "Show fewer",
-            "value_posts": "low value posts"
+            "show_more": "Daha fazla göster",
+            "show_less": "Daha az göster",
+            "value_posts": "düşük değerli gönderiler"
         },
-        "read_only_mode": "Due to server maintenance we are running in read only mode. We are sorry for the inconvenience.",
-        "tags_and_topics": "Tags",
-        "show_more_topics": "View all tags",
-        "basic": "Basic",
-        "advanced": "Advanced",
+        "read_only_mode": "Sunucu bakımı nedeniyle salt okunur modda çalışıyoruz. Verdiğimiz rahatsızlıktan dolayı özür dileriz.",
+        "tags_and_topics": "Etiketler",
+        "show_more_topics": "Tüm etiketleri göster",
+        "basic": "Temel",
+        "advanced": "Gelişmiş",
         "views": {
-            "zero": "No Views",
+            "zero": "Görüntülenme Yok",
             "one": "%(count)s Görüntülenme",
             "other": "%(count)s Görüntülenmeler"
         },
         "responses": {
             "zero": "Hiç yanıt yok",
             "one": "%(count)s Yanıtı",
-            "other": "%(count)s Responses"
+            "other": "%(count)s Yanıtları"
         },
         "post_key_warning": {
             "confirm": "Bir STEEM özel anahtarı veya ana şifresi yayımlamak üzeresiniz. Muhtemelen ilgili hesabın kontrolünü ve bütün varlıklarını kaybedersiniz.",
             "warning": "Steemit A.Ş. çalışanları dahil meşru kullanıcılar, sizden hiçbir zaman bir özel anahtar veya ana şifre istemezler.",
-            "checkbox": "I understand"
+            "checkbox": "Anlıyorum"
         }
     },
     "navigation": {
-        "about": "About",
-        "explore": "Explore",
-        "APP_NAME_whitepaper": "%(APP_NAME)s Whitepaper",
+        "about": "Hakkında",
+        "explore": "Keşfet",
+        "APP_NAME_whitepaper": "%(APP_NAME)s Teknik Raporu",
         "buy_LIQUID_TOKEN": "%(LIQUID_TOKEN)s Al",
         "sell_LIQUID_TOKEN": "%(LIQUID_TOKEN)s Sat",
         "currency_market": "Döviz Piyasası",
         "stolen_account_recovery": "Çalıntı Hesapların Kurtarımı",
         "change_account_password": "Hesap Şifresini Değiştir",
-        "witnesses": "Witnesses",
-        "vote_for_witnesses": "Vote for Witnesses",
-        "privacy_policy": "Privacy Policy",
-        "terms_of_service": "Terms of Service",
-        "sign_up": "Join",
-        "learn_more": "Learn More",
-        "welcome": "Welcome",
-        "faq": "FAQ",
+        "witnesses": "Tanıklar",
+        "vote_for_witnesses": "Tanıklara oy verin",
+        "privacy_policy": "Gizlilik Politikası",
+        "terms_of_service": "Hizmet Kullanım Şartları",
+        "sign_up": "Katılın",
+        "learn_more": "Daha Fazla Bilgi",
+        "welcome": "Hoş Geldiniz",
+        "faq": "SSS",
         "shop": "Steemit Mağazası",
-        "chat": "Steemit Chat",
+        "chat": "Steemit Sohbet",
         "app_center": "Steemit Uygulama Merkezi",
         "api_docs": "Steemit API Dokümanları",
-        "bluepaper": "Steem Bluepaper",
-        "smt_whitepaper": "SMT Whitepaper",
+        "bluepaper": "Steem Planı",
+        "smt_whitepaper": "SMT Teknik Raporu",
         "whitepaper": "Steem Whitepaper",
         "intro_tagline": "Money talks",
         "intro_paragraph": "Your voice is worth something. Join the community that pays you to post and curate high quality content."

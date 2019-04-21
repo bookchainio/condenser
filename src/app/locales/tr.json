@@ -532,10 +532,10 @@
     },
     "loginform_jsx": {
         "you_need_a_private_password_or_key": "Bir özel şifre veya anahtara ihtiyacınız var ( genel bir anahtara değil)",
-        "cryptography_test_failed": "Cryptography test failed",
+        "cryptography_test_failed": "Şifreleme testi başarısız oldu",
         "unable_to_log_you_in": "Bu tarayıcı ile giriş yapmanıza izin veremeyeceğiz.",
-        "the_latest_versions_of": "The latest versions of ",
-        "are_well_tested_and_known_to_work_with": "are well tested and known to work with %(APP_URL)s.",
+        "the_latest_versions_of": "En son sürüm ",
+        "are_well_tested_and_known_to_work_with": "iyi test edilmiş ve %(APP_URL)s ile çalıştığı bilinmektedir.",
         "due_to_server_maintenance": "Sunucu bakımı nedeniyle salt okunur modda çalışıyoruz. Verdiğimiz rahatsızlıktan dolayı özür dileriz.",
         "login_to_vote": "Oy verebilmek için giriş yapın",
         "login_to_post": "Mesaj Göndermek için Giriş Yapın",

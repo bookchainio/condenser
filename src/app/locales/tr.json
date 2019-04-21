@@ -239,16 +239,16 @@
         "api_docs": "Steemit API Dokümanları",
         "bluepaper": "Steem Planı",
         "smt_whitepaper": "SMT Teknik Raporu",
-        "whitepaper": "Steem Whitepaper",
-        "intro_tagline": "Money talks",
-        "intro_paragraph": "Your voice is worth something. Join the community that pays you to post and curate high quality content."
+        "whitepaper": "Steem Teknik Raporu",
+        "intro_tagline": "Para konuşur",
+        "intro_paragraph": "Sesin bir şeye değer. Yüksek kalitede içerik yayınlamanız ve bunları iyileştirmeniz için size ödeme yapan topluluğa katılın."
     },
     "main_menu": {
-        "hot": "hot",
+        "hot": "sıcak",
         "trending": "öne çıkanlar"
     },
     "reply_editor": {
-        "shorten_title": "Shorten title",
+        "shorten_title": "Kısaltılmış başlık",
         "exceeds_maximum_length": "Maksimum uzunluğu aşıyor (%(maxKb)sKB)",
         "including_the_category": " ('%(rootCategory)s' kategorisi de dahil)",
         "use_limited_amount_of_tags": "You have %(tagsLength)s tags total%(includingCategory)s. Please use only 5 in your post and category line.",

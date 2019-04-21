@@ -397,15 +397,15 @@
         "changing_to_an_upvote": "Oylayarak aşağıya doğru değiştir",
         "changing_to_a_downvote": "Oylayarak yukarıya doğru değiştir",
         "confirm_flag": "Bayrağı Onayla",
-        "and_more": "and %(count)s more",
+        "and_more": "%(count)s ve daha fazla",
         "votes_plural": {
-            "one": "%(count)s vote",
-            "other": "%(count)s votes"
+            "one": "%(count)s oy",
+            "other": "%(count)s oy"
         }
     },
     "witnesses_jsx": {
-        "witness_thread": "witness thread",
-        "top_witnesses": "Witness Voting",
+        "witness_thread": "tanık iş parçacığı",
+        "top_witnesses": "Tanık Oylaması",
         "you_have_votes_remaining": {
             "zero": "Hiç oy hakkınız kalmadı",
             "one": "1 oy hakkınız kaldı",
@@ -413,7 +413,7 @@
         },
         "you_can_vote_for_maximum_of_witnesses": "En fazla 30 tanık için oy kullanabilirsiniz",
         "witness": "Tanık",
-        "information": "Information",
+        "information": "Bilgi",
         "if_you_want_to_vote_outside_of_top_enter_account_name": "İlk 50'nin dışındaki bir tanığa oy vermek isterseniz, oy vermek için aşağıdaki hesap adını girmelisiniz",
         "set_witness_proxy": "Ayrıca tanıklara oy verecek bir proxy de seçebilirsiniz. Bu, mevcut tanık seçiminizi sıfırlar.",
         "witness_set": "Bir oylama proxy'si ayarladınız. Eğer manuel oylamayı yeniden açmak isterseniz, lütfen proxy'nizi temizleyiniz.",
@@ -436,14 +436,14 @@
         }
     },
     "userkeys_jsx": {
-        "public": "Public",
+        "public": "Herkese Açık",
         "private": "Özel",
         "public_something_key": "Genel %(key)s Anahtarı",
         "private_something_key": "Özel %(key)s Anahtarı",
-        "posting_key_is_required_it_should_be_different": "The posting key is used for posting and voting. It should be different from the active and owner keys.",
+        "posting_key_is_required_it_should_be_different": "Paylaşım anahtarı paylaşım ve oylama için kullanılır. Bu anahtarın aktif anahtar ve kullanıcı anahtarından farklı olması gerekir.",
         "the_active_key_is_used_to_make_transfers_and_place_orders": "Aktif anahtar, iç piyasaya transfer yapmak ve sipariş vermek için kullanılır.",
-        "the_owner_key_is_required_to_change_other_keys": "The owner key is the master key for the account and is required to change the other keys.",
-        "the_private_key_or_password_should_be_kept_offline": "The private key or password for the owner key should be kept offline as much as possible.",
+        "the_owner_key_is_required_to_change_other_keys": "Sahip anahtarı, hesabın ana anahtarıdır ve diğer anahtarları değiştirmek için gereklidir.",
+        "the_private_key_or_password_should_be_kept_offline": "Sahip anahtarın özel anahtarı veya şifresi mümkün olduğunca çevrimdışı tutulmalıdır.",
         "the_memo_key_is_used_to_create_and_read_memos": "Not anahtarı, not oluşturmak ve okumak için kullanılır."
     },
     "suggestpassword_jsx": {
@@ -463,12 +463,12 @@
         "influence_token": "Size gönderi ödemeleri üzeinde daha fazla kontrol veren ve kürasyon ödülü almanıza olanak sağlayan etkinlik tokenlarıdır.",
         "estimated_value": "Tahmini değer, ortalama %(LIQUID_TOKEN)s ABD doları değerine dayanmaktadır.",
         "non_transferable": "%(VESTING_TOKEN)s devredilemez ve %(LIQUID_TOKEN)s değerine geri dönmek için 3 ay (13 ödeme) gerekir.",
-        "converted_VESTING_TOKEN_can_be_sent_to_yourself_but_can_not_transfer_again": "Converted %(VESTING_TOKEN)s can be sent to yourself or someone else but can not transfer again without converting back to %(LIQUID_TOKEN)s.",
+        "converted_VESTING_TOKEN_can_be_sent_to_yourself_but_can_not_transfer_again": "Dönüştürülen %(VESTING_TOKEN)s kendinize veya başkasına gönderilebilir, ancak %(LIQUID_TOKEN)s biçimine geri dönmeden tekrar aktarılamaz.",
         "part_of_your_steem_power_is_currently_delegated": "%(user_name)s'nın STEEM POWER'ının bir kısmı şu anda yetki verilmiş durumda. Yetkilendirme veya yeni kullanıcıların hızlı bir şekilde eylem yapmalarına yardımcı olmak için delegasyon bağışlanmıştır. Delegasyon miktarınız değişebilir."
     },
     "promote_post_jsx": {
         "promote_post": "Gönderiyi Öne Çıkar",
-        "spend_your_DEBT_TOKEN_to_advertise_this_post": "Spend your %(DEBT_TOKEN)s's to advertise this post in the promoted content section",
+        "spend_your_DEBT_TOKEN_to_advertise_this_post": "Bu gönderiyi tanıtılan içerik bölümünde tanıtmak için %(DEBT_TOKEN)s'lerinizi harcayın",
         "you_successfully_promoted_this_post": "Bu gönderiyi başarıyla öne çıkardınız",
         "this_post_was_hidden_due_to_low_ratings": "Bu gönderi, düşük değerlendirme puanından dolayı gizlendi"
     },
